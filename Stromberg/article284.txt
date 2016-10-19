@@ -1,0 +1,46 @@
+How tiny electrodes in the brain could treat Parkinson's, OCD, and even depression
+Right now, about 100,000 people worldwide are walking around with small electrodes surgically implanted in their skulls, programmed to rhythmically emit tiny jolts of electricity more than 100 times per second, 24 hours a day.
+Since 2002, these brain pacemakers — part of a therapy called deep brain stimulation (DBS) — have been widely used to treat the tremors associated with Parkinson's disease in some patients. But recently, doctors have made promising findings about the electrodes' ability to treat obsessive compulsive disorder, Tourette syndrome, depression, epilepsy, Alzheimer's, and other disorders.
+doctors don't know exactly how deep brain stimulation works
+The most remarkable aspect of all this? "We don't know exactly how the therapy works," says Kelly Mills, a Johns Hopkins doctor who uses deep brain stimulation to treat Parkinson's patients. On a very basic level, DBS works by stimulating or inhibiting the electrical signals sent from one area of the brain to another, but scientists are still trying to understand it in more detail.
+Still, in many cases, DBS is quite effective at treating many neurological symptoms through trial-and-error alone. Edi Guyton, who received an implant as part of a study of DBS' effectiveness in treating clinical depression, says that immediately after doctors located the correct part of her brain during surgery and turned on the electrodes, "I felt a lot better, in an instant. I felt like smiling — and I literally hadn't smiled or laughed for years before that."
+ 
+
+
+
+
+
+
+(BSIP/UIG Via Getty Images)
+The idea of treating neurological symptoms by inhibiting activity in certain parts of the brain has been around for a long time. "In the late 19th century, in trying to treat tremors, doctors would sometimes cut off a portion of the surface of the brain," Mills says.
+This sometimes worked, but often caused even worse side-effects: patients might lose the ability to carry out normal movements. As doctors' understanding of the brain's anatomy improved, they learned that creating lesions in certain areas of the deep brain (rather than the surface cortex) was more effective. By the 1940s, they were doing this with increasing precision to treat Parkinson's-associated tremors.
+there's a downside to burning a lesion in someone's brain
+When medicines that treated these tremors were introduced in the 1960s, the surgery went out of vogue. But as side-effects of these medicines became more apparent, creating lesions became popular once again in the 1980s. Using metal frames that would sit on  patients' heads and probes that burned small holes, surgeons could target areas with increasing precision.
+There was still, however, an obvious downside to burning a lesion in someone's brain: the lesions couldn't be unburned. If the treatment didn't work, the patient was left with a small missing chunk of brain.
+Then, in 1987, French doctor Alim-Louis Benabid discovered that electrical stimulation could be used do achieve the same effect. "With an electrode, you can tailor the therapy to the brain and the symptoms, even after the surgery has taken place," Mills says.
+ 
+
+
+
+
+
+
+A doctor implants an electrode. (Craig F. Walker/The Denver Post via Getty Images)
+DBS is now a commonly used elective treatment for people with tremors and other movement problems that aren't effectively addressed by medication. Over time, doctors have identified regions to be targeted to treat various symptoms: Parkinson's-related tremors can be treated by stimulating the subthalamic nucleus, and epilepsy can sometimes be treated via the anterion thalamic nucleus.
+Using a metal frame surrounding the patient's head and 3D images of his or her brain, doctors drill a dime-sized hole into a targeted region. In some cases, the patient is awake as the electrodes are inserted, and his or her feedback helps doctors figure out the correct probe placement (in other words, the electrodes are turned on, and patient will report whether the symptoms are better or worse). In other cases, the patient is sedated, and MRI images are used as a guide.
+
+In subsequent surgeries, batteries are inserted into the patient's chest, with connecting wires running down the neck, underneath the skin. Finally, after everything is healed, the patient will go in to have the device programmed. (Image at right via NIH.)
+During programming, says Andre Machado, a neurosurgeon who uses DBS at the Cleveland Clinic, "a physician selects the frequency and amplitude for the pulses of electricity delivered by the device." With these two variables, thousands of different permutations can be tried out over the course of a few different programming sessions, with doctors looking for the combination that treats the symptoms while causing minimal side effects.
+Because scientists still don't fully understand how various brain networks interact, it's not fully known how DBS works. "We think it may help to break up excessive communication between various brain regions," Mills says. In some cases, it might do this by stimulating nerve activity, and in others, it might inhibit excessive nerve firing. (One example of how poorly understood DBS still is: doctors have no idea why one patient, who received DBS to treat OCD, became deeply obsessed with Johnny Cash afterward.)
+ 
+
+
+
+
+
+
+A patient, during surgery. (BSIP/UIG Via Getty Images)
+The work is still confined to experimental trials, but researchers are hopeful that DBS could be effective in treating all sorts of things beyond tremors.
+Machado is studying whether, in combination with physical therapy, it could help stroke patients regain movement. Others are considering it as a tool for treating chronic pain and epilepsy.
+But one of the most fascinating possibilities is, as Mills puts it, how DBS is "expanding outside of neurology, into psychiatry." In trials, doctors are using DBS to treat disorders like schizophrenia, Alzheimer's, obsessive compulsive disorder, and addiction. At Johns Hopkins, doctors are researching whether it could be an effective treatment for Tourrette syndrome.
+Edi Guyton, who suffers from depression, says the improvements she's experienced due to DBS are unmistakable. Though she still relies on anti-depressant medication as well, DBS has given her stability she hadn't experienced for years. "The main effect for me is that I've never been suicidal since the surgery. That change is major," she says. "I'm not cured, but I'm stable."

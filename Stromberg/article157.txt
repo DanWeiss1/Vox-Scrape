@@ -1,0 +1,63 @@
+How Inge Lehmann used earthquakes to discover the Earth’s inner core
+ 
+
+
+
+
+
+
+Inge Lehmann, shown in 1932. (Image courtesy The Royal Library, National Library of Denmark, and University of Copenhagen University Library)
+In the 1930s, seismologists faced a big mystery about the inner structure of the Earth. Today, on what would have been Danish seismologist Inge Lehmann's 127th birthday, it's a good time to appreciate how — using limited data and rudimentary technology — she brilliantly arrived at the answer.
+At the time, scientists believed the Earth's core was made of molten rock, surrounded by a solid mantle, then the crust. This model explained why when big earthquakes occurred, certain types of seismic waves weren't detected in particular places on the other side of the world: the waves were bent when they traveled through liquid materials. As the core bent them, it created a "shadow zone" where no waves could be felt.
+
+But after a 1929 earthquake near New Zealand, Lehmann and others noticed something odd:  some of these waves could be faintly detected by seismometers in Europe. If the core were entirely molten, this shouldn't have been possible.
+While studying this data, Lehmann came to a realization that would revolutionize our understanding of the Earth. At the core's center, she figured out, is a ball of solid material.
+ 
+
+
+
+
+
+
+(Nuclear Planet)
+Lehmann grew up in Denmark in the early 1900s — a time when women were almost entirely excluded from the sciences. But she went to the country's first co-ed high school, which had an unusually progressive philosophy for the era. "No difference between the intellect of boys and girls was recognized," Lehmann later wrote, "a fact that brought some disappointment later in life when I had to recognize that this was not the general attitude."
+There, she became fascinated by math, and earned an undergraduate degree in the topic at the University of Copenhagen in 1910. After several years working in the insurance industry and a return to the University of Copenhagen for a master's in math, in 1925, she finally got her first taste of the field where she'd make her mark: seismology.
+That year, Lehmann was appointed to be an assistant to Niels Erik Nørlund, a mathematician who'd just been named director of the new Royal Danish Geodetic Institute. Though it wasn't part of her job description, Lehmann traveled to Greenland and elsewhere to oversee the installation of new seismometers and collect data. Simultaneously, she taught herself seismology, eventually writing a thesis in the topic and earning another graduate degree.
+Afterward, in 1928, she became chief of the institute's seismological department — and began working on a subtle mystery that most seismologists had overlooked.
+When an earthquake occurs, it unleashes two main types of seismic waves: P-waves, which arrive first (and involve a wave of compression rolling through the ground), followed by S-waves (in which the ground shakes back and forth).
+ 
+
+
+
+
+
+
+(USGS)
+In the late 19th century, seismologists figured out that it was possible to use these waves much like an X-ray, peering into the Earth's innards in a way that's still not possible with probes. In 1914, German-American seismologist Beno Gutenberg used this method to discover that about 1,800 miles below the Earth's surface, the solid mantle gives way to a semi-liquid core.
+He figured this out by studying data collected by early seismometers placed around the world, which showed that S-waves were only detected up to a distance of about 104°. Meanwhile, P-waves also abruptly stopped at 104°, but then started back up again at about 140°, leaving a so-called "shadow zone" with no waves at all in between.
+ 
+
+
+
+
+
+
+(Bakersfield College)
+Gutenberg correctly reasoned that all this was due to the existence of a molten, semi-liquid core. S-waves can't travel through liquids at all, which is why they're not seen past 104°. P-waves are bent slightly when they move through liquids, so the molten core was effectively focusing them, like a lens — causing more waves to appear past 140°, but none to appear between 104° and 140°.
+But there was a problem with the model: some faint P-waves were indeed detected between 104° and 140°. For years, seismologists mostly assumed they were the result of faulty seismometers.
+Lehmann, however, was mystified by them — especially after a 1929 earthquake that occurred in New Zealand and sent very distinct P-waves to the improved network of seismometers she'd helped install in Europe.
+Over the next few years, she closely analyzed this and other data sets. In the pre-digital age, her cousin later recalled, Lehmann would record the data on pieces of cardboard torn from boxes of oatmeal, and sometimes sat surrounded by them in her garden, puzzling over the numbers. Eventually, she had an idea: a solid inner core inside the soft, molten outer core, which would reflect some P-waves, causing them to end up in the shadow zone.
+Her subsequent calculations, published in a 1936 paper simply titled "P" (as P-waves were then called), confirmed that the idea. "I then placed a smaller core inside the first core and let the velocity in it be larger so that a reflection would occur when the rays through the larger core met it," she wrote, years later. "The existence of a small solid core in the innermost part of the earth was seen to result in waves emerging at distances where it had not been possible to predict their presence."
+ 
+
+
+
+
+
+
+An illustration from Lehmann's 1936 paper. (Inge Lehmann)
+The simple, elegant solution was correct — and it was quickly adopted by other seismologists over the next few years. Other data, collected in the decades since, has confirmed Lehmann's hypotheses, and told us more about the size and composition of the inner core.
+The discovery of the inner core was Lehmann's biggest scientific achievement, but it certainly wasn't her only one. She remained active in seismological research through her 70s, and became one of the world's experts on the composition of the upper mantle.
+In her later years, she used seismological data on underground nuclear explosions to discover another, subtler discontinuity in the upper mantle, at roughly 136 miles below the surface. Scientists still don't fully understand this boundary, now called the Lehmann discontinuity.
+Eventually, in 1971, Lehmann was awarded the William Bowie Medal, the highest award in geophysics. At the award ceremony, she was introduced as "the master of a black art for which no amount of computerizing is likely to be a complete substitute" — a fitting tribute for a scientist who once discovered an inner core 3,200 miles beneath her feet using data scrawled on pieces of oatmeal boxes.
+WATCH: What a 6-magnitude earth quake does

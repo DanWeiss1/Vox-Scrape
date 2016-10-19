@@ -1,0 +1,16 @@
+This home science experiment lets you trap a particle in a beam of light
+If you have a Sharpie and a laser pointer, you can conduct a pretty cool home science experiment — trapping a tiny particle of marker in a beam of light.
+Engineer Joseph Colosimo made the fascinating video above, and describes the experiment in more detail on his blog. To do it yourself, you need to point a laser at the tip of the marker, in order to burn it slightly.
+Try it enough times, and a small piece of the marker will flake off and become trapped in the laser beam itself. Colosimo demonstrates that it's not merely wafting smoke, but a particle of marker, by moving the beam around — and showing that the tiny chunk of marker follows the beam.
+ 
+
+
+
+
+
+
+(Joseph Colosimo)
+It's pretty fascinating to watch. But the principle behind it is even cooler. This works because light particles (that is, photons) exert very tiny amounts of force on objects they hit. Normally, we don't really notice it because the level is so slight, but the focused beam of a laser imparts enough force to keep a very small particle of marker felt aloft. This same principle is what allows sunlight to push solar sails through space.
+In this experiment, the photons trap the marker piece at the center of the laser beam by pushing equally on it from all sides. Colosimo points out that the same principle is used in optical tweezers — instruments used by scientists in a number of fields to trap particles, strands of DNA, or even individual atoms.
+
+Thanks to Kyle Hill for pointing out this cool experiment.

@@ -1,0 +1,43 @@
+SpaceX failed to land a rocket on a barge — but they're getting closer
+SpaceX succeeded on Tuesday in launching a Falcon 9 rocket to carry supplies up to the International Space Station — and though the company's second attempt to land the used-up rocket stage on a floating barge was a failure, they're definitely getting closer:
+
+
+
+The rocket landed vertically and on target, but lateral motion caused it to tip over at the last second. Compare that to the last attempt, in January, when the rocket became destabilized and exploded as it hit the barge because of a shortage of hydraulic fluid:
+
+The fact that the rocket was on target and landed vertically Tuesday was a sign of progress — and could lead to something big.
+Normally, rockets are simply allowed to break up into pieces or sink into the ocean after each use. But controlled landings could allow SpaceX to reuse rocket stages on future flights — and reusing these multimillion-dollar pieces of equipment, rather than throwing them out after every launch, could dramatically drive down the cost of space travel.
+ 
+
+
+
+
+
+SpaceX
+
+
+
+(SpaceX)
+The company launched a Falcon 9 rocket in order to send a Dragon capsule, packed with 4,300 pounds of supplies (including materials for 40 different scientific experiments and an espresso machine for the astronauts), up to the space station — the sixth of 12 resupply missions SpaceX is carrying out for NASA. The capsule will arrive there on Thursday, and return with waste and other cargo in about five weeks. Here's video of the launch:
+
+The Falcon 9 is made up of two parts: a 138-foot-tall first stage, which burns for the first few minutes of flight, lifting the craft up to an altitude of about 50 miles before separating and falling back to Earth; and a smaller, 49-foot-tall second stage, which burns for another six minutes, carrying the Dragon into orbit before disconnecting and falling back down to Earth, as well.
+Normally, both of these stages — as well as the stages that make up other rockets in general — break up into pieces as they plummet downward, eventually sinking into the ocean and becoming unusable. But on Tuesday, as the first stage fell back to Earth, SpaceX fired its engines in order to stabilize and guide it in for a controlled landing.
+The plan was to land it on an autonomous uncrewed barge, which was stationed east of Cape Canaveral. As the rocket descended, steerable fins affixed to its outside helped guide it and slow it down. As it neared the barge, a set of legs unfolded from the bottom of the rocket — which should have allowed it to land gently on them upright.
+ 
+
+
+
+
+
+
+A rendering of the SpaceX rocket's first stage landing on the barge. (Jon Ross)
+Apparently, though, excess lateral movement caused the rocket to tip over at the last second. But something to keep in mind here is that this is an extremely difficult, unprecedented maneuver. The rocket is primarily designed to launch a spacecraft into orbit — which means that it's very tricky to decelerate and steer on the way down.
+
+
+
+One of the factors that make space travel so expensive is the fact that most of the equipment used to put cargo or people in orbit is destroyed after each use. SpaceX CEO Elon Musk has famously likened this to throwing away a brand new 747 after a single flight to London.
+From the beginning, his company has sought to make spaceflight possible with reusable components. Initially, SpaceX tried to use parachutes to slow down rocket stages as they descended, but they broke apart due to stress and heat, so the company switched to the current powered landing approach in 2011.
+building a new falcon 9 costs $54 million
+If SpaceX can eventually pull off this sort of landing (perhaps during its next launch on June 19), the Falcon 9 first stage could be refurbished and used for a future flight. This could reduce the cost of spaceflight in a huge way.
+While some experts say the potential cost savings of reusing rockets is overstated, SpaceX has publicly said that building a new Falcon 9 rocket costs $54 million but using it to put a payload into orbit costs only about $200,000 worth of fuel.
+Figuring out a way to reuse the rocket could make all sorts of missions — commercial satellite launches, collaborations with NASA, and perhaps even space tourism — cheaper by orders of magnitude, opening up all sorts of new possibilities in spaceflight.

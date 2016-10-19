@@ -1,0 +1,44 @@
+Why rolling down your cars' windows is more fuel efficient than using AC
+If you're embarking on a road trip this holiday weekend, you might end up getting into a decades-old, surprisingly contentious argument: whether it's more fuel efficient to use air conditioning or to roll down the windows.
+This seems like it'd be a simple question to answer. It's not.
+It's raged for years, and there are advantages (and disadvantages) to each. Running the air conditioning uses fuel, but by the keeping windows up, your car's air resistance is minimized. Using open windows to cool the car instead of AC reverses this equation.
+
+Conventional wisdom holds that open windows are better at slow speeds, and air conditioning is better when you're flying down the highway.
+But the surprising thing is that actual tests of the idea have arrived at a different result. Good real-world data is frustratingly limited, but the few tests that have been conducted say if you can deal with the sound, it's slightly more efficient at any speed to roll down the windows, even on the highway.
+Now, there are definitely some caveats with the studies out there. The main one used big, boxy cars (which cause plenty of air resistance whether the windows are open or not). Others don't provide a ton of details about their testing or data.
+But if you're bent on saving gas at any cost, there just isn't any evidence out there that using AC is ever more efficient. Rolling down your windows seems to be a better bet. 
+ 
+Ernst Haas/Getty Images
+To figure out which is better, you need to weigh the cost of using air conditioning (in terms of increased gas consumption) against the degree to which open windows increase air resistance.
+A car's AC relies on a compressor, which ultimately draws power from the engine
+A car's air conditioner relies on a compressor, which ultimately draws power from its engine, so running the AC reduces the number of miles a car can travel on a given amount of gas. The amount varies widely based on the model of car — and based on its speed and outside air temperature — but having AC on at a medium level generally reduces fuel efficiency by somewhere between 3 and 10 percent.
+On the other hand, having the windows open increases air resistance (or, in physics terms, drag). That's because open windows make a vehicle less aerodynamic, so it needs to use more energy to push air out of the way as it cruises down the road. This effect also varies with speed: drag increases as a square of velocity, so going a little faster can make open windows dramatically increase air resistance.
+
+A side benefit of open windows is freedom for dogs. John Tlumacki/The Boston Globe via Getty Images
+These principles would suggest that at low speeds — where aerodynamics don't really matter — open windows would be better. At high speeds, where air resistance increases dramatically, AC would be better. This is what most accounts of the debate advise, anyway.
+Except that's not what real-world testing on this topic has found.
+using ac consumed more fuel at the entire range od speeds tested: 30 to 68 mph
+In 2004, the Society of Automobile Engineers tested a full-size V8 sedan and SUV on a desert track and in a wind tunnel, with outside air temperatures around 86°F.
+With these large, boxy cars, at least, using AC consumed more fuel at the entire range of speeds tested: 50 to 110 kilometers per hour (about 30 to 68 miles per hour).
+Here's their data — the first graph is for the sedan and the second's for the SUV. Keep in mind that the y-axis is gallons per mile (not miles per gallon), so higher numbers mean less efficiency. Also keep in mind that the axis (unhelpfully) isn't labeled, and probably doesn't go all the way down to zero — so the efficiency differences between conditions are smaller than they might seem.
+
+Society of Automotive Engineers
+ Society of Automotive Engineers
+Still, for both vehicles, having the AC on (blue lines) was consumed more gas than having the windows down (green lines) at all speeds tested.
+The difference was very small for the sedan, and the gap did close even further at high speeds, but it didn't disappear. For the SUV, the difference was much bigger, and actually increased at high speeds.
+There are some limitations with this study. These large cars are probably less aerodynamic to start with, so opening the windows might have a smaller effect on them than, say, a Prius.
+these large cars are probably less aerodynamic to start with
+Additionally, on most highways, drivers end up going faster than 68 miles per hour. It's possible that for the sedan, the gap between the green and blue lines might have closed as it surpassed 70 miles per hour.
+All other tests on this topic are frustratingly unscientific. But the best (*relative term here) data happens to agree with these findings, even for higher speeds. 
+That data comes out of a 2008 experiment by Car and Driver magazine, in which their staff drove an unspecified sedan around for an unknown distance. Whether they went 35, 55, or 75 miles per hour, running the AC reduced fuel economy more than opening the windows.
+Edmunds.com has also conducted tests, and found there was "no measurable difference" between using AC or rolling down the windows, but they don't provide any data or enough details to make an analysis possible.
+Mythbusters tested this too — finding that rolling down the windows was more efficient at 45 miles per hour — but they weirdly changed speeds halfway through the tests, and messed with other variables, making analysis pretty difficult here too.
+Bottom line: it's not a closed case, but all evidence we have shows that rolling the windows down is slightly more gas efficient than using the AC at any speed.
+ 
+Justin Sullivan/Getty Images
+If you're driving around on the highway at 75 miles per hour with the windows open, you're clearly willing to sacrifice a lot of comfort for slightly improved gas efficiency.
+There's nothing wrong with this. Indeed, given the imminent disaster that is global warming, you have your priorities right. But if gas milage is that important to you, you should really take it a step further and just drive with the windows up and the AC off.
+some of the best hypermilers wear ice vests to stay cool
+Both logic and testing indicate that this is the most gas efficient option. Indeed, some hypermilers — people who go to extreme lengths, like avoiding braking and drafting behind trucks, to maximize efficiency — advocate this technique.
+Some of the best hypermilers wear ice vests to stay cool without windows or AC. They're not cheap, but you can get a good ice vest for a few hundred dollars, and it'll pay for itself over the course of a few years of saving gas.
+Instead of draining your fuel efficiency, its cooling power is drawn from the freezer you already have running in your house. So if minimizing gas use is your thing, forget about this silly debate, and slip on a vest filled with little ice packs that normal people use to keep food cool at a picnic.

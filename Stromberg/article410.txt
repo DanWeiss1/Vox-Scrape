@@ -1,0 +1,48 @@
+India's mission to Mars cost less than the movie Gravity
+Late Tuesday night, India's Mars Orbiter Mission successfully went into orbit around Mars, after a ten-month, 420 million-mile journey.
+The craft (also known as Mangalyaan, Hindi for "Mars Craft") won't conduct any groundbreaking science — it's primarily a demonstration vehicle. But it is a huge deal for India's emerging space program.
+Consider this: only the US, Russia, and the European Union have had successful Mars missions so far. What's more, more than half of all previously attempted missions have failed — including the first attempts made by the US, Russia, and China.
+ 
+
+
+
+
+
+
+The craft is launched on November 5, 2013. (Nathan G./Hindustan Times via Getty Images)
+Perhaps the most remarkable thing about the craft's success is that it was made entirely with homegrown Indian technologies — and was produced on a remarkably small budget.
+The entire mission cost $74 million. As Narenda Modi pointed out during a June visit to an Indian rocket facility, that's less than it cost to make the movie Gravity (the film's budget was about $100 million). 
+It is, by far, the cheapest successful interplanetary mission ever carried out. Here's a comparison to the most recent Mars orbiters launched by NASA (MAVEN), the European Space Agency (Mars Express), Japan (Nozomi), and Russia (Phobos-Grunt). The latter two missions failed to reach Mars.
+
+Keeping the costs of space exploration as low as possible is especially important for a country like India — critics point out that the country might be better served spending that money on public health or poverty reduction, as a fifth of its population still lives below the poverty line.
+But the Indian Space Research Organization (ISRO) minimized expenses in a number of ways. It was able to use relatively small rockets because the scientific payload is extremely light (about 33 pounds, compared to MAVEN's 143 pounds), and relied heavily on proven, established launch technologies it's previously used to launch satellites. 
+Additionally, the entire mission was carried out in an extremely short time — about a year from approval to launch. Perhaps most importantly, salaries of engineers and other specialists are simply lower in India — the ISRO's total budget is $1.2 billion per year, compared to $17.5 billion for NASA.
+Mangalyaan's low cost is especially remarkable when you consider that successfully reaching Mars is still a difficult feat.
+There have been 51 attempts to send spacecrafts to Mars (either flyby missions, orbiters like Mangalyaan, or landers) and just 21 have been fully successful. Though failures occurred most often in the early days of space exploration — and the majority of missions since NASA's 1975 Viking 1 orbiter have been successful — it's still not easy.
+the only group to succeed in its first mars mission was the european space agency
+In 2011, both Russia's Phobos-Grunt craft (which would have collected rock samples from Mars' moon Phobos) and China's Yinghuo-1 Mars orbiter, launched together on a Russian rocket, failed to leave Earth's orbit. In 1999, NASA's Mars Climate Orbiter famously burned up in Mars' atmosphere due to a mixup between standard and metric units. Japan's first and only Mars attempt, the 1998 Nozomi orbiter, was unable to reach its intended orbit due to electrical problems.
+In fact, India's 2012 decision to approve this mission is believed to be partly in response to China's 2011 failure. The unsuccessful Yinghuo-1 mission opened up a window for India to become the first Asian country to reach Mars, beating its rival in a budding Asian space race.
+With the success, India joined another exclusive group. Previously, the the only space agency to actually succeed in its first Mars mission was the European Space Agency.
+The spacecraft itself, launched November 5, 2013, had to go through a few different maneuvers before entering Mars' orbit. Initially, it was put into increasingly elliptical orbits around Earth, so that it could eventually be transferred into an orbit of the sun using minimal amounts of energy.
+ 
+
+
+
+
+
+
+(ISRO)
+After traveling around the sun for nine months and coming into the proximity of Mars, onboard thrusters fired on September 14 to push it towards Mars' orbit itself. Finally, Tuesday evening, it entered a elliptical orbit around Mars.
+The craft is mainly a demonstration of the fact that India has the technology to reach Mars. But it will conduct some science during its planned six months in orbit.
+In addition to cameras that will photograph Mars' surface, it's equipped with a few different instruments that will analyze the planet's atmosphere, looking for methane in particular. Scientists believe that, if methane is present, it could be a sign of microbial life. Some previous crafts have detected traces of methane, but the Curiosity rover has failed to find any.
+ 
+
+
+
+
+
+
+A diagram of the craft. E is the location of the camera, and F and G are the atmospheric sensing instruments (Roland Zh)
+The low cost of this mission led to a number of constraints. The rocket used can only lift so much weight into Earth's orbit, capping the amount of scientific instruments that could be included on board. This is also the reason for the craft's highly elliptical orbit — such an orbit requires less fuel, further cutting down on launch weight.
+But the ISRO does have another, newer group of rockets capable of heavier launches. Many Indian scientists hope the true value of this craft will be the way it could spur ISRO to attempt future, more science-heavy missions to Mars.
+Further reading: Fast Company has a fun list of other things that cost more than this misison. Among them: the daily cost of the 2013 federal shutdown, the cost of a mansion in Beverly Hills, and Apple's reported marketing budget for the U2 album it gave away to every iTunes customer.

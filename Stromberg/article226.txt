@@ -1,0 +1,19 @@
+NFL player John Urschel just published a paper in the Journal of Computational Mathematics
+Baltimore Ravens offensive lineman John Urschel has an unusual hobby during the offseason: he's a mathematician.
+Last week, Urschel got his latest paper, "A Cascadic Multigrid Algorithm for Computing the Fiedler Vector of Graph Laplacians," published in the Journal of Computational Mathematics, as Bloomberg Businessweek notes.
+This isn't some cute publicity stunt: Urschel got both a bachelor's and a master's degree in math from Penn State before being drafted into the NFL in 2014, and has published two previous papers in math journals, as well as another paper on the dynamics of asteroid orbits around the sun. Urschel's Twitter handle, appropriately enough, is @MathMeetsFball.
+"I am a mathematical researcher in my spare time, continuing to do research in the areas of numerical linear algebra, multigrid methods, spectral graph theory and machine learning," he recently wrote in the Player's Tribune.
+ 
+
+
+
+
+
+
+Urschel, at Penn State. (Justin K. Aller/Getty Images)
+That quote comes from the heartfelt, honest essay "Why I Still Play Football" Urschel published last week. Frequently asked why he plays the game despite the risk of head injury, he responds:
+I play because I love the game. I love hitting people. There’s a rush you get when you go out on the field, lay everything on the line and physically dominate the player across from you. This is a feeling I’m (for lack of a better word) addicted to, and I’m hard-pressed to find anywhere else.
+When Urschel was considering colleges, his mother urged him toward an Ivy League school, but he chose Big Ten power Penn State because of his love of football. He eventually became a team captain and won the Campbell Trophy — often called the "academic Heisman" — annually given to a football player who both has an outstanding academic record (Urschel had a 4.0) and dominates on the field.
+Last spring, Urschel was drafted in the fifth round by the Baltimore Ravens and started three games as a rookie, getting positive grades for his performance.
+But he's stayed busy during the offseason. Among other things, he's a competitive chess player (he competed in his first tournament, the Pittsburgh Open Chess Grand Prix, earlier this month). He's also a budding data journalist, having published a detailed quantitative analysis of college football players' majors for the Player's Tribune in December.
+John Urschel, want to come write for Vox?

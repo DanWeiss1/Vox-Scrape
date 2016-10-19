@@ -1,0 +1,27 @@
+How and why bicycle deaths happen in the US
+A new report details the where, how, and why of the hundreds of bicycle deaths that occur across the United States.
+While the government's National Highway Traffic Safety Administration collects annual data, it's not very detailed — it details the number of cyclist fatalities over time, but not a whole lot else.
+In response, the League of American Bicyclists has spent the past few years creating its own data set, manually collecting details about the circumstances of each death from newspaper and TV reports. Their data isn't as comprehensive as the governments' (for 2012, they catalogued 552 deaths, about 76 percent of the government's total of 726) —but it's much more detailed.
+Here are a few of the trends they found among the 628 fatalities catalogued between February 2011 and February 2013:
+
+There wasn't a specific type of collision reported for every fatality in the database, but there was for most of them — and it's striking how many were caused by a rear-end collision.
+what makes this notable is rear endings are a small percentage of total collisions
+For many accidents, it can be tricky to assign blame on either drivers or bikers. In most rear-end accidents, though, legal liability lies with the driver.
+What makes this especially notable is that rear-endings don't constitute a very large percentage of bicycle collisions. But as this data makes clear, they can be the most dangerous ones, especially when cars are moving at high speeds and drivers don't see cyclists.
+For cyclists, bicyclesafe.com has an excellent and detailed guide at avoiding getting rear ended (along with minimizing the chance of all sorts of collisions).
+
+
+The database also catalogued any secondary factors that also played a role in the fatalities, as described in the newspaper articles. Most of the deaths didn't involve these sorts of factors — but for those that did, driver errors weighed heavily.
+unsafe driving seems to lead to way more deaths than unsafe biking
+It's certainly possible that a bicycling organization might show some bias in interpreting newspaper articles (their standard for careless driving was "drivers were reported to be operating their vehicle in a careless or inattentive manner"), but the discrepancy is still pretty striking. Unsafe driving seemed to lead to way more deaths than unsafe biking.
+Relatedly, the dataset also included some information on the use of helmets — a contentious issue, since some (myself included) argue that the potential safety benefits of helmets have been overstated. For most fatalities, there was no reporting on whether the bicyclist had been wearing a helmet, but for those that did, here's the split:
+
+With just this raw data, there's not really anything we can say about the effectiveness of helmets — we'd need to know the overall percentage of cyclists that use helmets, along with confounding factors (such as helmet-users taking safer routes, or things like that).
+But one thing to note is that this rate of helmet use among bicyclists who were killed is way higher than the government data indicates: for 2012, it was just 17 percent. The government data has previously been criticized for deeply underreporting helmet use among fatalities.
+
+The dataset also looked at where fatalities occurred — whether in rural or urban settings (suburbs were generally put into the latter category), and whether on arterial, collector, or local roads.
+to prevent bike fatalities, we need to begin collecting much better data
+The number of deaths in the urban-arterial category is pretty striking, although it should be cautioned that these are raw numbers, not rates of fatalities per cyclist. We can't calculate the rate, because we don't know the total number of miles biked in rural areas versus urban ones.
+So what's the League of American Bicyclists' takeaway from all this data? 
+That in order to prevent bicycle fatalities, we need to begin collecting much better systematic data on them. A few states collect the type of data on bicycling accidents and fatalities that is collected for auto accidents nationwide, but they're a distinct minority.
+Further reading:

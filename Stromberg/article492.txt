@@ -1,0 +1,16 @@
+What's the fastest way to get somewhere in your city? These maps tell you
+If you live in a city and sometimes find yourself wondering about the fastest way to get somewhere — by bike, on foot, in a car, or using public transportation — you're in luck.
+A new set of interactive maps by You Are Here, a mapping project by the MIT Media Lab, lets you click on any particular spot in your city and shows you the fastest way to get anywhere else. Depending on your starting point, parts of the maps turn green (to show where walking would be fastest), yellow (for biking), blue (for transit), and red (for driving). Driving times include how long it'll generally take to find parking in each area.
+Manhattan
+From midtown Manhattan, 49.7 percent of the city is reached fastest by bike, 33.8 percent by public transit, and 16.2 percent by car. You Are Here project.
+So far, using data from Google Maps, the project has created these maps for Manhattan, Brooklyn, DC, Philadelphia, Cambridge, Salt Lake City, Boulder, San Francisco, Portland, and Santa Monica.
+Washington, DC
+From Dupont Circle in Washington, DC, 43.7 percent of the city is reached fastest by car, 36.9 percent by bike, and 19.2 by public transit. You Are Here project.
+Looking at the maps can reveal interesting patterns in a city's design and infrastructure. There's a ton of variation by city, but by and large, the maps show show how seldom public transit is the fastest way of getting somewhere — and how often biking is. With the exception of Manhattan, most places in most of the cities are reached fastest by bike or car.
+San Francisco
+
+From San Francisco's Mission District, 70 percent of the city is reached fastest by driving, and 29.6 percent by bike. You Are Here project.
+Click through and play around with the full set of maps to explore transportation in your city.
+Philadelphia
+
+From Philadelphia's Center City, 67.5 percent of the city is reached fastest by car, 27.5 percent by bike, and 4.9 percent by public transit. You Are Here project.

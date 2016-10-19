@@ -1,0 +1,45 @@
+Your odds of getting killed by an asteroid just went way up
+Earth is more likely to get hit by an asteroid than we previously thought.
+Scientists earlier believed that asteroids bigger than 20 meters — like the one that injured about 1,500 people in Chelyabinsk back in February 2013 — only collide with Earth every 150 years or so, on average.
+scientists now believe 20-meter wide asteroids will hit our planet once every 25 years
+But new findings have forced them to revise this view. The B612 Foundation, an organization devoted to detecting dangerous asteroids, has released data that indicate these sorts of asteroids could actually hit Earth once every 25 years, on average.
+Using a global network of sensors originally built to detect nuclear weapons tests, asteroid researcher Peter Brown has determined that the Chelyabinsk meteorite was just the biggest of 26 measurable impacts that have happened worldwide since 2001. Most of these were smaller asteroids that burned up in the atmosphere or landed in unpopulated places, but this number is still way more — 3 to 10 times higher — than the previous models predicted.
+So how much should you be worrying about the possibility of death by asteroid? Here's an explanation of the risk they pose.
+
+The orbits of all near-earth objects believed to be potentially dangerous. (NASA)
+Along with the eight planets, millions of smaller pieces of rock orbit the sun.
+In any given year, we're more likely to collide with smaller pieces of rock
+The smaller ones are called meteoroids (which, confusingly, become meteorites if they land on earth, after giving off a streak of light called a meteor). The larger ones are called asteroids. But they're basically the same thing.
+Many of these rocks travel clumped together in the asteroid belt, between Mars and Jupiter. But others orbit closer in, or have elliptical orbits that occasionally bring them close to Earth.
+In any given year, Earth is much more likely to collide with smaller pieces of rock than larger ones, because the vast majority of objects out there are small. We're hit with about 100 tons of dust and other tiny particles every day. Fortunately, those tend to burn up harmlessly in the atmosphere.
+The Earth runs into larger objects less frequently, which is also good, because those can do considerably more damage. But it's not unheard of. Here's a table showing the frequency of impacts for different sized asteroids:
+
+For years, scientists assumed that the main objects we needed to worry about were very large asteroids more than a kilometer wide, which could be catastrophic. (The asteroid believed to have wiped out the dinosaurs, for instance, was probably more than 10 kilometers wide.)
+The problem is all the small asteroids that we don't know about yet
+As a result, in 1998, Congress assigned NASA the goal of spotting all objects more than one kilometer wide that could potentially impact Earth. 
+By 2011, NASA announced they were close to reaching that goal, having identified 911 objects in this category (out of an estimated 981 predicted by models to exist) and confirming that none were on a collision course with our planet. NASA now keeps a list of all known objects that could pose a potential collision risk anytime in the future — and thankfully, the odds of any one of them hitting Earth are vanishingly small.
+But the much bigger problem is all the mid-sized asteroids that we don't know about yet — those between 100 meters and one kilometer in size. These asteroids could still cause catastrophic destruction. And we've only spotted about 10 percent of the objects believed to exist.
+Even a smaller, Chelyabinsk-sized asteroid could lead to significant local damage if it landed in the right spot, and Brown's new analysis suggests these are way more likely to collide with earth than previously thought. In total, millions of asteroids of this size are believed to exist — and so far, we've only located about 500 of them.
+
+A simulation of a multi-kilometer asteroid impact. (Fredrick/NASA/Wikimedia commons)
+Let's imagine that another 20 meter-wide, Chelyabinsk-sized asteroid is about to land, as will probably happen again within the next 25 years or so.
+Odds are, this asteroid won't cause any harm to humans. About 71 percent of the planet is covered by water. Just 3 percent of the remainder is populated, meaning that if an asteroid were to land randomly anywhere on earth, there's about a 1 percent chance that large numbers of humans would be living there.
+If an asteroid were to land randomly on earth, there's a 1 percent chance large numbers of humans would be there
+But if the asteroid did land in a populated area, death and destruction would probably ensue. When the Chelyabinsk asteroid landed, a few lucky breaks prevented any deaths: it was already fractured before entering the atmosphere (which made it break into smaller pieces and burn up more easily on the way down) and the largest of the pieces that did land went straight into a frozen lake.
+Even so, the event caused more than 1,500 people to be hospitalized with injuries, mostly from broken glass caused by a shock wave generated when the asteroid entered the atmosphere. In other circumstances, it's easy to imagine an object of this size causing significant local damage.
+In 1908, a slightly larger asteroid (believed to be 40-60 meters wide) exploded over a remote part of Siberia. As part of the largest asteroid impact ever recorded, it knocked down about 80 million trees covering 830 square miles.
+
+The impact area of the 1908 asteroid, superimposed on the DC area. (B612 Foundation)
+A bigger asteroid — such as a 400-meter-wide one that will pass by the earth in 2032, with a one in 63,000 (or 00.002 percent) chance of hitting us — would be regionally catastrophic. It's estimated that this asteroid's impact would release the energy equivalent to detonating 60 percent of the world's nuclear weapons in one go, creating a crater twice the width of Manhattan and knocking over 90 percent of all buildings within a 20 mile radius.
+The biggest asteroids would cause damage on a truly global scale
+The biggest asteroids would cause damage on a truly global scale. The one that led to the extinction of most dinosaur 65 million years ago (along with the extinction of 75 percent of all living species) did so largely through the dust cloud it suspended in the atmosphere for years, blocking between 10 and 20 percent of sunlight from reaching earth and preventing plants and algae from performing photosynthesis.
+It's very difficult to figure out the odds of extremely rare events, but astronomer and writer Phil Plait has put the overall chance of you dying from an asteroid impact at one in 700,000. It's definitely a very small number: for comparison, the risk of dying due to a lightning strike is around one in 136,000.
+But lightning can't strike millions of people at once. The asteroid risk is much different: there's an enormous chance of no damage at all, and a tiny chance of catastrophe.
+For now, we're mainly spotting and calculating the future orbits of any objects that could pose a risk, using telescopes located on earth to do so.
+But it's more difficult to spot small objects from earth, because of interference from the atmosphere and the sun's glare. As a result, both NASA and the B612 Foundation have plans to launch complementary spacecraft in the next decade that will be better positioned to spot small objects. B612 is currently in the process of raising $450 million to launch and run their Sentinel craft for 6.5 years, during which it'll be able to detect about 98 percent of all near-earth asteroids.
+
+A rendering of the B612 Foundation's proposed Sentinel craft. (B612 Foundation)
+Of course, at the moment, we have no proven way of averting a catastrophic impact even if we had years of warning. But scientists do have some ideas of how we might do it.
+Plans call for a spacecraft that would crash into the asteroid, changing its orbit
+They don't involve sending oil roughnecks to put a nuclear bomb in an asteroid (that'd create thousands of smaller shards of rock that could still pose a danger). Instead, plans call for a spacecraft that would physically crash into the asteroid, changing its orbit just enough so that it'd miss earth. The European Space Agency has announced tentative plans to send a probe crashing into a small, harmless asteroid to test the idea.
+But the problem with using it on a dangerous asteroid is that it could inadvertently put the object onto another path that would cause a collision with earth during a future orbit — say, five or ten years down the line. So the B612 Foundation, among others, has developed the idea of a space tugboat, which would pull the asteroid with enough control that it could avoid future collisions as well as imminent ones. This sort of technology is definitely feasible, but untested, and will take a lot of time and money to develop. 

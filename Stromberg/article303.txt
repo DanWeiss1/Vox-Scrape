@@ -1,0 +1,67 @@
+Why one former astronaut is trying to save the world from asteroids
+Yesterday, a 500 meter-wide asteroid passed within 745,000 miles of Earth. As far as we know, another rock of this size won't pass that closely again until 2027.
+But we don't know that for sure. Though scientists are now tracking almost all the huge asteroids that would cause a global catastrophe — those bigger than a kilometer in diameter — they've only discovered a minority of mid-sized rocks like this one that could inflict regional devastation.
+
+And that has some people worried, like former astronaut and scientist Ed Lu.
+"We need to protect this planet from being hit by large asteroids," he says. "It's clear that, at some point, you have to solve this problem — but nobody on this planet knows when you need to solve it by."
+As co-founder and CEO of the B612 Foundation, Lu is raising money for the Sentinel mission: a space telescope that would spot the many uncatalogued mid-sized asteroids  in orbit (those 140 meters and larger). That would give us a chance to potentially deflect any that might be headed for Earth, likely by nudging it with a small spacecraft and altering its trajectory.
+He's doing this because it doesn't seem like NASA is up to the task. The agency has been charged with spotting 90 percent of potentially dangerous asteroids by 2020, but in September, a report found that it's only located 10 percent so far. I spoke with Lu — a veteran of three missions and 205 total days in space — about why he's taking up the mission.
+Joseph Stromberg: Why should we be worrying about asteroids?
+ 
+
+
+
+
+
+
+An animation showing the asteroid that passed by Earth on January 26. (NASA/JPL-Caltech)
+Ed Lu: We've found the vast majority of the largest asteroids — the ones that would wipe out human civilization entirely. But the [500-meter wide] ones that would 'only' disrupt the world economy for a decade, say, or might only kill 50 million people — we haven't done as well on those.
+The inspector general's report that came out a few months ago found that NASA's Near-Earth Object Program hasn't made sufficient progress for a number of reasons: a lack of a clear plan, a lack of oversight, you name it.
+So we're in this strange situation where we know how to deflect asteroids, and we know how to find them, but we're not really looking for them. The next asteroid to hit us is going to arrive unannounced. We wouldn't know if one was on its way.
+JS: Why do you think this danger has been overlooked?
+ 
+
+
+
+
+
+
+A map of the 556 small meteors and asteroids that have hit Earth's atmosphere since 1994. (NASA/JPL-Caltech)
+EL: The principle reason is that protecting the Earth is not considered science. The way that NASA's science missions are ranked and evaluated are in terms of their scientific contributions.
+In fact, every 10 years, a new report comes out ranking the scientific priorities of astronomers, based on a survey. Protecting the Earth is never on that list, because it's not considered 'science.'
+NASA's science mission directorate has a pot of money to fund missions, and they evaluate proposals based on this criteria. So they haven't emphasized this issue, and haven't come up with a clear, coherent plan to solving it. That's why we at the B612 Foundation decided we'd step in and circumvent all that.
+JS: How exactly did the B612 Foundation come about?
+EL: At one point, I was giving a talk at Google about this issue. I described the situation: we know how to deflect asteroids, but we've only found a very small percentage of the ones that could cause huge amounts of damage.
+I ended my talk, and someone came up to me and asked how much an asteroid-detecting mission would cost. I guessed that if it was built by the federal government, upward of $1 billion, and if it was done by the private sector, it'd be about half as much. And then he said, 'Well, why don't you just do it?'
+I'd never considered that. But he said, 'Well, if you're talking a few hundred million dollars, I just donated to the San Francisco Museum of Modern Art, which is raising $450 million to build a new wing. If the people of San Francisco are going to raise that much to build a new wing of an art museum, we can raise it to save the world.'
+JS: So what is B612's plan?
+EL: The plan is the Sentinel mission — a spacecraft that will spot and catalogue mid-sized asteroids, so that we can deflect them if necessary. We're raising money for it, and currently building it.
+
+We're hoping to launch it in about five years. There are five phases that are part of building it, concluding with it being launched into space and being put in orbit around the sun. We've raised some money and completed the first phase, and we're currently  in the second one.
+Fundraising's going well — right now, I'd say that we're about 15 percent of the way there. We started from a standstill: unlike an art museum or a university, we didn't have an existing donor base or alumni association. We had to build that, then raise money. So it's been accelerating as we've build connections and done that.
+JS: Okay, so if we found an asteroid headed for Earth, how could we deflect it?
+ 
+
+
+
+
+
+
+Eros, a relatively large near-Earth asteroid. (NEAR Project, NLR, JHUAPL, Goddard SVS, NASA)
+EL: The deflection of an asteroid is actually quite doable. That's not the difficult part.
+The amount of momentum you'd need to transfer to an asteroid to change its trajectory slightly — to prevent a future impact — is really quite small. It's a couple of millimeters per second. That means you can run into it with a small spacecraft. There's also the idea of using a "gravity tractor beam:" a small spacecraft that hovers near an asteroid, and doesn't touch it, but alters its path.
+Still, there's this huge misconception that we don't know how to deflect asteroids. And whenever a new idea comes out, there's a ton of fascination in the press. But these ideas are generally more expensive and more complex than what we already have — we basically know how to do it right now.
+JS: Does the time you spent in space affect your thinking on this issue?
+ 
+
+
+
+
+
+
+The International Space Station. (NASA)
+EL: It definitely does. I got to see the world from an entirely different perspective. The word 'amazing' doesn't even describe it. I spent a lot of time up there looking out the window, taking pictures, and observing the Earth.
+Looking at it from that perspective changes things. It makes you see that the Earth is really robust, and it's been through a lot. But that doesn't mean that people will be around forever.
+Life is robust, but human civilization is fragile. Our future on Earth isn't guaranteed, and that's why we're working on this.
+Further reading:
+Note: This interview has been condensed and edited.

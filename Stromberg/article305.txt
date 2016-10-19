@@ -1,0 +1,74 @@
+The way we get off airplanes makes absolutely no sense
+There are few things more infuriating about flying than waiting to get off an airplane.
+After flying across the country at hundreds of miles per hour, we spend dozens of minutes achingly close to our destinations, watching other people slowly get their bags out of the overhead bins and trod down the aisle.
+it's faster to deboard by column, not row
+But here's the truly infuriating thing: there's a much better way to deboard, and no airline uses it.
+Using computer simulations, multiple groups of independent researchers have found that deboarding by aisle, rather than row, would cut deboarding times down significantly. In other words, you'd let all aisle passengers off first, then all middle seats, then all windows.
+A 2014 Northwestern study, for instance, found that this method would reduce deboarding times by more than 35 percent:
+
+Simulated boarding times for each method for three differently-sized aircraft, in minutes.
+Of course, these studies involved only simulations, not real-life experiments. But other work has found that similar changes in airplane boarding methods would speed up the process of getting on — so it stands to reason that it'd work for getting off the plane too.
+ 
+
+
+
+
+
+
+(ChameleonsEye / Shutterstock.com)
+The way we deboard is so deeply ingrained it seems inevitable. Each row deboards one by one, with people in the aisle going first, then the middle seats, then the windows.
+But it's not the only way to deboard a plane. Instead of getting off the way we do now, row by row, we could let all the left side aisle seat passengers off first, then the right aisle, followed by the left middle seats, then the right, then the left windows, then the right.
+Here's a rough idea of what this would look like. (Note that this is a reversed version of an animation of boarding in this order, so it's not exact, and the passengers appear to be moving backward at times.)
+ 
+
+
+
+
+
+
+(Menkes van den Briel)
+Initially, it might feel weird to wait this way, but it has a key advantage over the conventional method. Currently, each person moves towards the exit as soon as they physically can — a decision that makes sense for them in isolation, but slows down everyone behind them because they often end up blocking the whole line as they get their bag down. The only real efficient use of the aisle and overhead bins comes right when the plane first parks, and all the aisle seat passengers are able to get their bags down at once without blocking others.
+use of the aisle space and overhead bins would be maximized
+This deboarding method would replicate this stage for the whole process. All middle and window seat passengers would similarly have a minute in the aisle to pull their bags down without blocking people behind them. At any given moment, use of the aisle space and overhead bins would be maximized, and the line would be blocked for a much smaller amount of time.
+These advantages are borne out in several different computer simulations. The Northwestern study modeled how it would affect deboarding times for 50-seat, 144-seat, and 182-seat cabins — and found it reduced wait times for all three of them.
+These simulations might not perfectly reflect real-life passenger behavior, and could be a little overoptimistic. But the fact that this sort of modified method has been shown in real world tests to be faster in getting people on to a plane suggests it's probably also somewhat faster in getting people off. And while a four or five minute reduction might seem modest, it'd be enormous when multiplied over the 28,000 or so daily commercial US flights.
+ 
+
+
+
+
+
+
+(John Greim/LightRocket via Getty Images)
+This method would definitely require action on the part of airlines, at least at first, to remind people to wait. We're all very well-conditioned to get off the plane with the rest of our row, and it'd take a some effort to change that.
+But this isn't a real reason to avoid trying it out — especially when airlines are already controlling passenger behavior as granular as whether they have their windows and tray tables down during takeoff. If one particular airline pioneered aisle-first deboarding and showed that it worked faster, passengers would surely learn it over time.
+passengers buy first-class seats so they can skip the deboarding process
+The one major disadvantage of this method is that it would prohibit people who sit next to each other from deboarding together — a real problem for families with small children, among others. Perhaps a policy could be instituted that makes exceptions for these people.
+But the real reason no airline has considered deboarding this way might be financial. Even though longer "turn times" (the time it takes to unload a plane and load it with new passengers for a second flight) cost airlines money, they make it up by selling first-class seats. And part of the allure of those seats are that they allow passengers to get off before the deboarding process. Many airlines also charge more for premium coach seats towards the front of the aircraft as well.
+Some have suggested that this sort of perverse reasoning — it steals everyone's time, but makes the airlines more money — is behind most airlines' outdated boarding processes. It might be the reason we deboard in such an inefficient manner too.
+ 
+
+
+
+
+
+
+(Thomas Trutschel/Photothek via Getty Images)
+At any airport with the right configuration and clement weather, a plane's back door can be opened, so some passengers can deboard by stairs and walk across the tarmac to get inside. This is already done for many flights arriving at Burbank's airport, and many international destinations.
+Boeing's calculations indicate that simply by using a second door at the front of the aircraft, deboarding times can be cut from thirteen to eight minutes for a 200-seat aircraft. Adding a second door at the back, instead, would likely reduce deboarding times further.
+Sure, there are many places where this might not be suitable — cold-weather airports, for instance, and others where passengers need to wait for a shuttle to take them to the main terminal anyway. But the multiple door process works well at Burbank, based on customer satisfaction surveys, and there are many other US airports where it could probably be implemented as well.
+ 
+
+
+
+
+
+
+(Chris Sweda/Chicago Tribune/MCT via Getty Images)
+This change would be unpopular, but charging for every bag you bring  — whether it's checked or carried on — could dramatically cut down on both boarding and deboarding times.
+Baggage fees, contrary to what you might think, are a good thing: they allow airlines to charge lower base prices for tickets, and people who bring bags (and thus increase fuel costs) are appropriately charged for shipping extra weight across the country.
+it'd provide less of an incentive to cram the cabin full of luggage
+But the current fee structure — in which most airlines charge for checked bags, but not carry-ons — has created a monster. Huge numbers of bags are carried on to flights, and have to be unloaded by passengers as they deboard. 
+This interferes with the deboarding process, slowing everyone down — and is one of the main reasons the current method is so inefficient. Over the last few decades, as airlines have instituted checked bag fees, Boeing has calculated that industry-wide deboarding rates have slowed by about 26 percent.
+The obvious fix is charging equally for both checked and carry-on bags — something a few airlines, like Frontier, have started to do. This provides less of an incentive for everyone to cram the cabin full of baggage.
+Further reading: The way we board airplanes makes absolutely no sense.

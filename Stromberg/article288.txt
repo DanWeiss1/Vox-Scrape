@@ -1,0 +1,141 @@
+For NASA, sending a person to Mars is simple. Dealing with Congress is hard.
+NASA is currently embarking on an elaborate, utterly fantastical plan to send humans to Mars. It involves the biggest rocket ever built, a pit-stop at an asteroid, and could cost $100 billion or more over several decades.
+The agency's engineers think they can make it work. But the biggest obstacle here isn't technological.
+The biggest obstacle is the insane politics of space exploration.
+NASA's current plan for Mars is a result of multiple political compromises over the last decade. The agency is building a new space capsule (called Orion), along with the largest rocket ever (called Space Launch System, or SLS). In the mid-2020s, NASA plans to use those systems to land astronauts on an asteroid that has been redirected by another probe to orbit the moon. Then, as technology keeps advancing, Orion and SLS should be ready for a Mars trip by 2033.
+ 
+
+
+
+
+
+
+A rendering of the Orion capsule in space. (NASA)
+The problem is that lawmakers have approved some of these steps — but may kill funding for others. Orion has already begun testing, and an SLS test flight is scheduled for 2018. But House Republicans are now skeptical about the asteroid mission (which came out of an earlier political compromise) and could kill it altogether. That would leave NASA's new rocket with nothing to do for decades, since the technology to get humans all the way to Mars won't be ready before the 2030s.
+In other words, it's possible that we'll have the most sophisticated human space exploration system of all time, but no money or plan to send it anywhere. "SLS and Orion, by themselves, cannot do very much," says John Logsdon, former director of the Space Policy Institute. "And there's just not going to be enough money for an exploration program unless something changes drastically."
+So NASA's Mars plan is a potential disaster. But it's also a product of the convoluted, politically driven process by which NASA is forced to plan its missions. When it comes to space, short-term thinking and partisanship don't lead to effective long-term planning — putting the future of human space exploration in doubt.
+ 
+
+
+
+
+
+
+Mars' landscape, as photographed by the Opportunity rover. (Universal History Archive/UIG via Getty Images)
+No human has traveled beyond low Earth orbit since 1972 — the year of the final Apollo mission to the moon.
+Since then, NASA has sent astronauts to space stations orbiting hundreds of miles up from Earth's surface. That might sound like a big deal, but it's not, relatively speaking. The moon is 238,000 miles away, and Mars is 34,000,000 miles away. The difference between low Earth orbit and deep space exploration is the difference between sailing along the coast and crossing the ocean
+obama proposed landing on an asteroid as a stepping stone to mars
+But deep-space exploration got a jump-start in 2004, when George W. Bush announced the Constellation program, a plan to return astronauts to the Moon's surface by 2020, and to Mars sometime afterward. That plan included a new space capsule (Orion) and a new rocket system (Ares). The program, however, was consistently underfunded, putting it way behind schedule, and Obama killed it in 2010.
+He couldn't kill it entirely, though. The Orion and Ares projects were already providing thousands of jobs at Florida's Kennedy Space Center and elsewhere. Lawmakers representing those districts  — including former astronaut and Florida senator Bill Nelson — fought hard to prevent the jobs from disappearing, and eventually directed NASA to build a new rocket system (SLS) to replace Ares.
+SLS, though, would need something to do. So Obama proposed landing humans on an asteroid in the 2020s as a "stepping stone" for an eventual trip to Mars in the 2030s, retaining Orion as a capsule.
+
+The only problem? The asteroid mission was incredibly ambitious — and NASA still didn't have enough funding. Enter the Asteroid Redirect Mission (ARM). Instead of using Orion and SLS to carry astronauts all the way to an asteroid, a cheaper uncrewed probe would be used to grab the asteroid and put it in orbit around the moon. In theory, doing so would also help NASA develop some technologies (such as solar electric propulsion) needed to carry out a Mars mission with Orion and SLS later on.
+For this to work, NASA would have to launch a probe this decade to grab an asteroid and move it in place for a crewed visit by 2025. But NASA is way behind. The agency still hasn't selected a specific asteroid, probe design, or schedule for the mission. This may be a result of ARM's increasing political unpopularity — one of several big problems NASA needs to solve if it wants to get to Mars.
+ 
+
+
+
+
+
+
+Lamar Smith (R-TX), chair of the House Science, Space and Technology Committee, has been a vocal opponent of the Asteroid Redirect Mission. (Chip Somodevilla/Getty Images)
+A Mars mission, in theory, is a government project that the Obama administration and the Republican-controlled Congress are both in favor of. Senator Ted Cruz, who recently became chair of the Senate subcommittee on Space, Science, and Competitiveness, just expressed support for it. And last year, Congress actually gave slightly more funding to Orion and SLS than Obama asked for — about $2.9 billion for 2015, out of NASA's total budget of around $18 billion.
+house republicans have been critical of the asteroid mission
+But one area of sharp disagreement is the Asteroid Redirect Mission. "It’s time the administration put forward an inspirational goal worthy of a great space-faring nation," Representative Lamar Smith, a Texas Republican and chair of the House committee on Science, Space, and Technology, wrote in an op-ed soon after ARM was announced. "The asteroid retrieval mission is not it."
+Other House Republicans have have been equally critical of ARM, saying it's not a logical part of a plan to get to Mars, and it hasn't gotten any specified funding in any budget passed so far. Last year, they went a step further, attempting to prohibit NASA from spending anything on the mission in early drafts of spending bills, though the language was deleted from the final drafts.
+"I love NASA. I’m devoted to NASA. But I don’t think pushing a rock around space is a productive use of their time and scarce resources," Representative John Culberson (R-TX) said in an interview in 2013. Like many other Republicans, he favors Bush's plan of a return to the moon.
+ 
+
+
+
+
+
+
+A rendering of the Orion capsule rendezvousing with a probe that's captured a small asteroid. (NASA)
+Their skepticism may be scientifically justified. In a 2014 report, the NASA Advisory Council (an independent group of experts) said it had "serious concerns" with some of NASA's plans. Among other things, the council noted that ARM wouldn't provide the long-duration mission needed to help NASA learn how to keep astronauts alive in space for several years at a time. A simpler, cheaper mission not involving an asteroid, meanwhile, could provide most of the same stepping-stone benefits.
+Even some space advocates are skeptical of ARM. "We support the mission, conditionally, if NASA carries out an external cost estimate," says Casey Dreier of the Planetary Society. "But our conditional support has not been met." It's been estimated that ARM will cost $2.6 billion, but no one really knows for sure.
+NASA has released very few details about the mission. In December, the agency was scheduled to announce the particular concept it'd use (essentially, whether it'd capture a smaller asteroid with an inflatable bag, or lift a boulder off a much larger asteroid instead), but it's repeatedly delayed the decision.
+This has some experts thinking that ARM is in deep trouble — and that NASA might be trying to drag it out for as long as possible before it's quietly killed.
+ 
+
+
+
+
+
+
+A rendering of SLS ascending through the atmosphere. (NASA/MSFC)
+Even if the Asteroid Redirect Mission proceeds (or if an alternate stepping-stone mission does instead), there's another fundamental problem with NASA's plans to get to Mars: money.
+"This program just doesn't have nearly enough funding," says Marco Caceres, a space analyst with the Teal Group. "If Congress were really serious about backing NASA's plans to go back to the Moon and go to Mars, they would already be jacking up its budget by a considerable amount."
+The Obama administration's proposed budget for 2016, released yesterday, included a modest increase for NASA. But funding for Orion and SLS declined slightly — and without a big increase, NASA may not have enough to see these projects to fruition:
+ 
+
+
+
+
+
+
+It's been estimated that Orion and SLS will cost $22 billion through the 2021 test. In reality, the true cost will likely be far higher — especially since NASA's timeline for the initial, uncrewed SLS test is already slipping, causing costs to rise.
+On top of that, a recent report by the National Research Council found that progressing past the 2021 test and carrying out an actual mission simply won't be possible unless funding increases dramatically. The last time NASA embarked on such an ambitious project — the Apollo program to the moon — it was getting much more money, both in terms of inflation-adjusted dollars and as a percentage of the federal budget.
+ 
+
+
+
+
+
+
+"If we're serious about trips to Mars, there has to be additional equipment developed," says Logsdon. Among other things, NASA will need money to develop a habitability module to link up with Orion and support astronauts for the years it'd take to get to Mars (on its own, Orion is only capable of supporting people for 21 days).
+ 
+
+
+
+
+
+
+President Obama at Kennedy Space Center in 2010, shortly after killing the Constellation program. (Bill Ingalls/NASA via Getty Images)
+The stepping-stone plan — and long-term space programs in general — move on a timescale that's very different from electoral politics. "You have to keep on re-justifying it every four years when a new administration comes in, and fighting off challenges from both parties," Caceres says.
+We've seen this many times before. In 2001, the VentureStar program — an effort to develop a spaceplane that would replace the Space Shuttle — was killed after five years and $1.5 billion spent on development. The failure of that program and others is one of the reasons NASA still doesn't have a means of transporting astronauts to the space station, and currently relies on Russia instead.
+The Apollo program, motivated by political tensions with the USSR, was carried out within eight years. But NASA's current Mars plan involves missions that won't happen for roughly 10 and 20 years, respectively. That leaves a lot of time for the next president or Congress to come in, decide the plan is moving too slowly or getting too expensive, and cancel it.
+ 
+
+
+
+
+
+
+A rendering of SLS in space, as its boosters detach. (NASA/MSFC)
+However, NASA also deserves some of the blame for this disconnect. Over the years, critics charge, it's become a bloated bureaucracy, more concerned with holding on to streams of funding than spending it efficiently on useful projects. In 2014, for instance, it completed construction on a $349 million rocket-testing tower in Mississippi that was built for Constellation — a program that had been cancelled four years earlier.
+This sort of thing makes politicians wary of committing billions of dollars to big projects that might never happen. Instead, smaller programs that support jobs in home districts tend to live on — without leading to something bigger.
+ 
+
+
+
+
+
+
+A rendering of SLS. (NASA/MSFC)
+These problems don't mean that getting to Mars is impossible. NASA's current plan may be unlikely to work — but perhaps, experts say, it could be improved.
+If the Asteroid Redirect Mission is indeed killed, NASA could opt for a cheaper mid-2020s mission that would help develop the technology needed for a Mars mission. For instance, simply using Orion and SLS to put astronauts in orbit around the moon, as some have suggested, would allow NASA to develop a long-term habitability module.
+Others, including Mississippi Republican Steven Palazzo, who chairs the House Subcommittee on Space, have advocated for a lunar landing instead. This would cost far more than the ARM, but it's conceivable, Logsdon says, that NASA could collaborate with international partners on a mission — the European Space Agency or China, for instance, could build a lunar lander to use with SLS.
+ 
+
+
+
+
+
+
+Apollo 11's lunar landing module ascends after the first moon landing, in 1969. (NASA)
+Money for any of these projects could also be freed up by prematurely ending operation of the International Space Station. Currently, NASA spends about $3 billion per year on the ISS, a number that is projected to climb to $4 billion by 2020.
+The Obama Administration has proposed extending the space station's life until 2024, but nothing's formal, and no international partners — including Russia — have signed on yet. So one possible way to make up the money needed for ARM or another crewed mission could be scrapping the space station in 2020. (Technically, its hardware is rated to last until 2028.)
+Finally, there's the possibility that private space companies might collaborate with NASA to enable human missions beyond low Earth orbit. SpaceX has made impressively fast progress in transporting cargo to the ISS, and both it and Boeing are scheduled to begin ferrying astronauts there in 2017. These projects are funded by tax dollars, but the companies have shown an ability to move faster than NASA, Caceres says, taking more risks. Their involvement could shorten the timeline for a Mars mission.
+Even with private companies or other countries on board, though, NASA needs to do more to justify a Mars mission to Congress and the public. "The biggest problem is that they haven't really been able to explain why we want to do this," Caceres says. "Without a clearly articulated reason, we're just going to keep on running in to the same problems over and over."
+ 
+
+
+
+
+
+
+A rendering of SLS lifting off. (NASA/MSFC)
+WATCH: 'A visual tour of the world's CO2 emissions'
+
+

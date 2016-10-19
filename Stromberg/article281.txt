@@ -1,0 +1,46 @@
+SpaceX is trying yet again to land a rocket on a platform in the ocean
+Update: SpaceX will not attempt the rocket landing during Wednesday's launch, due to stormy weather. They still plan to try landing a rocket as part of a future launch.
+On Wednesday evening at 6:03 pm, SpaceX will launch a Falcon 9 rocket from Cape Canaveral Air Force Station, in Florida, in order to put a scientific satellite into orbit. (The launch was originally scheduled for Sunday and then Tuesday, but was delayed due to technical difficulties, then weather.)
+What's really exciting about the launch, though, is what will happen to the main part of the rocket after its job is finished: engineers will try to land it vertically on a barge floating in the Atlantic Ocean.
+The company tried this once before, last month, and it didn't go exactly as planned — because of a shortage of hydraulic fluid, the uncrewed rocket became destabilized, and exploded as it hit the barge:
+
+The fact that the rocket was roughly on target, though, was a sign of progress — and it could lead to something big.
+Normally, rockets are simply allowed to break up into pieces or sink in the ocean after each use. But controlled landings could allow SpaceX to reuse rocket stages on future flights — and reusing this multi-million dollar piece of equipment, rather than throwing it out after every launch, could dramatically drive down the cost of space travel.
+Within 30 minutes or so of the launch, SpaceX should know whether the rocket landing attempt worked, though it might take a bit longer for the news to make its way to the public.
+ 
+
+
+
+
+
+
+(John Gardi and Jon Ross)
+The company will launch a Falcon 9 rocket in order to put the NOAA's Deep Space Climate Observatory satellite into orbit around the sun, to collect data on solar storms.
+The Falcon 9 is made up of two parts: a 138-foot-tall first stage, which burns for the first few minutes of flight, lifting the craft up to an altitude of about 50 miles before separating and falling back to Earth, and a smaller, 49-foot-tall second stage, which burns for another five minutes or so, carrying the spacecraft into orbit before disconnecting and falling back down to earth as well.
+Normally, both of these stages — as well as the stages that make up other rockets in general — break up into pieces as they plummet downward, eventually sinking in the ocean and becoming unusable. But on Sunday, as the first stage falls back to earth, SpaceX will fire its engines in order to stabilize and guide it in for a controlled landing.
+The plan is to land it on an autonomous uncrewed barge, which is being stationed about 370 miles east of Cape Canaveral. As the rocket descends, steerable fins affixed to its outside will help guide it and slow it down. As it nears the barge, a set of legs will unfold from the bottom of the rocket, and if all goes to plan, it'll slow down to a speed of about 4.5 miles per hour before gently landing on them, fully upright.
+ 
+
+
+
+
+
+
+A rendering of the Falcon 9 first stage on the barge. (Jon Ross)
+To solve the problem from the last attempt, the rocket will be carrying more hydraulic fluid. But it'll still be a very difficult maneuver for a few different reasons.
+One is that the rocket is primarily designed to launch a spacecraft into orbit — which means that it's be tricky to decelerate and steer on the way down. Additionally, with its legs extended, the rocket is 70 feet wide, so landing it on the 300-foot wide floating platform will require a high degree of accuracy. Finally, the platform itself will be a moving target as it sways slightly in the water.
+ 
+
+
+
+
+
+
+A Falcon 9 launch. (SpaceX)
+One of the factors that make space travel so expensive is the fact that most of the equipment used to put cargo or people in orbit is destroyed after each use. SpaceX CEO Elon Musk has famously likened this to throwing away a brand-new 747 after a single flight to London.
+From the beginning, his company has sought to make spaceflight possible with reusable components. Initially, SpaceX tried to use parachutes to slow down rocket stages as they descended, but they broke apart due to stress and heat, so the company switched to the current, powered landing approach in 2011.
+If SpaceX can pull off this landing — either today or after another of the 15 or so launches scheduled for 2015 — the Falcon 9 first stage could be refurbished and used for a future flight. This could reduce the cost of spaceflight in a huge way.
+While some experts say that the potential cost savings of reusing rockets is overstated, SpaceX has publicly said that building a new Falcon 9 rocket costs $54 million, but using it to put a payload into orbit costs only about $200,000 worth of fuel.
+Figuring out a way to reuse the rocket could make all sorts of missions —commercial satellite launches, collaborations with NASA, and perhaps even space tourism — cheaper by orders of magnitude, opening up all sorts of new possibilities in spaceflight.
+Further reading: The Future of Space Launch is Near
+Update: This story has been edited to reflect ongoing developments.

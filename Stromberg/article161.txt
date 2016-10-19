@@ -1,0 +1,99 @@
+The moon illusion: why the moon looks so weirdly huge right near the horizon
+Have you ever noticed that the moon sometimes appears absolutely gigantic when it's right near the horizon?
+You're not alone. The moon illusion might be the world's most widely known optical illusion, and it's been pondered for thousands of years. There are actually records of ancient Babylonians and Greeks debating why the illusion occurs.
+we still don't really know why our brains perceive the moon to be so big
+We know the moon doesn't actually take up any more of the sky when it's near the horizon — it just looks that way to human eyes. But despite all the effort put toward understanding the illusion, we still don't really know why our brains perceive the moon as bigger when it's near the horizon.
+"People are looking for a simple, easy-to-understand answer," says Donald Simanek, a physicist who has long been curious about the moon illusion. "But the answer lies in the functioning of the human brain, which we only have a tenuous grasp on."
+Recently, some neuroscientists have even begun using MRI studies to understand what's going on. Though their work hasn't solved the moon illusion, it does shed some light on it — and it might even reveal a bit about the processes the human brain uses to interpret visual information.
+ 
+
+
+
+
+
+
+(NASA)
+Aristotle believed the Earth's atmosphere magnifies the moon when it's near the horizon, causing it to look bigger — but we've since learned that he was wrong. The scattering effect of the atmosphere sometimes makes the moon appear orange or red, but it doesn't alter the moon's apparent size.
+Using an instrument called a theodolite, astronomers can determine that the average full moon is about 0.52° wide (a small fraction of the 360° that make up the entire sky) and doesn't change over the course of a night. While a full moon can vary in apparent size from one cycle to the next (because the moon's orbit around the Earth is slightly elliptical, bringing it nearer and farther from us), a given night's moon takes up about same proportion of the sky wherever it is.
+You can confirm this yourself, by holding out a ruler at arm's length and measuring the moon over the course of a night. Carefully analyzing photos of the moon as it rises also shows that it doesn't change.
+In fact, if anything, measurements show the moon actually takes up slightly less of the sky when it's on the horizon (about 2 percent less, to be precise). That's because it really is slightly farther away from us. When the moon is straight above us, we're seeing it from the distance between it and the Earth, but when it's on the horizon, we're looking across an additional radius of the Earth:
+ 
+
+
+
+
+
+
+Not to scale. (Bob King)
+So Aristotle was wrong. The Earth doesn't look bigger because of the sky. Instead, it's all in our minds.
+Recent MRI research has confirmed this. A 2006 study replicated a very similar illusion in a lab, and found that an object perceived to be larger and farther away (shown at left) produced a greater area of activation in the brain's visual map than the same object perceived to be closer and smaller (shown at right) — even though they're the exact same size:
+ 
+
+
+
+
+
+
+(Murray et al. 2006)
+The object at left (like the moon at the horizon) isn't actually bigger — but our brains perceive it as bigger anyway.
+In the years since Aristotle, people have put forth dozens of competing hypotheses. The most prominent one involves the way our brains figure out the size of objects at varying distances.
+The idea is that our brains are somehow compensating for perceived distance. For instance, when a car drives away from you, the amount of your visual field it takes up gets smaller and smaller, but you know the car isn't actually shrinking. Your brain reconciles its distance with its apparent size so that the car appears the same size as it drives away.
+This gets trickier when we're looking at objects really far away, because we can't accurately perceive depth at such great distances. So if we perceive the moon at the horizon as farther away than at the top of the sky, this same mechanism might trick us into thinking it looks bigger than it actually is.
+ 
+
+
+
+
+
+
+(Damian Adrian)
+"If you estimate the distance between you and the moon as being larger, the brain performs a computation and decides the object must also be larger to fill the same space," says Ralph Weidner, a German neuroscientist who's recently used MRI experiments to study the illusion.
+There have been a few hypotheses for why the moon might seem farther away at the horizon than elsewhere. Some suggest it's because we perceive the sky as a flattened dome, rather than a perfect hemisphere (perhaps because we're used to seeing it filled by flat, relatively low cloud cover).
+ 
+
+
+
+
+
+
+(University of Manchester)
+Others propose it's because much of the time when we see the horizon, there are large objects (say, fields or mountains) in the foreground. "We're not good at judging the distance of the horizon, so we have to rely on our accumulated experience — that is, our knowledge of how big a mountain is," Simanek says. We know mountains are huge, so the horizon must be distant.
+In either case, though, there's a big problem with this explanation. When you ask people about the giant moon on the horizon, they usually say it seems closer than usual, rather than farther. If the brain-compensating-for-distance explanation were true, you'd expect people to say the opposite — that it looks farther away.
+ 
+
+
+
+
+
+
+(Brent Moore)
+More recently, other researchers have put forth an updated version of this explanation to address this problem. This new explanation relies on recent neuroscientific research that indicates our brains have two basic systems for processing visual information: one that determines what object you're looking at (called the ventral stream) and another that determines where the object is (called the dorsal stream). Each of these corresponds to different areas of the brain.
+The new hypothesis posits that these two systems work in sequence to produce the moon illusion. The ventral stream carries out the process described in the old explanation: it sees the moon as really far away, so it rescales it and makes it seem huge.
+Then the dorsal stream determines where the moon is. "It thinks, 'Ah, it's larger than usual, so it must be closer,'" Weidner says.
+Weidner and colleagues tested this idea by putting people in an MRI machine and using 3D goggles to show them the moon illusion — along with another illusion that works in much the same way as the theory.
+In it, a circle appears to come closer or move farther away, but it's calibrated to take up the same percentage of the field of vision the whole time. Regardless, people reported seeing the circle as bigger when it seemed to move farther away, just like the moon.
+The researchers saw activations in the same ventral stream areas of the brain in both cases, as compared with control experiments where no illusion was involved. This isn't firm evidence that the moon illusion can be entirely be explained by this size-distance effect, but it does suggest it's involved.
+ 
+
+
+
+
+
+
+(Roadcrusher)
+Still, there are plenty of other ideas to explain the moon illusion — and there's a continuing debate among scientists as to which ones are most compelling.
+One hypothesis notes that much of the time when the moon is on the horizon, it's directly behind much smaller, more detailed objects, like trees or buildings. This causes it to look bigger by comparison. On the other hand, when it's up in the sky, it's surrounded by a vast expanse of darkness, causing it to look smaller.
+The sort of effect can be seen in this famous image, called the Ebbinghaus illusion: the orange circle on the right looks bigger, even though both orange circles are the same size.
+ 
+
+
+
+
+
+
+(Fibonacci)
+One problem with this is that the moon illusion can occur even when there aren't smaller objects in front of it — pilots, for instance, report seeing a gigantic moon near the horizon when they're in flight. Even so, this bigger-by-comparison effect could sometimes be a factor that exaggerates a preexisting illusion.
+Others suggest that the moon illusion might actually be caused by the way our eyes physically focus on objects at various distances. If our eyes happen to focus on a spot closer than the object in question, it can cause the object to appear smaller (a condition known as micropsia).
+So, for instance, when the moon is high in the sky, there are no nearby objects to serve as cues, telling our eyes where to focus. In that case, our eyes default to what's called a "resting focus," focusing on a spot a few meters away. This causes the moon to appear smaller. By contrast, when the moon is on the horizon, all the buildings and mountains in front of it remind our eyes to focus farther away, partly eliminating the effect of micropsia and making the moon appear larger by comparison.
+Still, Simanek and others argue that this too can only account for a small percentage of the moon illusion. Meanwhile, there are even more possible explanations than the ones listed here, all with various pros and cons.
+What's most fascinating is that the moon illusion — an optical illusion known for thousands of years, and experienced by millions of people daily — still isn't really understood or properly explained. Even though Weidner's recent work with MRI suggests the size-distance explanation has some merit, he says that "none of the explanations given so far are complete."

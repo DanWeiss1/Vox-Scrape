@@ -1,0 +1,83 @@
+Why the US Navy once wanted to turn Wisconsin into the world's largest antenna
+In the 1960s, US Navy officials concocted an ambitious plan: they wanted to bury a gigantic grid of cables under roughly 41 percent of the state of Wisconsin in order to turn its bedrock into the world's largest radio antenna.
+The plan was called Project Sanguine. And though it sounds crazy, it was a logical — albeit impractical — way of communicating with deep-sea submarines around the world.
+the navy wanted to bury a grid of cables under 41 percent of the state
+The problem was that radio waves don't travel well through water, so there was no good way to send signals to the nuclear-powered subs that stayed submerged for months at a time during the Cold War. Project Sanguine would have been an antenna for transmitting extremely low-frequency (ELF) waves that can penetrate water and reach the subs.
+It never happened, largely because of the huge cost (potentially billions of dollars) and environmental disturbance it would have required. But a much smaller version — called Project ELF — was eventually built in Wisconsin and Michigan's Upper Peninsula, and operated between 1989 and 2004.
+ 
+
+
+
+
+
+
+The scaled-down version of Project Sanguine, eventually built in Michigan and Wisconsin. (US Navy)
+Almost all our electronic communication relies on radio waves: bands of electromagnetic energy that propagate through the air. By altering the frequency or amplitude of the waves we broadcast, we can encode information — whether in the form of radio broadcasts, cellphone calls, or even signals to probes in deep space.
+But submarines present a unique problem, because these waves spread out as they travel through water, rendering them unreadable. The longer the radio wave, the farther it can penetrate, but even very low-frequency waves (which are about six to 60 miles long) can only go 40 feet or so through water before they're too scattered to read.
+ 
+
+
+
+
+
+
+The buoy system that allows subs to receive VLF waves. (Jerry Proc)
+For years, the US Navy got around this by tying buoys to submarines and having them occasionally ascend so that the buoy, which held an antenna, was shallow enough to pick up signals. But this required subs to come to relatively shallow depths and remain stationary for long periods of time — a potential security hazard, since it renders the vessel detectable by radar.
+In 1958, physicist Nicholas Christofilos proposed a solution: generating extremely low-frequency waves, which are tens of thousands of miles long and can penetrate deep into water. According to his calculations, these giant waves would bounce off natural electromagnetic currents in the Earth's ionosphere (an upper layer of the atmosphere) and travel around the entire planet:
+ 
+
+
+
+
+
+
+Longer waves bounced off the ionosphere and travel around Earth. (Frankswebspace.co.uk)
+As a result, a single broadcast station would allow the Navy to talk with subs around the world.
+Creating such huge radio waves, though, would require an unrealistically huge broadcast antenna. It would have to be hundreds of miles long.
+In the early 1960s, Christofilos and others figured out a way to build this antenna.
+If a very long cable was strung across a wide area and grounded at either end, and an electric current was sent through it, the current would flow through the ground in between, forming a huge loop to complete the circuit. As the bedrock throbbed with electricity, it'd create a magnetic field that would generate ELF waves. Using the bedrock would reduce the cost of building the huge antenna.
+ 
+
+
+
+
+
+
+(ELF/VLF Communication)
+To make it work, the underlying bedrock would have to be relatively nonconductive, so the current would flow deep into the rock along a wide range of paths, allowing for ELF waves to be generated more efficiently. And the area would have to be relatively undeveloped, to allow for the intrusive cables to be built.
+After successful tests in Wyoming and the Appalachians (where power lines were temporarily disconnected and grounded at either end at night, producing ELF waves), Navy officials settled on the forests of upper Wisconsin as the ideal location. The underlying Laurentian granite bedrock had the right characteristics, and relatively few residents were around to protest.
+To create an antenna powerful enough to reach any submarine on Earth, plans called for a grid of cables 6,000 miles long — and to protect them from potential Soviet nuclear attacks, they'd all be buried six feet underground.
+Navy officials ran into two big problems when they tried to get Project Sanguine built. The huge cost of burying so much cable turned off politicians, and Wisconsin residents protested when they heard about the classified plan to bury a net of live cables under their homes, filing suit in 1970.
+ 
+
+
+
+
+
+
+Equipment installed at the Wisconsin test site. (Roy Johnson, The Wisconsin Engineer 1969.)
+In 1973, Secretary of Defense Melvin Laird killed the plan. But the Navy continued to pursue a series of slightly more modest plans for ELF transmitters and built a small test facility in Clam Lake, Wisconsin. Still, there were protests — especially from residents who feared the health effects of the installation. Though ELF, like other forms of non-ionizing radiation, is not known to cause any effects on humans in the doses involved (and conventional power lines emit similar levels of it), the Navy shut down the test site in 1977.
+But under President Reagan in the 1980s, the plan was revived as Project ELF. The Wisconsin site had 28 miles of above-ground cables strung on wooden poles just like power lines, and another 56 miles were built at a site in Michigan. The cables were arranged in cross formations, to broadcast signals both laterally and longitudinally. At either end, each line was grounded into the earth with several miles of cable — and when they were switched on, it caused the electric current to flow through the bedrock and complete the circuit, emitting ELF waves.
+ 
+
+
+
+
+
+
+The pair of antenna sites that made up Project ELF. (FAS.org)
+In tests, radio operators were able to communicate with subs in the Mediterranean, under the Arctic ice cap, and virtually anywhere else in the world. The system went operational in 1989.
+ 
+
+
+
+
+
+
+A diagram of ELF communication. The power source (P) sends electrical current through a wire grounded at both ends (G), causing currents to flow through the underlying rock (I). This generates a magnetic field (H), which in turn emits ELF waves. (Chetvorno)
+Though Project ELF worked, the smaller installation meant some difficulties. The two stations had to be operated in tandem to strengthen the signal, but it was still quite weak, forcing operators to repeat it many times. As a Navy engineer told Lewis Coe for his book Wireless Radio: A History, "It's like someone standing across a room whispering. At first you can only hear part of what he's saying, but if he keeps repeating and repeating, eventually you can hear it all."
+Additionally, because ELF waves are so long (the ones sent by these stations had a wavelength of 2,452 miles), it took a very long time to send a tiny amount of information: about four minutes to transmit just three letters of code. These difficulties meant that ELF was always used primarily as a backup mode of communication — or like a beeper, signaling to subs to come to the surface for more instructions.
+it took four minutes to send three letters of code
+As local residents continued to protest and the Cold War ended, the installation looked less and less necessary. In 1996, a Michigan resident named  Tom Howard-Hastings entered the site and cut down several antenna poles, and in the ensuing years, Wisconsin senator Russ Feingold introduced several bills aimed at closing the project.
+Eventually, in 2004, the Navy shut down Project ELF, dismantling some 84 miles of cable. Though the Russian Navy still uses ELF to communicate with deep-sea subs, the US Navy now relies on slightly shorter VLF waves and buoys.
+(Thanks to Josh Delman for letting me know about this bizarre story.)

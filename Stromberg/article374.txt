@@ -1,0 +1,51 @@
+Study: Bankers are more likely to cheat when they think about their job
+As a society, we rely on bankers to behave honestly in handling our money.
+But what if there was something about their very profession that made them more likely to lie?
+That's the conclusion of an interesting new study, published today in Nature. In it, a group of economists from the University of Zurich had bank employees play a game in which they were effectively rewarded for dishonesty — and those who'd been primed to think about their professional background were significantly more likely to lie during it.
+The study involved 128 employees of an unnamed large international bank — a mix of people from different departments, such as private banking, asset management, investment banking, or human resources — who were split into two groups.
+To start, the control group was asked to answer totally random questions that had nothing to do with banking — they concerned their well-being and habits in everyday life (for instance, "How many hours of TV do you watch each week?").
+The experimental group was asked questions about their job responsibilities or other subjects relating to their profession (for example, "what is your function at this bank?"). The idea was to prime the employees to think about topics related to their job, so they might identify more strongly as bankers.
+Then, people in both groups played a coin-tossing game that's previously been used to measure honesty.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+The game was pretty simple: each person tossed a coin ten times and logged the results with a computer. They were told ahead of time that one result (sometimes heads, sometimes tails) was the "correct" one, and they'd earn $20 for each of them. But to get any money at all, they had to have more correct tosses than a random person drawn from the sample as a whole. So, in essence, they could win up to $200 simply by lying about the results.
+The tosses weren't observed — so the participants could feel free to cheat with impunity — but a very simple analysis of the data would indicate who had cheated. If a group won significantly more than 50 percent "correct" tosses, it included some cheaters.
+The control group reported that 51.6 percent of their tosses were correct. For 640 tosses, this result isn't outside the realm of chance — so either they just got lucky or may have been lying ever so slightly.
+But the bankers who'd been primed to think about banking reported that 58.2 of their tosses were correct — a result that is exceedingly unlikely. You can see this lying particularly clearly in the distribution of their winnings:
+ 
+
+
+
+
+
+
+The control group's winnings (red, at left) match pretty well with the binomial winnings predicted by chance. The experimental group's (red, at right) are significantly higher than predicted by chance. (Cohn et. al.)
+Some of the primed bankers seem to have cheated on just a few tosses, and others lied enough so that they won the full $200. The researchers calculated that 26 percent of the bankers in the experimental group lied at all, and they cheated on 16 percent of their total tosses.
+With this experiment, it's not a huge surprise that some participants would lie: they were entirely unobserved and could cheat pretty subtly (say, reporting seven correct tosses instead of five). Moreover, because they had to beat a random person from the sample to get paid, they might have assumed that other people would be lying, so they had to lie slightly to keep up.
+The more interesting question is why the primed bankers lied so much more than the controls.
+One explanation is that priming people — merely by asking them questions about a topic — can affect their actual behavior by causing them to temporarily identify themselves in a different way. This fits into a field of research called identity economics, which holds that people's economic decisions are swayed by their concept of self.
+getting them to identify primarily as bankers got them to think more about money, and less about honesty
+This is a weird idea, but it's been found before, and in many sorts of fields. In experiments, for instance, Asian-American female college students have been found to perform better on math tests when first asked questions about their ethnic heritage, bolstered by the stereotype that Asian people are good at math. However, when asked questions about their gender beforehand, they performed worse on the tests, swayed by the stereotype that women aren't good at it.
+In this new experiment, it seems that the participants became less honest when they identified as bankers, rather than as regular people. Interestingly, the researchers also asked all participants whether they agreed with the statement "social status is primarily determined by financial success," and the bankers who'd been primed to think about their profession were more likely to agree with it. They were also more likely to report a higher number of successful coin tosses.
+In short, the researchers believe that getting the participants to identify primarily as bankers got them to think more about money, and less about the ethical obligation to not cheat.
+With this experiment, there are a few things to keep in mind. One is that the sample size wasn't huge, though it was large enough to make the results (namely, the fact that the experimental group cheated) statistically significant. But it's possible that the group contained less honest people to start, and that the priming wasn't responsible.
+Even apart from this, it's certainly possible that a totally unknown factor, unrelated to priming, was responsible. But at the very least, the researchers did collect some data that indicated priming actually occurred . They asked participants to complete words with blanks that could be turned either banking-related words or non banking-related words (for instance, _ _oker could become smoker or broker), and the experimental group chose broker significantly more often than smoker, a sign of successful priming.
+The biggest thing to note is that the coin-flipping test used in the study likely makes cheating far easier than in the real world. In reality, committing fraud can lead to getting caught and punished, something that wasn't true in the experiment. Further, cheating in the real world often involves stealing from a known victim, which could make people less likely to do it.
+ 
+
+
+
+
+
+
+Kweku Adoboli, a London equities trader who committed fraud while a UBS. (CARL DE SOUZA/AFP/Getty Images)
+The researchers are looking at this topic in the context of high-profile bank scandals in which bankers committed fraud to make money. "Scandals plagued the financial industry in the last decade," Ernst Fehr, the paper's lead author, said in a press briefing. "These scandals raise the question whether the business culture in the banking industry is favoring, or at least tolerating, fraudulent or unethical behaviors."
+They argue that their results indicate it is. They also performed the exact same experiment with college students and people from other professions (like pharmaceuticals and IT), but getting them to identify with their jobs didn't make them any more likely to cheat. There's something about identifying as a banker, the researchers think, that does it.
+But they also point out that in the control condition (that is, when the participants weren't primed to think about their job) cheating was relatively rare or nonexistent. It's not that these people are dishonest — it's that their job somehow makes them so.
+A possible way to fix this, the researchers say, might be embedding the principle of honesty more strongly in the profession, perhaps by instituting a Hippocratic oath for bankers. Other research, meanwhile, has found that simply reminding bankers of ethical principles on a regular basis makes them less likely to commit fraud.

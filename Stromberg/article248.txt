@@ -1,0 +1,61 @@
+Why Saturn's moon Enceladus is the best place to look for extraterrestrial life
+Scientists have long looked for life on Mars, with little success. Maybe they should try Saturn's tiny moon Enceladus instead.
+Last year, scientists determined that Enceladus has a liquid ocean (underneath a layer of surface ice) that contains organic chemicals, the compounds that serve as the building blocks of life.
+Now, new evidence suggests the third crucial component necessary for life is also present on Enceladus: an energy source. Though the moon is too far from the sun for photosynthesis to occur, in a new study published today in Nature scientists determined that hydrothermal activity is occurring on Enceladus' ocean floor.
+On Earth, life has evolved to feed off the chemical energy released in similar seafloor environments. If this new study is correct, it's very plausible that life could have evolved on Enceladus, too.
+ 
+
+
+
+
+
+
+A photo of Enceladus' surface, taken by Cassini. (NASA)
+Enceladus is covered in ice, but in 2005, when the Cassini spacecraft flew by the moon, it detected plumes of water vapor shooting out through cracks and holes in the surface. Since then, Cassini has found about 100 of these geysers, with traces of nitrogen, methane, salt and other substances along with water vapor.
+For years, the plumes were a mystery, though scientists suspected they signaled the presence of a liquid water ocean underneath the ice. Last year, scientists confirmed that hypothesis: at its south pole, Enceladus has a liquid ocean underneath a 20- to 30-mile-thick layer of ice. It's estimated that the ocean could have about as much water as Lake Superior.
+ 
+
+
+
+
+
+
+A photo of the plumes shooting out of Enceladus' south pole. (NASA)
+Enceladus is very far from the sun, and its surface is very cold, so it's unclear what heat source is melting the ice to make water. On Jupiter's moon Europa — which is also covered in ice with a liquid ocean underneath — the force of Jupiter's gravity squeezes the moon repeatedly over time, creating friction, and thus heat. But calculations indicate that this source alone can't explain the heat we see emanating from Enceladus, leading scientists to suggest other sources, like the decay of radioactive isotopes, could be involved.
+Regardless, the ocean discovery got a lot of people excited. If there's a liquid water ocean with organic chemicals like methane, life could theoretically form. It'd just need a usable form of energy to feed off of ...
+For the new study, a group led by Hsiang-Wen Hsu of the University of Colorado looked at data that Cassini collected on tiny pieces of dust that have been observed flowing into space from the outermost ring of Saturn (called the E ring). Particles that shoot out of Enceladus' geysers are the original source of the material in the E ring, so these dust grains were formed in Enceladus' interior.
+ 
+
+
+
+
+
+
+Saturn's large, diffuse E ring is made up of material shot out of Enceladus' geysers. (NASA)
+The size and chemical makeup of this dust, the scientists determined, indicate that it likely formed as a result of interactions between hot rock and water — that is, hydrothermal activity. "The most clear indication of this is that [the particles are] most made of silica," Hsu says.
+On Earth, silica similarly forms at undersea hydrothermal vents, when chemicals dissolved in hot water crystallize as the water is suddenly cooled when it meets the ocean. Hsu's team used lab experiments to simulate Enceladus' hot springs, and found that to produce silica grains of the size and composition found by Cassini, you'd need rock that's at least 90°C (194°F) to be in contact with the cool ocean water.
+ 
+
+
+
+
+
+
+A diagram showing the formation of particles between the core and the ocean, migrating up to the surface plumes. (Hsu et. al. 2015)
+All this, Hsu says, tells us that Enceladus has a rocky core covered in crevices where water can enter and get heated up. Soon after, the water leaves and rises quickly to the ocean surface before being shot out in plumes (the tiny size of the silica particles indicates they didn't have much time to grow).
+This means if we can sample the plumes with a future spacecraft, we might be able to directly determine whether life has evolved on Enceladus — and perhaps even see a glimpse of it ourselves.
+The reason hydrothermal springs on Enceladus are so exciting is that on Earth, all sorts of life forms have evolved around similar environments.
+In a commentary article accompanying the new study, geophysicist Gabriel Tobie (who wasn't involved in the research) highlights the potential similarities between Enceladus' hot springs and Lost City, a series of hot vents in the extremely cold water of the mid-Atlantic. Previously, other researchers have speculated that these sorts of hydrothermal vents could be the sites on Earth where life originally evolved billions of years ago, feeding off the chemical energy the vents emitted.
+ 
+
+
+
+
+
+
+A hydrothermal vent on the Pacific floor, surrounded by tubeworms and other deep-sea organisms. (Neptune Canada)
+If the new findings are accurate, Enceladus would seem to have an environment in which life can evolve. But there's still another big question to be answered.
+"The other element you need for life is time," Hsu says. "Has the system been stable long enough for life to evolve?"
+It took roughly a billion years for life to evolve on Earth. So if Enceladus' ocean is only 100 years old, for instance, it's hard to imagine any organisms living in it.
+But for all we know, even the emergence of life on Earth could have been a singular accident — an exceedingly unlikely event that might not occur again, even given unlimited time. Or it could be a predictable event that happens whenever conditions are right, and maybe even takes far less than a billion years most of the time.
+To learn more about the age of Enceladus' ocean, we can use Cassini to measure the heat emanating from the moon, and use that data to test different ideas about the mechanisms that might be heating it from the inside. But if we want to know for sure if there's life on Enceladus, we'll have to send another spacecraft — one that's capable of looking for signs of life in the plumes of water vapor, and perhaps even returning a sample of it to Earth.

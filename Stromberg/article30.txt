@@ -1,0 +1,84 @@
+Is GPS ruining our ability to navigate for ourselves?
+I absolutely love GPS. I think the ability to get from one place to another, anywhere in the country, is one of the most remarkable gifts of modern technology. I've often reflected that I wouldn't terribly mind getting rid of my smartphone if I could somehow keep one app: Google Maps.
+But over the many hours I've used it, I've occasionally wondered about a troubling idea. Could our dependence on automated directions be eroding our ability to navigate for ourselves?
+"You're not actively navigating — you're just listening to the voice"
+We don't yet have a clear answer, and scientists haven't yet conducted experiments directly observing how GPS affects the brain. But we have good reason to believe that when we blindly follow GPS for direction, we're not exercising crucial navigational skills  — and many of the scientists who study how the human brain navigates are concerned.
+"I do think GPS devices cause our navigational skills to atrophy, and there's increasing evidence for it," says Nora Newcombe, a Temple University psychologist who studies spatial cognition. "The problem is that you don't see an overview of the area, and where you are in relation to other things. You're not actively navigating — you're just listening to the voice."
+ 
+
+
+
+
+
+
+(Shutterstock)
+"One interesting aspect of navigation — getting from one place to another — is that there's more than one way to solve the problem," says Russell Epstein, a University of Pennsylvania neuroscientist.
+Through real-world and virtual navigation experiments, researchers have found that our navigational strategies generally fall into two groups.
+The first involves the gradual creation of a spatial map inside your brain. As you explore an area, you think about how the streets fit together, the best way to get between various locations, and your current position in it all. Eventually, the map lets you navigate between any two points in the area, even if you've never taken the particular route between them before.
+The second strategy involves a series of landmarks and steps: Turn right at the gas station, turn left at the next stop sign, your office is on the left. It's quick and reliable, but less flexible — it doesn't help you get from your office to a totally new destination, even if it's nearby. This automatic navigation strategy is the one that takes over during your commute to the office, when you arrive and realize you don't remember a single thing you saw on the drive there.
+These two methods might not sound all that different, and we all use each of them, depending on the circumstances. But experiments — which usually involve scanning the brains of people as they navigate virtual environments — show they're rooted in distinct neural systems.
+The spatial map strategy involves activity in an area of the brain called the anterior hippocampus, which is generally used to encode new memories about experiences (called episodic memories). Scientists first discovered this with experiments on rats, but it's since been shown with humans as well.
+Veronique Bohbot of McGill University, meanwhile, has found that the second, direction-based strategy relies on activity in a different area called the caudate nucleus, which is involved in laying down new habits. "This is because you're not actually learning about the environment, but following a sequence of steps," she says.
+ 
+
+
+
+
+
+
+Creating a spatial map involves heightened activity in the hippocampus (top row); using a series of directions involves heightened activity in the caudate nucleus (bottom row). (Bohbot et al. 2003)
+We all know people who are great at navigating and people who are terrible at it. And Newcombe's research has found something surprising about this variation.
+"Everyone can learn a route. Everyone can say, ''If I'm going from X to Y, I go past these things, I make these turns,'" she says. "But people who are 'bad' at navigation don't relate one route to another." They're just as adept at memorizing step-by-step directions, but unlike people who are good at navigating, they're not as skilled at that first strategy — creating mental maps.
+What's more, there's a link between the size of a person's hippocampus and his or her ability to create this sort of map. Newcombe and Epstein, for instance, found that people who are better at quickly creating spatial maps of new areas tend to have larger hippocampi. Eleanor Maguire of University College London has found that the city's taxi drivers (who are forced to memorize some 25,000 streets as part of an legendarily rigorous licensing test) have significantly larger hippocampi than non-drivers and bus drivers.
+ 
+
+
+
+
+
+
+Taxi drivers are required to memorize more than 25,000 streets in central London. (Google Maps)
+This work raised a key question: Were spatially adept people (with larger hippocampi) flocking to the taxi profession in the first place — or was the process of creating a gigantic, detailed mental map of London causing their hippocampi to grow?
+Further research by Maguire indicates that it's actually the latter. She tracked 79 aspiring taxi drivers for four years as they trained for the test, and found that the 39 who'd passed saw significant growth in their hippocampi during that period. Failed drivers saw less growth, and a control group of non-drivers saw less still.
+This points to a key fact about navigational ability: It can change over time. Newcombe has come to believe that some people's ability to create spatial maps isn't some sort of genetically determined trait like height or eye color, but a skill they must improve through work. People who are "bad" at navigation, she says, simply don't exercise this skill frequently enough.
+ 
+
+
+
+
+
+
+(Shutterstock)
+Following turn-by-turn automated directions, meanwhile, doesn't usually involve making this sort of mental map. Instead of looking at a city, orienting yourself on it, and figuring out the best way to go, you listen to one direction at a time, execute it, and move on.
+This could be a problem because, as Bohbot has found, people using the direction-based navigation method show increased activity in their caudate nucleus — the part of the brain that is good at following directions — but reduced activity in the hippocampus, which creates the spatial maps. "You're either using one or the other," she says. "Not both."
+In other experiments, when Bohbot allowed participants to choose their strategy, she found that people who created spatial maps had larger hippocampi to begin with. It seems the relationship works both ways: Creating spatial maps makes people's hippocampi grow, and larger hippocampi make them more likely to create spatial maps.
+But it might also work the other way, creating a negative feedback loop. Millions of us are now equipped with a tool that makes it totally unnecessary to create spatial maps. This makes us less likely to navigate for ourselves — and, Bohbot worries, less good at navigating, leading us to attempt it even less often.
+We don't have direct evidence that using GPS leads to less hippocampus activity or atrophy — most of the brain-imaging research involves people navigating for themselves in a virtual environment.
+But there is reason to believe GPS users aren't creating the same sort of mental maps. One Japanese study, for instance, found that compared with people who were given paper maps and figured out routes for themselves, GPS users later drew maps with less detail and accuracy.
+ 
+
+
+
+
+
+
+(Shutterstock)
+It's tempting to write off navigation as a wholly obsolete skill in today's world, like neat handwriting. GPS devices obviously serve a key purpose, and for those of us who don't enjoy navigating, there's something appealing about turning this responsibility over to them entirely.
+Of course, these devices don't eliminate the possibility of getting lost (this spring, for instance, a French bus driver entered the wrong destination on his GPS, taking 50 Belgian tourists 800 miles in the wrong direction). But even if they did, there's something more at stake.
+One sacrifice is our connection to the environment we travel through. Researchers find that when people rely on GPS directions while driving, they tend to stare at the screen more and the outside world less. As Cornell's Gilly Leshed, one of the researchers, told the Walrus, "Instead of experiencing physical locations, you end up with a more abstract representation of the world." Your memory of your trip is of a route on a screen, rather than the landscape you traveled through.
+Moreover, researchers believe that active navigation strengthens the type of thinking used in all sorts of spatial processes. "It's relevant to more than finding your way," Newcombe says. "It's things like urban planning, and looking at a map to see how resources are distributed, and how better schools are in wealthier parts of town. That's not replaceable by your phone."
+There's even some concern that atrophy in the hippocampus might be a risk factor in age-related dementia. It's still very uncertain, but Bohbot believes that navigating for yourself can stave off this sort of atrophy — and perhaps keep your brain healthier as it ages.
+ 
+
+
+
+
+
+
+(Thomas Imo/Photothek via Getty Images)
+GPS-enabled phones and devices are incredibly useful, and none of these researchers suggest that giving them up entirely is the solution. "It's about using the GPS intelligently," Bohbot says. "If you use it in a way that helps you learn about the environment, then you're exercising your hippocampus. If you're using it in a robotic way, and just listening to the instructions, then you're not."
+To that end, she recently offered a series of tips in the Huffington Post on the best way to use GPS:
+1) Use GPS only when necessary. There's a difference between relying on it to find your way around in a new city and using it as a crutch to get between places in a city you should already know.
+2) Orient yourself before using the turn-by-turn directions. Google Maps offers a bird's eye view before you hit "start" — and this sort of angle is way better at helping you orient yourself than the view once you're in turn-by-turn mode. Bohbot recommends looking at this and consciously identifying the start and end of your route before you begin.
+3) Use GPS on the way there, but not the way back. This will force you to pay attention to your environment even as you follow the GPS instructions, because you know you'll need to remember each turn later on. As you make each turn, look to see how the intersection or highway exit will appear from the opposite angle.
+4) If possible, don't use the GPS while actually driving. If you're somewhat confident in your ability to get somewhere, read the directions off your phone, try to memorize them, then close GPS before you start driving. Even if you need to look at it again later on, this will allow you to learn the route much sooner than if you relied on the GPS fully. "It's using your memory and paying attention to the environment," Bohbot says, "which is a very different process than just following the instructions."

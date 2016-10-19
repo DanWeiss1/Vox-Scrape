@@ -1,0 +1,47 @@
+This gigantic void is the biggest structure we've ever discovered in the universe
+ 
+
+
+
+
+
+
+The relatively cold, empty spot observed (circled at bottom right) is 1.8 billion light years across. (ESA and the Planck Collaboration)
+Around 3 billion light years away from Earth, there's a strange patch of the universe that baffles scientists.
+The mystery is a "cold spot," a gigantic void that has surprisingly few galaxies present. At 1.8 billion light years across, it's the largest structure we've ever discovered.
+As reported by the Guardian, astronomers from the University of Hawaii and elsewhere just published a new survey of this area, which was first noticed in 2004. Previously, all scientists knew was that the cold spot was an area of space from which relatively little energy emanated.
+The new study confirmed that roughly 10,000 fewer galaxies than expected are present across the vast area — which means it has about 20 percent less matter, in total, than other areas of the visible universe.
+ 
+
+
+
+
+
+
+The European Space Agency's Planck satellite, launched in 2009, confirmed the existence of the cold spot with new data in 2013. (ESA)
+In 2004, the cold spot was detected in scientists' measurements of a form of energy called the cosmic microwave background (CMB).
+The CMB is heat energy that constantly careens throughout the entire universe and is left over from the Big Bang. The violent event generated high-energy waves of radiation — which were subsequently stretched out as the universe cooled and expanded over billions of years — and now persist as a low level of microwave energy everywhere we look.
+But as scientists mapped the CMB, they saw a huge area in the direction of the constellation Eridanus with surprisingly little energy: it's about 2.7°K colder than average temperature of the universe. Elsewhere, areas that large only vary by about a degree or so.
+This didn't fit with our models for how the universe formed, since they predict that it should be relatively homogenous everywhere. The most obvious explanation was that the cold spot was simply an unexpected void — an area with relatively few galaxies — but when scientists mapped extremely distant areas of the universe in the direction of the cold spot in 2009, they didn't find any voids. Some scientists suggested the cold spot was the result of errors made by analyzing the CMB data, and others even controversially claimed it might be evidence of a parallel universe.
+ 
+
+
+
+
+
+
+In the new survey, scientists counted galaxies with data collected by the Pan-STARRS telescope (left box) and found a void in the same location where the Planck satellite (right box) had detected the cold spot. (ESA Planck Collaboration)
+To figure things out, scientists led by István Szapudi of the University of Hawaii at Manoa used data collected by a pair of telescopes to create a 3D map of galaxies in the direction of the cold spot. Instead of mapping distant galaxies like before, though, they mapped relatively nearby ones — galaxies that are 3 billion light years away (which isn't much distance in terms of the scale of the visible universe).
+This survey found a gigantic void with about 10,000 fewer galaxies than you'd expect, based on the overall density of galaxies in the universe. Other voids exist, but this is by far the largest one we've spotted so far — and is also the largest structure we've seen in the universe to date.
+Such a giant void could account for the cold spot because as light travels across it, it should lose energy, with its wavelength getting slightly stretched out due to the expansion of the universe over time. This would partly explain why we see a bit less energy coming from that area of the sky in the CMB data.
+However, it leaves an even bigger mystery: why are there so few galaxies in this area to begin with?
+ 
+
+
+
+
+
+
+The Milky Way is part of a threaded cluster of galaxies called Laniakea. (Nature Video, based on Tully et al. 2014)
+It was already known that due to the uneven distribution of matter just after the Big Bang, the universe has lots of filaments and voids: threads of clustered galaxies, surrounded by emptier areas with relatively few of them. But this new supervoid completely dwarfs the scale of all known threads or filaments we've seen anywhere, and challenges scientists' understanding of the formation of the universe.
+"It just pushed the explanation one layer deeper," Roberto Trotta, a cosmologist at Imperial College London, told the Guardian. "Now we have to figure out how does the void itself form."

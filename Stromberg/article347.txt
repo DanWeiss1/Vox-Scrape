@@ -1,0 +1,43 @@
+Parking your car is annoying. DC is implementing a simple change that will make it easier.
+Next year, 1,300 metered parking spaces in downtown Washington, DC, will no longer have a set price. As the Washington Post reports, the city will implement a new variable pricing scheme.
+parking prices will change based on demand data
+This means the parking meters will charge prices that vary over the course of the day, based on demand data (akin to Uber's "surge pricing"). Eventually, the prices will also vary from quarter to quarter. All this is part of an attempt to ensure a minimum number of vacant spots at any given time.
+At first blush, this might sound a bit confusing. But other cities, such as San Francisco, have recently implemented similar schemes — and found that the new system cut down on parking tickets and time spent cruising for empty spots, while increasing revenues.
+"I think this proposal looks great," says Donald Shoup, a UCLA economist who's written extensively about parking policy. If it works in DC, the Gallery Place, Chinatown, Penn Quarter neighborhoods might soon be a bit less congested.
+
+(JaseMan)
+Traditionally, the cost of a given public parking spot in the US has been fixed — whether at zero (i.e. free parking) or at some other amount, to be paid into a standard meter.
+In either case, research has shown, that leads to all sorts of problems.
+There are many downsides of free parking: it forces non-drivers to pay for the municipal cost of maintaining parking spots, it subsidizes the cost of driving and incentivizes everyone to drive more, and it stimulates car-based development that hurts the poor.
+fixed price parking forces people to cruise for spots
+But charging a fixed price for parking has a major downside too. Because the cost of parking can't respond to demand, you get zero empty spots in a crowded area at the very time that the highest number of people want to park there. This leads to something most city drivers are quite familiar with — cruising for spots.
+"When you have people driving around looking for parking, this adds to traffic congestion and carbon emissions," Shoup told me back in June.
+There's no hard data on how big this is of a problem in downtown Washington, DC, but city officials have called the parking experience in the area "one of agony." This video gives you an idea: because of the scarcity of parking, you have lots of vehicles cruising and double-parking as they wait for spots.
+
+And there's data from other cities: in a 15-block area in Los Angeles' Westwood Village, Shoup has calculated, cars travel about 950,000 miles annually just cruising for parking, burning 47,000 gallons of gasoline and emitting 730 tons of carbon dioxide.
+One solution to this problem is the policy DC is now implementing: charging a price for parking that reflects demand.
+Like San Francisco, DC will do this with digital, interconnected parking meters. It will also collect data, via sensors and video cameras, on how many spots are occupied at any given time. Every three months, the price of the spots on each block at various times per day will be adjusted, using an algorithm that sets it high enough to ensure there's roughly one open spot on the block at any given time — but no higher.
+ 
+
+
+
+
+
+
+The area inside the red rectangle will have the new demand-based pricing system. (DDOT)
+The exact formula DC will use isn't yet known, but in San Francisco, whenever more than 80 percent of the spots on a block are occupied in a given time slot, per hour parking prices go up 25 cents for the next six-month period. When less than 60 percent are occupied, the prices go down by 25 cents.
+The theory is that this will cut down on cruising — and data collected on San Francisco's pilot project, which covers 256 blocks, has proven the theory right. One study found that the new variable pricing scheme cut cruising in half, while another determined that the total amount of driving in these areas fell by 30 percent, as people spent less time circling for spots.
+
+In areas of San Francisco, the average time it took to find a spot dropped by five minutes in areas with variable pricing, compared to less than one minute in areas without it. (SFPark)
+DC's new plan will  come with a few other innovations. The data collected will eventually be made available to users online, so they can see how hard parking is to come by (and how much it costs) in a given area. Then, theoretically, they could choose to avoid driving downtown during busy times or simply park in a less crowded adjacent area. New meters will also make it a bit easier to pay, eliminating the need for drivers to print out a receipt and put it on their dashboard.
+ 
+
+
+
+
+
+
+DC will eventually have a system like San Francisco's, which shows real-time parking prices online. (SFpark)
+Shoup likes the new DC plan, with one exception. "My only suggestion for improvement is to use pay-by-plate technology for the meters," he says.
+This means meters that can charge different cars different rates based on their license plates. This would allow the city to charge tourists more than local residents (who are already paying taxes to provide the parking spots). Or cities could charge lower rates to cars that pollute less or take up less precious curb space.
+Further reading: Why free parking is bad for everyone

@@ -1,0 +1,61 @@
+Warning: this Parkinson's drug can make you addicted to gambling, sex, or food
+In 1998, a West Virginia high school teacher named Ann Klinestiver was prescribed a drug called Requip to treat the tremors she suffered from due to Parkinson's disease.
+The drug worked, curing her tremors. But eventually something strange happened: Klinestiver, who'd never been a gambler, suddenly became an obsessive slot machine player. She'd spend 18 hours at a time playing the slots, neglecting all other responsibilities. She lost $250,000 and separated from her husband before she was taken off the drug in 2004 — at which point her gambling obsession disappeared within a week.
+THIS ANALYSIS PROVIDES COMPELLING EVIDENCE THAT THE DRUGS ARE TO BLAME 
+Her doctors suspected this wasn't a coincidence. In the years since, hundreds of other patients that were put on Requip and other dopamine agonists (also prescribed for restless leg syndrome) have been observed to suddenly develop extreme gambling problems, drug addictions, sexual urges, and other habits classified as impulse control disorders.
+For any one patient, it's very hard to determine whether this kind of behavior is really the result of the drug or something that might have occurred anyway. But a statistical analysis published in 2014 in the Journal of American Medicine provides compelling evidence that the drugs are indeed to blame.
+For the study, Thomas Moore and several other psychiatric researchers analyzed more than 1,000 cases where patients reported impulse control disorders after taking any drug, and found a disproportionate number had taken dopamine agonists. On the whole, users of these drugs were 277 times more likely to report impulse control disorders than users of other medications.
+The short-term upshot of this, the researchers say, is that these drugs — still on the market — need to be labeled more carefully, and patients need to be better monitored for adverse effects. But in the long term, this sort of accidental experiment could serve as a fascinating window into how addiction works — and eventually improve our treatment of it.
+"Lots of drugs cause adverse effects," Moore says. "This is an especially interesting case because it involves such a striking set of behaviors: pathological gambling, compulsive shopping, and hypersexuality."
+ 
+
+
+
+
+
+
+(Shutterstock)
+Previously, some case studies had analyzed individual patients and their symptoms after taking these drugs. They noted the abnormally high occurrence of impulse problems in patients: Some estimated that the prevalence of such symptoms might be as high as 22 percent.
+With this sort of thing, though, there's always the risk of apophenia — the observations of patterns in random data. "In many cases, it's very difficult to rule out the underlying condition as a possible causal effect," Moore says.
+To address this, he and colleagues pulled nine years of data from the FDA's Adverse Event Reporting System, which holds reports from doctors and consumers in all countries on negative side effects from drugs. The database included 1,580 reports of impulse control problems resulting from prescribed drugs, split into the following categories:
+ 
+
+
+
+
+
+
+(Moore et al. 2014)
+As it turned out, 710 of these reports — about 45 percent — were linked to one of six dopamine agonist drugs. And a user of one of these drugs was 277 times more likely to report impulse control problems than the average user in the database.
+This tells us it's extremely unlikely the link between these drugs and impulse control problems is imaginary. However, we still can't calculate the exact incidence of this sort of side effect because this isn't a complete database of all the drug's users. 
+This sort of analysis could potentially overrepresent the problem. However, in a commentary appearing alongside the paper, drug safety researcher Joshua Gagne (who didn't work on this study) notes that it could also underrepresent the problem, as it's estimated that only around 10 percent of all adverse events are reported to the FDA database. 
+What's more, the researchers found an especially strong association for two of the six drugs, in particular. Users of pramipexole and ropinirole (the generic name for Requip) were 456 and 152 times more likely, respectively, to experience an impulse control problem. And these two drugs share a similar mechanism, further reducing the chance that this is all random error.
+In a healthy brain, dopamine acts as a crucial neurotransmitter: It gets released by one brain cell and fits into receptors on a neighboring cell, causing it to fire and an electrical impulse to get passed along. Though dopamine is used everywhere in the brain, it's especially important in a few different brain networks, including those involved in motor control and reward-driven behavior, like sex and drug use.
+ 
+
+
+
+
+
+
+Dopamine molecules are released from the end of one brain cell (top) and stimulate receptors on another (bottom), causing an impulse to be passed along. (National Institute on Drug Abuse)
+In the brains of people with Parkinson's, though, the cells responsible for making dopamine slowly die off. Among the effects of this is disrupted motor control, which causes tremors. Dopamine agonists fix this by mimicking dopamine, helping to reduce the symptoms.
+The two types of dopamine agonists most strongly tied with impulse control disorders, however, both act on one particular kind of dopamine receptor (the D3 receptor), which is disproportionately present on neurons involved in certain circuits involved in the brain's reward system. Scientists speculate that in doing so, the drugs stoke this system, increasing the amount of pleasure someone feels when they experience things like food, sex, addictive drugs, or winning while gambling.
+"[They] could, in effect, 'release the brake' on brain mechanisms that would normally inhibit risky behaviors while simultaneously invigorating reward-seeking behaviors," writes Howard Weiss, a Parkinson's researcher, in another commentary accompanying the study.
+For doctors and people who might be prescribed one of these drugs to treat tremors, the lesson of this research is pretty straightforward: Use caution.
+"The FDA should place more prominent, clear warnings on these drugs, and individuals who take these drugs need to be monitored by physicians and caregivers," Moore says. Currently, on official lists of side effects for these drugs, compulsive behavior is not listed. 
+And unlike, say, dizziness or nausea, people don't normally think of excessive gambling as a side effect of a drug, so they're much less likely to report it to doctors or blame it on a new medication. They might even try to hide this sort of thing, thinking it's entirely their fault. These drugs don't cause these strange symptoms in everyone, but they seem to in many, so people taking them should be on the alert.
+ 
+
+
+
+
+
+
+(Shutterstock)
+On a broader level, this case represents a fascinating (though unfortunate) experiment with the human brain and could potentially tell us a lot about a mysterious topic: addiction.
+One of the things that makes this case so interesting is that while other drugs have been found to cause general problems with impulse control — the anti-smoking drug Chantix, for instance, causes increased aggression, along with depression and psychosis, in some people — these drugs are different. They cause one very distinctive set of behaviors: addiction problems, like excessive gambling, eating, sex, and shopping.
+This case represents a fascinating (though unfortunate) experiment
+That means we can link these behaviors to one particular network in the brain and one receptor in it. "For years, people have talked about mental disorders being biochemical imbalances, but truthfully, no one has been able to identify any specific imbalances they can measure," Moore says. "Here's a study where you can actually induce, in a large number of patients, a very specific series of related behaviors based on one imbalance."
+Researchers have begun using this knowledge to try to create anti-addiction drugs, which would interact with the same D3 receptors but do the opposite — effectively reducing the amount of pleasure things like addictive drugs and gambling create.
+Read more: Slot machine science — how casinos get you to spend more money

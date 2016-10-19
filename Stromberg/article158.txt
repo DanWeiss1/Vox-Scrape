@@ -1,0 +1,51 @@
+The cloudiest places on Earth, in one beautiful map
+ 
+
+
+
+
+
+
+Average cloud cover across Earth, from 2002 to 2015. White areas are cloudy; blue areas are not. Click to enlarge. (NASA Earth Observatory)
+Since 2002, NASA's Aqua Satellite has been orbiting Earth, taking thousands of high-resolution photos of our planet in order to help scientists better understand our water cycle and weather.
+Recently, NASA compiled all this data to produce the gorgeous map above — a map of the average cloud cover everywhere on Earth for the last 13 years.
+Dark blue areas see very little cloud cover. White areas are cloudy almost all the time.
+When you look closely, you can see all sorts of interesting patterns going on. For instance, there are a striking number of cloudless deserts all over the planet at roughly 30° north and south:
+ 
+
+
+
+
+
+
+The Sahara, Arabian Desert, and Kalahari are all at roughly 30°N or S. (NASA Earth Observatory)
+These are the result of Hadley cells: winds patterns that blow dry, high-altitude air masses from the equator to the tropics, where they descend, sucking up moisture and preventing cloud formation.
+ 
+
+
+
+
+
+
+(UK Met Office)
+On the flip side, the same patterns form a distinct band of cloudiness at the equator. Here, the same cells blow low-altitude, moist air. When it rises upward, it causes water vapor to condense into clouds.
+ 
+
+
+
+
+
+
+A distinct band of cloudiness along the equator. (NASA Earth Observatory)
+On a more local scale, you can see cloud patterns that closely match mountain formations.
+In the US, for instance, clouds regularly form along the ridges of the Rocky Mountains (and to a lesser extent the Appalachians) because of the air masses that get blown eastward and pushed up the mountains. When that happens, they cool, and can't hold as much moisture — so their water vapor condenses to form clouds.
+ 
+
+
+
+
+
+
+(NASA Earth Observatory)
+Hat tip to Slate's Phil Plait for spotting this fascinating map.
+

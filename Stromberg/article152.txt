@@ -1,0 +1,83 @@
+Bike share users are mostly rich and white. Here's why that's hard to change.
+ This article is part of a series about the past, present, and future of commuting in America.
+Bike share is one of the hottest trends in US transportation, with new systems springing up across the country over the past decade.
+But not everyone uses them. Bike share users skew significantly whiter, wealthier, and more likely to be college-educated than the overall populations of the cities they live in. That's despite the fact that nationwide, the people who bike regularly are actually disproportionately low-income and nonwhite.
+"the people who are using bike share are simply not representative of the wider biking population"
+"The people who are using bike share are simply not representative of the wider biking population," says Adonia Lugo, a researcher who's studied biking habits among low-income communities. This is a glaring issue, critics say, especially in places where public money is being used to help bike share systems break even.
+For bike share advocates, it's raised a big question: can this issue be solved by locating more stations in lower-income neighborhoods and making a more concerted effort to appeal to their residents?
+Lots of cities, like Philadelphia, are betting that they can do this. But there are some real reasons to be doubtful — starting with the fact that for many low-income bike riders, Lugo notes, "bicycling is a transport mode of last resort." Low-income people are biking because they can't afford a car — but that doesn't mean they're excited about investing in a bike share membership.
+ 
+
+
+
+
+
+
+(STAN HONDA/AFP/Getty Images)
+New York — which has the country's largest bike share system by number of stations — doesn't release detailed data on user demographics. But officials have admitted that riders are disproportionately white, male, and high-income — partly because all the current stations are in Lower Manhattan or Brooklyn.
+Washington, DC's bike share users are actually slightly lower-income than workers across the DC region. But they're also dramatically whiter, younger, more likely to be college-educated, and more likely to live in the city.
+ 
+
+
+
+
+
+
+Indeed, this chart actually undersells the disparity, because Capital Bikeshare compares its data to a survey of workers across the DC metropolitan area. Most bikes and stations are located in the District — which is nearly 50 percent black. If anything, it seems as though bike share is serving urban young professionals that might make slightly less money than commuters from the suburbs — not low-income communities.
+These systems, though large, are relatively new. But a recent study of four more well-established systems (in Minneapolis/St. Paul, Salt Lake City, Toronto, and Montreal) found even bigger disparities in the income level, education, and ethnic background of users in all cities.
+ 
+
+
+
+
+
+
+Even die-hard bike share advocates have generally admitted there's a problem here. But most have maintained that it can be solved by some simple changes to the bike share systems.
+Many systems were initially built with stations in places to attract tourists (whose daily fees are much more lucrative than yearlong memberships). They also went for the lowest-hanging fruit — putting stations in wealthier neighborhoods where they believed people were most likely to sign up for memberships — in order to make their books as balanced as possible to start.
+ 
+
+
+
+
+
+
+Lots of bike share systems, like DC's, were partly designed with tourists in mind. (Mr. TinDC)
+Siting stations more equitably, the thinking goes, could clear up the disparities. DC's Capital Bikeshare, for instance, has begun putting more stations in lower-income neighborhoods. It's also implemented monthly payment plans for residents who might be put off by the up-front $85 annual fee.
+In Philadelphia, officials made this a priority when designing the Indego bike share system, which opened last month. "We're not just trying to make bike share attractive to tourists, but to city residents," says Carniesha Kwashie, a city employee. Of the 70 stations active at the start, a third are in low-income neighborhoods, with locations based on input collected at community hearings and from surveys.
+ 
+
+
+
+
+
+
+Philadelphia's new system includes a third of stations in low-income communities. (Indego)
+They've also addressed another big hurdle: the fact that most systems require you to have a credit card to sign up. "You can go into any 7-11 in Philadelphia and complete your bike share membership transaction with cash," Kwashie notes. Based on resident input, the system also allows users to take longer rides for free (most cities' systems charge extra for rides longer than 30 or 45 minutes, but Indego allows for up to an hour).
+And there's one big reason to agree with advocates' idea that with these sorts of fixes, bike share should appeal to lower-income city resident: it's pretty cheap.
+In DC, for instance, $85 buys you as many rides as you want for an entire year, and most cities have similar membership costs.
+Sure, you start getting charged once you go over 30 minutes, but you can prevent that by stopping at a station, checking in your bike, and taking out a different one. Ultimately, this is much, much cheaper than taking the bus, and probably cheaper than owning and maintaining your own bike.
+ 
+
+
+
+
+
+
+(Mr. TinDC)
+As an enthusiastic bike share user, I've really wanted to believe this argument. But I've come around to the idea that bike share might simply not be a useful form of transportation for lower-income groups for a few key reasons.
+The easiest reason to identify is reliability. Bike share might be super-cheap when bikes are available, but on warm-weather days, demand easily outstrips supply and there are no bikes left at many stations.
+This is an especially big problem, my colleague Matthew Yglesias points out, if you work a shift job and absolutely need to be at work on time. Bike share might be cheaper when you can take it, but given that you can't always do so, it might not be worth an up-front $85 investment — especially when you can just buy a cheap bike that's always available.
+The other big problem is less obvious — but perhaps even more important. "There's often an assumption that people who are riding bikes are enthusiastic about it," says Adonia Lugo.  Many bicycle researchers are also bike advocates, who see it as an ideal form of transportation and view bike share as an exciting new way of expanding it.
+"if you're struggling, you might not have access to a car right now, but it's certainly what you're working toward"
+But among the lower-income bicyclists she's surveyed, she says, "a lot of them were on a trajectory towards car ownership. If you're struggling, you might not have access to a car right now, but it's certainly what you're working toward." Borrowing a friend's bike or buying a cheap one might be a short-term transportation solution, but that doesn't mean investing in a bike share membership is particularly appealing.
+If this is true, then putting stations in lower-income neighborhoods and eliminating the need for credit cards might not ultimately do much. In most cities, bigger structural factors make driving the most convenient form of transportation for anyone who can afford it, and lower-income people are understandably striving toward it.
+It's too early to tell whether DC's efforts to bring bike share to low-income communities will work, but there are some reasons to be skeptical. Recently installed stations in low-income areas like Anacostia and the Northeast see some of the lowest usage rates in the entire system:
+ 
+
+
+
+
+
+
+Usage in Anacostia (lower right corner) and DC's Northeast remains extremely low. (Kristine Johnston/Georgetown Public Policy Review)
+All this doesn't mean bike share programs should be eliminated, but it should call into question cities that are spending public money on them to keep them afloat. "A lot of bicycle advocates seem to see bike share as inevitable, and that making it demographically equitable is absolutely necessary," says Lugo. "This might be preventing them from asking some basic questions like, 'Does bike share actually make sense for poor people?'"

@@ -1,0 +1,107 @@
+NASA's sending a probe to Jupiter's moon Europa. It might be home to life.
+On Tuesday, NASA moved a step closer to launching one of its most exciting missions in years — an uncrewed spacecraft to Jupiter's moon Europa.
+In a press conference, scientists announced the nine instruments that will go on the Europa Clipper, a probe the agency hopes to launch sometime next decade. The probe will orbit around Jupiter, allowing it to fly by Europa dozens of times and gather data on the liquid ocean believed to exist under its icy surface.
+"We think Europa has the ingredients for life"
+The reason scientists are so interested in learning more about Europa? "We think Europa has the ingredients for life," Robert Pappalardo, the mission's project scientist, told me in February. "Not just liquid water, but probably the right elements and chemical energy that might permit life, too."
+We're still in the early stages of understanding Europa — and the Clipper won't directly look for life. Instead, it'll gather data on Europa to help scientists figure out if it's habitable, while future missions might gather samples and reveal whether alien life exists in our solar system.
+ 
+
+
+
+
+
+
+Europa (bottom left), the moon, and Earth, to scale. (CWitte)
+Europa is the fourth-largest of Jupiter's 67 moons and is roughly the size of our own moon. It was discovered by Galileo in 1610 and is named after a figure from Greek mythology.
+It's believed that Europa has an iron core, covered by rock similar to the rock that makes up Earth's crust. Because of Europa's distance from the sun (on average, 484 million miles, which is more than five times as far as the Earth is from the sun), it is very, very cold. Its outer surface is made up of ultra-cold ice: -260°F at the equator, and -370°F at the poles.
+Under that ice, though, most scientists believe there's a liquid ocean. That's what makes a mission to Europa so intriguing — because, as NASA planetary scientist Kevin Hand says, "if we've learned anything about life on Earth, it's that where you find the liquid water, you find life."
+ 
+
+
+
+
+
+
+An illustration showing the calculated volume of water on Europa, compared to Earth. (Kevin Hand (JPL/Caltech),  Jack Cook (Woods Hole Oceanographic Institution), Howard Perlman (USGS))
+In the 1970s, calculations suggested that Jupiter's gravity might provide enough tidal energy (more on that below) to warm up Europa's interior and create a liquid ocean under its ice. When the Voyager spacecraft flew by Europa in 1979, it revealed a cracked, icy surface with very few craters — indicating that the ice was continually being recycled, a piece of evidence that supports the idea of liquid underneath.
+Then, in 1997, when the Galileo probe flew by Europa, it found that the moon had a magnetic field, likely caused by the circulation of a saltwater ocean. Subsequent work has indicated that in some places, this subsurface ocean is actually leaking through the ice, and calculations indicate the ocean could have two to three times as much total water as all of Earth's oceans.
+What's more, there's reason to believe that Europa could have some of the other ingredients necessary for life, too. It's constantly bombarded by high-energy ions (from Jupiter's magnetic field) and sulfur (from volcanic activity on another of Jupiter's moons, Io). Certain salts and hydrogen peroxide are also believed to be on the surface. If all of these chemicals could make their way through the ice into a liquid ocean, they could lead to the sorts of chemical reactions in the water that would provide food for microbial life forms.
+Although Europa is five times as far from the sun as Earth and -260°F at the surface, scientists believe it probably has a liquid ocean underneath the ice because of the way Jupiter's gravity squeezes the moon over time.
+For example, when our moon orbits around Earth, its gravity tugs slightly on our oceans, causing tides. (And the Earth tugs on the moon, as well.) The same phenomenon happens on Europa, with Jupiter's gravity tugging on Europa. Except in Europa's case, the pull is much more powerful — because Jupiter is more than 25,000 times as massive as our moon.
+ 
+
+
+
+
+
+(NASA/JPL-Caltech)
+
+
+
+(NASA/JPL-Caltech)
+An animation shows how Europa is squeezed as it orbits Jupiter. (NASA/JPL-Caltech)
+How does that gravitational pull lead to heat? Europa's orbit around Jupiter is elliptical, so at times it's a bit closer to the planet and at other times it's a bit farther. This means the strength of Jupiter's gravitational pull on Europa varies.
+As a result, "Europa kind of gets squished and squashed like a rubber ball," says Hand. "That results in friction, which generates heat, which is part of what we think helps maintain that liquid water ocean beneath the icy shell."
+ 
+
+
+
+
+
+
+An artist's impression of Europa's subsurface ocean. (NASA/JPL-Caltech)
+Apart from water, scientists believe two other main ingredients are necessary for life: an energy source and organic compounds (that is, molecules built from carbon atoms). And there are two basic hypotheses for how energy and organics might make it to Europa's oceans.
+One source might be Europa's surface. We know there are high-energy ions, sulfur, and hydrogen peroxide there (which might provide energy), and it's possible that collisions with asteroids may have delivered organics — though it's not certain.
+Besides water, life needs an energy source and organic compounds
+If the ice is thin enough to allow these substances to migrate through to the water, they could allow chemical reactions necessary for life. But the thickness of the ice still isn't known. Models suggest it could be anywhere from one mile to 20 miles thick. There's indirect evidence that some water is leaking through, perhaps through cracks or plumes of vapor, but that water might come from smaller reservoirs, rather than the ocean itself.
+Another possibility is that energy and organic compounds might come from Europa's interior. "Europa's seafloor could potentially look somewhat similar to our own seafloor, with hydrothermal vents and geological activity," Hand says. On Earth, scientists have discovered diverse ecosystems living off these seafloor vents and the chemicals they emit — so it's conceivable that the same phenomenon might occur on Europa.
+ 
+
+
+
+
+
+
+A rendering of the Europa Clipper. (NASA/JPL-Caltech)
+For years, scientists have advocated for a mission to Europa, and recently it's attracted bipartisan political support. It received $30 million in Obama's proposed 2016 NASA budget, and a recent House bill would provide even more — $140 million for 2016.
+NASA is now moving forward in developing the instruments and spacecraft, and hopes to launch the craft sometime in the 2020s.
+A few years after the launch, the probe will enter Jupiter's orbit, then fly by Europa an estimated 45 times — at distances ranging from 15 to 60 miles — over the course of three or so years. (The solar-powered craft will be orbiting Jupiter, rather than Europa, because Jupiter's much larger mass means it's easier to fall into its orbit — allowing the probe to carry much less fuel.)
+ 
+
+
+
+
+
+
+By orbiting Jupiter, the probe could fly by Europa dozens of times. (NASA/JPL-Caltech)
+The mission will not definitively tell us if Europa has life — largely because a "life detector," as scientist Curt Niebur pointed out during Tuesday press conference, doesn't currently exist. We're not certain what life would look like on another world, and don't know what we'd measure to test for it.
+However, we do have a rough idea of the right conditions that might allow life to evolve, and the Clipper will carry a variety of instruments to see if Europa has them. A magnetometer will allow scientists to calculate the depth and saltiness of its ocean, while radar and a heat detector will reveal the subsurface structure of the ice, showing how it might turn over throughout time, perhaps providing chemical energy and organics to the ocean.
+The Clipper won't carry a "life detector" — because one doesn't currently exist
+An ultraviolet spectrograph, meanwhile, will search for plumes shooting out of the icy surface, allowing mission scientists to target them on subsequent flybys. The dust and gases contained within these plumes might originate on the ocean bottom, so sampling them with the craft's mass spectrometer could indicate the presence of hydrothermal vents on the seafloor (more on those below), like the ones believed to exist on Saturn's moon Enceladus. Meanwhile, an infrared spectrometer will reveal the composition of the brown streaks on Europa's surface that likely leak out of the ocean.
+Recently, there's been some speculation that additional money for the mission could mean the probe would carry a lander. It's still uncertain, but the current design does not include a craft that would land on Europa's surface.
+However, high-resolution cameras will map Europa's surface for a potential follow-up mission in the future. "Someday, we want to send a lander to the surface, but right now we don't have good enough data on it," Pappalardo says. If Europa continues to look like a promising place to find life, a lander might someday drill through the ice and directly sample what's beneath.
+ 
+
+
+
+
+
+
+Hydrothermal vents on Earth's ocean floor are the best analogue for what Europa's ecosystems might look like. (NOAA)
+The one thing we know is that if life exists on Europa, it's fueled by chemicals — not sunlight, like the majority of life on Earth. That's because so little sunlight reaches Europa that it'd be blocked out by the thick layer of ice, and it's far too cold for anything to live outside of it.
+If life has evolved on Europa, the ecosystems that surround hydrothermal vents on Earth's ocean floor might give us the best idea of what it might look like. These vents, which emit heated water and dissolved chemicals, feed chemosynthetic bacteria, which in turn feed diverse groups of animals that are much different from those seen closer to the ocean's surface.
+Still, there's obviously no guarantee that life on Europa looks anything like this. There might only be single-celled microbes. Or there might not be life at all.
+Even if the basic ingredients for life end up being there, certain conditions might be wrong — the water might be too salty to allow for certain basic chemical reactions, for instance. Additionally, we have no idea how hard it is for life to evolve: we know it happened once, on Earth, but it took billions of years. So maybe the odds are against it happening under any conditions.
+It's Europa Report, a 2013 film that actually gets the science of a Europa mission right — and gives you a great idea of what the dangers of a human mission there might be. Here's a trailer:
+
+ 
+
+
+
+
+
+
+Saturn's moon Enceladus could have life, too. (NASA/JPL/Space Science Institute)
+Europa isn't the only ice-covered moon believed to have a liquid water ocean underneath. We've actually spotted water vapor plumes jetting out of Saturn's moon Enceladus, and subsurface oceans are also suspected to exist on Jupiter's moons Ganymede and Callisto, Saturn's moon Titan, and a number of dwarf planets scattered throughout the solar system.
+This is one of the most exciting aspects of the idea of life on Europa. If it's evolved there, it's quite plausible that it might have evolved on these other bodies, too. And given the increasing frequency with which we're finding planets in other solar systems, life on Europa would further increase our expectations for how many life forms might exist throughout the galaxy.
+Read more: "Onward to Europa," an excellent Aeon feature about the allure of exploring Europa

@@ -1,0 +1,65 @@
+Bike lanes have actually sped up car traffic in New York City
+Since 2007, New York City has added 31 miles of protected bike lanes — that is, lanes protected by a physical barrier, such as a row of parked cars or a curb.
+The main point of building protected lanes was to make biking in the city safer. But when the NYC Department of Transportation recently studied the impact of the lanes, they found a secondary benefit: on several different avenues in Manhattan, the lanes actually helped speed up car traffic.
+on columbus and 8th ave., car speeds increased significantly after bike lanes went in
+The new report, spotted by Eric Jaffe at CityLab, found that on Columbus and 8th avenues, the time it took a car to traverse a specific distance dropped significantly after the installation of the lanes, while on 1st Avenue, it increased only slightly. At the same time, rates of bicyclist injuries declined steeply on all three streets, along with Broadway, 8th, and 9th avenues.
+So how did the bike lanes speed up traffic? It seems that two factors were important.
+One is that, for the most part, driving lanes weren't actually eliminated when they bike lanes were built — they were simply narrowed. Additionally, the design of the bike lanes included a dedicated left-turn lane at most intersections, allowing cars to wait to turn left without holding up traffic.
+The study looked at traffic speeds for three different stretches of avenue with protected bike lanes built either in 2010 or 2011: 1st Ave. between 14th and 34th streets, 8th Ave. between 23rd and 34th streets, and Columbus Ave. between 77th and 96th streets.
+On 8th Ave., on average, it took cars 14 percent less time to cover the 11 blocks after the bike lanes were installed. On Columbus, average travel times during rush hour dropped 35 percent.
+ 
+
+
+
+
+
+
+(NYC DOT)
+On 1st Ave., the report used average taxi speeds as a proxy for traffic, and there was a very slight increase in congestion: their speeds went down, from a little over 13 miles per hour to a bit over 12.
+The report also looked at average taxi speeds for the entire Manhattan Central Business District (an area that includes all of Manhattan up to 86th Street). On the whole, motor vehicle speeds have remained pretty much the same since 2007 — a period during which bike lanes have been installed on these three avenues and several others. It seems that the widespread creation of bike lanes certainly isn't slowing down traffic in Manhattan, and at least in a few isolated cases, is actually speeding it up.
+You might imagine that these bike lanes decreased congestion by cutting down on the number of cars on the road. But if that played a role, it was very slight: on Columbus Ave., the DOT counted cars, and saw only a very slight drop in overall volume during morning rush hour, when travel times declined by 35 percent. Instead, it seems that a pair of design decisions are responsible. 
+One is that, in most places, creating bike lanes didn't actually require the elimination of driving lanes — they just had to be narrowed a bit.
+Here's a diagram of 8th Ave., before and after the bike lane went in. In both cases, there are four full-time driving lanes, although they had to be narrowed by a few feet to accommodate the bike lane (and a parking lane that had been for driving during morning rush hour was converted to full-time parking).
+ 
+
+
+
+
+
+
+(NYC DOT)
+Although narrower streets can slow traffic, that doesn't seem to have happened here — perhaps because traffic in this area was crawling at around 11 miles per hour to begin with.
+Instead, the narrower lanes were capable of handling just as much traffic, and one major improvement to intersection design helped them handle more, while also letting bikes travel more safely.
+This improvement was something called a pocket lane for left-hand turns: a devoted turning lane at most intersections that takes the place of the parking lane, which gets cars out of the way of moving traffic when they're making a left. 
+ 
+
+
+
+
+
+
+A left turn pocket lane on 8th Ave. (SatansLaundromat)
+Interestingly, the pocket lanes aren't primarily designed to speed up the flow of traffic — they're designed to let bikes and cars coexist more safely. Intersections with them include specialized turn signals that alternate between letting bikes ride straight or cars turn left, so there's little chance of a car turning into a bike.
+Data in the new report confirm that this design — along with the construction of the protected bike lanes as a whole — did achieve another primary objective. In general, biking on these streets has become much safer.
+This chart shows the number of accidents and injuries in the three years since protected lanes were completed on Broadway, 1st, 2nd, 8th, 9th, and Columbus Avenues, compared to the three years beforehand:
+ 
+
+
+
+
+
+
+(NYC DOT)
+The total number of accidents that caused injuries — whether between multiple bikers, or between bikers and cars or pedestrians — declined by 17 percent, and injuries to car occupants and pedestrians declined even more significantly.
+Injuries to cyclists have stayed pretty much constant, but keep in mind that this is the raw number of injuries, not the injury rate — and during the same period, biking has become significantly more popular.
+For a rate, the DOT calculates a metric they call the New York City Cycling Risk Indicator: the number of deaths or serious injuries to cyclists divided by the total number of bikers estimated to be on the street. When you take the increase in bikers into account, the risk of death or serious injury has declined on 7 of the 8 avenues with new protected bike lanes installed:
+ 
+
+
+
+
+
+
+(NYC DOT)
+This could be a result of couple factors: the new protected bike lanes, but also the sheer fact that, in general, getting more bikes on the road seems to increase biker safety.
+In either case, though, this report comes to the happy conclusion that making city streets safer for cyclists doesn't have to slow them down for drivers. When cycling critics rail against the growth of bike lanes, this is something to keep in mind.

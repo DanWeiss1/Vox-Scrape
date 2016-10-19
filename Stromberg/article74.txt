@@ -1,0 +1,74 @@
+New Horizons' photos from the Pluto flyby are finally here — and they're amazing
+ 
+
+
+
+
+
+
+A close-up photo of Pluto's surface, taken by New Horizons during the flyby. (NASA/JHUAPL/SwRI)
+New Horizons' Pluto flyby photos are finally here.
+
+While the probe previously sent back photos taken during its approach to Pluto, NASA just released the first images taken during the flyby itself. The photo above is a close-up taken near the heart-shaped, light-colored region of Pluto seen in previous photos (which scientists have nicknamed Tombaugh Regio, after Clyde Tombaugh, who discovered Pluto in 1930).
+The image at top shows mountains that are roughly 11,000 feet high, and likely made of water ice. Surprisingly, it doesn't include a single crater. Together, these suggest Pluto might be home to ongoing geologic activity, generating fresh terrain over time.
+In a Wednesday press conference, scientists also revealed a high-resolution photo of Pluto's moon Charon, which is covered in cliffs and ridges:
+ 
+
+
+
+
+
+
+(NASA/JHUAPL/SwRI)
+They also released the first-ever photo of Pluto's tiny moon Hydra, which appears to be covered in water ice:
+ 
+
+
+
+
+
+
+(NASA/JHUAPL/SwRI)
+It's all particularly amazing given that, before this mission, the best photos we had of Pluto showed it as a blurry blob:
+(NASA/ESA/M. Buie)
+The dwarf planet was simply too small and too far away for us to photograph clearly. New Horizons has changed that, and it has hundreds more photos of Pluto and its moons to be sent back over the coming weeks and months — transforming it from a distant point of light into a new world.
+
+After nine years and three billion miles of travel, New Horizons flew through the Pluto system in less than an hour — because it wasn't carrying nearly enough fuel to slow down or enter orbit. Naturally, scientists wanted to maximize the amount of images and data the probe could collect during this time.
+To do so, a few different aspects of New Horizons' design necessitated breaking contact with Earth. Among other things, the probe has a fixed antenna (so when it pivoted to face Pluto and its moons, it couldn't simultaneously point the antenna back towards Earth) and has limited power and computing capability. All this necessitated a 22-hour period of radio silence surrounding the flyby.
+ 
+
+
+
+
+
+
+(JHU/APL)
+Early this morning, New Horizons began sending photos, but even traveling at the speed of light, it takes about 4.5 hours for those signals to reach Earth. On top of that, the huge distance means the signal is extremely faint, and must be transmitted very slowly: an image that's 1024 pixels wide takes about 42 minutes to come through.
+The probe has now sent back a few photos, but it'll take 16 months for it to relay all of its images and scientific data.
+ 
+
+
+
+
+
+
+(NASA)
+Scientists expected Pluto to be covered in craters — the result of many asteroid impacts over time. Instead, the first high-resolution image they examined showed no craters, but surprisingly tall mountains.
+Normally, planets and moons that don't have craters are geologically young, with volcanic or tectonic activity swallowing terrain and creating new landscapes over time. Mission scientists estimate this area is no more than 100 million years old, which is rather young compared to the 4.5 billion years or so Pluto has been in existence.
+This activity could also explain the presence of the mountains. But it'd need to be driven by some sort of energy source. In most planets and moons, it's the result of heat left over from the object's formation, or tidal heating — in which a moon is squeezed by the gravity of the larger planet that it orbits, generating energy.
+Neither of these are likely going on inside Pluto, spurring the scientists to come up with alternate hypotheses (such as the possibility that there's a subsurface ocean that's gradually freezing over time, releasing heat into the crust). "We now have an isolated small planet that's showing activity after 4.5 billion years," Alan Stern, the mission's principal investigator, said during the press conference. "This sends geophysicists back to drawing boards."
+ 
+
+
+
+
+
+
+(NASA/JHUAPL/SwRI)
+The spacecraft also collected lots of data on Pluto's temperature, atmosphere, and interactions with the solar wind (the charged plasma released by the sun), as well as the five moons. Combined with the images, they'll paint a complex portrait of a long-mysterious planet.
+Already, mission scientists have found a surprisingly varied landscape: some heavily cratered, seemingly-ancient areas, along the lighter, smoother regions seen today. They've also determined that Pluto's especially pure nitrogen atmosphere is gradually leaking out into space — at rates that are somewhat higher than expected.
+Pluto (left) and its moon Charon shown in false color, to highlight differences in surface materials. The photo was taken July 13.
+(NASA/APL/SwRI)
+Meanwhile, scientists confirmed that Pluto has ice caps made of frozen methane and nitrogen. As the dwarf planet comes slightly closer to the sun during its 248-year orbit, these ices warm up and turn into gases; when Pluto cools down, they likely fall back to the ground as snow.
+They've also made the first precise measurement of Pluto: it's 1,473 miles in diameter, a bit larger than previously estimated. This makes it slightly bigger than the dwarf planet Eris, and the largest object in the Kuiper belt, a region filled with chunks of rock and ice that orbit the sun past Neptune.
+But scientists obviously still have a ton of questions about Pluto's geology, atmosphere, and surface features. They'll hope to answer them with the mountain of data that will come back gradually over the next 16 months.

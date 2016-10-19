@@ -1,0 +1,32 @@
+Why your office is so cold: Its AC system is designed entirely for men
+If you work in an office, there's a good chance it's absurdly over-air-conditioned during the summer. But you might not be aware of one infuriating reason why: The formulas used to design and calibrate most heating and cooling systems are based on a single estimate of the metabolic activity of a 40-year-old, 155-pound male.
+This formula for the human body's level of comfort, created in the 1960s, made no attempt to take women or people of different sizes or ages into account — and hasn't been touched for decades.
+
+A new study published today in Nature Climate Change finds that women have much lower metabolic rates than the standard used in the formula — meaning they generate less heat — and that, as a result, it overestimates how much air conditioning they prefer. "This leads to uncomfortable people and is a waste of energy," says Boris Kingma of Maastricht University, the study's lead author.
+ 
+
+
+
+
+
+
+(Shutterstock)
+Heating or cooling a large public building isn't as simple as setting the thermostat to 70°F and walking away. People have different temperature preferences, and there are all sorts of complicating factors: Some parts of the building will be cooler than others, and people themselves can generate lots of heat, depending on what sort of activity they're doing.
+In theory, industry standards require that 80 percent of a building's occupants find the temperature acceptable at any given time. To reach this threshold, engineers and building managers usually use a formula called Predicted Percentage of Dissatisfied (or PPD). It was developed during the 1960s by Danish researcher P. Ole Fanger, based on experiments with about 1,300 students.
+The formula takes in a number of variables: a building's humidity, the movement of air within it, the amount of clothing people are wearing, and their metabolic rate (that is, the amount of heat produced by each person). It then uses these, along with some thermal physics equations and the survey data collected by Fanger, to predict what percentage of people will find a particular temperature satisfying.
+There's a huge problem with PPD: Contrary to Fanger's belief, people's sex, age, and size plays a big role in determining what temperatures they find comfortable.
+PPD doesn't take any of this into account, and its metabolic rate is solely defined as the average energy production of a 155-pound man. But as far back as 1985, research showed that the average woman generated much less heat (i.e., had a lower metabolic rate) than the average man. This goes a long way toward explaining the many subsequent studies that showed women were more likely to find rooms too cold than men.
+For the new study, Kingma and colleague Wouter van Marken Lichtenbelt had women conduct light office work and measured their actual metabolic output (based on skin temperature). The results were 20 to 32 percent lower than the standard used in the formula.
+Not surprisingly, the temperatures these women found acceptable didn't match up with what the formula predicted, either. But when their actual metabolic rates were used — rather than the standard one that's based on men — their preferences fell neatly into the zone predicted by the formula.
+ 
+
+
+
+
+
+
+(Shutterstock)
+PPD isn't the only thing that determines a building's temperature. It's used in designing heating and cooling systems and for setting baseline temperatures. But if people are complaining that a space is too hot or cold, most buildings allow office managers to adjust accordingly.
+What's more, there are plenty of other factors to blame for overcooled (or overheated) offices. Large spaces that have just a few thermostats will inherently have trouble sensing and adjusting temperatures. Big offices also mean variability: Most people might be comfortable, but if you're sitting next to a vent that's meant to cool a large space, your desk might be absolutely frigid.
+Still, it's pretty absurd that the fundamental formula used to predict people's comfort inside buildings is based wholly on the male body. And there's lots of anecdotal evidence, at least, that offices remain at the cooler temperatures suggested by the formula, against the wishes of female workers. Kingma says it's time for a new formula that uses measured metabolic rates instead of a single standardized one, and that can be more finely adjusted based on the occupants inside the building.
+What might be the craziest about all this is that even though it wasn't entirely unknown that PPD is based on male metabolic rates, few people working in the field are aware of it. "For the indoor climate professionals I have spoken with," says Kingma, "it's an eye-opener."

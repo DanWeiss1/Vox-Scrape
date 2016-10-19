@@ -1,0 +1,61 @@
+The Rosetta probe discovered that comet 67P/C-G is light as a cork
+In November, the European Space Agency's Philae probe became the first spacecraft to ever land on a comet when it touched down on comet 67P/C-G,
+This was a huge achievement. But the Rosetta orbiter — which carried Philae to the comet and has been studying it since August — has actually provided much more valuable scientific data.
+Rosetta carries 12 different instruments, and will end up collecting more than a year's worth of data, providing a longer look at a comet than we've ever had before. This will help us better understand how the comet transforms as it nears the sun and heats up — and by studying comets, which formed as far back as 4.57 billion years ago, scientists hope to learn more about the creation of the Solar System.
+Today, in a special issue of Science, researchers published a series of articles detailing some of the probe's observations so far. Here's what we've learned.
+ 
+
+
+
+
+
+
+(N. Thomas et al., Science, Vol347, Issue 622)
+Using Rosetta's camera, scientists mapped the comet's entire surface in high resolution. This revealed all sorts of interesting surface features: dust dunes and ripples, as well as impact craters buried in dust, and crevices that reveal how gravity and wind help to shape its surface.
+The images even revealed cracks that could be signs of tectonic activity inside the comet, though we don't know for sure.
+ 
+
+
+
+
+
+
+(N. Thomas et al., Science, Vol347, Issue 622)
+Building 3D models of the comet with the same infrared data, scientists were able to calculate its density and found that it's relatively light, like cork. Overall, its porosity (a measure of how much of its volume is made up of empty spaces) is 70 to 80 percent.
+One of the reasons the comet is so light is that there are a number of large pits, visible on the surface, and likely more below:
+ 
+
+
+
+
+
+
+(H. Sierks et al., Science, Vol347, Issue 6220 (2015))
+It's unclear whether these formed as the result of pressure building up inside the comet, leading to explosions, or pockets of ice sublimating (turning to vapor) as the comet passed near the sun during previous orbits. Scientists also don't know if the comet's two attached lobes came from two different rocks that somehow combined, or of a larger, rounder rock that was eroded.
+All comets are chunks of ice and rock, and it was previously announced that Rosetta had detected organic compounds — the basic building blocks of life — on comet 67P/C-G.
+New research shows that the comet's surface is even more rich in organic compounds than thought, but has relatively little ice. This is especially true in regions of the comet hit by sunlight, and by tracking the release of water over time, scientists found that the sun's warmth causes the ice to sublimate pretty thoroughly. Right now, the most water is coming from the comet's "neck," which connects the two lobes.
+As a result of the opaque organics and lack of reflective ice, the comet is extremely dark: while the Earth reflects 31 percent of the light that hits it, and the Moon reflects 12 percent, the comet only reflects six percent.
+ 
+
+
+
+
+
+
+A comparison of the brightness of Earth, the Moon, and the comet — not to scale. (ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/RSSD/INTA/ UPM/DASP/IDA and Gordan Ugarkovich (Earth); Robert Vanderbei, Princeton University (Moon); ESA/Rosetta/NAVCAM (67P/C-G))
+As comets near the sun and heat up, their contents begin to vaporize, shedding a tail of dust and gas. Studying the material given off by comet 67P/C-G, though, revealed that there's roughly twice as much dust as gas — somewhat higher than expected.
+This is interesting, because the comet's composition can be an indication of the composition of the primordial Solar System at the time it formed. So this data can provide hints about how the whole Solar System — including Earth — was created.
+Additionally, other research found that the rate of gas emission from the comet has varied significantly over time. This could be an effect of a heterogenous makeup — with pockets of different minerals here and there — or of temperature fluctuations under the comet's surface.
+ 
+
+
+
+
+
+
+A composite of the photos taken by Philae on the comet's surface. (ESA)
+This finding was published early, last month, but is also part of the new package of studies.
+Using an instrument called ROSINA, the researchers chemically analyzed the water molecules coming off the comet as it heats up. They found that the ratio of normal water atoms to a slightly different form of water (deuterium atoms, which have an extra neutron) is not the same as that of water on Earth — the comet water has about three times as much deuterium.
+This matters because many scientists hypothesize that the water on Earth was originally delivered here by comet impacts. The new data doesn't rule out that idea, but it does make it seem a bit less likely, and makes other hypotheses (like the idea that asteroids delivered our water, or that it was once locked within minerals in the Earth's crust) seem more plausible.
+
+Correction: This post originally said Rosetta mapped the comet with an infrared camera, when it actually used visible light. We regret the error.

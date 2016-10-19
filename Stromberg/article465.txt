@@ -1,0 +1,12 @@
+Someone at a Russian state TV network edited Wikipedia to blame the MH17 crash on Ukraine
+Early Friday morning, someone at VGTRK — Russia's state-run TV and radio network — made a conspicuous edit to the Russian language Wikipedia article about airplane crashes.
+Previously, someone with an IP address in Kyiv, Ukraine's capital, edited the article to say that MH17 was taken down "by terrorists of the self-proclaimed Donetsk People’s Republic with Buk system missiles, which the terrorists received from the Russian Federation."
+Within an hour, someone with an IP address that puts them at VGTRK's Moscow offices changed it to say "The plane was shot down by Ukrainian soldiers."
+This exchange was spotted by a new Twitter bot called @RuGovEdits, which was inspired by @congress-edits, a bot that tweets whenever an anonymous Wikipedia edit is made from a Congress IP address.
+Статья в Википедии Список авиационных катастроф в гражданской авиации была отредактирована ВГТРК http://t.co/peZ60q07Fj
+
+
+
+Translation: "Wikipedia article List of aircraft accidents in civil aviation has been edited by VGTRK."
+This edit fits in with Russian president Vladmir Putin's previous comments about the crash, which he's blaming on Ukraine, and VGTRK is well-known as a mouthpiece of the Russian government.
+h/t GlobalVoices

@@ -1,0 +1,52 @@
+What aliens can teach us about global warming
+There's no doubt that global warming on Earth is a human-driven trend.
+But what if the tendency of intelligent species to alter their planet's climate was a more common phenomenon than we think? In the vastness of the universe, it's very likely that other life forms have also evolved to an extent that they altered the atmosphere of their planets. If we looked at climate change as a predictable consequence of intelligent life — and a process that tends to follow specific patterns — we might be better equipped to figure out how to stop it.
+what if climate change is a predictable consequence of intelligent life?
+That's the idea put forth by astrophysicist Adam Frank and astrobiologist Woodruff Sullivan in an interesting new paper. "It's a change in perspective," Frank says. "What we're saying is that what our species is going through right now, from an astrobiology perspective, is probably not unique. It probably happens all the time — and we can learn from that."
+It's a provocative way of looking at a familiar problem. I recently spoke to Frank to hear about the concept in greater detail.
+"The first question you want to ask is, 'How many intelligent species have there ever been?'" Frank says.
+Lots of people have asked this question before. The Drake equation multiples a number of factors (such as the fraction of planets in existence that might be habitable, the fraction of habitable planets that will actually spawn life, and the fraction of those planets that will spawn intelligent life) to try to answer it.
+Frank and Sullivan used the equation to try estimating the region of space you'd need to look at to find 1,000 planets will intelligent life. "We found that even if you're very pessimistic about how often life evolves on a planet, or how often it gets to where we are and produce energy-intensive technology — even if you think you need to sort through 1,000 trillion planets to get one that has evolved intelligent life — there would be 1,000 instances of it in just ten percent of the radius of the visible universe," Frank says.
+Of course, this is an enormous area, far more vast than we could ever hope to explore. And some of these species may be so different from us that the comparison can't tell us anything useful. But it still means that if all our assumptions about planets and life are correct, other intelligent species have arose many, many times throughout history.
+ 
+
+
+
+
+
+
+Exoplanet Kepler-20e. (NASA/Ames/JPL-Caltech)
+This step isn't quite certain, but Frank and Sullivan believe that developing sophisticated technologies requires the use of energy-intensive processes that effectively multiply the work of individuals within a species. The industrial revolution, in other words, couldn't have happened without coal.
+And the energy-intensive processes on other planets, they argue, likely tipped the balance of those planets' atmospheres, just as greenhouse gas emissions have tipped ours.
+'i think with any species that gets to this point, you're going to get climate change'
+"I think we can show that with any species that gets to this point, if they're on the right kind of planet, you're going to get climate change," Frank says. He and Sullivan plan to try to demonstrate this in future work.
+It might seem like a strange idea, because we're so used to thinking of climate change as a uniquely human process. But, says Frank, "two billion years ago, when plants evolved, they oxygenated the atmosphere and dramatically changed its composition." The idea, in essence, is that if any species utterly dominates a planet's ecosystem, it'll be prone to altering the thin envelope of gas that surrounds it.
+This certainly doesn't mean we can't do anything about climate change now — it just means, according to Frank, that some amount of it was inevitable for us if we wanted an Industrial Revolution. "It's not an inconvenient truth — it's an obvious truth," he says. "Hundreds of years ago, if you knew how the atmosphere works and knew the Industrial Revolution was about to occur, you could have predicted that we were scheduled for climate change."
+The reason Frank and Sullivan were interested in figuring out how much space you'd need to encompass 1,000 intelligent civilizations is that with a large sample size, you can start to look for patterns in the way they alter their planets. This is the basis of any sort of science, and it's the basic idea of their approach.
+"You want enough species trajectories to take an average of," Frank says. "Ultimately, that could let you come up with a basic model for how a species interacts with a planet." In theory, for instance, it might be that under certain conditions, species might tend to alter their atmosphere but then ultimately end up at a sustainable endpoint, while under other conditions, the species collapses.
+Here's what that might look like in graph form:
+ 
+
+
+
+
+
+
+A theoretical graph showing the trajectory of a sustainable civilization (blue) and a collapsing one (red). (Michael Osadciw/University of Rochester)
+Obviously, we're nowhere near the point of studying 1,000 extraterrestrial civilizations and modeling these trajectories. But Frank and Sullivan suggest that three interacting variables might be part of the equation: overall population size, energy use per capita, and planetary forcing (that is, the impact of each individual's energy use on the climate).
+Using knowledge from astronomy (such as what we've learned about atmospheres on other planets) and astrobiology (the study of potential life on other planets), they think we might begin to piece together the bare bones of what this sort of model might look like.
+ 
+
+
+
+
+
+
+Hokkaido, Japan. (JTB Photo/UIG via Getty Images)
+Even though this approach to global warming might make it seem like a natural, inevitable outcome of intelligent life, Frank believes that stopping it is well within our capabilities. And a better understanding of the trajectories that civilizations take, he thinks, could be the key.
+"They could be general: if your population gets to a certain point, and you're still using a certain technology that generates a lot of entropy, then you're going to end up on a collapse trajectory," he says. "But if you switch, either by lowering your population or altering your technology, you end up on a sustainability trajectory."
+To some, the solution to global warming might seem obvious — namely, cutting down on greenhouse gas emissions — but Frank and Sullivan think that trying to model it in a broader context can help.
+'even if you make decisions that you think are good, they're a bet on the future'
+"Even if you make decisions that you think are good, they're a bet on the future," Frank says. "Any policy is a bet, and you don't know for sure if it'll work out. So part of the reason for doing this is to get a handle, at least conceptually, on what the outcomes of these different bets might tend to be."
+He compares this project to the book Collapse, which compared the trajectories of human societies that flourished sustainably with those that ended in environmental catastrophe. The difference would be that this framework looks at different species on different planets.
+"If there were 1,000 species that have already gone through this, some may have been on planets enough like ours to see what sorts of decisions tended to lead which ways," Frank says. "In theory, that could help us."

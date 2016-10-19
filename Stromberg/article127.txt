@@ -1,0 +1,71 @@
+Scientists dismissed "hot streaks" in sports for decades. They were wrong.
+Most sports fans and athletes believe in hot streaks. A basketball player who has hit several shots in a row, the thinking goes, has a greater chance of hitting the next one, due to a "hot hand." Think of Golden State Warriors guard Stephen Curry, who recently hit 77 straight three-pointers in practice.
+Yet for a long time, scientists were skeptical. In 1985, a hugely influential study by a trio of psychologists argued that the hot hand was a myth. Among the NBA and college players they studied, hitting one shot made no difference in their odds of hitting the next shot. Like coin tosses, players were subject to the laws of probability, with the same baseline percentage chance of hitting every shot. Ever since that study, psychologists have held up fans' belief in the hot hand as an example of human irrationality: our tendency to see patterns in randomness.
+Now, however, it's starting to look like the hot hand might be real after all.
+Psychologists thought it was just our tendency to see patterns in randomness
+A handful of studies published over the past few years have suggested that basketball players, pro bowlers, and volleyball players can indeed heat up, boosting their normal accuracy rates by several percentage points for longer stretches of play than you'd expect from chance.
+And last week, a new study found one of the strongest pieces of evidence for the hot hand yet. The researchers looked at 29 years' worth of data from the NBA three-point shooting contest and found that players who hit three or more shots in a row had a 6.3 percent higher chance of hitting the next one, compared with their baseline rate.
+"It could be simple variation in concentration, or the player entering an unconscious flow state, or positive feedback from hitting one shot boosting your confidence for the next," says Joshua Benjamin Miller, an economist and co-author of the new paper. "We don't really know what's causing it, but the patterns are there."
+ 
+
+
+
+
+
+
+(Ron Koch/NBAE via Getty Images)
+The 1985 study that supposedly dismissed the hot hand — by psychologists Thomas Gilovich, Robert Vallone, and Amos Tversky — looked at three sets of data: every shot taken at home by the 1980 Philadelphia 76ers, every pair of free throws taken by Boston Celtics players from 1980 to 1982, and the results of a controlled shooting experiment with the Cornell University men's and women's basketball teams.
+They found that in all three sets, a player who had just hit a shot was no more likely to hit the next one. They also found that clustered streaks of hit shots didn't occur any more often than you'd expect by chance. A player who makes 50 percent of his free throws is no different from a coin: every shot he or she attempts has a 50 percent chance of going in, regardless of what happened previously. And any hot streak is purely the result of chance — just like a run of tails when flipping a coin.
+The tests weren't sensitive enough to pick up hot streaks
+But there was a problem with that 1985 study. "They used only very particular data that lacked the desired resolution and also didn't use powerful enough statistical tests," says Gur Yaari,  a computational biologist who's found some of the recent evidence for the hot hand.
+In short, the significance tests the researchers used weren't nearly sensitive enough to pick up hot streaks. This was proven by a 2003 paper in which computer scientists Kevin Korb and Michael Stillwell created a fake data set and fed it into the same analysis used in 1985. The fake players sometimes got really hot hands (hitting 90 percent of their shots for 10-shot periods), but most of the time the analysis failed to pick it up, erroneously interpreting it as random variation.
+As mathematician Jordan Ellenberg puts it in his book excerpt about the hot hand:
+If the test is less sensitive, it will declare the results of the experiment insignificant, whether or not there's really an effect. If you look at Mars with a research-grade telescope, you'll see moons; if you look with binoculars, you won't. But the moons are still there!
+ 
+
+
+
+
+
+
+Foul shot data shows that players improve on the second shot. (Mike Ehrmann/Getty Images)
+The earliest evidence for the hot hand came from a handful of studies looking at larger data sets of NBA players' free-throw attempts. When players made multiple attempts in a row, those who hit their first shots were about 2 percent more likely to hit their second shot.
+This isn't exactly what fans classically think of as the hot hand — which usually involves taking shots during live play, rather than free throws — and it could be explained by other sorts of mechanisms, such as the first shot correctly calibrating the player for the second shot. But it still suggests that basketball players aren't the robotic shooters we thought, even at the free-throw line.
+Analyzing shots taken during live play is much more difficult for a few different reasons. One is that if a player has hit several shots in a row, the defense is likely to guard him or her more closely, forcing more difficult shots. And there's some evidence that players on a hot streak become overconfident, taking excessively hard shots of their own accord. These factors might be why the original 1985 paper found a slight negative correlation between a made shot and a player's odds of hitting the next.
+But last year, using optical tracking technology to correct for these effects, a group of researchers analyzed every shot taken during the 2012-'13 NBA season. When they compared shots of identical difficulty, they found that players who'd made an uncommonly high percentage of their previous four shots had a 1.2 to 2.4 percent increased chance of hitting their next shot.
+It's a small effect, and could be the result of impossibility of precisely determining the difficulty of every shot taken during live play. So the co-authors of the new paper — economists Joshua Miller and Adam Sanjurjo — looked at data from the NBA's annual three-point contest, which started in 1985.
+ 
+
+
+
+
+
+
+Three-point contest data shows hot streaks. (Andrew D. Bernstein/NBAE via Getty Images)
+The shots are taken from set locations on the floor, so consecutive shots from the same spot should be equally difficult. But they found that players who hit three or more straight shots had a 6.3 percent elevated chance of hitting their next one.
+It's not a huge amount, but as they point out, the difference between an average NBA three-point shooter and an elite one is 10 percentage points. It calls to mind the legendary Super Nintendo game "NBA Jam," in which the announcer would declare a player who'd hit three straight shots to be "on fire," almost guaranteeing him to hit his next shot (and causing the net to literally burst into flames).
+ 
+
+
+
+
+
+
+Scottie Pippen, literally on fire. (NBA JAM)
+This finding also fits in with a study the economists published last year, using data collected from controlled shooting experiments. And it even jibes with a bit of work done by other researchers in other sports. The top 100 bowlers in the Professional Bowlers Association, Yaari has found, tended to bowl more games at the high- and low-scoring extremes, compared with their averages, than you'd expect from a random distribution of the data. Bowlers and ballers alike, it seems, can get a hot hand.
+ 
+
+
+
+
+
+
+(Rocky Widner/NBAE via Getty Images)
+Yaari splits potential explanations for the hot hand into two broad groups.
+The fact that an NBA player has hit his last few three point attempts might cause him to have an increased chance of hitting the next one. Perhaps it increases his confidence, or the support of his teammates or the crowd somehow makes him a better shooter.
+Or there might just be a correlation between the previous few hits and the next shot. Maybe they're both the result of a window in which a player's legs are fresher, or some unknown environmental conditions make shooting easier. This would increase a player's odds of success, but it doesn't mean that one success causes the next one.
+"When they hit a few in a row, they just keep doing what they're doing"
+At this point, we really don't know which category these hot streaks fall into, and it could be a mix of both. But one clue, Miller says, is that in most of the NBA data, we see clusters of hits, but not misses. The cold hand is much less common than the hot hand.
+He suggests this could be evidence that one hit is causing the next one, through conscious decisions made by the players. "Maybe when players miss a few in a row, they adjust," he says, "but when they hit a few in a row, they just keep doing what they're doing."
+However, all this doesn't rule out the possibility that hot streaks do exist but that fans and players also overestimate their degree in a way very similar to the "hot hand fallacy" described in the 1985 paper. Humans are notoriously prone to seeing patterns in random numbers, and even in these recent studies, players don't get quite as hot as many fans like to think is possible.
+"The fact that a statistical feature exists in large data sets doesn't mean that people accurately describe the long-term trends based on short series in real time," Yaari says.  In the new paper, Miller and Sanjurjo suggest discarding the term "hot hand fallacy" and describing this tendency with one that's a bit softer: "hot hand bias."

@@ -1,0 +1,93 @@
+Vaccines don't cause autism. Here's what we know about what does.
+Vaccines are in the news — because some kids aren't getting them.
+A few different factors have contributed to recent measles outbreaks in the US, but one may be parents who believe that vaccines can cause autism.
+The scientists who study the causes of autism, though, have turned up no evidence that any vaccine contributes to the disorder, and have largely moved on.
+So if that's the case, what does cause autism? Decades of research have told us that the answer is frustratingly complex: a mix of inherited genes, random genetic mutations, and environmental factors like a mother's immune system and nutrition during pregnancy.
+it's a mix of inherited genes, random mutations, and environmental factors
+One important finding is that it doesn't even make sense to think of autism as a single, discrete condition. "Not all autisms are created equal," says Evan Eichler, a University of Washington geneticist who studies the roots of autism. "There are many different types of autism, just like there are many different types of liver cancer, or breast cancer."
+On the whole, autism is characterized by difficulty in social interactions and communication. But the diagnosis of autism covers people with a huge range of behaviors and symptoms, which are often arranged along the autism spectrum.
+
+These different forms of autism appear to be triggered by different, interacting causes. It's not genetics or environment, but both — and in most cases, scientists still aren't sure exactly how these factors actually lead to the disorder. Further, there are many other factors that are still poorly understood and need to be more fully investigated.
+With all that said, here's a look at what we do know so far about the causes of autism.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+"We've known for almost 30 years that autism is highly heritable," says Daniel Geschwind, a UCLA geneticist who studies the disorder. We know this for a simple reason: autism tends to run in families, even when controlling for environmental factors. 
+One study found that for a child who has a sibling with autism, his or her own risk is 18.7 percent — much higher than the prevalence in the overall population, which is about .67 percent. Other studies have found slightly lower rates of recurrence among siblings, but all show that being related to someone with autism makes a person more likely to have it as well.
+Why is this the case? It turns out that a number of genes, passed from parents to child, can increase the risk of autism. "In the last ten years or so, genetic studies have led to the identification of many dozens of gene mutations that increase susceptibility to autism," Geschwind says.
+'no single gene accounts for more than one percent of cases'
+This doesn't mean, however, that autism is anything like sickle-cell anemia, haemophilia, or other diseases caused by a single gene. In fact, it's at the other end of the spectrum — as Geschwind says, "there is no single gene that accounts for more than one percent of autism cases."
+The genes implicated can be roughly split into two groups. Some of them are present at low levels in the general population, and the vast majority of people who have them do not have autism. Still, they make autism more likely. Researchers speculate that many of these genes — perhaps in combination with environmental factors or random mutations — are needed to give rise to the disorder.
+The second group of genes are much more rare, and increase someone's chance of autism much more significantly. But on the whole, each of these genes individually account for a very small percentage of all autism cases.
+Researchers are still figuring out exactly what both types of genes do, but many seem to be involved in the early stages of brain development in the womb, perhaps regulating the types of neurons that form and the synaptic connections between them. This is the same stage during which environmental factors appear to have an effect, raising the likelihood that the two sets of factors work in concert in some cases.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+More recently, researchers have uncovered a different set of genetic influences: mutations that occur randomly in a sperm or egg cell before a child is conceived, leading to autism.
+Until about a decade ago, these sorts of mutations weren't thought to be especially important. But at several labs, researchers have found that a significant percentage of children with autism have DNA with large-scale copy number variations — instances where stretches of identical DNA erroneously repeat several times over.
+"We initially found that about nine percent of kids with autism had these events," says Evan Eichler, who directs a University of Washington lab that studies genetic mutations. "That gave us an idea. Maybe it's not inherited variation that we should be focused on — maybe we should be looking for sporadic mutations."
+this explains why older fathers are more likely to have children with autism
+These sporadic mutations occur in all your cells, all the time, due to mistakes made by the enzymes that replicate each cell's DNA prior to it dividing into two. But they can be harmful when they occur in developing sperm or egg cells, as the mutation is passed on to all the cells of a child in the event of conception.
+Eicher's lab and others have identified a huge number of these random mutations that appear to be associated with an increased autism risk — as many as 500 to 1000 different mutations. It's still unclear how exactly they contribute to autism, but early estimates are that they might cause as much as 30 percent of cases.
+This explains the striking finding that older fathers are more likely to have children with autism. That's because these sorts of sporadic mutations occur at a steady rate over time, so older fathers' sperm typically contains more of them — on average, two more mutations per year. (This doesn't explain a similar trend seen in women, because new egg cells aren't made after puberty.)
+ 
+
+
+
+
+
+
+Different studies show slightly different rates (blue and red lines), but all consistently show that the odds of having a child with an autism spectrum disorder (ASD) increase with paternal age. (Drexel University)
+Preliminary research suggests that particular types of mutations are associated with different forms of autism, in terms of behavior. People with autism who have a mutation in a gene called CDH8, for instance, have been found to share several symptoms, including difficulty sleeping and digestive problems.
+Additionally, a child's sex appears to have some role in affecting the way the genes are expressed. It's well-established that the disorder occurs in males at a greater rate than females — the latest estimates are that it's nearly five times more common — but recently, researchers found that the women who do have autism actually have higher numbers of mutations.
+"This suggests there might be a protective effect involved with being female," says Sebastien Jacquemont, one of the geneticists involved in the discovery. In other words, a female might be able to tolerate a higher number of mutations associated with autism without demonstrating symptoms, compared to a male.
+It's still unclear whether this is the case — and, if it were, how such a protective effect might work — but it could explain the disparity in autism cases by gender.
+ 
+
+
+
+
+
+
+(Fred Tanneau/AFP/Getty Images)
+At least two sets of causes that involve the mother's health — and the conditions in which a fetus develops in the womb — have been identified.
+One is nutrition: in particular, folic acid. "We found that mothers who took prenatal vitamins with folic acid by the first month of pregnancy have kids with lower autism rates," says Ivra Hertz-Picciotto, a UC Davis epidemiologist who has led the CHARGE Study, a long-term effort to identify environmental causes of autism. "The ones who started early — within the first few weeks of pregnancy — had about a 40 percent reduced risk." After the first couple months of pregnancy, taking the supplement had no effect. Other studies have come to similar conclusions.
+'mothers who take folic acid by the first month of pregnancy have kids with lower autism rates'
+Doctors have long recommended that mothers who are pregnant (or trying to get pregnant) take folic acid for a different reason: they help prevent neural tube defects, a group of severe birth defects that often result in death. But because the vitamin is involved in brain development, a lack of it may also interfere with development in subtler ways.
+This factor seems to interact with genetics. Hertz-Picciotto's group has looked at the effect of folic acid supplements on two different groups of mothers: those who have a gene that lets their bodies easily process the vitamin into a usable state, and those who naturally have a tougher time processing it, and may need more folic acid to begin with. Not taking supplements during early pregnancy had a particularly strong effect in increasing autism rates among children of the second group — suggesting that both a lack of supplements and a gene variation may work in concert to give rise to autism.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+Another factor that seems to be involved is the mother's immune system during early stages of pregnancy. "We found that women who had fevers but took an anti-inflammatory didn't have kids with higher autism rates. But untreated women did," says Hertz-Picciotto. This is also true for mothers who have the flu and bacterial infections during pregnancy, or suffer from celiac disease or rheumatoid arthritis, both autoimmune disorders that involve excessive inflammation.
+It's unclear why this is the case, but she and other researchers hypothesize that in response to fevers and infections, some mothers produce antibodies that interfere with the fetus' immune system, which ultimately alters with brain development. This idea is supported by experiments in which pregnant mice are injected with infective agents, and give birth to offspring with higher rates of autism-like symptoms, such as anti-social behavior.
+The idea could also explain why many individuals with autism often have problems with immune system regulation and excessive inflammation "Their immune systems sometimes seem to be over-responsive, and sometimes under-responsive, to challenges by pathogens," Hertz-Picciotto says. "They don't seem to be calibrated quite right." In this sense, some forms of autism could be understood as an autoimmune disease, inadvertently passed from mother to child.
+ 
+
+
+
+
+
+
+Philippe Huguen/AFP/Getty Images
+On top of the environmental causes identified above, there are many more that may be involved in causing autism, but need to be more closely studied.
+One is air pollution. As part of the CHARGE Study, researchers have found a correlation between levels of several different types of air pollution during pregnancy and a child's risk of autism.
+One of the strongest correlations is for pesticide exposure — one study found that pregnant mothers who lived within three quarters of a mile of agricultural fields where a class of pesticides called organophosphates were sprayed had a 60 percent higher chance of having a baby who'd be diagnosed with autism. 
+there's a correlation between levels of air pollution during pregnancy and a child's risk of autism
+Organophosphates were also used in home pest control products until 2000, when the EPA mandated that they be replaced by a class of pesticides called pyrethroids. But studies have found similar correlations between autism and pyrethroid exposure as well.
+It's possible that these correlations are the result of other, unrelated factors. But, as Hertz-Picciotto says, the fact that these are chemicals specifically designed to disrupt the nervous system makes it plausible that they might play an active role in causing autism. Several other types of neurotoxins, including pthalates (present in many products, like building materials and packaging) and flame retardants, are also under investigation.
+Other researchers are considering environmental factors — like the number of ultrasounds a fetus experiences during pregnancy, the degree of prenatal stress the fetus experiences in the womb, and lead poisoning during early childhood. At the moment, though, there isn't yet strong evidence for any of them.

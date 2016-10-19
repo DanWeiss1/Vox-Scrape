@@ -1,0 +1,42 @@
+Why SpaceX wants to land a rocket on a platform in the ocean
+At 4:47 am ET on Saturday morning, SpaceX will launch its fifth cargo resupply mission to the International Space Station, part of a collaboration with NASA.
+However, unlike the previous four missions, SpaceX will be doing something unusual with the main component of its Falcon 9 rocket: after its job is finished, the company will try to land the rocket vertically on a barge floating in the Atlantic Ocean a few minutes later.
+This would be an unprecedented feat, and the company says it only has a 50 percent chance of success. If it works, though, SpaceX could reuse the rocket on a future flight — part of a broader push towards reusability that could dramatically drive down the cost of space travel.
+
+This video shows the successful landing of SpaceX's Grasshopper rocket system. Saturday's landing will involve a larger rocket landing after a much longer flight, but the landing method will be similar.
+The company will launch a Falcon 9 rocket from Cape Canaveral, Florida, in order to carry an uncrewed space capsule up to the International Space Station. (It originally planned to launch on January 6, but delayed it due to technical irregularities.) The capsule will bring all sorts of cargo to the ISS: food, life support equipment, and several scientific experiments.
+The rocket itself is made up of two parts: a 138-foot-tall first stage, which burns for the first few minutes of flight, lifting the craft up to an altitude of about 50 miles before separating and falling back to Earth, and a smaller, 49-foot-tall second stage, which burns for another five minutes or so, carrying the spacecraft into orbit before disconnecting and falling back down to earth as well.
+Normally, both of these stages — as well as the stages that make up other rockets in general — break up into pieces as they plummet downward, eventually sinking in the ocean and becoming unusable. But on Saturday, as the first stage falls back to earth, SpaceX will fire its engines in order to stabilize and guide it for a controlled landing.
+Inside SpaceX's Epic Fly-back Reusable Rocket Landing (Infographic) http://t.co/363loGpJDs pic.twitter.com/ag1xPX5kdj
+SpaceX made similar attempts to land its rockets as part of three previous launches, and two times, it managed to get the rocket to slowly hover and land upright in the ocean, but then it fell over.
+
+A video showing one of SpaceX's previous attempts to land the Falcon 9 at sea.
+This time, it's using an autonomous uncrewed barge, which is being stationed about 200 miles east of Jacksonville, Florida, as a landing platform.
+As the rocket descends, steerable fins affixed to its outside will help guide it and slow it down. As it nears the barge, a set of legs will unfold from the bottom of the rocket, and if all goes to plan, it'll slow down to a speed of about 4.5 miles per hour before gently landing on them, fully upright.
+ 
+
+
+
+
+
+
+The fins, affixed to the outside of the first stage. (SpaceX)
+This is a very difficult maneuver for a few different reasons. For one, the rocket is primarily designed to launch a spacecraft into orbit — which means that it'll be tricky to decelerate and steer on the way down.
+Additionally, with its legs extended, the rocket will be 70 feet wide, so landing it on the 300-foot wide floating platform will require a high degree of accuracy. Finally, the platform itself will be a moving target as it sways slightly in the water.
+Drone spaceport ship heads to its hold position in the Atlantic to prepare for a rocket landing pic.twitter.com/kXYHGVKTfE
+ 
+SpaceX has compared this to "trying to balance a rubber broomstick on your hand in the middle of a wind storm," and has made it clear that the attempt might not work. But if it does, the feat could be a transformative one for the future of space travel.
+One of the factors that make space travel so expensive is the fact that most of the equipment used to put cargo or people in orbit is destroyed after each use. SpaceX CEO Elon Musk has famously likened this to throwing away a brand-new 747 after a single flight to London.
+From the beginning, his company has sought to make spaceflight possible with reusable components. And though that's an extremely ambitious goal, if SpaceX can pull off this landing, it'll be a first step towards achieving it.
+ 
+
+
+
+
+
+
+The launch of SpaceX's previous cargo resupply mission, in September. (SpaceX)
+The rocket's outer surfaces are designed to resist corrosion from seawater, and initially, SpaceX tried to use parachutes to slow down the stages as they descended. However, they broke apart due to the stress and heat produced during the descent, so the company switched to the current, powered landing approach in 2011.
+If this first stage is successfully landed, it could be refurbished and used for a future flight. The Dragon capsule it launches into orbit, meanwhile, is already reusable, and the company has plans to eventually try landing and reusing the second stage of future rocket designs in a similar way as well. If successful, this would mean that the majority of the rocket components could be used several times.
+This would reduce the cost of spaceflight in a huge way. Currently, building a new Falcon 9 rocket costs $54 million, but using it to put a payload into orbit costs only about $200,000 worth of fuel. Figuring out a way to reuse the rocket could make all sorts of missions — commercial satellite launches, collaborations with NASA, and space tourism — cheaper by orders of magnitude, opening up all sorts of new possibilities in spaceflight.
+Note: This article has been updated after the launch delay and other developments.

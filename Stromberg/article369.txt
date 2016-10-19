@@ -1,0 +1,61 @@
+Physicists just discovered two new subatomic particles. Here's why that matters.
+Last week, physicists at the Large Hadron Collider — the particle accelerator used to discover the Higgs boson in 2012 — announced that they discovered two subatomic particles, the baryons Xi_b'- and Xi_b*-.
+If that sentence leaves you feeling just a bit mystified, you're not alone.
+Physics might be the most complex of all scientific fields, and at times, it can be hard to explain its fundamental concepts in basic English. But with the help of Patrick Koppenburg — one of the scientists at the Large Hadron Collider (LHC) involved in this new discovery — here's a comprehensible guide to these new particles, the Higgs, and the ongoing experiments at the LHC as a whole.
+On November 19, scientists announced that, using data collected in 2012, they'd observed two new varieties of a class of tiny subatomic particles called baryons. You've probably already heard of two other types of baryons: protons and neutrons.
+The thing that unites protons, neutrons, and the two new baryons is that they're all made out of three even-smaller particles called quarks — one of the fundamental building blocks of all matter.
+Quarks themselves come in six "flavors" (called up, down, strange, charm, bottom, and top). A proton is built from two up quarks and one down quark, while the new baryons are both made from one down quark, one bottom quark, and one strange quark.
+ 
+
+
+
+
+
+
+A diagram showing the 17 fundamental particles of the standard model. (MissMJ)
+These two new baryons weren't a huge discovery, as new particles like this are found a few times a year. What's more, the existence of these baryons was predicted by the standard model, our current, best formula for predicting the behavior of all particles.
+Seeing them firsthand, however, is useful. "It's quite easy to predict their existence, but it's much more difficult to predict their mass," Koppenburg says. "Observing them allows us to measure it." That data allows physicists to better understand how the strong nuclear force holds quarks together.
+Under normal conditions, the three quarks that make up these new baryons never combine in this particular way. But conditions in the Large Hadron Collider are anything but normal.
+ 
+
+
+
+
+
+
+A tunnel at the LHC. (Fabrice Coffrini/AFP/Getty Images)
+The LHC, which was completed in 2008, is the world's largest particle accelerator. It's a nearly 17-mile-long tunnel ring that lies below the border of France and Switzerland and allows physicists to conduct some pretty intense experiments.
+In essence, these experiment involve shooting beams of particles around the ring, using enormous magnets to speed them up to 99.9999 percent of the speed of light (causing them to whip around the ring about 11,000 times per second), then crashing them together.
+The huge amount of energy present in these collisions leads the particles to break apart and recombine in some pretty exotic ways. The recombinations — along with other data collected during the collisions — allow physicists to test predictions made by the standard model.
+ 
+
+
+
+
+
+
+Data from one of the particle detectors at the LHC. (Fabrice Coffrini/AFP/GettyImages)
+The Higgs boson, a type of particle, is one of the primary reasons the LHC was created. "In building the LHC, what we really hoped to do was either find the Higgs, or be able to exclude its existence," Koppenburg says.
+In July 2012, after analyzing the results of a collision between protons, they found it.
+The particle is evidence of a force called the Higgs field: an invisible field that pervades all space and exerts a drag on every particle. This drag is why we perceive particles to have mass — a resistance to being moved.
+The Higgs field is a sort of keystone of the standard model, as it allows the rest of its equations to make a whole lot more sense.
+Both the Higgs-related research and more recent work at the LHC are  aimed at one goal: pushing the standard model to its limits, to see where it's correct and where it breaks down.
+That's because the standard model is incomplete. "It's extremely efficient at making predictions, but we physicists don't really like it," Koppenburg says.
+the goal is to push the standard model to its limits, to see where it breaks down
+Though the standard model accurately describes the behavior of particles in most ways, it doesn't account for the force of gravity, or exotic substances such as dark matter and dark energy. It also doesn't mesh well with our theories about the birth of the universe.
+In other words, the standard model is the best description we currently have of how all objects behave, but as Koppenburg says, "it must be wrong somewhere."
+The discovery of the Higgs — along with last week's discovery of the two new baryons — served to confirm the current model. That sort of data is useful, because it provides real evidence for our calculations, showing we're on the right track so far in trying to understand the universe.
+But future discoveries that aren't predicted by the standard model might be even more useful, as they could indicate which aspects of it need to be changed.
+ 
+
+
+
+
+
+
+A tunnel in the LHC. (Vladimir Simicek/isifa/Getty Images)
+Currently, the LHC is shut down for a series of upgrades. It will open sometime in early 2015, capable of producing much higher-energy collisions than before.
+These collisions will allow scientists to keep discovering new subatomic particles, and also look more closely at the Higgs boson and observe how it behaves under different conditions.
+"We're hoping to find things that were not predicted by the standard model," Koppenburg says. "Perhaps particles that are so heavy that they haven't been produced before, or other kinds of deviations."
+The right kinds of deviations, he and other physicists hope, will allow us to improve our model. Someday, this sort of work could even lead to the creation a new model that fully describes the behavior of all objects in the universe.
+Further reading:

@@ -1,0 +1,81 @@
+These startups want to do for buses what Uber did for taxi rides
+This article is part of a series about the past, present, and future of commuting in America.
+Last Wednesday, I had my first experience with microtransit, when I hopped into a black Jeep Patriot that pulled up to a specified spot outside my Washington, DC, office after work. On the way home, I chatted with the driver — a friendly, bearded guy named Dean — until, a few minutes later, he got a notification on a small tablet mounted next to the dashboard.
+They offer transport options somewhere in between the pricey convenience of taxis and slow, cheap public transit
+The screen instructed Dean to alter his route by a few blocks to pick up another passenger, who got in the back seat. Then we continued onward. After I got out at my house, Dean drove the other guy home on a predetermined route, perhaps picking up more passengers along the way. Through my smartphone, I was charged $4.23 for the 2.5-mile, 12-minute trip — about half as much as an Uber would have cost.
+My ride was provided by the new startup Split — and some people think this sort of service could be the future of urban transportation. Split is just one of a number of companies springing up to offer transportation options that occupy a middle ground between the pricey convenience of taxis and the slow, cheap service of public transit. Although there isn't a widely accepted name for these services, some people are calling them "microtransit."
+There are two broad categories of microtransit: One is services like Chariot and Bridj, which operate commuting shuttles in certain areas based on user demand. Then there are several services that let you split a ride with people nearby who need to get to a similar destination — including CabCorner, Via, UberPool, and Lyft Line. So far, these microtransit companies only operate in a handful of cities. But their backers hope they could one day do for public transit what Uber has done for cab rides.
+ 
+
+
+
+
+
+
+Chariot's routes in San Francisco. (Chariot)
+The idea of microtransit isn't entirely new. In New York, unofficial shuttle buses called dollar vans have quietly run for decades, carrying low-income riders from neighborhoods with relatively few public transportation options in Brooklyn, Queens, and New Jersey.
+But the latest wave of tech-based services largely started with a Helsinki program called Kutsuplus, which launched in 2013. This is a network of municipally owned shuttle buses that run variable routes based on pickup requests by passengers.
+ 
+
+
+
+
+
+
+(Kutsuplus)
+Passengers use their smartphones to request a pickup and specify their destinations. Kutsuplus then uses an algorithm to figure out the most efficient bus to send to them,  and specifies a fare for each passenger (which runs, on average, about a quarter of the price of a taxi). Once in motion, the bus might make occasional detours to pick up other passengers, but it stops much less often than a regular bus would.
+Kari Rissanen, director of the program, described it to me as "a new form of public transport, positioned between taxis and traditional mass transport." Most often, it's simply described as Uber for buses. So far, Kutsuplus is just a pilot program, running a mere 15 buses, and it's heavily subsidized by the Helsinki government. But the system has inspired several startups in San Francisco, Boston, and DC — including Split, which bought the company that created Kutsuplus' algorithm.
+ 
+
+
+
+
+
+
+(Chariot)
+The one thing that unites all these new services is that their routes are based on demand, whether in real time (like the Split ride I requested) or in the aggregate (like Chariot, which creates a new shuttle route when enough users have specified it as their commute over time).
+This could give them a key advantage over traditional transit. "Municipal transit agencies collect a lot of data, but they don't actually do anything with it," says David Block-Schachter, chief scientist of Bridj, which adds service areas for its shared shuttles based on where users have requested expansion.
+He points out that his previous employer, Boston's transit authority, still runs subway lines along routes set 150 years ago, when trains were pulled by teams of horses. Bridj, by contrast, plans to fully harness the flexibility of buses in a way that transit agencies never really have. In theory, this could allow for a service that's only slightly more expensive than public transit, but much more convenient.
+Bridj and Chariot are starting out by serving high-demand commuting routes — going from largely wealthy residential neighborhoods to commercial downtown areas. They hope that over time, they can lure riders away from public transit or driving by providing a slightly quicker, more comfortable service.
+ 
+
+
+
+
+
+
+Bridj's service areas in Boston. (Birdj)
+It's still very, very early on. Most of these startups are only in one or two cities, and they run very limited routes. But David King, a Columbia transportation researcher, notes that if they succeed, they could help bring back carpooling, which has been falling for decades. "The transaction cost of matching driver and rider has just been too high [for carpooling to work well]," King says. "But by reducing it through technology, these companies could really open up the market for shared rides."
+But it's hard to say whether microtransit services will achieve mass appeal — or whether they'll end up being a cool idea that never quite panned out.
+ 
+
+
+
+
+
+
+A Split car in Washington, DC. (Split)
+One open question is whether they'll acquire enough regular riders to be able to charge relatively low prices while still turning a profit. "The key for us isn't getting two or three people on a vehicle — it's getting eight or 10 on a vehicle, which is what allows us to keep prices low," Bridj's Block-Schachter says.
+But to get this many on a vehicle, Bridj and other companies need passengers to be relatively near to one another to begin with, so the buses and cars don't need to be rerouted too far to pick up each new passenger. This means establishing a dense customer base. To do that, they'll need to offer service to much broader areas than they do now. As Block-Schachter says, "The more area you're able to cover, the more origins and destinations you can serve, the more attractive the service becomes."
+That's still a long way off. In San Francisco, Chariot just runs limited routes between a few neighborhoods. In Washington, DC, Bridj only runs between two limited areas:
+(Bridj)
+Meanwhile, Split serves a somewhat broader area of DC, but my driver told me that at the moment, the vast majority of rides are solo: The company doesn't really have enough customers for them to actually split rides all that often.
+These microtransit companies might also have to fight endless regulatory battles, just as Uber has over the past few years. It's an open question whether various municipal regulations will permit private companies to run this sort of semi-public transport.
+Some, like Bridj, are explicitly trying to work with transit agencies and have gained regulatory approval from cities before going in.
+Others have put less stock in this sort of compliance. Leap — a startup that ran luxury, express buses in San Francisco — is a cautionary tale. It received a cease-and-desist order from the California Public Utilities Commission in May, and though the company said it was in compliance with the law and vowed to return to service, it began selling its buses in June.
+ 
+
+
+
+
+
+
+Riders in a DC Bridj shuttle. (Astrid Riecken/the Washington Post via Getty Images)
+Even if they are deemed legal, there's also the broader question of whether these sorts of startups are good for cities in the first place. CityLab's Eric Jaffe has written an excellent analysis of the pros and cons here.
+On the one hand, microtransit companies have the potential to reduce car use by allowing people to share vehicles more efficiently, cutting down on congestion and greenhouse gas emissions. They could also potentially help increase ridership for mass transit, says UC Berkeley transportation researcher Susan Shaheen, by solving the so-called "last mile" problem. For people in geographically isolated neighborhoods, microtransit could provide a much-needed link to subway or bus stops.
+So far, however, the startups are mainly serving as direct competition to transit, rather than a complement. "They're poaching high-income passengers — the people who are willing to pay a few extra bucks to save some time," King says. "This could diminish political support for public transit. And if they pull people off regular transit, the transit agency could reduce service."
+The fear is that by creating a segregated, two-tiered transport system, we'd be allowing for fast, comfortable service for those who can afford it — and slower, less frequent service for those who can't.
+To be sure, microtransit services aren't wildly expensive — they're often just a few dollars more than the city bus for a comparable ride. On the other hand, they do require credit cards and smartphones to book rides, and they disproportionately serve high-income neighborhoods at the moment. (Shaheen cautions, however, that we don't yet have socioeconomic data on riders.)
+King suggests that cities would be smart to try coordinating with these startups now, instead of trying to ban them or allowing them to grow on their own. Transit agencies could encourage them to operate the last-mile services that might not make sense for larger buses, providing feeder systems for high-capacity rail lines. They could also create a unified payment system for both transit and microtransit — perhaps even subsidizing lower-income passengers' rides on the latter.
+"There are ways to accomplish these goals," he says, "but I haven't seen any public discussion about actually doing it yet."
+Correction: This article previously stated that Split had licensed Kutsuplus' algorithm, instead of buying the company that had created it, along with the algorithm itself.

@@ -1,0 +1,90 @@
+Young people are driving less than their parents. But why?
+This post is part of a series on the past, present, and future of commuting in America.
+Recently, there has been a big change in US transportation: young people are driving fewer miles than their parents.
+For most of modern US history, Americans steadily drove more and more miles every year, particularly as suburbs expanded. But then, around 2007, driving went into decline, with young people driving significantly less.
+ 
+
+
+
+
+
+
+Vehicle miles traveled (VMT) dipped in 2007, for the first time in decades. (State Smart Transportation Initiative)
+That raised some important questions. Had America hit peak car? Was this the start of a permanent decline?
+The mystery deepened in 2014, when the number of miles driven per person went up again. Was the early dip just the short-term result of the recession and high gas prices leaving everyone (especially young people) cash-strapped? Or was there actually a shift in preference for driving?
+"Are millennials going to become like everyone else as they age, or will they stay different?" asks Tim Lomax, a transportation researcher at Texas A&M. "That's the big question we're all asking."
+ 
+
+
+
+
+
+
+CitiBike users in New York. (STAN HONDA/AFP/Getty Images)
+One tricky part of answering this question is that the best source of relevant data, the National Household Travel Survey, is only conducted every five to seven years. The last one was in 2009, before gas prices plummeted and before the recession began to subside, so new data collected this year might look way different.
+But that survey and other datasets do make young people look rather different from the generations that came before them in several ways:
+ 
+
+
+
+
+
+
+(US PIRG)
+Other surveys revealed that young people placed more importance on living near city centers, with better access to public transportation. It all adds up to look like a younger generation that's just less into driving.
+ 
+
+
+
+
+
+
+(Joe Raedle/Getty Images)
+Some observers have offered reasons to think the drop in driving among young people might only be temporary. After all, the drop in miles traveled came right at the start of the recession, and vehicle miles generally grow more slowly during recessions anyway.
+"Some of it might simply related to not having a job that you're driving to every day," says Lomax. People trying to save money are also less likely to take long trips — especially because, at the time, gas prices had reached $4 per gallon.
+If that's true, then driving could rebound again as the economy grows. For instance, during the recession, younger people weren't buying cars with the same frequency as their predecessors. But Derek Thompson at the Atlantic recently examined data from J.D. Power & Associates that showed that in 2014, young people bought nearly twice as many cars as in 2010.
+Meanwhile, others have suggested that young people are starting to move to the suburbs again, which could also increase driving rates in the years ahead. At FiveThirtyEight, Ben Casselman looked at 2014 census data, which showed that more people in their 20s are moving to the suburbs from the city than vice versa.
+Taken together, those analyses suggest that the drop in driving was just a temporary dip that will go away soon. But there's reason to think the story is more complicated than that.
+ 
+
+
+
+
+
+
+(Justin Sullivan/Getty Images)
+There are real problems with the idea that the drop in driving was only temporary or due to the recession — and a closer look shows that the picture is more complicated.
+Consider again the J.D. Power data, which showed that Generation Y bought 27 percent of new cars in 2014, up from 18 percent in 2010 and more than the slightly older Generation X. On its face, that would suggest that young people are buying more cars again, now that the economy is improving.
+The problem with this analysis is that generations are arbitrarily defined groups. So, as Joe Cortright points out at City Observatory, you need to analyze these numbers on a per-capita basis.
+Redoing the numbers, Cortright found that the survey included 77.9 million people in Generation Y (born between 1977 and 1994) and just 49.2 million in Generation X (born between 1965 and 1976). So members of Generation Y were still buying way fewer cars per capita: 47.5 for every 1,000 people, compared with 67.1.
+in 2014, slightly more young people moved to cities than to suburbs
+The bottom line is that this data doesn't really tell us much. The comparison we need (but don't have) is one between young people today and people of the same age a decade ago.
+Meanwhile, the census data doesn't definitively show young people moving to the suburbs either. Once again, Cortright at City Observatory notes that Casselman's analysis doesn't show the whole picture: he only looked at young people moving from a city to a suburb, or vice versa, within one metro area.
+When you include other types of moves — from a rural area, or another country, or another city's suburb to a city, and vice versa — it turns out that in 2014, slightly more people in their 20s moved to cities than suburbs. Compared with the mid-'90s, when two times as many moved to suburbs as cities, this is a very striking shift. The suburbs certainly aren't shrinking, but they're not growing at the same speed as before.
+In other words, there's reason to suspect that the recent drop in driving among young people is reflecting changing preferences. If so, then it might not prove entirely temporary.
+ 
+
+
+
+
+
+
+(Andrew Caballero-Reynolds/AFP/Getty Images)
+The only way to know for sure what'll happen is to wait and see. "It's really hard to distinguish what's going on from the cyclical short-term trend," says Alan Pisarski, a transportation researcher. "Are we still in the aftermath of the recession, or are these structural changes in society that augur a new normal?"
+There are some reasons to believe that young people today might have different priorities than their predecessors.
+For one, the 2009 data that showed 16- to 34-year olds driving much less can't be chalked up entirely to more unemployment. Those with jobs still drove 16.4 percent fewer miles per capita than the same age group in 2001.
+Meanwhile, surveys find that compared to older generations, young people today are much likelier to care more about living near a city center, in a walkable neighborhood:
+ 
+
+
+
+
+
+
+(US PIRG)
+Other surveys show that, in general, young people are less obsessed with cars than before: they say they'd rather give up their cars than their computers or smartphones, and half as many of them describe themselves as "car enthusiasts," compared with baby boomers.
+And, Lomax says, new ride-sharing technologies like Uber and Lyft — as well as Zipcar — have made it much easier to get around a city by car without actually owning one. They allow city-dwellers who don't want to own a car for daily commuting to still occasionally get a ride.
+it's a small dent in a car-centric country
+Finally, some researchers suggest that all the time young people spend virtually socializing through social media might reduce their need to physically see each other quite as often, lessening the need for cars. It's still uncertain, but this could be especially relevant in explaining the lower rates of teenagers who are getting licenses.
+On the other hand, it's important to put this trend in context. Car ownership may be ebbing slightly among young people, but it's only a small dent in a country where cars are hugely popular. Remember, in 2013, 82.4 percent of young workers (between the ages of 16 and 24) still got to work by car. This is slightly lower than the figure for all US workers (85.46 percent), but it still means most young Americans are driving to work every day.
+So, yes, it seems that young people today are driving slightly less and are somewhat less enthusiastic about cars than their parents. But that small shift in preferences, on its own, isn't likely to significantly transform America's car-centric culture.

@@ -1,0 +1,18 @@
+Football is America's national pastime. This chart proves it.
+Since 1937, Gallup has regularly asked Americans which sport is their favorite to watch. This simple chart shows the most profound shift that’s occurred in the US sporting landscape so far.
+ 
+
+
+
+
+
+
+There was a time when we were a baseball country. Now we’re a football country — a place where nearly two-thirds of all Americans say they regularly watch football and where regular season games get bigger TV ratings than Game 7 of the World Series. 
+Basketball, in fact, has entered a tie with baseball for second place since the mid-'90s. Gallup data shows roughly when this shift from baseball to football as the country's favorite sport occurred: the late 1960s. Perhaps not coincidentally, this is the era when the Super Bowl was established, the AFL and NFL merged, and the modern NFL as we know it began.
+To see more, check out 40 maps and charts that explain sports in America.
+
+
+<!--
+  new pym.Parent('super-bowl-50-coverage__graphic-super-bowl-widget', '//apps.voxmedia.com/sbnation/super-bowl-50-coverage/vox/');
+// -->
+

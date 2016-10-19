@@ -1,0 +1,35 @@
+We've found thousands of exoplanets. This NASA simulator lets you explore them all.
+At latest count, we've found 1855 planets orbiting distant stars.
+This sounds like a lot, and it is. But the truth is that we've only scratched the surface. There are many thousands more we'll be able to see in upcoming years with next-generation telescopes, and some scientists are hopeful that we might someday even spot signs of life.
+To give you an idea, here are a few animations from NASA's awesome Eyes on Exoplanets simulator:
+ 
+
+
+
+
+
+
+(NASA/Eyes on Exoplanets)
+This shows the Earth, zooming out to take in our entire solar system. The illuminated stars in the background are the ones we've found exoplanets orbiting, and that dense patch of them at the upper-right are the ones detected by the Kepler space telescope (which has found the majority of exoplanets so far) in particular.
+ 
+
+
+
+
+
+
+(NASA/Eyes on Exoplanets)
+This GIF zooms much farther out to show all the exoplanets we've found, with the Milky Way galaxy  in the background.
+Most of the planets we've are bunched together in a tight cone: the small area of the Milky Way that's been studied by Kepler. That telescope alone has found nearly 1,000 planets.
+But the distribution of planets, scientists believe, is probably the same throughout the galaxy. And there are an estimated 100 billion stars in the Milky Way alone, with about 22 percent likely orbited by a roughly Earth-sized, rocky exoplanet.
+So the entire darkened area of the Milky Way is also packed with planets — untold billions, waiting to be found. This is why many scientists are confident that other life forms exist, and that we might even be able to detect signs of them within our lifetimes.
+By the way, the Eyes on Exoplanets simulator — the program that made these animations, created by NASA as a public education tool — is a very cool way of exploring all of our exoplanet-related discoveries and missions, and is definitely worth downloading. Among other things, you can search for any planet discovered and see its star system, its mass, temperature, the way we detected it — essentially, everything we know about it:
+ 
+
+
+
+
+
+
+(NASA/Eyes on Exoplanets)
+Further reading: Some scientists think we'll find signs of aliens within our lifetimes. Here's how.

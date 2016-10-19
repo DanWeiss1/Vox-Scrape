@@ -1,0 +1,74 @@
+Scientists just found 8 distant planets that might be the right temperature for life
+Today, astronomers from the Harvard-Smithsonian Center for Astrophysics announced the discovery of eight new planets orbiting distant stars.
+they may be made of rock, not gas
+Distant exoplanets, are being found faster and faster all the time — and more than 1800 have been spotted so far. What makes today's discovery especially exciting is that these planets all seem to be in their stars' habitable zones — meaning that liquid water might exist on their surfaces — and their diameters indicate that they may be made of rock, not gas. Both of these conditions are thought to be necessary for life.
+In fact, one of these planets, called Kepler-438b, is one of the most similar to Earth — in terms of size and potential climate — of any exoplanet we've found thus far.
+ 
+
+
+
+
+
+
+An illustration of the Kepler telescope, which has now found more than 1,000 exoplanets. (NASA)
+Exoplanets are planets that orbit stars other than the sun. For most of modern history, there was no concrete evidence that planets even existed in other solar systems, but as technology has improved, we've learned that they're actually plentiful.
+The first one was discovered in 1988, and astronomers have now confirmed the existence of more than 1,800 in total. Most of these planets, however, are far too large and hot to harbor life as we know it, because larger planets that are closer to their suns are easier to spot. The new discovery adds to the short list of exoplanets that might plausibly be home to life.
+These new planets — along with more than a thousand others — were found by NASA's Kepler space telescope. Kepler takes extremely high-resolution images of deep space, and astronomers analyze these images to spot distant planets.
+ 
+
+
+
+
+
+
+An animation showing the roughly 1800 exoplanets we've found so far, with the sun at the center. The bright cone extending left is the Kepler telescope's field of view. (NASA's Eyes on Exoplanets)
+There are a few different methods used to find them, but the most straightforward technique — responsible for the majority of exoplanet discoveries, including these ones — is called the transit method.
+Here's how it works: Imagine staring at a star far away. If there is a planet orbiting that star, it might occasionally pass between us and the star, briefly blocking it from view. Scientists can't actually see the planets doing this blocking, but they can indirectly detect their presence.
+ 
+
+
+
+
+
+
+A diagram shows how the transit method helped detect five planets in the star system Kepler-186. (Sean Raymond)
+"We measure the brightness of a star, and when a planet passes in front of it, it blocks out some of the starlight for a period of a few hours," Thomas Barclay, an exoplanet researcher, told me in April. If scientists observe a star dimming by a consistent amount on a predictable schedule, they can infer the size of an exoplanet that's occasionally blocking some of the light.
+ 
+
+
+
+
+
+
+A diagram showing the most Earth-like planet's discovered so far, including three announced today. (NASA)
+One of the primary goals underlying the search for exoplanets is our hope of finding extraterrestrial life. Nearly all the planets we've found so far, though, don't appear to have the right conditions for the evolution of life, at least if it looks anything like life on Earth.
+Most are either too close in to their stars (which would cause all water to boil away, like on Venus) or too far away (which would freeze water, like on Mars). Most are also far bigger than Earth, which would indicate they're made of gas rather than rock, because larger planets are thought to exert too much gravity as they form, developing into a gas giant (like Jupiter or Saturn).
+most planets we've found are too hot, too cold, or too big to plausibly contain life
+Out of more than 1,800, scientists have previously found about a dozen planets that might be both the right temperature and size for life as we know it. This new discovery, announced today at a meeting of the meeting of the American Astronomical Society, adds eight more to that number.
+The planets are extremely far away (hundreds or thousands of light-years), so astronomers can't know for sure. But based on their calculations, all eight planets receive an amount of sunlight that makes it likely liquid water might form on their surfaces, and the odds are especially high for three of them. They're also all less than twice the diameter of Earth — a cutoff line that scientists use as an indication that a planet has a good chance of being rocky.
+One of the discoveries, Kepler-438b, is now arguably the most Earth-like exoplanet discovered, taking the title from another discovery made by Kepler last April. Its diameter is just 12 percent bigger than Earth's, and the scientists behind the discovery say it has a 70 percent chance of being rocky, and a 70 percent chance of being in its star's habitable zone.
+ 
+
+
+
+
+
+
+An illustration of Kepler-186f, a potentially habitable exoplanet discovered in April. (NASA-Ames/SETI Institute/JPL-CalTech)
+Another one of the new planets, called Kepler-442b, has a 97 percent chance of being in the habitable zone, and though it's a bit bigger — with a diameter one-third larger than Earth's — it has an estimated 60 percent chance of being rocky.
+Learning about these distant planets leads to a pair of obvious questions: is there life on them, and can we try to find it?
+The bad news, however, is that they're way too far away for us to really find out. Because the Kepler telescope was built before it was known how plentiful exoplanets are, it was designed to look at relatively distant portions of the Milky Way. This allowed it to take in a broader swath of stars, making it more likely to find planets — but the downside is that most of the planets it's found are too far away for us to see in detail.
+ 
+
+
+
+
+
+
+An illustration of TESS, set to launch in 2017. (NASA)
+The good news, though, is that a number of next-generation telescopes could allow us to spot nearby planets over the next few years. The Transiting Exoplanet Survey Satellite (TESS), to be launched in 2017, should allow us to spot rocky planets that are much closer to us, and the James Webb Space Telescope, scheduled to launch in 2018, will let us analyze their atmospheres.
+next-generation telescopes could allow us to spot closer planets
+That, most scientists believe, will be the best way to learn more about them. "We can't go to these planets," Lisa Kaltenegger, director of Cornell's new Institute for Pale Blue Dots, told me last month. "So we're trying to figure out what a planet that has life might look like from far away, in ways that would be detectable by our telescopes."
+In theory, the presence of certain gases — say, methane or dimethyl sulfide — in certain concentrations could suggest that life is present. Though it certainly wouldn't serve as conclusive evidence, it'd be the strongest clue we can collect without actually traveling there.
+"With new telescopes coming online within the next five or ten years, we'll really have a chance to figure out whether we're alone in the universe," Kaltenegger told me. "For the first time in human history, we might have the capability to do this."
+Further reading: Some scientists think we'll find signs of aliens within our lifetimes. Here's how.

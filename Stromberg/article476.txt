@@ -1,0 +1,22 @@
+Maps: The states with the most and fewest traffic deaths
+For the past 40 years, fatalities from car accidents in the US have declined steadily.
+But this decline hasn't been uniform. Michael Sivak, a transportation researcher at the University of Michigan, recently analyzed the data on fatalities, population, and passenger miles traveled, and found there's a huge variation in rates of traffic deaths on a per mile basis.
+Here are his findings: the states where you're most and least likely to die in a car accident.
+
+States shown in red on this map all have more than 13.25 deaths per billion miles. Yellow states have between 10 and 13.25, and green states have fewer than 10.
+One trend here is especially apparent: on the whole, more urbanized states tend to have fewer fatalities, largely because a huge percentage of traffic deaths occur on highways at high speeds.
+The relative safety of urban driving is especially apparent when you consider the fatality rate of Washington, DC, which was included in the data set but is far more urbanized than any state. DC had just 4.2 deaths per billion miles, while the next lowest states had over 6, and the majority of states had more than 10.
+
+
+When you look at deaths on a per capita basis — rather than per mile — the rural-urban split is even more clear. On this map, green states have fewer than 9.1 deaths per 100,000 people, yellow states have between 9.1 and 13.04, and red have more than 13.04.
+Because rural states have fewer people and more of the driving is done on highways, they have dramatically more traffic deaths per capita than urbanized ones. A person in North Dakota is nearly five times more likely to die on the road than someone in Massachusetts.
+
+Sivak also looked at each state's change in fatalities between 2005 and 2012 (the latest year for which the government has released data).
+On the whole, deaths decreased 22.7 percent during that period, despite a slight uptick in 2012. But there was also a huge variation in the decline in traffic fatalities: some states have become much safer, and others less so. A couple states (North Dakota and Vermont) have even seen increases in road deaths, both on a per mile and per capita basis.
+Here's a map of the change on a per mile basis:
+
+Green states have reductions of more than 27.5 percent of deaths per mile driven, yellow have reductions between 27.5 and 18.7, and red have reductions of less than 18.6 percent, or increases.
+The good news is that several of the rural states that have the most road deaths are actually seeing the biggest improvements. Much of the red category — states that saw minor reductions in deaths per mile — are already states with relatively low rates in the first place.
+But again, there are exceptions. West Virginia, for one, has seen barely any reduction, and Maine and Vermont have had increases. North Dakota's increase, meanwhile, can be largely explained by the state's recent natural gas and oil boom, which has brought both people and vehicle miles (the state's raw increase in deaths was 38.2 percent, but just 3.8 percent on a per mile basis because of all these extra miles). 
+
+Further reading: You’re less likely to die in a car crash nowadays — here’s why

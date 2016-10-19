@@ -1,0 +1,45 @@
+Why premium gas is a waste of money for most cars
+The vast majority of gasoline pumps in this country offer you three choices: regular gasoline (usually labeled as 87 octane), mid-grade (89 octane), and premium (92 or 93 octane).
+For most people, if your car is running well, there's no reason to buy premium gas
+Lots of people are uncertain about the differences between these gas types. Some imagine that occasionally treating their car to premium gas might increase performance or gas mileage — or somehow clean out the car's engine.
+The truth: if your car is running smoothly and your manual doesn't instruct otherwise, there's absolutely no reason to waste money on premium or mid-grade gas.
+Here's an explanation of the difference between these grades of gasoline — and why regular is the way to go for most people.
+ 
+
+
+
+
+
+
+(Photo Illustration by Miguel Villagran/Getty Images)
+Gasoline is a blend of various chemicals produced when petroleum (that is, crude oil) is processed. Most of these chemicals are hydrocarbons: molecules made up of hydrogen and carbon atoms bonded together.
+In total, there are about 200 different hydrocarbons in gasoline, and one of these forms is especially noteworthy: isooctane. It's made up of 8 carbon and 18 hydrogen atoms bonded together in a particular way.
+Isooctane is important because it's resistant to something bad that can happen inside a car's engine — a process formally known as detonation and more commonly called "knocking" or "pinging."
+
+An illustration of an internal combustion engine. (Zephyris)
+Inside the engine, there's an area called a cylinder into which air and fuel are pumped (they're shown as blue in the graphic). When the spark plug ignites this mixture, it causes it to combust, which produces a huge amount of pressure that pushes the piston, ultimately causing the car's crankshaft to turn. This combustion is what powers your car's wheels as it cruises down the road.
+But the combustion doesn't happen instantaneously — it takes a brief moment for the flame to spread throughout the cylinder. And under certain conditions, the air and gas in more distant parts of the cylinder can independently start burning before the main flame has reached it (in some cases, before the spark plug has even gone off). This is called knocking — because of the sound that's sometimes made as the two flames collide — and it's not great for your car's engine.
+Isooctane is relevant here because it requires especially high pressure to ignite, so gasoline blends that are high in octane are less likely to produce knocking. Its opposite is another hydrocarbon called n-heptane, which is especially prone to ignition — so if used alone would produce knocking regularly.
+Because these two hydrocarbons are at the extremes, they're used as benchmarks to produce something called an octane rating. A fuel with an octane rating of 100 can withstand as much compression as pure octane before combusting. One with a rating of 0 combusts readily, like pure n-heptane.
+Commercial gasoline falls in between. So-called premium gas has a 93 rating, which means it combusts as readily as a mix of 93 percent octane and 7 percent n-heptane (although it actually has a mix of many other hydrocarbons). Mid-grade has a rating of 89, and regular has a rating of 87.
+All this might make it seem like buying premium gas is a good idea. But in truth, for the vast majority of cars on the market, it's simply not necessary to prevent knocking.
+The main reason is that these cars are specifically designed to run on gasoline with an 87 rating. The amount of pressure created by their engines' pistons does not generally lead 87-rated gas to detonate without a spark plug, so knocking does not occur.
+most cars are specifically designed to run on gas with an 87 rating
+In addition, most cars built since 1996 or so are equipped with something called a knock sensor. This device detects knocking and alters the timing of the spark plug firing to stop it from happening.
+And even if you do hear a ping or knock here or there, it's not the end of the world. If it happens on a routine basis, the extra pressure it creates can cause damage to the engine, but occasionally knocking won't do a ton of harm.
+The phrase "high-octane gasoline" might sound like it packs more energy — so could theoretically give you better gas mileage — but that's simply not the case. There's also a persistent myth that an occasional tank of premium gas will clean out deposits in your car's engine, but that's not true either.
+Premium gas won't cause any damage to your car, but its downside is obvious: it costs more money, typically 20 cents per gallon.
+ 
+
+
+
+
+
+
+The fancy Jaguar F-type does require premium gas. (Photo by Joe Scarnici/Getty Images)
+A minority of cars — typically high-performance luxury vehicles — is designed with mid-grade or premium gas in mind. The car's manual (and probably its salesperson) will tell you if this is the case.
+Using premium gas can allow automakers to design cylinders that create more pressure before combustion occurs, which in turn allows them to extract more power from gasoline. (It doesn't mean, however, that putting premium gas in a normal engine will lead to more power — it's the cylinder design that's crucial.)
+On the whole, these cars will get slightly better performance from premium gas. But in many cases they'll still be fine with regular — they won't accelerate quite as powerfully, but their knock sensors will generally be able to prevent knocking. Some of these cars, however, do require premium on a consistent basis.
+The auto website Edmunds.com has put together comprehensive lists of all cars made since 2009 for which premium gas is simply recommended and the other cars for which it's required. If your car is on the recommended list, you generally can opt to save money with regular.
+The one exception: if you're forcing the engine to do a ton of work — say, climbing up a hill while accelerating and carrying a high amount of weight — the knock sensor may not be able to compensate. If you hear a lot of knocking from your car's engine when you're pushing it hard, that may justify paying a bit more for premium gasoline.
+But in most cases for even these fancy cars — and in all cases for normal cars — regular gas will do just fine.

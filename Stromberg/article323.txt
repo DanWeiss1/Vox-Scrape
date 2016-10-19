@@ -1,0 +1,50 @@
+SpaceX failed to land a rocket on a platform in the ocean — but it's still a step closer
+Saturday morning, SpaceX launched its fifth cargo resupply mission to the International Space Station, part of a collaboration with NASA.
+But this time SpaceX, nearly did something unprecedented afterward: the first stage of its Falcon 9 rocket landed vertically on a platform floating in the Atlantic Ocean a few minutes after its job was finished. However, the rocket touched down too hard because it ran out of hydraulic fluid, and was damaged in the process:
+Rocket made it to drone spaceport ship, but landed hard. Close, but no cigar this time. Bodes well for the future tho.
+ 
+Didn't get good landing/impact video. Pitch dark and foggy. Will piece it together from telemetry and ... actual pieces.
+ 
+Normally, rockets are simply allowed to break up into pieces or sink in the ocean after each use. A controlled landing of the rocket could have allowed SpaceX to reuse it on a future flight — and reusing this multi-million dollar piece of equipment, rather than throwing it out after every flight, could dramatically drive down the cost of space travel.
+ 
+
+
+
+
+
+
+The landing platform, which was damaged during the hard landing. (SpaceX)
+But even if the rough landing destroyed the rocket, just placing it accurately on the platform was a big step in the right direction. The company admitted this was a difficult maneuver with a high chance of failure beforehand, and it's expected they'll keep trying in future launches.
+The company launched a Falcon 9 rocket from Cape Canaveral, Florida, in order to carry an uncrewed space capsule up to the International Space Station. The Dragon capsule will deliver all sorts of cargo to the ISS — food, life support equipment, and several scientific experiments — when it arrives there on Monday.
+
+The rocket that launched the capsule into space is made up of two parts: a 138-foot-tall first stage, which burned for the first few minutes of flight, lifting the craft up to an altitude of about 50 miles before separating and falling back to Earth, and a smaller, 49-foot-tall second stage, which burned for another five minutes or so, carrying the spacecraft into orbit before disconnecting and falling back down to earth as well.
+Usually, both of these stages — as well as the stages that make up other rockets in general — break up into pieces as they plummet downward, eventually sinking in the ocean and becoming unusable. But today, as the first stage fell back to earth, SpaceX fired its engines in order to stabilize and guide it for a controlled landing on an autonomous uncrewed barge, stationed about 200 miles east of Jacksonville, Florida, as shown in the graphic at right, from Space.com.
+As the rocket descended, steerable fins affixed to its outside helped guide it and slow it down. As it neared the barge, a set of legs unfolded from the bottom of the rocket, and the rocket gently landing on them, fully upright at a speed of about 4.5 miles per hour.
+ 
+
+
+
+
+
+
+The fins, affixed to the outside of the first stage. (SpaceX)
+Apparently, it hit the platform with too much speed to survive the impact, due to a lack of hydraulic fluid used to slow it down. But just getting it to land on the platform after flight is a pretty big accomplishment.
+It might seem simple, but no one had ever done anything like it before — and it was difficult for a few different reasons. For one, the rocket is designed to launch a spacecraft into orbit, which means that it's extremely tricky to decelerate and steer on the way down. SpaceX compared the feat to "trying to balance a rubber broomstick on your hand in the middle of a wind storm," and only gave it a 50 percent chance of succeeding beforehand. 
+Additionally, with its legs extended, the rocket is 70 feet wide, so landing it on the 300-foot wide floating platform required a high degree of accuracy. Finally, the platform itself was a moving target as it swayed slightly in the water.
+SpaceX made similar attempts to land its rockets as part of three previous launches, and two times, it managed to get the rocket to slowly hover and land upright in the ocean, but then it fell over.
+
+A video showing one of SpaceX's previous attempts to land the Falcon 9 at sea.
+One of the factors that make space travel so expensive is the fact that most of the equipment used to put cargo or people in orbit is destroyed after each use. SpaceX CEO Elon Musk has famously likened this to throwing away a brand-new 747 after a single flight to London.
+From the beginning, his company has sought to make spaceflight possible with reusable components. And though that's an extremely ambitious goal, this landing was a first step towards achieving it.
+ 
+
+
+
+
+
+
+The launch of SpaceX's previous cargo resupply mission, in September. (SpaceX)
+If landed successfully, the first stage of the Falcon 9 could be refurbished and used for a future flight. The Dragon capsule it launches into orbit, meanwhile, is already reusable, and the company has plans to eventually try landing and reusing the second stage of future rocket designs in a similar way as well. If future attempts are successful, this could mean that the majority of the rocket components could be used several times.
+While some experts say that the potential cost savings of reusing rockets is overstated, SpaceX has publicly said that building a new Falcon 9 rocket costs $54 million, but using it to put a payload into orbit uses only about $200,000 worth of fuel. There are certainly other costs associated with a launch, but the bottom line is that the company wouldn't be so obsessed with trying to reuse rockets if it wouldn't save them money.
+And if it does, that could change the economics of spaceflight, opening up a number of new possibilities — perhaps including new collaborations with NASA and space tourism.
+Update: This post has been edited to reflect ongoing developments.

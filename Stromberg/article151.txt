@@ -1,0 +1,63 @@
+The "fundamental rule" of traffic: building new roads just makes people drive more
+This article is part of a series about the past, present, and future of commuting in America.
+For people who are constantly stuck in traffic jams during their commutes, there seems to be an obvious solution: just widen the roads.
+This makes intuitive sense. Building new lanes (or new highways entirely) adds capacity to road systems. And traffic, at its root, is a volume problem — there are too many cars trying to use not enough road.
+But there's a fundamental problem with this idea. Decades of traffic data across the United States shows that adding new road capacity doesn't actually improve congestion. The latest example of this is the widening of Los Angeles' I-405 freeway, which was completed last May after five years of construction and a cost of over $1 billion. "The data shows that traffic is moving slightly slower now on 405 than before the widening," says Matthew Turner, a Brown University economist.
+
+The main reason, Turner has found, is simple — adding road capacity spurs people to drive more miles, either by taking more trips by car or taking longer trips than they otherwise would have. He and University of Pennsylvania economist Gilles Duranton call this the "fundamental rule" of road congestion: adding road capacity just increases the total number of miles traveled by all vehicles.
+This is because, for the most part, drivers aren't charged for using roads. So it's not surprising that a valuable resource, given away for free, leads people to use more of it. Economists see this phenomenon in a lot of places, and call it induced demand.
+If you really want to cut down on traffic, Turner says, there's only one option: charge people to use roads when they're crowded, a policy known as congestion pricing.
+ 
+
+
+
+
+
+
+(David McNew/Getty Images)
+In the United States, city planners and traffic engineers have long acted on the belief that adding road capacity will reduce traffic. But no one had ever tested this idea empirically. One reason is that it's a difficult thing to analyze. Researchers can't exactly conduct a controlled study, giving randomly selected cities different amounts of road space simply for the purpose of an experiment.
+So Turner and Duranton did their best to get around this by using a few novel methods. In an influential 2011 paper, they looked at the total capacity of highways in each metropolitan area in the US and compared it with the total number of vehicle miles traveled.
+They found a one-to-one correlation: the more highway capacity a metro area had, the more miles its vehicles traveled on them. A 10 percent increase in capacity, for instance, meant a 10 percent increase in vehicle miles, on average. But that, on its own, wasn't conclusive. "This could just be telling you that urban planners are smart, and are building roads in places that people want to use them," Turner says.
+a 10 percent increase in road capacity meant, on average, a 10 percent increase in vehicle miles
+So, to try to isolate the effect of building roads, the economists then compared changes in highway capacity between 1983 and 2003 to the changes in vehicle miles traveled. "Again, we saw a direct one-to-one correlation across all cities," Turner says. This correlation also held up when the economists compared roads within cities: added road capacity consistently led to more driving. Still, even this wasn't conclusive. It could, after all, simply be a function of planners making good decisions — perfectly anticipating unmet driving demand.
+As a final step, then, the economists tried to isolate a few different sets of roads that were planned with no regard to current driving patterns — newly built roads that were part of the original 1947 interstate highway plan (which was based on 1940s population levels, not 80s and 90s), and those that followed 19th century railroad rights-of-way, or 18th and 19th century routes taken by explorers. "We saw exactly the same effect here too," Turner says. 
+This finding has since been replicated with Japanese and British data. It doesn't seem to be an effect of optimized planning. Again and again, more roads lead to more driving — with no reduction in congestion.
+Turner and Duranton have also found that public transportation doesn't really help alleviate congestion either — even if it takes some people out of cars and puts them on buses or trains, the empty road space will be quickly filled up by new vehicle-miles. Other researchers have found exceptions to this rule (say, when a transit route parallels heavy commuting corridors) but it doesn't seem to be a large-scale traffic solution, at least given the way US cities are currently built. (Note that transit can have other beneficial effects, like making a city more affordable. But it doesn't seem to have much effect on congestion.)
+ 
+
+
+
+
+
+
+(Scott Olson/Getty Images)
+So why does traffic increase when new road capacity is added? Turner and Duranton attribute about half of the effect to people's driving decisions. "Think of it as if you made a bunch of hamburgers and then gave them all away," Turner says. "If you make hamburgers free, people will eat more of them."
+By way of illustration, consider the following situation: there's a store where you know you can save $10 on something you need to buy, but it's 10 miles away. If you assume there will be terrible traffic and it'll take 30 minutes to get there, you'll just buy the product at a closer store. However, if a new lane gets added to a highway that will speed your journey there, you'll decide it's worth it.
+
+Over time, thousands of people will make this calculation — along with similar ones, like deciding to drive a few blocks rather than walk, because it'll be faster, or choosing to move farther from work, in exchange for a bigger house, because they assume the distance can be covered quickly. Eventually, they increased miles they drive will go a long way towards filling up the new, expensive roads that municipalities went to so much trouble to build. (As a navigation device company's billboard once told drivers, "You are not stuck in traffic. You are traffic.") Some people might then opt not to drive, but ultimately, the roads will reach the same equilibrium of traffic they had before.
+ 
+
+
+
+
+
+
+A model showing how induced demand works. Typically, traffic volume levels off and reaches an equilibrium over tine, but when new capacity gets added, the volume increases to fill it, before reaching a new equilibrium. (Victoria Transport Policy Institute)
+A few other factors also contribute to induced demand. The economists noticed increased truck traffic in the areas with more new road building — partly an effect of long-haul trucking companies optimizing their routes to take advantage of newly built roads, and partly an effect of industries that rely heavily on transportation moving in to an area to do the same.
+Lastly, the researchers attribute some of the effect to individual people moving to an area to follow new road capacity as well.
+ 
+
+
+
+
+
+
+London's congestion pricing scheme. (Oli Scarff/Getty Images)
+Turner notes that traffic isn't necessarily a bad thing: it's a sign that lots of people want to use the roads in a certain area. If you want transport-heavy industry and new residents to move to your city, then new roads are an infrastructure investment that appear to attract them.
+However, if your goal is reducing traffic congestion, this research shows that adding road capacity won't do it. But there is a way: congestion pricing. 
+"Essentially, you charge people for access to roads at the times they're congested," Turner says. At rush hour, using a road costs more than in the middle of the night. Only a few cities — like London and Singapore — have tried this sort of scheme so far, but research shows that it has appreciably reduced traffic by shifting behavior. People opt out of making some trips, or shift them to times when the roads won't be so busy, ultimately cutting down on traffic. 
+'you charge people for access to roads at the times they're congested'
+One criticism of these sorts of schemes is that they're regressive: they impact the poor much more than the wealthy, and effectively ease the commutes of people who can pay the tolls.
+There's certainly some truth to this. But at the same time, the current system (which is relying less and less on gas taxes, which roughly correlate with usage) also has enormous costs, they're just less visible.
+The mechanisms we use to currently pay for new roads might be less regressive, but they decouple road usage from payment, a huge long-term problem. "If you have something valuable that you're giving away, and you don't have enough of it, you can either just build more and more and keep giving it away and never have enough, or you can start charging people for access," Turner says. 
+There are now all sorts of high-tech ways to toll cars based on the distance they drive; perhaps you could create a system that also takes a person's income into account, which would let you make a progressive form of congestion pricing. "Consider the alternatives: congested travel, with tons of money spent on expansion projects," Turner says, "or congestion pricing, which'll really bother us at first, but change our behavior and actually solve the problem."

@@ -1,0 +1,19 @@
+You can win $29,000 from NASA — just figure out how to shield astronauts from space radiation
+Space radiation is one of the biggest obstacles NASA has to address if it wants to someday send humans to Mars.
+And it's looking for new ideas. Right now, the agency is offering prizes of up to $29,000 for anyone's novel design concepts that would help keep crew members safe.
+Engineers usually build bulky materials into spaceships to shield astronauts from radiation, but their mass makes the crafts expensive and difficult to launch and land.
+
+A few weeks ago, NASA announced the winners of a previous round, including George Hitt, a physics professor at Khalifa University in the United Arab Emirates who got $5,000 as the first-place winner for a reusable radiation shield that would just stay in space indefinitely.
+"At regular intervals, it will come close enough to Earth for a spacecraft to fly up to it and hitch a ride inside of it," Hitt told Fusion. "After riding to Mars orbit, [the spacecraft] would detach and leave the shield material behind, to return back to Earth."
+
+
+
+The underlying problem is that when astronauts travel through deep space, they leave the protection of Earth's magnetic field.
+As a result, they're bombarded by a few different sorts of radiation. Some of these high-energy particles come from the sun (and spike whenever there's a particularly powerful solar storm). Others, called cosmic rays, come from outside our solar system and might be produced by distant supernova.
+Neither of these have been a huge issue for human space exploration so far, since the only astronauts who have left the Earth's magnetic field so far were those on the Apollo missions to the moon — and they were only gone for a week or two at most.
+However, even that relatively short journey could theoretically cause problems. Between the Apollo 16 and 17 missions, for instance, the sun suddenly released a huge burst of protons that would've been very dangerous for astronauts had a mission been underway.
+radiation increases astronauts' risk of cancer
+For the journey to Mars — which will take at least six months each way — the risk would be much higher.
+The most straightforward problem is that space radiation increases astronauts' risk of cancer. NASA already caps how much time astronauts can spend on the International Space Station so that their lifetime cancer risk doesn't increase by more than 3 percent. A yearlong trip to Mars and back would slightly exceed this cap, even if no solar storms occurred — and in reality, the journey might end up taking longer.
+There might also be more acute effects of space radiation exposure. For instance, a few recent studies in rodents have suggested it could cause memory and focus problems in astronauts, in some cases leading to irreversible dementia.
+All these reasons are why NASA is looking for new ideas for how to protect astronauts during the journey. We could just keep building spacecrafts with thick, heavy shields, but a lighter, novel system (such as a craft that generates its own magnetic field to fend off radiation) could be a better solution. If you've got a good idea, tell NASA about it here by June 29.

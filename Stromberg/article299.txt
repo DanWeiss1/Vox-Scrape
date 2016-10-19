@@ -1,0 +1,37 @@
+This high-tech football could change the NFL
+ 
+
+
+
+
+
+
+The Magneto-Track system's ball. (David Ricketts)
+The Super Bowl will feature all sorts of high-tech innovations: instant replay and Surface tablets on the sidelines, overhead cameras that crawl across cables to follow players on the field, and helmets with radios built in so coaches can easily relay plays from the sideline.
+Then, every so often, a pair of men will trot on to the field with a 10-yard-long metal chain to try to figure out if the offense got a first down — just like they did back in 1907.
+Is it time to replace the chain with something more modern?
+Some engineers think so. The chain might seem precise, but it really isn't: researchers have determined that it has a roughly six-inch margin of error, largely due to human error in placing the ball and perfectly aligning the sideline chain with it afterward.
+Engineers at NC State and Carnegie Mellon think the Magneto-Track System is the answer. The system involves a football with a magnetic transmitter built in, coupled with a series of sideline antennas. Together, they can indicate the position and orientation of the ball, even when it's surrounded by the bodies of players.
+So far, it's been used in practice by the NC State and Carnegie Mellon football teams. It's still not quite as accurate as the chain — it has an estimated one-foot margin of error — but engineers are improving it. 
+They envision this initially as a way to enhance the viewing experience for people watching on TV — but it's possible that it could eventually consign the chain to the dustbin of football history.
+Some other sports — such as soccer — have already implemented ball-tracking technologies that rely on cameras. But (American) football is a particularly difficult case because much of the time, players' bodies are blocking the ball from view. This is especially true for many of the plays that would benefit from ball-tracking, like pileups right at the goal line.
+This would also prevent the use of RFID or GPS technologies. "We had to look for a technology that would allow us to use radio waves that would be transparent to players' bodies," says David Ricketts, an NC State researcher working on the project. "That led us to magnetic fields. They're safe, and transparent: in a pileup, we can see straight through 22 players."
+
+The ball's transmitter generates a magnetic field, which is picked up by a series of antennas edging the field. Based on the signals received by each antenna, they can calculate the ball's position in three dimensions, along with its orientation, in a process similar to triangulation.
+The system can calculate all this in real-time — so, theoretically, it could supplement instant replay as a way for a ref to determine whether the ball crossed the goal line before a player's knee hit the ground.
+The main problem: right now, it still has a one-foot margin of error, which is larger than the chain's. But the researchers are working to cut down on it, and it could soon become the most accurate way to figure out if a player got a first down or scored a touchdown.
+One concern might be that putting a magnetic transmitter in a football would alter its weight or balance. But when it comes to weight, a football is surprisingly forgiving.
+"What most people don't realize is that the footballs are handmade, so there's quite a bit of variation from one ball to another — about an ounce of difference," Ricketts says. "So we designed our transmitter to be less than that natural variation." (There's less tolerance for variation in air pressure, as the Deflate-gate scandal has taught us.)
+Additionally, footballs are naturally lopsided because of the laces, so manufacturers already need to put a small weight on the side opposite them to balance things out. That provides a natural spot for the transmitter.
+Here's a video of a transmitter being put into a finished ball — but keep in mind that if this type of system were adopted, it could be incorporated into the actual manufacturing process.
+
+The engineers developed this using funding from Disney Research. Not coincidentally, Disney owns ESPN. The researchers initially envisioned this simply as a way to let TV viewers more easily see the ball at home, like the NHL's infamous glowing puck experiment during the 90's.
+But it could have other uses. One is to provide coaches with detailed analytics data, during both games and practice. It can, for instance, provide a quarterback's throwing speed and trajectory on every single pass.
+the researchers envision this as a way to let tv viewers more easily see the ball
+And it might take a while, but it's easy to imagine a pathway to it actually being used to help refs call a game. At first, ESPN might convince the NFL to let transmitters into their balls solely for broadcast and analytics purposes — likely in preseason games to start.
+But eventually, the system could be used as a supplement to instant replay. It might even someday supplant replace the chain — and NFL officials have even admitted that they'd like a more precise replacement for it.
+This isn't the first one imagined: inventors have suggested all sorts of contraptions, including, most recently, first down markers with lasers built in. But these only solve part of the problem — they would enable refs to line up the markers accurately with the ball, but wouldn't help them better determine exactly where a player actually went down. This magnetic tracking system would. 
+Sure, the NFL can sometimes prefer to stick with tradition. But it's also shown a willingness to adopt technology when it can obviously improve the game.
+In 1986, the league adopted instant replay review, then abandoned it in 1989 due to complaints that it slowed the game down, and that even when they used it, refs still got calls wrong. But in 1999, it tried out replay once again, this time with vastly improved cameras.
+It's since become a core part of football, and this year, the NFL implemented a new system with an even bigger shift: it now gives officials sitting in its New York offices a good deal of power over calls, rather than solely the refs on the field.
+Obviously, this magnetic system needs to improve further before it's even a possibility. But here's hoping that if the NFL still exists in 50 years, it's not still having refs run out onto the field with a chain.

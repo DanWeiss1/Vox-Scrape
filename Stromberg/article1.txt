@@ -1,0 +1,62 @@
+Why cars went from boxy in the '80s to curvy in the '90s
+ 
+
+
+
+
+
+
+New York's Fifth Avenue, in 1974. (Keystone-France/Gamma-Keystine via Getty Images)
+Look at a photo of a street scene from the '70s or early '80s, and a lot of things look pretty much the same as today. Most of the buildings are similar. People's clothes, on the whole, aren't all that different, give or take a few shoulder pads.
+One thing stands out: all of the cars look super boxy, especially compared with the curving, rounded exteriors of virtually every car on the market today.
+
+
+<!--
+new pym.Parent('car-slider__graphic', '//apps.voxmedia.com/at-preview/car-slider/', {xdomain: '.*\.voxmedia\.com'});
+// -->
+
+This underappreciated transformation is probably the most distinct design change to come to cars over the past half-century, and for most US cars, it happened within just a few years, starting in 1986. You can even pinpoint the exact year curves arrived for some models — like the Buick LeSabre, which had much harder edges along its hood, roof, and trunk in 1991 (left) than 1992 (right):
+
+
+<!--
+new pym.Parent('buick-lesabre__graphic', '//apps.voxmedia.com/at-preview/buick-lesabre/', {xdomain: '.*\.voxmedia\.com'});
+// -->
+
+In the decades since, cars have just gotten curvier and curvier. Why the big shift?
+It turns out it was largely due to three interrelated factors: European style trends, a government-mandated push for fuel economy, and new technologies that allowed manufacturers to more easily design and create curved shapes.
+By the 1980s, making curved cars wasn't an entirely novel idea — it had just largely gone out of fashion among US automakers. The streamliners of the 1930s, such as the Chrysler Airflow, had a sleek look designed to minimize wind resistance.
+The 1934 Chrysler Airflow.
+(Randy Stern)
+But the Airflow and other streamlined American models were commercial failures,  outsold by bigger, boxier cars. Through the 1970s, almost every American-made car had hard, sharp edges, with few curves. They were uniformly designed as a series of three connected boxes: the hood, the cabin, and the trunk.
+A 1975 Chevy Caprice.
+(Greg Gjerdingen)
+In Europe, though, fuel was always more expensive, and designers — especially in Germany — explored aerodynamic designs much earlier on, says Penny Sparke, author of A Century of Car Design. In the 1960s and '70s, luxury automakers like Porsche, BMW, Audi, and Mercedes-Benz were some of the first to reintroduce curved exteriors.
+One of the earliest, most well-known examples is the Porsche 911, which was pretty curvy way back when it was introduced in 1963:
+A 1969 Porsche 911.
+(Charles01)
+This aesthetic eventually became associated with these luxury cars, both in Europe and in the US, where they arrived as imports. And inevitably, writes historian David Gartman in Auto Opium: A Social History of American Automobile Design, "American automakers began to copy the European aerodynamic aesthetic in the mid-1980s as a way of courting upscale consumers."
+Ford, more than any other company, was responsible for bringing this design change to the mass market. Designer Uwe Bahnsen did it first in Europe with the 1982 Ford Sierra, which was far more curved than similar cars of its era:
+A 1983 Ford Sierra.
+(Charles01)
+Reviewers panned the look (nicknaming it the "jelly mould"), and the car did not sell well at first. Over time, though, buyers got used it — especially as other manufacturers eventually copied the style for their own cars.
+In the US, Ford designer Jack Telnack — who'd worked on the company's European design team before taking over North American design in 1980 — was most directly responsible for the shift to curves. His 1983 Ford Thunderbird design was heavily shaped by wind tunnel testing, prioritizing aerodynamic lines. The look soon filtered down to the mass market with the 1986 Taurus:
+A 1986 Ford Taurus.
+(IFCAR)
+It might look unremarkable today, but the design was positively futuristic at the time. The car was even used in the movie RoboCop, which was supposed to take place in the near future. The Taurus, writes Gartman, "was definitely aiming at the upscale market of young, well-educated buyers to whom the BMW appealed."
+The strategy worked. The Taurus was a huge hit, with massive sales that saved the struggling company — and inspired a wave of copycat American cars.
+Smoke is blown over a 2011 Chevy Cruze in a wind tunnel to test its aerodynamics.
+(Bill Pugliano/Getty Images)
+Part of the reason the curvy look proliferated so quickly and is still with us today is basic physics. Curved exteriors and more steeply pitched windshields make for less wind resistance, as air can flow more easily over them. This means less gas has to be burned to move the car the same distance at the same speed.
+Right as the Taurus premiered, automakers were dealing with Corporate Average Fuel Economy standards for the first time. Starting in 1978, the average fuel economy of each manufacturer's passenger car fleet sold in the US had to reach higher and higher levels, before plateauing in 1990 at 27.5 miles per gallon.
+While automakers had already achieved some gains in efficiency with improved engines and other components, the new curved aesthetic made it much easier and cheaper to achieve further improvements. "One Ford designer claimed that while it would cost $200 to $300 million to achieve a one-tenth-mile-per-gallon increase by engineering 'under the hood,' aero design achieved a three- to four-tenths m.p.g. increase for almost nothing," Gartman writes.
+Automakers began relying more heavily on wind tunnels and aerodynamic calculations when designing their cars, and engineers started working more closely with designers. Within just a few years, virtually every car on the market suddenly looked like the once-futuristic Taurus. "They all looked the same because they were all being shaped in the wind tunnel, and were designed for fuel economy," says Larry Edsall, the author of several books on car design history.
+A Chrysler designer, using a newfangled computer program in the early '90s.
+(Bill Pugliano/Liaison)
+A few key technological developments made these designs possible — and have since allowed automakers to make their cars curvier and curvier.
+For decades, designers had made car models using clay, wood, or other physical materials. During the 1980s, they began using computer models.
+"It's much easier to make these sorts of shapes with computer drawings, rather than wood," Sparke says. "They gave automakers the means to produce those very soft curves." Manufacturing technologies also made it easier and cheaper to produce curved shapes in aluminum than before.
+As a result, since that initial shift in the 1990s, exteriors have only become curvier. You can get a good sense of how profound the change has been by looking at a newer car thought to be remarkably boxy: the Scion xB.
+The 2008 Scion xB.
+(IFCAR)
+Sure, it has a big, blocky hatchback. But its edges are still way more rounded than the truly boxy cars of the '80s — and even the groundbreaking, futuristic 1986 Ford Taurus.
+Verge Video: This is the driverless future Mercedes Benz thinks we'll have in the year 2030

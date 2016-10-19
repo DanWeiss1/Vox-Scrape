@@ -1,0 +1,96 @@
+Some scientists think we'll find signs of aliens within our lifetimes. Here's how.
+Finding extraterrestrial life is the essence of science fiction. But it's not so far-fetched to predict that we might find evidence of life on a distant planet within a generation.
+"With new telescopes coming online within the next five or ten years, we'll really have a chance to figure out whether we're alone in the universe," says Lisa Kaltenegger, an astronomer and director of Cornell's new Institute for Pale Blue Dots, which will search for habitable planets. "For the first time in human history, we might have the capability to do this."
+new telescopes could spot distant planets that have signs of life
+Over the past decade, researchers have found thousands of distant planets — which they call exoplanets. Unfortunately, most of them so far have been huge, gaseous planets (akin to Jupiter or Saturn) that are easier to spot, but unlikely to contain life as we know it.
+But that's all about to change. New telescopes and increasingly sophisticated analyses will soon allow us to detect rocky, Earth-sized planets and maybe even detect atmospheric gases that indicate the presence of life. Here's a step-by-step guide to how scientists plan to search for evidence of extraterrestrials:
+ 
+
+
+
+
+
+
+This is the sun. (NASA/SDO)
+Any extraterrestrial life is likely to need energy, which means that it is most likely to evolve on a planet bathed in light from a nearby star. So the first step for finding an inhabited exoplanet is locating suitable stars. (There are some planets that drift through space and don't actually orbit any stars, but those seem far less promising.)
+This step is the easiest: We've already located pretty much all the stars that are close enough to us that we might be able to spot an orbiting planet and analyze its atmosphere. Scientists generally believe that main sequence stars —  the 90 percent of stars in the universe that, like our sun, release energy by converting hydrogen to helium — are most likely to give rise to life.
+ 
+
+
+
+
+
+
+An illustration of Kepler-20e, a planet that's roughly Earth-sized, but is likely way too hot for life. (NASA/Ames/JPL-Caltech)
+We've already found thousands of exoplanets (and counting), mostly using NASA's Kepler space telescope and something called the transit method.
+Here's how the method works: Imagine staring at a star far away. If there is a planet orbiting that star, it might occasionally pass between us and the star, briefly blocking it from view. Scientists can't actually see the planets doing this blocking, but they can indirectly detect their presence.
+"We measure the brightness of a star, and when a planet passes in front of it, it blocks out some of the starlight for a period of a few hours," Thomas Barclay, an exoplanet researcher, told me in April. If scientists observe a star dimming by a consistent amount on a predictable schedule, they can infer the size of an exoplanet that's occasionally blocking some of the light.
+
+A diagram shows how the transit method helped detect five planets in the star system Kepler-186. (Sean Raymond)
+There are a few other methods for detecting exoplanets, but the transit method is the most straightforward — and it has led to the most discoveries to date.
+Scientists are still working on this step. For the most part, the planets we've found so far are too big, too gaseous, or too hot to be capable of supporting life. That's because bigger, gaseous planets are easier to detect — as are planets that are relatively close to their stars (and thus much hotter).
+So we still have to find more suitable planets. Based on what we know about life on Earth, we'd expect life to be more likely to evolve on a rocky planet that orbits within its star's habitable zone — an area where there's enough warmth for liquid water, but not too much heat. (It's possible that a planet even further off than this could evolve life, perhaps due to a heat-trapping layer of ice a la Europa, but that ice would likely make all signs of life invisible to us anyway.)
+Scientists have currently spotted about a dozen planets that are slightly bigger than Earth and may lie in their stars' habitable zones. The catch is that they're still too far away for us to be able to analyze their atmospheres to look for signs of life. That's because the Kepler telescope wasn't optimized to search for closer planets — it was built to observe a relatively distant portion of the Milky Way for an extended period of time.
+ 
+
+
+
+
+
+
+(Jon Lomberg)
+The good news is that the Transiting Exoplanet Survey Satellite (TESS), which will be launched in 2017, should allow us to spot rocky, Earth-sized planets that are much closer to us.
+ 
+
+
+
+
+
+
+An illustration of TESS. (NASA)
+Most exoplanets are probably way too far off for us to ever visit — even with uncrewed probes. So the best way to learn more about them is by analyzing the light spectrums that pass through their atmospheres, indicating the gases that are present.
+So far, we've been able to directly analyze the spectrum of light passing through the atmospheres of a dozen or so exoplanets. However, they've all been large, gaseous planets with thicker atmospheres.
+This search, too, will soon improve. The James Webb Space Telescope, scheduled to launch in 2018, will help us analyze the atmospheres of smaller, Earth-like planets that have already been spotted by TESS. The European Extremely Large Telescope, a ground-based telescope to be built in Chile in 2024, may also be used for this purpose.
+ 
+
+
+
+
+
+(NASA)
+
+
+
+(NASA)
+A rendering of the James Webb Space Telescope. (NASA)
+Additionally, a proposed solar shade called the New Worlds Mission could enhance the capabilities of Webb or other future space telescopes. "It would go in space and work in tandem with a telescope to block out the light from a particular star," says Sara Seager, an MIT exoplanet researcher involved in the mission. This would allow the telescope to directly see a relatively faint planet next to that star, and potentially analyze its atmosphere.
+ 
+
+
+
+
+
+
+An illustration of the star shade, blocking out starlight so faint planets can be more easily seen by a telescope. (NASA/JPL-CalTech)
+The reason we'd want to analyze atmospheres is to look for biosignatures — gases that could be signs of alien life. "We can't go to these planets," Kaltenegger says. "So we're trying to figure out what a planet that has life might look like from far away, in ways that would be detectable by our telescopes."
+At the moment, we only know of one planet with life — Earth — so scientists are using that as a model to determine what gases might support life. Kaltenegger and colleagues, for instance, have used our knowledge of Earth's history to generate what they call an alien ID chart — a series of snapshots of Earth's atmospheric composition over the last few billion years, as it's evolved due to the presence of life.
+there are some rare gases that are only produced by life forms
+Meanwhile, other researchers are modeling how various life forms might alter the atmospheres of planets with geologic compositions that differ from Earth's. As far as we know, there are some gases (like oxygen and methane) that are abundantly produced by life, but can also be produced by geologic processes. On the other hand, there are some rare gases (like dimethyl sulfide) that are produced only by life forms — as far as we know — but in much smaller quantities.
+This theoretical work, Seager says, is essential, because once all the telescopes are launched, our time with them may be limited. (The Webb telescope, for instance, also needs to be used for all sorts of observations beyond exoplanet analysis, and is only designed to last for a minimum of five years.) So having an idea of what to look for ahead of time is key. "We want to be able to understand the atmospheres of planets far away, and if any gases in those atmospheres don't belong and could be attributable to life," she says.
+ 
+
+
+
+
+
+
+An illustration of the exoplanet Gliese 832c, one of the closest potentially habitable exoplanets. (Radialvelocity)
+In a sense, you can look at this question as a math problem (just like Frank Drake did years ago in creating his famous equation that attempted to estimate the likelihood of finding intelligent alien life).
+There are an estimated 100 billion stars in the Milky Way, and recent research has revealed that virtually every one of them is orbited by at least one planet. What's more, it's thought that roughly 22 percent of these stars are orbited by a rocky, roughly Earth-sized planet in the habitable zone. The number of stars in our neighborhood — within the range of our next-generation telescopes — means that we should be able to spot many of the coming decades, and analyze its atmosphere.
+there's one unknown variable: how prone life is to forming
+After that, however, there's one big unknown variable: how prone life is to forming. It took about a billion years after the formation of Earth for life to first evolve, but after that it filled every niche and crevice on this planet's surface with remarkable speed. "We know life adapts really well to all kinds of conditions," Kaltenegger says. "The question is whether it needs very specific conditions to start."
+There's also a caveat to consider: even if we spotted a candidate planet with what seemed to be a biosignature, it'd be extremely hard to know for sure that it resulted from life — both because we really don't know much about exoplanet geologies, and because alien life forms could be hugely different from any life we've ever seen on Earth.
+And, even if we spotted a definite biosignature, we'd have no way of knowing what sort of life form produced it. It seems most likely that it'd be a microbe (for about half of Earth's history, after all, the only life forms were single-celled organisms), but it could be something more complex and we really wouldn't know.
+So will we actually find aliens? Seager, Kaltenegger, and other scientists involved in the search are hopeful.
+"I believe that in our lifetime, we will be able to take children to a dark sky, point to a star, and say 'that star has a planet with signs of life in its atmosphere.'" Seager said during a recent TEDx Talk, below, on her research.
+

@@ -1,0 +1,44 @@
+The New England Patriots have a suspiciously low fumble rate
+This post has been updated to incorporate the most recent analysis, by Daryl Sng of Football Central.
+It's still unclear why the New England Patriots were playing with under-inflated footballs in the AFC Championship game. The NFL's investigation of "Deflate-gate" is ongoing, and they haven't yet determined whether the Patriots were cheating or not.
+But in the meantime, outside analysts have been looking into other aspects of the Patriots' game — and some of what they've found seems a little suspicious. Like the fact that the Patriots seem to fumble balls at very low rates.
+NFL analyst William Sharp and the Wall Street Journal's Michael Salfino found that, since 2010, the Patriots have fumbled dramatically less often than any other team that plays home games outside.
+They both also found that players who played for both the Patriots and another team between 2007 and 2014 fumbled significantly less often when they were with New England. However, it's since been pointed out by Daryl Sng of Football Central that Sharp was erroneously counting fumbles on kickoffs and punts (plays which use a separate set of balls). When you eliminate those, the increase in these players' fumbling rates when they went on to play for other teams instead is much smaller: once every 106.5 touches, compared to once every 131.4 touches on the Patriots.
+So what does this all mean? One possible explanation for the Patriots' lower team fumble rate could be that they were under-inflating their footballs throughout this time period. After all, under-inflated footballs would be easier for Patriots players to hold on to, preventing them from being punched out.
+At this point, however, this is only speculation — and it's certainly not proof that the Patriots were cheating. There are plenty of other possible explanations for these numbers: the Patriots' offense scheme, theoretically, might put players in situations that lead to fumbles less often. Still, it's something to keep in mind as the investigation continues.
+There are 23 NFL teams that play their home games outside. Playing more frequently in wet conditions causes these teams, in general, to fumble more often than teams that play in indoor domes.
+Sharp calculated that since 2010, 22 of these teams have fumble rates (that is, the number of offensive plays per fumble) between 37 and 55. The one remaining team — the Patriots — has fumbled every 73 plays.
+
+Apart from the Patriots, the other three teams in the top four (for lowest fumble rate) since 2010 all play inside. And only one team — the Atlanta Falcons — has a lower fumble rate overall in the time period.
+However, you could chalk this up to lots of factors other than cheating — perhaps the Patriots have players who are especially good at ball security, or maybe their coaching staff teaches better ball-carrying technique.
+ 
+
+
+
+
+
+
+BenJarvus Green-Ellis has zero fumbles in four seasons with the Patriots — and five in two seasons with the Bengals. (Andy Lyons/Getty Images)
+Update: This section of the article has been updated to reflect the new analysis.
+The Wall Street Journal looked at six specific Patriots who switched teams since 2010, getting a substantial amount of touches for both the Patriots and other teams. Sharp, meanwhile, looked at 18 players who fit the same criteria, but went back further, to 2007 (when, he says, that the Patriots' fumble rate first dropped suddenly and significantly).
+Both found that the same players fumbled much less often when they were wearing a Patriots jersey.
+The six players considered by the WSJ fumbled once every 185.3 touches while on the Patriots, and once every 77.3 touches while on other teams. Sharp's bigger sample of players showed a similar disparity: once every 98 touches on the Patriots, versus once every 67 touches on other teams.
+However, as Sng points out, Sharp included fumbles on kick and punt returns in his analysis. In general, fumbles occur far more often on these sorts of plays, and a different set of balls is used for them — balls that no one is suggesting the Patriots deflated during the AFC championship.
+When you eliminate kick and punt return fumbles, players who left the Patriots and went on to play for another team fumble at only a slightly higher rate: once every 106.5 touches, rather than once every 131.4 touches. (Sng actually found that they fumble at a rate of once every 123 touches after leaving the Patriots, but he erroneously counted touches they'd had prior to playing for the team in that analysis.)
+ 
+
+
+
+
+
+
+(Jared Wickerham/Getty Images)
+Of course, even the suspect data could be explained by a number of things other than cheating.
+Perhaps there's some aspect of the Patriots' offense that leads to players being in fumble-prone situations less often — they could be taught to run out of bounds more often, exposing themselves to fewer hits, for instance. Belichick's known to bench players who fumble, so that could play a role. It's also possible that the Patriots have just been really lucky with ball security during this time period.
+Further, there are all sorts of tricks you can play with this sort of data to get the results you want. I haven't seen a great analysis of other potentially telling stats (like, say, drops committed by Patriots receivers), so maybe fumbling is an anomaly: the one stat that looks bad for the Patriots and is cited because the other ones fail to tell an interesting story. And there is the fact that, when you include dome teams, the Patriots' fumble rate doesn't look quite so weird.
+when you include dome teams, the patriots' fumble rate doesn't look so weird
+Also, the Patriots only started fumbling so much less often than other outdoor teams in 2007. If they've been cheating for years, why would they have only started seven years into head coach Bill Belichick's tenure with the team?
+Sharp points to an interesting 2006 story recently dug up by Pro Football Focus. Prior to the 2007 season, the NFL changed a rule, making all teams responsible for providing their own footballs for every game. Before the new rule, home teams had provided footballs for both teams.
+Brady addressed the league's Competition Committee, petitioning for the new rule. "The thing is, every quarterback likes it a little bit different," Brady told the Sun-Sentinel. "Some like them blown up a little bit more, some like them a little more thin, some like them a little more new, some like them really broken in."
+Further reading: The New England Patriots' deflated footballs scandal, explained
+Update: This post has been revised, thanks to subsequent analysis. It had originally noted that individual players fumble far less when they play for the Patriots, based on an analysis by NFL analyst William Sharp and the Wall Street Journal's Michael Salfino. However, as a subsequent analysis by Daryl Sng of Football Central points out, these analyses were based on a flawed data set, and though there's a difference, it's smaller than originally claimed.

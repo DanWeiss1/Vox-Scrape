@@ -1,0 +1,53 @@
+The Rosetta probe’s first finding suggests asteroids, not comets, brought water to Earth
+The European Space Agency's Rosetta orbiter — the spacecraft that carried the Philae lander — is still orbiting the comet 67P/G-C, even though Philae's battery died about a month ago.
+Now, scientists have used data collected by Rosetta for publicly available research for the first time. In a new paper published today in Science, an international group of led by Kathrin Altwegg has analyzed water molecules released by the comet.
+They found that this water doesn't exactly match that of water on Earth, chemically speaking. This is an important clue about how water first arrived on our planet — and could suggest that it's more likely it was delivered by an asteroid, rather than a comet.
+ 
+
+
+
+
+
+
+A photo of the comet, taken by Rosetta. (ESA)
+Earth, unlike any other planet in our solar system, is covered in water. This  seems quite normal to us, but for scientists, it's a bit of a mystery — because our understanding of Earth's early history suggest that any water originally present should have evaporated away, due to the extremely high temperatures and lack of a thick atmosphere.
+The origin of earth's water is a scientific mystery
+A few hypotheses have been proposed to explain the mystery, and the leading two both involve cosmic collisions. One holds that billions of years ago, impacts from comets (chunks of ice and rock that travel around the sun in extremely elliptical orbits) delivered the water we drink today. The other holds that impacts from asteroids (chunks of rock and metal that orbit the sun in more circular orbits) were responsible.
+The chief way of testing these ideas is to examine the water that's actually present on comets and asteroids and seeing if it chemically matches the water on Earth. A few spacecraft have previously done this for other comets and asteroids, and found that a couple of comets — along with most asteroids — are a match. Analyzing the water on comet 67P/G-C was one of the Rosetta mission's main objectives.
+ 
+
+
+
+
+
+
+A composite of photos taken by Philae on the comet's surface. (ESA)
+On Earth, the vast majority of hydrogen in water (about 99.98 percent) is totally normal: a single proton with a single electron orbiting it. However, a very small percentage of hydrogen (about 0.0156 percent) atoms are in an alternate form, called deuterium. These hydrogen atoms also have a neutron in their nucleus, as well as a proton, giving them a bit more mass — which is why they're sometimes called "heavy hydrogen."
+Because water on Earth has a consistent ratio of deuterium to normal hydrogen, it's expected that, if comets or asteroids were responsible for bringing water to Earth, their water would have a similar ratio.
+Using an instrument mounted on the Rosetta probe called ROSINA, the researchers analyzed the water molecules emitted by the comet as it gradually vaporizes, because its orbit takes it closer and closer to the sun.
+They found that its water has about three times as much deuterium as water on Earth. "It’s probably one of the highest deuterium-to-hydrogen ratios ever measured — the heaviest water in any source or body," Atwegg said during a press conference on the finding.
+ 
+
+
+
+
+
+
+A photo of the comet, taken by Rosetta. (ESA/Rosetta/NAVCAM)
+This doesn't rule out the idea that comets first delivered water to Earth billions of years ago. However, it's a data point that makes it seem somewhat less likely, the researchers say.
+One key point is that there are two types of comets: There are long-period comets that travel extremely far from the Sun (70,000 times as far away as the Earth, for instance), then come back in towards the center of the solar system in an orbit that takes millions of years. And there are short-period comets that don't go nearly as far out, and have orbits that take only hundreds of years. These two types of comets are believed to have formed in distinct areas of the solar system, and as a result have different compositions.
+the data makes the idea that comets delivered water to Earth less likely
+Years ago, analysis of long-period comets (also called Oort cloud comets) indicated that their water had much more deuterium than the water on Earth, so the idea that comets had brought water here was largely discarded. But more recent analysis of two short-period comets (103P/Hartley and 45P/Honda–Mrkos–Pajdušáková) found they both had water with strikingly similar amounts of deuterium to Earth water — leading scientists to revive the hypothesis, but specifically with short-period comets.
+This new data throws that idea into doubt once again. If short-period comets did deliver water to Earth billions of years ago, then 67P/G-C would have to be a major exception, with water content drastically different than the other ones. What's more likely, the researchers say, is that short-period comets are more diverse than previously thought — in terms of both water content and where they originated in the solar system — and that asteroids, instead, brought water to Earth. (It's also possible that some water was retained within minerals in the Earth's crust, then gradually leaked out over time, but it's considered less likely.)
+ 
+
+
+
+
+
+
+Though most long-period comets (thought to originate in the Oort cloud) have more deuterium than Earth water, two previously tested short-period comets (a.k.a. Jupiter-family comets) had similar amounts. 67P/G-C has far more deuterium, making it more likely that asteroids (a.k.a. Chondrites) are responsible.(Altwegg et. al./ESA)
+Most of our data on asteroid water comes from pieces of them that have fallen to Earth as meteorites — and analysis indicates that their deuterium levels match those of Earth water. But theoretically, this data could be contaminated as they descend to Earth, so firsthand data from an orbiting asteroid would be a better test.
+That's where Japan's Hayabusa-2 mission, launched earlier this month, comes in. In 2018, the probe will arrive on an asteroid, and if all goes as planned, it'll bring the first substantial asteroid rock sample to Earth in 2020. By analyzing this sample and other data, researchers will be able to further test the hypothesis — and determine whether asteroids are responsible for all water on Earth.
+
+During the press conference, Altwegg and Matt Taylor, a Rosetta scientist, provided a few other updates on the mission:

@@ -1,0 +1,54 @@
+The return trip effect: why the trip home always feels shorter than the trip there
+The last time you visited a strange new place, you might have noticed that the return trip home felt quicker than the journey there, even though they were the exact same distance.
+It turns out that lots of people experience this illusion — and it can even be replicated in a lab.
+The latest evidence for what psychologists call the "return trip effect" is a new study published today in the journal PLOS ONE. In it, Ryosuke Ozawa and other scientists from Kyoto University had participants take simulated "trips" by watching 20-minute videos recorded by a person who'd walked city streets to reach a destination. Compared with those who "took" two one-way trips, round-trippers consistently recalled the second leg taking less time.
+ 
+
+
+
+
+
+
+The round-trippers went from S to E, then (S) to (E) in the map at left. The control group went from S to E on the left, then S to E on the right. (Ozawa et al./PLOS ONE)
+We still don't have a clear idea of what causes this illusion. But researchers do have some hypotheses — as well as thoughts on why the conventional wisdom might be wrong.
+Familiarity is the oldest explanation offered up for the return trip effect — and was first suggested by researchers in the 1950s. There's some logic to it: other research has suggested that experiencing unfamiliar stimuli can make us perceive time as moving more slowly.
+But recent experiments indicate this isn't the real reason for the return trip effect. In one 2011 study, researchers had some bike riders take a standard round trip, with the same route there and back. Other riders were instructed to take a different, unfamiliar route back. Surprisingly, both groups judged the return trip as taking less time.
+ 
+
+
+
+
+
+
+(Getty Images)
+Based on his analysis of the 2011 study, Dutch psychologist Niels van de Ven arrived at a different hypothesis. He argued that we often overestimate how long the return trip will take, so that it seems quicker when it actually happens.
+"Often we see that people are too optimistic when they start to travel," de Ven told NPR. That means the first leg of the trip takes longer than expected. "So you start the return journey, and you think, 'Wow, this is going to take a long time,'" he said. As a result, the return leg takes less time than expected — and in this context, it feels shorter afterward.
+Indeed, in the 2011 study, de Ven found that those who most badly misjudged how long the first leg of the trip would take were most susceptible to the return trip effect.
+De Ven's hypothesis might also explain why people don't experience the return trip effect on routes they travel frequently — such as their daily commutes — because their expectations are generally in line with reality.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+Other researchers have suggested that the return trip effect might occur because we often have a set time that we need to be at a destination, but are less likely to have an exact time we need to be home.
+Having an appointment leads our brain to devote more resources to worrying about the time, which makes time seem to pass more slowly. "Returning to the starting point, although it is exactly the same distance, feels in many cases shorter than going there because time is not that important and so our attention is diverted or distracted by events occurring around us," psychologist Dan Zakay has written.
+Still, there's lots of evidence to contradict this hypothesis. People report experiencing the return trip effect even when they're traveling for leisure — in which, presumably, getting to the destination isn't an urgent matter — or even if they have a time they need to be home. And in the new study, the participants weren't told they had any specific appointment to make — but still felt the illusion.
+The authors of the most recent PLOS ONE study don't have a specific explanation for the return trip effect, but they did notice something interesting going on among the people experiencing it.
+The study participants were repeatedly asked to report, without looking at a clock, when they thought three minutes had passed as they watched the simulated trip movies. By this measure, both groups — those who took a round trip and those who did two one-way trips — perceived time to be passing at the same rate during the experiment.
+It was only afterward, when they were asked to compare the two trips in retrospect, that the differences emerged.
+Our brains keep track of time using very distinct systems
+This gets at the fact that, as other research has shown, our brains appear to keep track of time using very distinct systems. One mathematically tracks the passage of time in the moment, with neurons that fire at specific rates and mechanisms that record how many times they've pulsed in a given period. Another, more language-based system looks back at previous events and tells stories about how long they took.
+Because the illusion only showed up when the participants considered the trips in retrospect, it appears this second system was the one fooled by the return trip effect. The authors of the PLOS ONE study speculate that this may have happened because the participants were explicitly told they were taking a round trip — rather than any factors actually involving the actual route they took. For some unknown reason, the explicit awareness that it was a round trip may have altered their retrospective judgment of the passage of time.
+The researchers would like to check this hypothesis by repeating the same experiment without using the phrase "round trip." But another study from 2011 provides some evidence it might be true. In it, participants watched dots move across a screen in a way that simulated movement, much like the old Windows 98 space screensaver:
+ 
+
+
+
+
+
+
+(MSDOS5.tumblr.com)
+Some of them were told they were "traveling" from Fukuoka, Japan, to Paris and back; others were going from Fukuoka to Paris to London. Even in this utterly unrealistic, simplified setting, only those told they were taking a round trip perceived the first leg as taking longer.

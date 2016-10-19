@@ -1,0 +1,20 @@
+So many flights are delayed every day that the United outage was a drop in the bucket
+Sometime before 8 am ET Wednesday morning, United grounded all of its flights worldwide for nearly two hours because of a software malfunction. The airline has subsequently delayed more than 600 flights today.
+It sounds like a disaster — and for the passengers aboard these flights, it was certainly a major annoyance. But in the grand scheme of things, this snafu appears to have had way less of an impact on air traffic across the US than you might expect.
+This map, from FlightAware, shows the proportion of all airlines' flights going to and from major US airports between 8 am and noon today that were canceled or delayed:
+(FlightAware)
+It looks bad, especially at Chicago's O'Hare airport (ORD) and other United hubs, and there were 285 delays during this period in total, with the majority coming from United.
+But the interesting thing is that during the exact same period on Tuesday, FlightAware's overall "misery index" was at about the same level, and there were actually slightly more delays nationwide: 297.
+(FlightAware)
+Today's grounding did create some ripple effects, and between 10 am and 2 pm today, there were slightly more delayed flights (538) than during the same period yesterday (447). But with United inching back toward its original schedule, there were 535 delays between the hours of 11 and 3 pm today, compared with 540 yesterday.
+On the whole, we're on pace for a similar number of delays today, compared to yesterday:
+ 
+
+
+
+
+
+
+All this is a reminder that all airlines are plagued by regular delays due to weather and mechanical issues — and, frustratingly, an outdated air traffic control system that largely uses ground radar, rather than the satellite-based systems that are in place in many other countries. When you consider the United delays in this context, today's situation doesn't look all that bad. 
+The good news is that the FAA is now beginning to roll out a newer system in some cities. But at the moment, 70 to 80 percent of all airlines' flights are generally delayed by 15 minutes or more, even under normal conditions.
+United's outage got lots of coverage, but the truth is that air travel sucks for lower-profile reasons everyday.

@@ -1,0 +1,52 @@
+SpaceX and OneWeb are racing to build an internet in space
+Two companies are racing to build a new kind of internet service: one that uses hundreds of tiny orbiting satellites to beam data around the globe.
+One is the private spaceflight company SpaceX, working with Google. The other is a startup called OneWeb, which is teaming up with another spaceflight company, Virgin Galactic.
+they plan to serve people without wired connections
+Some internet satellite systems already exist, but they rely on bigger satellites that orbit much higher up, leading to slow data transmission. SpaceX and OneWeb plan to create faster networks to serve people without wired internet connections — especially in the developing world — and perhaps create backhaul networks that transmit high volumes of data for other internet service providers.
+This isn't the first time that companies have tried to build an internet in space. "It's almost a déjà vu of 20 years ago, when you had Globalstar and Iridium starting up,"  says Kerri Cahoy, a satellite communications researcher at MIT.
+Those earlier companies filed for bankruptcy, and though the systems they built survive, they serve a relatively small number of users with limited data speeds. SpaceX and OneWeb are hoping that improved launch technology and hardware will allow them to build faster networks for less money.
+ 
+
+
+
+
+
+
+A 2014 SpaceX rocket launch.(SpaceX)
+On consecutive days last month, both companies announced plans to build and launch networks of a few hundred small communications satellites within the next five years or so. (The timing wasn't a coincidence: OneWeb's founder, Greg Wyler, headed Google's satellite internet efforts until September 2014 and subsequently discussed a partnership with SpaceX before striking out on his own, leading SpaceX and Google to answer with their own plan.)
+Most current communications satellites are geostationary, meaning that they orbit the Earth pretty far away (about 22,000 miles up), which allows them to hover over the same spot on Earth at all times. This distance, though, means that it takes data more than a half second to go there and back, a lag that can be problematic for things like video conferencing, gaming, and cloud computing.
+Both SpaceX and OneWeb plan to build networks of satellites that are much closer to Earth — about 750 miles above the surface — which would cut lag times to about 20 milliseconds.
+ 
+
+
+
+
+
+
+(Ardusat)
+Though OneWeb and SpaceX's planned networks look pretty similar, "each company has laid out a slightly different target market," says Chris Quilty, a satellite industry analyst with Raymond James.
+OneWeb's Greg Wyler — who previously built Africa's first 3G cell network, in Rwanda — wants the company to provide service to the millions of people in the developing world who don't have a wired data connection. Working through local telecommunications companies, the company will sell antennas, which will be put on rooftops and used to create local internet networks, accessible over wi-fi.
+SpaceX plans to use its network in a similar way, but also provide data transmission services to existing service providers. Data going from one continent to another on Earth could be routed from satellite to satellite, instead of traveling through dozens of networks on the ground as it does currently.
+Meanwhile, Wyler has also founded a separate satellite internet company, called O3b, that launched launched 12 satellites into medium Earth orbit (about 5,000 miles up) over the past year. He envisions this smaller network servicing existing internet service providers as well, along with other large companies and ships at sea.
+ 
+
+
+
+
+
+
+(SpaceX)
+There's a downside to using low-altitude satellites: you need a much larger number of them. That's because each one covers a smaller area of the Earth's surface, and because they're not geostationary, so you need extra to ensure coverage everywhere. SpaceX hasn't announced a specific number, but OneWeb is planning 648 satellites to start. (The Iridium network, by contrast, has 66 satellites.)
+the development of private spaceflight could drive costs down
+Launching this many might have been too costly in the past, but the development of private spaceflight could make it feasible today. SpaceX has its own satellite-launching business, and OneWeb may eventually use Virgin Galactic's LauncherOne, a satellite launch system in development.
+Over the last few decades, engineers have also produced lighter satellites that are much cheaper to build and launch. "You can now build something pretty small that will actually work well," Cahoy says. OneWeb current designs involve 280-pound satellites.
+Additionally, some internet companies — such as Google and Facebook (which may have  plans to launch its own aerial internet service) — have an economic interest in expanding access in the developing world. The more web users there are, the more revenue can be generated. This is also the motivation behind Google's Project Loon, an ongoing experimental network made up of floating balloons that provide internet service to users on the ground.
+For this to work, SpaceX and OneWeb each need to clear two sets of hurdles: technological ones, and logistical ones.
+The technological hurdles might be simpler. No one's built and operated a satellite network at this scale before, but Cahoy expects the companies to try a new strategy.
+Currently, most satellites are individually built with custom parts, at great cost — at least a few million dollars. When you're building hundreds of them, though, you can use standardized, off-the-shelf parts to keep down costs and improve reliability. "They essentially want to do what Ford did with cars, but with satellites," Cahoy says. OneWeb reportedly wants to drive the cost per satellite below $1 million.
+The bigger problem might be getting rights to the radio frequency spectrum that will be needed to transmit data. "It's a finite resource, and it's highly regulated," Quilty says.
+the biggest problem might be getting rights to the radio frequency spectrum
+These rights are managed by the International Telecommunication Union, and OneWeb already has rights to use certain frequencies, obtained by Wyler through his work with O3b. But at the moment, SpaceX doesn't have any spectrum rights, and they can be difficult to obtain.
+As a result, SpaceX is reportedly considering a new option: lasers. Instead of transmitting data to and from the satellites via radio waves, they could try using pulses of light (as fiberoptic cables use), which allows data to be sent at dramatically faster speeds.
+However, this is still an experimental technology, and the one big downside, Cahoy says. is that laser beams are blocked by cloud cover. So even if SpaceX was able to develop an ultra-fast laser-based system, it'd still need a backup plan for bad weather.
+Further reading: The New Space Race: One Man's Mission to Build a Galactic Internet

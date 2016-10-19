@@ -1,0 +1,66 @@
+New York City lowered its speed limit to 25. Other cities should do it too.
+Earlier this month, New York City lowered its citywide speed limit from 30 miles per hour to 25. This means that anywhere that a specific speed limit isn't posted, the default is 25 (but if a slower or higher one is posted, drivers must follow that instead).
+The move is part of Vision Zero, the city's initiative to reduce pedestrian traffic deaths and injuries. Critics said the measure reflects Mayor Bill de Blasio's efforts to "demonize speed" — and that, in a city choked with traffic, it's only fair to let cars to travel at a meager 30 miles per hour when they happen to hit an open stretch of road.
+"put simply, driving slower saves lives"
+But here's the thing: research unequivocally tells us that this measure will save lives and reduce injuries among both drivers and pedestrians — so long as it's successfully enforced. If anything, New York should have gone further, reducing speed limits to 20.
+"Put simply, driving slower saves lives," says Chris Grundy, a public health researcher at the London School of Hygiene & Tropical Medicine who studied measures to reduce speed limits from 30 to 20 mph in many areas of London. "We understand that when it comes to our kids playing in the road in front of our own house. We need to start driving like that in all urban areas."
+Starting in 1991, London officials began implementing 20 mile-per-hour speed zones — enforced by signs, speed bumps, narrowed lanes, and other measures — in many pedestrian and residential areas of the city. Over time, they've continued to add them, and now they cover 11 percent of all road surfaces.
+ 
+
+
+
+
+
+
+(Grundy et. al./BMJ)
+In 2009, Grundy and other researchers calculated the impact of these zones on deaths and injuries.
+Because the speed limits were gradually implemented over time, the researchers could generate many different data points representing death and injury rates on particular roads before and after the limit was reduced. This let them control for unrelated variables that might make roads safer (like, say, improved car brakes) — because they could use similar areas that never got lower speed limits as a control.
+And their findings were unambiguous. For drivers, pedestrians, and cyclists, casualties (a category that includes both deaths and injuries) dropped by 41.9 percent in the new speed zones compared to other areas, with all the new zones leading to 203 fewer annually in total. Deaths declined by 35.1 percent, with 27 fewer annually.
+This decline was actually steepest amongst car occupants and people younger than 15 years old, but there was a clear decline among all groups studied:
+ 
+
+
+
+
+
+
+The researchers also looked to see whether death and injury rates had climbed in areas adjacent to the new speed zones — perhaps due to drivers migrating there so they could drive faster. But they found that casualties declined there too, by an average of 8 percent.
+In total, the researchers calculate that the speed zones put in place prevented 27 deaths or serious injuries in London annually. If they were put into place on all residential roads throughout the city, they estimate, the city could prevent another 100 deaths or serious injuries.
+ 
+
+
+
+
+
+
+(Spencer Platt/Getty Images)
+There are a few different reasons why these lower speed limits lead to fewer deaths and injuries.
+"Firstly, there are fewer collisions," Grundy says. "Driving more slowly means shorter braking distances, and drivers are less likely to lose control."
+A modest reduction in speed means that cars driving in dense urban areas are less likely to collide with pedestrians, cyclists, and other cars. This effect might be slight, but applied to millions of vehicle miles driven, it has a substantial effect.
+"Secondly, any collisions that do occur are less serious," Grundy says. "If the vehicle is going slower, it's carrying less kinetic energy, so the impact is less severe and the injuries are less severe."
+This is especially important for pedestrians. A recent analysis of US traffic deaths found that a pedestrian hit by a car traveling at 40 mph had an 15 percent chance of surviving, compared to a 55 precent chance with a 30 mph car, and a 95 percent chance with 20 mph.
+ 
+
+
+
+
+
+
+(CDOT)
+However, this same relationship between speed and the severity of injuries exists for people inside cars too.
+Unlike in dense urban environments, high speed limits don't seem to increase the number of accidents on highways. But they do make them more deadly. It's estimated, for instance, that Congress' 1995 decision to eliminate the nationwide 55 mph speed limit cap on highways led to an additional 12,500 deaths over the next ten years.
+ 
+
+
+
+
+
+
+(Spencer Platt/Getty Images)
+Grundy believes that, if the 25 mph speed limit in New York is successfully enforced, it'll significantly reduce deaths and injuries — though it won't do quite as much as London's 20 mph speed limit. Pedestrian advocate groups, such as Transportation Alternatives, are a bit more optimistic, suggesting that the move could cut the city's 250 or so annual traffic deaths in half.
+The bigger question, though, is whether the new law will actually change driving speeds. Indeed, there's some evidence that signs are less effective for getting drivers to slow down than speed bumps or other measures.
+The bigger question is whether the new law will actually change driving speeds
+"If drivers do not reduce their speeds, then we'll see little impact," Grundy says. Other researchers are currently studying areas in the UK where speed bumps and other pieces of infrastructure have been implemented to calm traffic, and comparing them to areas where lower speed limits were put in place solely with signs, and without these measures. Preliminary results, he says, are that driving speeds have only declined by 1 to 5 miles per hour in the latter areas. 
+New York is implementing a mix of different strategies. In addition to lowering the speed limit, the city has stepped up police enforcement of speeding tickets (it's increased 35 percent since last year) and placed 20 new speed cameras. It's also in the process of installing 250 speed bumps and other traffic-calming devices in a number of neighborhood slow zones.
+If all this actually gets drivers to slow down consistently, there's good reason to believe it'll save lives in New York City.
+Further reading: Here are the deadliest US cities for biking or walking

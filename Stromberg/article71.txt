@@ -1,0 +1,50 @@
+New Horizons' Pluto mission has already taught us 6 amazing things
+Pluto used to be a distant, mysterious point of light. But this week, NASA's New Horizons spacecraft is quickly turning it into a fascinating new world.
+Scientists have only seen a handful of the hundreds of photos and scientific measurements the probe collected during its Tuesday flyby. It'll take a full 16 months for it to beam them all back to Earth from billions of miles away.
+
+But in just a few days, the data we've gotten has already revealed far more about Pluto than we learned during the previous 85 years since its initial discovery. It's shown the dwarf planet to be a complex, varied, and mysterious place — utterly unlike the smooth ball of ice scientists once suspected it was.
+"Pluto is something wonderful," Alan Stern, the mission's principal investigator, said during a Wednesday press conference. "This is what we came for."
+The first high-resolution close-up of Pluto, released Wednesday afternoon. (NASA/JHUAPL/SwRI)
+When mission scientists looked at the first high-resolution close-up of Pluto's surface Wednesday, they noticed something bizarre: It had no craters. Not a single one.
+Most of the solar system's planets and moons are covered in craters, the result of bombardment from asteroids and other debris over time. The non-cratered planets — like Earth, Venus, and Mars — usually have some sort of geologic activity going on that periodically covers up the craters with new terrain.
+Based on the lack of craters in this region of Pluto, scientists estimate its surface can be no more than 100 million years old — rather young, geologically speaking, compared with the 4.5 billion years since Pluto originally formed. If it were older, we'd expect to see more craters. The area also has surprisingly large ice mountains, 11,000 feet tall, which suggest ongoing geologic activity too.
+"This sends geophysicists back to drawing boards"
+This raises a big question: On such an icy world, what heat source could be fueling this activity?
+On some planets (including Earth), the slow decay of the radioactive material that was inside during formation provides the heat. But these are places much larger than Pluto. Pluto shouldn't have enough radioactive material for this to still be going on (although it's possible it simply has more radioactive material than originally assumed).
+There are also smaller worlds with active geology (such as Jupiter's moon Europa), but that's typically from a phenomenon called tidal heating, in which a moon is squeezed by the gravity of the larger planet that it orbits, generating energy. This definitely isn't happening to Pluto. There isn't anything big around to gravitationally squeeze it.
+An illustration of Europa being squeezed during its orbit of Jupiter, generating heat. (NASA/JPL-Caltech)
+(NASA/JPL-Caltech)
+Mission scientists have also tentatively posed alternate hypotheses. Perhaps there's a subsurface ocean that's gradually freezing over time, releasing heat into the crust. Or maybe the surface ice is acting as a blanket, slowing the rate at which Pluto's heat escapes to space.
+This question is especially interesting because the answer might also apply to the many other icy worlds in the Kuiper belt — the region of space beyond Neptune that's filled with chunks of rock and ice. If Pluto has a subsurface ocean, many of these other worlds might too.
+"We now have an isolated small planet that's showing activity after 4.5 billion years," Stern said. "This sends geophysicists back to drawing boards."
+
+Because Pluto has a thin atmosphere — giving it a hazy edge, rather than a hard one — it was always hard to precisely measure its size from far away. But as New Horizons closed in days before the flyby, it allowed scientists to finally put a hard number on its diameter: 1,473 miles.
+This figure is especially interesting because it means Pluto is slightly larger than the dwarf planet Eris, which is 1,445 miles in diameter. And it was the 2005 discovery of Eris — and the belief that it was larger than Pluto — that set in motion the controversial 2006 decision to officially classify Pluto as a dwarf planet, rather than a planet.
+Backers of that decision argued that Pluto was merely one of many similar objects in the Kuiper belt. We happened to discover Pluto first historically, but it was no longer even the largest one, so it was inappropriate to consider it a planet, though not Eris.
+The finding that Pluto is actually bigger than Eris doesn't really undermine this argument all that much, since they're essentially the same size — and there are many more objects to be discovered in the Kuiper belt, some of which will probably be larger than both Pluto and Eris. There's also the fact that Eris is still more massive than Pluto, because it's so much denser. But the new finding still excited supporters of the idea that Pluto should be a planet.
+First important result from New Horizons: Pluto is 2-3 % larger than previous estimate, thus bigger than Eris and any of the dwarf planets.
+
+
+
+Scientists suspected that this was Pluto's true color as far back as 2002, when the Hubble Space Telescope imaged Pluto and created some of the first maps of its surface. But as New Horizons closed in, its Ralph imager captured much more detailed color photos, confirming that impression and suggesting a possible explanation.
+The reddish brown color is likely the result of interactions between methane molecules in Pluto's atmosphere and a specific kind of ultraviolet light emitted by both the sun and distant galaxies. When this light hits the methane, it triggers the formation of solid hydrocarbon molecules called tholins, which are reddish brown in color.
+Tholins, made in a lab.
+(Chao He, Xinting Yu, Sydney Riemer, and Sarah Hörst, Johns Hopkins University)
+New Horizons has measured high levels of this type of light hitting Pluto, providing some evidence for the idea, and scientists have replicated the same chemical process in labs on Earth. The same phenomenon has also been observed on Saturn's moon Titan and Neptune's moon Triton.
+New Horizons' measurements of methane on Pluto.
+(NASA/JHUAPL/SwRI)
+Scientists also long believed that Pluto had ice caps, but measurements taken by New Horizons just prior to its flyby confirmed that and revealed what they're made of: methane and nitrogen.
+What's really interesting is that these ice caps probably look very different based on Pluto's location in its 248-year orbit. Pluto's distance from the sun varies greatly during its year (some of the time, it's actually closer in than Neptune), and when it's warmer, scientists believe some of this ice turns into atmospheric gas through a process called sublimation.
+Then, when Pluto cools down, these gases likely fall back to the ground as snow. Right now, the dwarf planet is in late summer, so in theory, snow will begin to fall many decades from now. Snow made of nitrogen and methane.
+New Horizons' seven scientific instruments.
+(JHUAPL)
+As New Horizons approached Pluto, its PEPSSI (Pluto Energetic Particle Spectrometer Science Investigation) instrument sniffed space for particles escaping from the dwarf planet's atmosphere — and it found nitrogen atoms at a distance of seven times Pluto's radius, farther out than scientists expected.
+That they found nitrogen at all wasn't a surprise, but as far as we know New Horizons didn't detect any other sorts of gases. That means that out of all known objects in the solar system, mission scientist Fran Bagenal said, "this seems to be the purest nitrogen atmosphere that we’ve got."
+Also, finding any sort of escaping particles at that distance was somewhat unexpected. We knew that gases steadily escape Pluto's atmosphere as part of a process called hydrodynamic outflow, but this suggests Pluto is losing its atmosphere at a rate faster than scientists previously thought.
+Earth is believed to have gone through this same process billions of years ago. This rid it of its early toxic hydrogen atmosphere and allowed nitrogen and carbon dioxide to build up, eventually giving rise to life.
+Charon, Pluto's largest moon. (NASA/JHUAPL/SwRI)
+During the flyby, Pluto also collected images and data on Pluto's five moons — including Charon, the largest. For years, scientists thought Charon might be a featureless ball of ice or rock, but the earliest images have proved that idea wrong.
+Charon is covered in cliffs, troughs, and deep canyons (the one seen at the top-right edge of Charon in the image above is estimated to be 4 to 6 miles deep — way, way deeper than the Grand Canyon). Though the moon has some craters, it also has fewer than anticipated, raising the possibility of geologic activity there, too.
+The moon also has a large, mysterious dark spot at its top — a feature that mission geologist Bill McKinnon called "a complete surprise."
+Right now, the team has two hypotheses for what it could be. The more mundane one is that it's simply a large impact basin, formed by some collision long ago.
+Then there's the fascinating idea that it could be the result of gases ejected from Pluto over time. These gases might gradually collect in one spot on Charon, enough to cover the underlying rock and ice — so in effect, the two bodies could be sharing an atmosphere across more than 10,000 miles of space.

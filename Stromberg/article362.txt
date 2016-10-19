@@ -1,0 +1,80 @@
+NASA just tested Orion — a spacecraft that might someday carry people to Mars
+On Friday morning, NASA carried out the successful first test flight of a new spacecraft: Orion. If the agency's biggest ambitions are realized, this is the spacecraft that could someday take humans to Mars.
+Here's a replay of the launch:
+
+The capsule was launched atop a rocket from Cape Canaveral, Florida. After making two orbits of Earth, it landed in the Pacific Ocean around 11:30 am, to be recovered by the US Navy.
+NASA has been developing Orion since 2004. Though plans for the capsule are still uncertain (and contingent on congressional funding), NASA hopes Orion will be ready to carry astronauts beyond low-Earth orbit — perhaps to an asteroid, the moon, and even Mars — by the 2020s.
+ 
+
+
+
+
+
+
+The Orion capsule, shown after completion in September 2014. (NASA)
+Orion is NASA's best hope for putting people back in space after the retirement of the Space Shuttle program, and it has a long and tangled history.
+After the Apollo mission to the moon ended in 1974, NASA relied on the Space Shuttle to carry its astronauts to and from the International Space Station (ISS), and occasionally the Hubble space telescope. These missions were the entirety of NASA's crewed space activities. But NASA was always hoping to get back into outer space.
+That's a big leap. The difference between putting astronauts in low-Earth orbit (where the ISS is) and deep space (such as the moon or Mars) is akin to the difference between sailing along the coast and crossing the ocean. The ISS orbits just 268 miles above Earth — a bit more than the distance from New York to Washington, DC. The moon is about 239,000 miles away — roughly 10 times around the Earth's equator.
+ 
+
+
+
+
+
+
+(NASA)
+So, in 2004, President Bush announced the Constellation Program: a plan to develop a new spacecraft system to carry astronauts to the moon by 2020 — and perhaps even Mars thereafter. Meanwhile, with the Space Shuttle due to be retired in 2011, NASA would contract with private companies to take over the now-routine ISS missions. (Delays have forced NASA to rely on Russia for these flights, but SpaceX and Boeing both hope to have vehicles ready by 2017.)
+The Constellation project, however, quickly fell behind schedule for a few different reasons, including budget cuts. In 2010, President Obama cancelled it, replacing it with a new plan that included the same crewed capsule (Orion) and a single rocket system to launch both astronauts and cargo to new destinations.
+After years of development, the Orion capsule is now ready for an initial test flight — albeit atop an older rocket, introduced a decade ago, rather than the new one. The next uncrewed test, currently scheduled for late 2017, will be the first one with the new rocket.
+ 
+
+
+
+
+
+
+(NASA)
+Orion most closely resembles the Apollo spacecraft used for missions to the moon in the 1960s and 1970s: it's a small, cone-shaped capsule launched atop a single-use rocket.
+Orion does have some upgrades, however: It's 50 percent larger by volume (so it can carry 4 to 6 people, rather than 3), and contains much more sophisticated computer systems. It's also intended to support astronauts for a much longer-term trip — roughly 21 days, which could be supplemented by an additional module for the 6-12 months it would take to get to Mars.
+ 
+
+
+
+
+
+
+(NASA)
+Orion is also going to be attached to a single-use service module, built by the European Space Agency, that'll provide power, propulsion, water, oxygen, extra cargo room, and other services to the capsule.
+ 
+
+
+
+
+
+
+(NASA)
+Orion has previously been carried up to 6.5 miles and dropped as a test of its parachute systems, but that's about it. This new flight was the first test of the capsule's heat shield, propulsion and steering systems, service module, and abort system (that is, the smaller rocket perched on top of Orion that would carry astronauts to safety if anything went awry with the main rocket on the launch pad).
+io9 has a great step-by-step guide to the test flight, and NASA will be live streaming the whole 4.5 hour event. Here's a basic guide to the test flight:
+ 
+
+
+
+
+
+
+(NASA)
+(NASA)
+That's a difficult question to answer — because it will be the result of political wrangling, how Congress allocates funding, and perhaps the whims of whoever is elected president in 2016.
+The current plan, announced by Obama in 2010, is to use Orion to carry astronauts up to a small asteroid that would be tugged into orbit around the moon by a separate probe (still in development). The idea is that putting astronauts on an asteroid for a month-long mission sometime in the 2020s would give NASA the training and expertise necessary for an eventual crewed mission to Mars, which might occur sometime in the 2030s.
+This plan, however, is looking increasingly improbable. A June 2014 National Research Council report found that NASA's Mars plan is insufficiently detailed and not viable given current levels of funding from Congress. That report recommended a mission to the moon as a stepping stone instead.
+ 
+
+
+
+
+
+
+A rendering of Orion attacked to a lunar lander. (NASA)
+Meanwhile, scientists have said the asteroid mission would be less scientifically valuable than simply sending a robotic probe. "It doesn’t advance anything and everything that could benefit from it could be benefited far more by other, cheaper, more efficient means," Planetary Science Institute director Mark Sykes told Scientific American, calling the crewed mission "performance art."
+Performance art, however, might be exactly what NASA officials have in mind. Part of the reason articulated for the asteroid and other stepping stones is to build public support, as well as technical expertise. Given the huge amount of funding that would be necessary to send astronauts to Mars, lots of public enthusiasm would probably be needed to make it happen.
+Update: This post has been edited to reflect ongoing developments with the launch.

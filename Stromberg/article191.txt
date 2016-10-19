@@ -1,0 +1,93 @@
+States are raising their speed limits. They should do the opposite.
+To most of us, speed limits seem like an annoying nuisance — a number to keep in mind to avoid getting pulled over.
+But speed limits are also an important public health policy. Higher or lower limits, multiplied over thousands of miles of road, can have measurable impact on accident rates and levels of air pollution.
+states have been raising highway speed limits — but they should be doing the opposite
+Many states have recently been raising their highway speed limits. But research suggests that, if anything, they should actually be doing the opposite and lowering speed limits on both city streets and highways.
+"Many states are now experimenting with much higher speed limits, from 75 up to as high as 90 miles per hour," says economist Arthur van Benthem, who recently published one of the most detailed cost-benefit analyses of US highway speed limits. "For such high speeds, my analysis suggests that a comprehensive cost-benefit analysis is needed."
+His analysis of highway data from the 1980s, when speed limits were raised by federal law, found that the time saved by faster speeds was easily outweighed by the extra lives lost in accidents. Other researchers, meanwhile, have looked at city speed limits — and found that lowering them to 25 mph significantly cuts down on traffic deaths.
+The push to limit speeds on city streets is not new. Way back in 1923, 42,000 Cincinnati residents signed a petition for a ballot initiative that would have put a governor on all cars mechanically limiting their speeds to 25 mph, but auto dealers campaigned to defeat it. Soon afterward, in 1928, auto groups worked with policymakers to write the Model Municipal Traffic Ordinance, which set speed limits at 35 mph (unless otherwise marked) and was adopted in many cities.
+Recently, some cities have begun lowering the speed limit in specific areas — and researchers have found it significantly reduces deaths for both drivers and pedestrians.
+A study of London's move to reduce speed limits to 20 mph in many neighborhoods, for instance, found that it reduced total casualties (a category that includes both deaths and injuries) by 41.9 percent and deaths by 35.1 percent.
+ 
+
+
+
+
+
+
+There are two key reasons why. "Firstly, there are fewer collisions. Driving more slowly means shorter braking distances, and drivers are less likely to lose control," Chris Grundy, the lead author of the study, told me for an article last year on New York City's move to lower its citywide speed limit from 30 to 25 mph. "Second, any collisions that do occur are less serious. If the vehicle is going slower, it's carrying less kinetic energy, so the impact is less severe and the injuries are less severe."
+ 
+
+
+
+
+
+
+(Connecticut Department of Transportation)
+This study, and others like it, don't look at the time everyone saves by driving faster — and you could argue that it might outweigh the benefit of all the lives saved. But on dense city streets, cars are seldom driving the speed limit for extended periods of time anyway, so the quick spikes in speed they enjoy under higher limits lead to modest time savings.
+ 
+
+
+
+
+
+
+(Joe Raedle/Getty Images)
+Analyzing the impact of highway speed limits is more complex — because raising them does save people a significant amount of travel time, and most of the deaths on highways occur to people in cars, so it makes sense to weigh that time against the resulting increase in deaths.
+A lot of the existing research investigates the effects of the 1974 National Maximum Speed Law, which capped all travel at 55 miles per hour, and a subsequent 1987 amendment to the law, which allowed speeds of up to 65 mph on rural highways.
+One 1999 study by the Cato Institute concluded that the original 1974 law lowering speed limits didn't save any lives, since death rates declined steadily over these years — even after the law was amended. But that study's state-by-state level of analysis made it difficult to eliminate the background factors that have been pushing down fatalities for decades, such as seatbelts, airbags, anti-lock brakes, and lower rates of drunk driving.
+Other studies that tried to eliminate these background trends by comparing similar sets of roads with different speed limits have come to the opposite conclusion. An analysis of Washington state's roads, for instance, found that after the 1987 speed limit increase on rural highways, the rate of fatal crashes spiked, compared with urban highways that saw no speed increase.
+ 
+
+
+
+
+
+
+Fatality rates on Washington state's rural highways spiked after their speed limit was lifted to 65 mph in 1987. (Ossiander and Cummings)
+ 
+
+
+
+
+
+
+(Helen H. Richardson/the Denver Post)
+Other work has considered whether the time saved by higher speed limits might have outweighed the fatalities — and has consistently found that it didn't.
+A 2004 study found that the 1987 amendment led to average speed increases of two miles per hour and increased fatality rates by about 35 percent. One crude way to calculate whether this might be worth it is to multiply all the saved hours by average wages.
+The economists who authored the paper did this, and found that you'd "break even" if you valued each lost life at $1.54 million or less. But various government agencies (like the EPA) regularly put a value on human lives when making policy decisions — and the standard figure used for value of a statistical life (VSL) is currently $7.4 million. So if we value lives anywhere near what the EPA does, raising the speed limits was a big net loss for society.
+Arthur van Benthem's new analysis, published this month, goes a step further, zeroing in on otherwise similar sets of rural roads. "Since only rural interstates were affected in 1987 — but not other rural freeways that share many similarities to interstates — I could measure how driving faster on the rural interstates affects accident rates, pollution levels and health," he says. (Higher speeds lead to increased pollution because cars traveling at more than 50 mph or so burn more gas.)
+ 
+
+
+
+
+
+
+Emissions of carbon monoxide and nitrogen oxides per mile are higher past 50 mph. (Van Benthem 2015)
+In his analysis, highways that saw their speed limits raised to 65 mph saw 14 percent more accidents and 44 percent more fatal accidents, with an average speed increase of just three to four mph. There was also a substantial increase in pollutants such as carbon monoxide, ozone, and nitrogen oxides, which may have caused an increase in fetal death rates, though that result is less certain.
+Still, even without the environmental impacts the costs of the higher speed limits easily outweighed the benefits. Van Benthem calculated that all the saved time would only outweigh the extra deaths if a life was worth $2 million or less — far less than the figure used by the EPA.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+Van Benthem calculated that the ideal highway speed limit in 1987, all factors considered, would have been a bit lower than 55 miles per hour. But there's a big caveat: the world has changed significantly since 1987, so it's hard to say what the ideal speed limit would be today.
+"Most importantly, air pollution concentrations have trended down almost everywhere in the United States, and vehicle emissions technology has steadily improved," van Benthem says. "I therefore expect that the environmental costs of raising speed limits today are not as large as in the 1980s." Cars have also gotten dramatically safer since the 1980s. All this, he says, suggests that 65 mph or so could be the right speed limit today, but it's hard to say exactly.
+65 mph or so could be the right speed limit today
+Still, it's likely that the many states raising their speed limits above 75 mph are going beyond the sweet spot — and the costs, in terms of lives, outweigh the time saved.
+Additionally, there is one related environmental problem that's surged in urgency since 1987: global warming. Cars that travel faster than 50 mph emit more carbon dioxide per mile, so higher speed limits lead to greater greenhouse gas production, and the cost of this is likely higher now than it was 20 years ago.
+Finally, I suspect there's a hidden cost to higher speed limits that's harder to calculate. It has to do with a strange phenomenon, called induced demand, that planners notice when roads are widened. Put simply, new road capacity spurs people to drive more miles, either by taking more trips by car or taking longer trips than they otherwise would have.
+ 
+
+
+
+
+
+
+A model showing how induced demand works. Typically, traffic volume levels off and reaches an equilibrium over time, but when new capacity gets added the volume increases to fill it, before reaching a new equilibrium. (Victoria Transport Policy Institute)
+The reason we do this is that extra road capacity, at first, makes it possible to travel longer distances over shorter periods of time. So we get used to the idea of commuting 50 miles to work, say, or driving 30 miles to a restaurant we like slightly more than one just down the road.
+Researchers haven't studied it, but it's very logical that higher speed limits might induce demand in the same way. If they do, by raising speed limits we'd lead everyone to drive farther (and spend just as much time in the car), in exchange for higher death rates and levels of pollution.

@@ -1,0 +1,57 @@
+How Wikipedia page views could predict disease outbreaks
+Say you're feeling sick, and you visit Wikipedia to see if your symptoms match those of the flu. Wikipedia logs that visit — and makes public the number of people who visit every single one of its pages.
+A new paper argues that Wikipedia data could be useful for tracking diseases
+Now, a group of data scientists from Los Alamos National Laboratory think this data could be useful for tracking diseases. In a paper published today in the journal PLOS Computational Biology, they present an algorithm that uses Wikipedia traffic data to estimate the rates of diseases in the real world — and project imminent outbreaks.
+Would this actually work? The idea of following what happens on the internet to model and predict disease rates isn't entirely new. For several years, Google Flu Trends has attempted to use Google queries as a proxy for flu rates, and other researchers have tried to use tweets for the same purpose. Yet those methods have had some real problems with predicting outbreaks.
+But the researchers behind this new paper say that Wikipedia data might be the best bet — and could allow us to track a number of diseases in different countries.
+The researchers began by picking 14 different disease-country pairs to look at, such as the flu in the United States, tuberculosis in Thailand, and dengue in Brazil.
+Next, they collected publicly-available page view data for every single page on Wikipedia in the relevant language. The data typically came on a weekly or monthly basis, and spanned a few years.
+For each of these 14 disease-country pairs, the researchers also had conventionally-collected public health data on rates of the disease over time. They parsed each language's Wikipedia traffic data to find the ten particular pages that best matched with the known disease data.
+"The general disease page was generally the one that correlated most strongly," says Nicholas Generous, the study's lead author. "Drugs and treatments were also usually in the top ten, and then for the flu, some of the various strains would also be in there."
+In 8 of the 14 cases, the combined group of Wikipedia articles matched the actual disease rate extremely closely. For dengue rates in Brazil, for instance, traffic to the set of 10 articles correlated nicely throughout a three-year period:
+ 
+
+
+
+
+
+
+The blue line is official rates of dengue in Brazil, and the brown line is the model, built out of 10 individual Wikipedia pages (light grey lines). (Generous et. al.)
+The model didn't work in all cases, though. "Diseases like flu and dengue seemed to work pretty well. Those are diseases that a large proportion of the population might be aware of, and they fluctuate seasonally," Generous says. HIV/AIDS, on the other hand, was tougher to model, partly because a smaller proportion of the population has it, and partly because it doesn't fluctuate as dramatically over time.
+In the cases it did work, however, the model was also an accurate predictor of future outbreaks. Simply shifting it a few days or even weeks forward was an effective way of knowing whether a disease rate would go up or down. This may be because people tend to search for symptoms and diseases before they are diagnosed or officially counted.
+ 
+
+
+
+
+
+
+Google Flu Trends has recently overestimated flu rates. (Photo by Joe Raedle/Getty Images)
+This concept isn't entirely novel. There's been lots of excitement over Google Flu Trends, which parses particular Google queries — like "fever" or "cough" — that correlate well with flu data.
+The trouble is that, in recent years, Google Flu Trends has consistently overestimated actual CDC flu data. A few different research groups have tried to figure out why this is the case, but they're run up against a big problem: Google's search algorithm is proprietary and private, and the company only releases a small subset of the queries used in the model.
+There's been some speculation that recent additions to Google's algorithm (for instance, its habit of recommending related searches or automatically providing potential diagnoses in response to symptom queries) may have distorted Google Flu Trends data, but because of the company's privacy, no one knows for sure.
+Because the Wikimedia Foundation (which owns and operates Wikipedia) is much more public with its data, this isn't as big of a problem.
+google's data is proprietary, making it difficult to study
+Additionally, Generous sees value in the way that Wikipedia data is already grouped into relevant pages. There are many different terms people might enter into Google if they think they might have dengue, and in entering the phrase "dengue fever," they might even be searching for the band of the same name.
+Anyone who searches for particular dengue symptoms on Google, however, is likely to ultimately end up on dengue's Wikipedia page (if they end up on Wikipedia at all). If they're looking for the band, they won't end up there.
+Meanwhile, the researchers also feel that Wikipedia data is much more telling than Twitter and other sorts of social data, when it comes to specific diseases. "I see a difference between health information-seeking and health information-sharing," Generous says. "People might tweet that they think a cold is coming on. They're not going to tweet, 'Hey, I think I have HIV/AIDS.'"
+ 
+
+
+
+
+
+
+A doctor screens a patient for dengue in India. (Narinder Nanu/AFP/Getty Images)
+All this is just a start — a basic idea, the researchers say, that could be applied to several new areas. One is tracking disease outbreaks in less-well studied countries.
+"It's fine and dandy to reproduce flu rates in the US, but we already have a really good health infrastructure system," Generous says. "Where this could really become valuable is if it can be applied to somewhere like India, where the health reporting isn't as strong."
+To accomplish this, the researchers are comparing the ways in which the highest-correlating Wikipedia pages tend to differ from country to country. Eventually, this could let them build a more robust system that can simply be re-trained to model a disease in a new place.
+They're also interested in tracking and predicting rates of non-infectious diseases, like mental health issues. To date, no one has used internet data towards this sort of end, but they think it could fill a big gap, especially because it's harder to collect data on mental health issues in conventional ways.
+It's important to note a few caveats to all this.
+One is specific: the Wikipedia data only sorts traffic by language, not by country. For some countries (Poland and Thailand, for instance), this isn't a huge deal, since most speakers of the language live in one nation.
+With English and Spanish, however, this is a bigger problem. It didn't prevent the researchers from accurately modeling flu rates in the United States (they speculate that it still worked because the majority of English-speaking internet users live in the United States or adjacent Canada), but it's still a problem, and they want to work with the Wikimedia Foundation to get more geographically-specific data.
+"with modeling, you sometimes see people over-trust the number"
+The other caveat is much bigger: the danger of ignoring the context of this sort of data.
+"With modeling, you sometimes see people over-trust the number," Generous says. "It's very important to understand the nature of the data you're working with."
+For instance, he suspects that traffic to the English-language Ebola page on Wikipedia surged recently (the researchers' analysis didn't cover data as recent as the current outbreak). However, that likely had way more to do with general fear of the disease, rather than actual cases of it in the US or other English-speaking countries.
+The key is trying to understand the particular context of the disease and country in question each time — rather that blindly assuming Wikipedia data captures it perfectly. "Each time, you have to ask some questions," Generous says. "What are the biases in the data? What types of people are searching for their diseases? What do those searches really mean?"

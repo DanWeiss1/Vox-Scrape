@@ -1,0 +1,23 @@
+Here's Airbus's novel idea for driving down the cost of spaceflight
+SpaceX CEO Elon Musk has famously likened our current model of spaceflight to throwing away a brand new 747 after a single flight to London. After each launch, the rockets used to put spacecraft in orbit are allowed to fall back to Earth and break into pieces — a decades-old practice that makes spaceflight really expensive.
+This is why figuring out how to reuse a rocket is considered the holy grail of private spaceflight. Refurbishing a $100 million vehicle rather than throwing it away could dramatically reduce the cost of launches, and perhaps someday open up new possibilities in space tourism and exploration.
+Airbus, an aerospace company that's launched about half of all large telecommunications satellites currently in orbit, just unveiled a pretty novel idea for making one key component reusable. Its Adeline rocket, currently in development, includes an engine that would detach and fly to Earth under its own power, then land on a runway like a plane:
+
+Because the engine is the most expensive portion of the rocket, Airbus estimates this system could drive down the cost of each launch by 20 to 30 percent.
+The company has been working on the technology since 2010, and last week it allowed reporters to see a few scaled-down demonstration models in its France manufacturing plant. However, it won't be ready any time before 2025, as the company focuses on developing the next generation of its Ariane rocket system first.
+The other big private spaceflight companies have their own plans for reusable launch systems. SpaceX wants to land the entire first stage of its Falcon 9 rocket vertically after completing each launch, with thrusters slowing it down for a soft landing on a set of legs.
+The company has tested this ambitious system several times on actual launches and come very close to succeeding — though it hasn't quite pulled it off yet:
+
+
+
+Meanwhile, United Launch Alliance — a partnership between Boeing and Lockheed Martin that dominates military satellite launches — wants to reuse the engine of its next-generation Vulcan rocket using a parachute and helicopter:
+(United Launch Alliance)
+It would theoretically do so by jettisoning the engine from the base of the rocket after launch, allowing it to fall back to Earth, and having a helicopter waiting to snatch it out of the air.
+Of course, this would be a totally unprecedented feat and might not ever be possible. Right now, it's just a plan on paper.
+
+
+
+One of the biggest factors that make space travel so expensive is the fact that most of the equipment used to put cargo or people in orbit is destroyed after each use.
+Estimates vary, but SpaceX has publicly said that building a new Falcon 9 rocket costs $54 million. Using it to put a payload into orbit, by contrast, uses up only about $200,000 worth of fuel. There are some refurbishment costs that have to be taken into account, but the bottom line is that developing a reliably reusable launch system — whether just the engine or the entire rocket — would inevitably reduce the cost of spaceflight.
+In recent years, the business of launching satellites into space has become an increasingly crowded field. These aerospace companies compete on per-launch prices, whether their clients are telecom companies, militaries, or government space agencies.
+This is why these companies are suddenly racing to develop reusable systems. But the really exciting thing here is that if this competition actually does drive down the cost of spaceflight, it could eventually open up entirely new sorts of missions, like space tourism in Earth's orbit or human exploration of Mars.

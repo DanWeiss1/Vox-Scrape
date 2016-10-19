@@ -1,0 +1,71 @@
+Philae is still lost on a comet. The Rosetta probe might go search for it.
+Nearly three months after the Philae probe's historic landing on a comet, European Space Agency scientists still don't know where it is. After landing, the probe bounced and likely settled in a shadowy crater, quickly draining its battery due to a lack of sunlight.
+Now Nature reports that ESA is considering sending Rosetta — the probe that's been orbiting the comet 67P/C-G — on a special mission to find Philae next month.
+rosetta would enter a closer orbit to take more detailed photos
+Rosetta would be dropped down to a closer orbit around the comet (about 3.7 miles out, the closest it's ever come) in order to take higher-resolution photos of the area Philae is believed to be. The downside is that doing so would use up some of Rosetta's fuel — precluding a planned flyby on the comet's other, sunlit side, which would provide the best images of the comet's surface taken so far.
+ESA scientists are reportedly debating the idea, and are likely to make a decision within the next few days. But regardless of whether they carry out the search mission, the main hope is that by May or June, Philae will be exposed to enough sunlight to wake up on its own.
+ 
+
+
+
+
+
+
+Photos of Philae during its descent, taken by Rosetta. (ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA)
+When Philae landed on the comet — the first-ever controlled landing of a spacecraft on one — there were some technical difficulties. The most major one was that the probe's harpoons, which were designed to fasten it to the comet's surface, failed to fire.
+As a result, Philae bounced several times. Due to the extremely low level of gravity, its first bounce took about two hours, and carried it as high as a kilometer above the surface. After another smaller bounce, it finally settled in a shadowy crater.
+ 
+
+
+
+
+
+
+A composite image shows Philae's location right after its initial touchdown. (ESA/Rosetta/MPS for Osiris Team)
+As a result, its solar panels were only able to collect about 90 minutes of sunlight every 12 hours, which meant the craft had to rely largely on its battery. Though ESA scientists used mechanical instruments on the craft to turn it slightly in hopes of getting more sunlight, the effort failed, and Philae powered down after 57 hours on the comet.
+During this short interval, Philae sent back photos and data, making the mission as a whole a success. Among other things, that data has told us that the water present on the comet is different from that on earth, making it seem less likely that comets like 67P/G-C delivered water to earth billions of years ago.
+But even though scientists were able to determine that Philae likely landed in a 20 by 200-meter strip of the comet, photos taken by Rosetta have failed to reveal exactly where it is.
+ 
+
+
+
+
+
+
+A simulation of the comet's surface shows where scientists believe Philae is located. (ESA/Rosetta/Philae/CNES/FD/CIVA)
+In the next few days, Nature reports, ESA mission scientists will decide whether to carry out the search plan or not.
+If they do, Rosetta will fly down to a relatively close orbit around February 14 and take photos of the area Philae is believed to rest. These images will be even higher-resolution than previous ones, which would hopefully give the scientists a better chance at finding Philae.
+finding philae would make it easier to interpret its data
+There'd be two main benefits do doing this. One is that it'd make it easier to interpret previously-received data from the CONSERT experiment, which involves sending radio waves from Rosetta to Philae through the comet's interior to better understand its structure. When it was awake, Philae sent back data on the radio waves it received, but knowing Philae's precise location and orientation would make it easier to interpret that data, and generate an accurate picture of the comet's interior.
+Knowing Philae's location would also make it easier to predict whether it will indeed wake up as the comet nears the Sun in May.
+ 
+
+
+
+
+
+
+A rendering of the Rosetta orbiter, next to Philae and the comet. (ESA/Rosetta/Navcam)
+However, there are several downsides to the plan. The main one is that Rosetta would then no longer be able to take a planned flyby of another area of the comet that will be directly lit by sunlight. This flyby would let Rosetta take high-resolution, shadow-free images, enabling scientists to better understand the comet's surface.
+Additionally, there's a bit of risk involved: the comet, which has been heating up over the past few months, is emitting increasingly strong jets of dust and gas — and those jets could damage Rosetta if it comes too close.
+ 
+
+
+
+
+
+
+A composite of photos taken by Philae on the comet's surface. (ESA)
+If Rosetta isn't sent on the search mission — or if it is, but scientists still can't locate Philae — then another close flyby isn't possible until 2016, after the comet has passed the Sun and cools down enough so that Rosetta can safely get close to it.
+But regardless of whether Rosetta is able to spot Philae, the best-case scenario would definitely be Philae getting enough solar power to wake up on its own, which could happen in May or June.
+ 
+
+
+
+
+
+
+The comet's position as of January 6, and its orbit through December 2015. (Livecometdata.com)
+This would give Philae a few months to collect new data on the comet, adding substantially to the measurements it collected in the hours after its landing. We've never had an operable probe on a comet before Philae, so any further data will add tremendously to our understanding of how comets work.
+But time is also running out. When the comet reaches its closest point to the sun in August, excessive heat could make Philae inoperable. So no matter what, there's a limited window in which it might collect more data.
+

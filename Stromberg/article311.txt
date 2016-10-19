@@ -1,0 +1,18 @@
+Google just invested $1 billion in SpaceX. Are they building a satellite internet network?
+We don't know for sure, but lots of people now think that this deal could be a sign the two companies are going to partner on a satellite-based internet network. This sort of network could bring internet access to unconnected areas that don't have telecommunications lines — particularly in the developing world.
+Google's ambitions in this area have been clear for a while now. In 2013, it launched an experimental network called Project Loon, made up of large balloons that floated above New Zealand, allowing users on the ground to connect to a wireless internet network. But there was a lot of skepticism around the balloon plan.
+Google has also been developing a satellite-based system, though that too has faced hurdles. In September, the leader of Google's satellite project, Greg Wyler, left the company to form his own satellite-internet company called OneWeb.
+Now, it seems that Google may be looking to partner with SpaceX — a rocket manufacturing and launching company — to build a new satellite network. (Before founding OneWeb, Wyler also reportedly negotiated with SpaceX  — but a deal never materialized.)
+ 
+
+
+
+
+
+
+(SpaceX)
+Musk has described SpaceX's planned network of communications satellites in pretty grandiose terms: "Our focus is on creating a global communications system that would be larger than anything that has been talked about to date," he told Bloomberg Businessweek.
+He said he'd do this with hundreds of micro-satellites in low Earth orbit (much closer to us than the geosynchronous satellites typically used for communication, which orbit at about 22,000 miles above sea level, allowing them to remain above one spot on Earth over time). Using lasers to send signals from satellite to satellite, Musk claimed, would allow data to be transmitted over vast distances much faster than it is currently, through ground-based networks. He even alluded to the possibility that the network could someday be used to create a communications network with Mars.
+Of course, there are plenty of reasons to be skeptical of the plan. One obvious one, as the Wall Street Journal points out, is that the use of lasers to send data from satellites to the ground isn't reliable all the time, as they can be hindered by bad weather. And the backup option — using radio waves — might be tricky, as neither SpaceX nor Google own the rights to the spectrum they'd likely need to beam signals down from these satellites to potential users. Google, in fact, lost some spectrum rights to Wyler when he left the company in September.
+Musk said the satellite network would cost $10 billion in total, and take at least five years to build. He has previously avoided giving up any control of SpaceX whenever possible, but in taking this deal, just gave up nearly ten percent of the company — so it may be a sign that he's pretty serious about trying to build it.
+Correction: This post originally said that using lasers to send data between satellites (rather than from satellites to the ground) wasn't always reliable.

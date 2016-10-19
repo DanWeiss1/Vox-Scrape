@@ -1,0 +1,10 @@
+Watch the world wake up on Twitter via an animated GIF
+Thousands of Twitter users send out tweets every day that are geotagged — meaning that they have a very specific geographic location associated with them.
+Filtered the right way, these tweets can be a fascinating window into humanity at large.
+Here's one of those windows: a map of all geotagged tweets with the hashtag #sunrise in several different languages.
+
+The yellow blips are hashtagged tweets, superimposed on a world map with artificial light patterns (the subtler pale yellow), to reflect population density. The size of the blip corresponds to the number of tweets.
+Watch the curved line that represents the portion of Earth being struck by the Sun's light sweep around the globe, and regions dense with Twitter users come alive with morning tweets.
+Sure, there are stray tweets in the middle of the day or night — maybe people tweeting photos they'd taken earlier — but the patterns are remarkably regular.
+The full version is zoomable. Here's a closeup of the US, waking up on Twitter:
+

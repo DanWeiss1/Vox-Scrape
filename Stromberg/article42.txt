@@ -1,0 +1,19 @@
+Scientists created a vomiting robot to study how disease spreads
+Scientists have long suspected that people infected with norovirus — a virus that often causes food poisoning — can spread the disease via one of its characteristic symptoms: projectile vomiting. The act of throwing up, the thinking went, could cause virus particles to go airborne, helping it infect tens of millions of Americans each year.
+But for years, no one knew for sure whether this could actually happen. So to test the idea, researchers at NC State University, led by Lee-Ann Jaykus, built a vomiting machine.
+The device includes a quarter-scale replica of a human stomach, esophagus, and mouth. A nozzle shoots out a vomit-like substance — which included a harmless virus standing in for norovirus — inside a sealed Plexiglas box. Then a sensor detects the number of airborne virus particles.
+Here's the vomit machine in action, set to a viscosity and pressure that mimics what the researchers call "post-vomit retches":
+(NoroCORE)
+The group's new paper on the research, published yesterday in PLOS One, found that projectile vomiting indeed launched thousands of viruses into the air — and that more viscous simulated vomit made for more virus particles.
+The NC State vomit machine follows in the footsteps of a proud tradition of machines that simulate the activities of the human body as faithfully as possible.
+In 2013, British researchers created "Vomiting Larry" — a device that showed how far projectile vomit could spread, part of earlier research into norovirus.
+(UK Health and Safety Laboratory)
+Though it didn't simulate the precise pressure of vomit or allow scientists to measure concentrations of airborne virus particles, it was pretty impressive in its own right:
+
+The SynDaver company, meanwhile, has a created a series of simulated human bodies intended to replace cadavers in medical research and education. They can breathe, bleed, and react to getting cut or experiencing pain — and start at $40,000.
+(SynDaver)
+Finally, there's the "Cloaca machine." Though not strictly made for scientific purposes — it was created by Belgian artist Wim Delvoye for "no purpose at all" — it is a biologically accurate model of the human digestive system.
+Artificial feces produced by the "Cloaca" machine.
+(Wim Delvoye)
+Food gets passed through a series of tanks, which grind it, break it up with digestive juices, and eventually push it out in a feces-like state — much like you do.
+

@@ -1,0 +1,51 @@
+This South Korean neighborhood banned cars for a month — and people loved it
+In August 2013, the neighborhood of Haenggung-dong in South Korea banned cars for an entire month.
+Busy, traffic-clogged streets became filled with pedestrians, bicyclists, and children at play. Restaurant owners who'd originally protested the idea used the space for extra seating, while resident associations used it for theater performances and badminton courts.
+
+
+<!--
+new pym.Parent('haenggung-dong-2__graphic', '//apps.voxmedia.com/at-preview/haenggung-dong-2/', {xdomain: '.*\.voxmedia\.com'});
+// -->
+
+(ICLEI, Suwon, the Urban Idea)
+As part of the EcoMobility Festival, Haenggung-dong — a neighborhood in the city of Suwon, which has 1.2 million residents — permitted businesses to run occasional shuttles to get deliveries, and allowed traffic on one main road for part of the month, but that was it. No other cars, and no street parking.
+These unusual restrictions might seem pretty out there, but in a sense, they're a throwback. We take it for granted that streets are for cars, but even in the US, streets — which take up 20 to 40 percent of the total land area in most cities — were once universally used as a mixed public space for pedestrians, pushcart vendors, horse-drawn vehicles, streetcars, and children.
+As Johannesburg gets set to ban cars in its central business district as part of the second EcoMobility festival this October, it's worth looking at Haenggung-dong's surprising success when it ran this experiment.
+"People began to see the streets as extensions of their homes — they used them to sit together and talk," said Konrad Otto-Zimmermann of Local Governments for Sustainability, who helped organize the event. "It's amazing how the availability of quiet, calm, and safe streets changed the whole neighborhood's atmosphere."
+Haenggung-dong, shown during the festival.
+(Suwon)
+In 2011, Yeom Tae-Young, mayor of Suwon, met with Otto-Zimmermann, who'd been proposing his car-free neighborhood idea to mayors around the world. Yeom wanted to participate, and three neighborhoods eventually volunteered to be part of the festival, which was coordinated by the city, as well as Otto-Zimmermann and his colleague Yeonhee Park.
+Haenggung-dong, which has about 4,300 residents, was selected for a few different reasons. It's a historical district, with fairly narrow, walkable streets, and 54 percent of its inhabitants don't own cars. But it's also seen some decline since the 1970s — as the city's newer outlying areas drew population from the center — and officials thought the festival and accompanying infrastructure upgrades could help revitalize it.
+Still, banning cars for a month was a bold move. The majority of residents supported it (by the time of the festival, a third had actually joined the neighborhood association that helped organize it), but there was also some opposition. Most, Otto-Zimmermann says, came from small-business owners in the area who were worried about their ability to get deliveries.
+Ultimately, they negotiated with the city for a key concession: Jeongjo-ro, the main, four-lane road that traversed Haenggung-dong, would only be closed to motor traffic for eight of the 30 days of the festival. Combined with the occasional shuttle deliveries they were permitted on the smaller streets, most were satisfied, and the shop owners association announced its support.
+A map of Haenggung-dong. Jeongjo-ro is the green road, permitted to have traffic for some of the festival.
+(Suwon)
+Haenggung-dong also received a permanent makeover as part of the festival.
+
+
+<!--
+new pym.Parent('haenggung-dong__graphic', '//apps.voxmedia.com/at-preview/haenggung-dong/', {xdomain: '.*\.voxmedia\.com'});
+// -->
+
+(ICLEI, Suwon, The Urban Idea)
+This included infrastructure changes to slow down traffic for pedestrian safety — like narrower streets and wider sidewalks — as well as cosmetic upgrades, like repaved streets, planters, murals, and the burial of electrical cables.
+Additionally, during the festival itself, parking spaces and lots were temporarily converted into playgrounds and sitting spaces, with benches, tables, and play equipment. The total cost of all these improvements — about $10.45 million — was mostly paid by the city.
+Haenggung-dong, shown during the festival.
+(ICLEI)
+As the festival approached, the neighborhood held occasional car-free trial periods on certain streets during some weekend days. By the time it started, residents were required to remove all 1,500 or so street-parked cars to lots elsewhere that the city had reserved.
+Once it began, neighborhood association members and other volunteers stood at checkpoints to block cars from coming in and explain what was going on. The city also ran shuttle buses to bring residents from the edge of the neighborhood to the parking areas, as well as a 24-hour support service for people with medical needs. Along with new bike rental stations and pedicabs, 400 bikes and scooters were given to residents to use for free.
+The car ban did have some downsides. Business owners had to wait longer for deliveries, and residents who'd otherwise drive to leave the neighborhood had to take an extra shuttle. Adjacent areas experienced heavier traffic, especially for the eight days the main road was closed — something people are especially worried about for Johannesburg's upcoming festival.
+But there were also lots of unexpected benefits. Adults reported socializing more with neighbors, and spending more time outside. Children had much more space to play safely.
+Even for many shop owners, the ban — and the surge of foot traffic attracted by the festival — was a net positive. "Some even wanted to keep the ban in place permanently, because it brought more customers and gave them more space for outside seating," Otto-Zimmermann said.
+A community performance during the festival.
+(ICLEI)
+Opening up the streets also led to all sorts of surprising uses. Neighborhood groups put on plays and other performances. Children played in them throughout the day, while adults set up badminton courts at night.
+(ICLEI)
+Lots of elderly people live in Haenggung-dong, and it might seem like banning cars would cut them off from the outside world. But for wheelchair users, at least, it made life much easier.
+Previously, Yeonhee Park writes in Neighborhood in Motion — a book on the festival — they had "to drive between the cars in the streets since there are no sidewalks, or they were too narrow because of poles, hydrants, and stalls, or blocked cars." Banning cars let them get around safely.
+In the vast majority of the US, banning cars for an entire month would be utterly impractical. What's more, this was a short-term trial, and its success depended heavily on a big investment in infrastructure, as well as a brief spike in visitors that wouldn't continue over the long haul.
+But US cities have gradually been using street space more creatively in subtler ways — and in doing so, they've similarly challenged the idea that streets are for cars alone.
+New York, for instance, permanently closed off parts of Broadway to car traffic in 2010. Many other cities have built protected bike lanes and promoted traffic calming measures — such as narrower lanes, wider sidewalks, and curb extensions at pedestrian crossings. These sorts of changes have been shown to cut down on crashes and increase the number of people who walk and bike.
+Like Haenggung-dong's experiment, these changes have often been preceded by opposition from local businesses. But once in effect, they've been far less disastrous than feared — and have sometimes led to surprising benefits. In New York, for instance, businesses located along newly built bike lanes have seen greater increases in sales than similar businesses on nearby streets.
+And even though banning cars forever isn't a sensible move for any city, there's a related policy that could be: congestion pricing. This sort of scheme, in place in London, Singapore, and other cities in Europe and Asia, requires drivers to pay a fee in order to enter a downtown, cutting down on traffic and making streets safer and more accessible for pedestrians.
+In the US, the New York City government approved such a plan in 2008, but the state government rejected it, and the plan appeared to be dead. More recently, though, updated congestion pricing plans have gotten a bit more support. New York shouldn't and won't ban cars entirely, but charging them to enter pedestrian-oriented areas like Manhattan would be a huge step in the right direction.

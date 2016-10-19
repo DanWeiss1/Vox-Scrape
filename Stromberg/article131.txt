@@ -1,0 +1,33 @@
+A California resident says Google's autonomous cars "drive like your grandma"
+Google has been testing its self-driving cars all over Mountain View, California — which means that a handful of drivers have already gotten a firsthand look at what it's like to share the road with them.
+Recently, an anonymous reader of the blog Emerging Technologies shared what it's like to deal with these cars in traffic. Here are a handful of the most interesting observations:
+1) People in Mountain View are totally used to Google's cars.
+The reader estimated seeing at least five of the cars daily.
+"Other drivers don't even blink when they see one," the author wrote. "Neither do pedestrians — there's no "fear" from the general public about crashing or getting run over, at least not as far as I can tell."
+
+2) Google's cars drive really, really cautiously.
+"Google cars drive like your grandma — they're never the first off the line at a stop light, they don't accelerate quickly, they don't speed, and they never take any chances with lane changes (cut people off, etc.)," the author wrote.
+The author described a Google car's behavior when making a turn at a stop sign with little visibility to the left or right: it inches out very gradually, with lots of halting pauses, rather than just slowly gliding forward into traffic as most human drivers tend to do.
+Similarly, the autonomous cars are extremely courteous with pedestrians, waiting a few seconds after they've completely cleared a crosswalk before inching out to make a turn through it. All this caution actually leads human drivers to occasionally get annoyed at Google cars, as they can excessively slow down traffic.
+3) Human drivers might take advantage of these self-driving cars.
+ 
+
+
+
+
+
+(Google)
+
+
+
+Google's newer self-driving car design, which has no steering wheel or pedals. Most of the cars currently on the road are still the retrofitted Lexus SUVs. (Google)
+One of the author's more interesting observations is what happened after he or she intentionally cut off the Google car as an experiment:
+"The car handled it perfectly (maybe too perfectly). It slowed down and let me in," the author wrote. "Honestly, I don't think it will take long for other drivers to realize that self-driving cars are 'easy targets' in traffic."
+In other words, drivers will realize that a self-driving car won't try to squeeze you out, tailgate you, or otherwise react angrily if you cut it off. Ultimately, this could lead human drivers to take advantage — perhaps going ahead of their turn at four-way stops, or merging into the front of a long line of stopped highway traffic because they know a self-driving car will let them in.
+In a recent interview with The Verge, Ford executive Mike Tinskey noted that these sorts of situations might actually make it useful for humans to have the ability to occasionally take control:
+If you’ve ever had the pleasure to go to, for instance, China, if you’re not aggressive to try to turn left, there will be people that will walk in front of you all day long. And an autonomous vehicle would end up sitting there forever. And a driver normally just has to kind of say, "Alright, I’m going," and the people will stop and the car heads through. So there are going to be situations where a remote driver can actually pilot a vehicle better than an autonomous in certain conditions.
+4) Google's cars seem really safe.
+"Overall, I would say that I'm impressed with how these things operate. I actually do feel safer around a self-driving car than most other California drivers," the blog post author wrote.
+This fits in with the data we have on the cars so far. Though they've been involved in 11 minor fender benders over the course of more than 700,000 miles of travel, none of them were actually the cars' fault — and in fact, Google has detailed many situations in which its cars managed to avoid accidents after human drivers made extremely unsafe errors, like driving on the wrong side of the highway.
+So far, at least, Google has smartly prioritized excessively safe travel instead of designing its cars to have human-like aggressiveness. It'll be interesting to see how this works if the cars spread beyond Mountain View.
+Hat tip to Alex Tabarrok at Marginal Revolution for spotting the post.

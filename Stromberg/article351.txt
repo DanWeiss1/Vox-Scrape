@@ -1,0 +1,68 @@
+Was Mars once habitable? Curiosity keeps finding evidence that it might have been
+The Curiosity rover has produced another significant Mars discovery: today, NASA announced that it's detected the first definitive evidence of organic molecules on the planet's surface.
+These molecules — made up of carbon atoms bound to hydrogen or other elements — aren't evidence of life. However, all organisms on Earth are built from them, so their presence on Mars is generally thought to be a precondition for life evolving.
+the discoveries are positive signs for our search for ancient life
+Additionally, in a paper published in Science, researchers announced that Curiosity has detected unusual spikes in concentrations of methane gas, an organic substance. This isn't the first time we've found methane on Mars, but the atmospheric concentration of it rose and fell tenfold within a month, suggesting there are some active geologic processes occurring that we don't fully understand.
+Neither of these findings mean anything definitive about whether Mars was once home to life. But along with other recent discoveries — such as evidence of an ancient lakebed announced just last week — they're positive signs that further suggest the planet may have once been habitable billions of years ago.
+ 
+
+
+
+
+
+
+A rendering of Curiosity. (NASA/JPL-CalTech)
+The first discovery to note is the organic molecules.
+They're not necessarily a surprise: in 2012, shortly after Curiosity landed, NASA announced it had found some evidence of them in Martian soil. However, at the time, it wasn't clear whether they were inadvertently brought there from Earth, on Curiosity itself, and subsequent rock samples analyzed failed to turn up evidence of organics.
+this is the first definitive evidence of organic molecules on mars
+This time, Curiosity detected the organics in a sample that was drilled out of a rock called Cumberland. It heated the rock, causing it to vaporize, then analyzed the chemical elements present in the gases produced, allowing scientists to infer what sorts of molecules were originally present in it. NASA says that as part of this recent sample collection and analysis, Curiosity detected organics that were indeed carried inside the rover from Earth, but also ones present in Martian rock.
+Then, there's the atmospheric methane. It's presence isn't a huge surprise either, as scientists have used satellites to detect plumes of methane gas rising up from the planet before. However, until now, Curiosity hadn't been able to confirm those findings, and consequently some researchers had thought they were an error.
+But as announced today, an instrument on Curiosity that has taken a monthly reading of methane concentration in the air has found that in July and November 2013, methane levels jumped dramatically — in one case, going from .69 parts per billion to 7.2 ppb — then dropped back down just as suddenly.
+Given what we know about life on Earth, organic molecules are thought to be a precondition for life. They're absolutely not evidence of it, but not finding any of them would have been a bad sign for our hopes that Mars may have once been habitable.
+The importance of the methane finding is a bit more complex. We know that methane is unstable in Mars' atmosphere, so its presence means that something probably released it recently, right near Curiosity. The unexpected spike in methane concentration provides further evidence for this idea.
+On Earth, methane can be produced by life forms, and by geologic processes, such as the weathering of rock. The latter is much, much more likely here (though NASA scientists haven't ruled out the possibility that microbes may have produced it), but that too would be a good sign that Mars might have been more habitable in the past.
+ 
+
+
+
+
+
+
+A diagram showing the possible sources of methane, both geologic and biological. (NASA/JPL-CalTech)
+That's because it indicates that, today, Mars is more geologically active than we previously thought. The weathering process that would produce methane would require liquid water and heat. And more generally, the flow of energy and chemicals from one substance (a rock) to another (the atmosphere) is also thought to be a precondition for life.
+Finally, it's definitely worth mentioning last week's Curiosity discovery — that a huge crater the rover is traversing was once a lake, billions of years ago. That serves as evidence that Mars was once much warmer than it is now, perhaps with a thicker, protective atmosphere, and that the period of relative warmth may have lasted long enough for life to evolve.
+ 
+
+
+
+
+
+
+A rendering of Gale Crater, which may have been a lake billions of years ago. (NASA/JPL-Caltech/ESA/DLR/FU Berlin/MSSS)
+Not necessarily. But these two findings, along with others' made by Curiosity, provide some evidence that all the things we generally think to be necessary for life may have once been in place on Mars.
+Several billion years ago, it seems, Mars was sufficiently warm for liquid water to persist — to flow across the planet's surface and gather in semi-permanent bodies. Organic molecules seem to have been present in the rocks and soil (though at what concentrations, we still don't know). And the environment may have been chemically active, with the weathering of rocks releasing chemicals and energy to stimulate the evolution of single-celled organisms.
+However, even with all these conditions, it's far from certain that life would evolve.
+It took roughly a billion years for life to evolve on Earth, and for all we know, that may have been a singular accident — an exceedingly unlikely event that happened to occur against all odds. Or it could be a predictable event that happens whenever conditions are right.
+At the moment, we just don't know. When studying the evolution of life, our sample size is one.
+ 
+
+
+
+
+
+
+Curiosity on Mars, photographed in October 2012. (NASA/JPL-Caltech/Malin Space Science Systems)
+Not directly. Curiosity is equipped with all sorts of instruments to study Mars' geology, atmosphere, and climate, but it doesn't have a device that directly searches for life — say, by looking for fossils or metabolic byproducts. That's largely because we don't yet know enough to know what we'd be looking for.
+However, in the coming years, Curiosity will gradually ascend a giant mountain dubbed Mount Sharp, taking rock samples and analyzing them. Because the mountain's rock layers were put down over the course of about two billion years, they could serve as a detailed record of Mars' ancient atmosphere.
+If Mars truly was once the warmer, wetter world that we're hoping for, then at some point, it must have shifted to the dry planet we see today. Studying the samples could tell researchers exactly how that transition occurred — providing further clues about early Mars, and how likely it may have been to evolve life.
+Scientists certainly hope so. In 2020, NASA plans to send another mission to Mars. This new rover will  look a lot like Curiosity, but will have more advanced instruments and a different goal: collecting and storing rock samples that are most likely to have evidence of ancient life.
+ 
+
+
+
+
+
+
+(NASA)
+The idea is that the 2020 rover would cache these samples, and then at an unspecified future date, NASA would launch a follow-up mission to gather the samples and bring them back to Earth. That would allow scientists to study them in much more detail — perhaps finding evidence of Martian life.
+However, at this point, that plan is far from a reality. NASA hasn't committed to the sample-return mission, in part because we still haven't developed the technology to launch a rocket from Mars. At the moment, the most we can do is study data sent back by Curiosity and other probes — and learn as much as possible about ancient Mars.

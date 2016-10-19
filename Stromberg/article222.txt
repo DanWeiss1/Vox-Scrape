@@ -1,0 +1,21 @@
+How to opt out of everything from credit card offers to group texts
+Modern life can be overwhelming. Thankfully, there's two-word a solution to many of our most irritating problems: opt out.
+Visit donotcall.gov to put your phone number in the Federal Trade Commission's "do not call" registry.
+After 31 days have passed, telemarketers aren't supposed to call you anymore, and you can file a complaint on the same website if they do. Sure, nonprofits don't have to follow this rule, and there are some telemarketing companies that illegally evade it. But it will definitely cut down on the number of calls you get.
+Visit dmachoice.org to stop some companies from sending you junk mail.
+Sadly, it won't stop all junk mail — and there's nothing you can do (short of bricking up your mailbox) that would accomplish that. But it will eliminate junk mail that comes from roughly 3,600 companies that use a service operated by the Direct Mail Association.
+Visit optoutprescreen.com to stop getting pre-approved credit card offers in the mail.
+Companies send these to you based on your credit score, but they're not allowed to do so if your name and address are on the opt-out list, as mandated by the 2011 Fair Credit Reporting Act. Bizarrely, you can only opt out for a five-year period online; you have to mail in a form if you want to opt out permanently.
+Visit yellowpagesoptout.com to tell phone companies to stop delivering a phone book to your house every year.
+However, there's a caveat: this might not work at all. Phone book industry groups have sued cities that tried to establish official opt-out systems, and created their own system instead. But lots of people report getting phone books delivered even after they've put their names on the opt-out list, and there are no penalties for companies that do so.
+Read more: The infuriating reason you still get a phone book delivered every year.
+If you use Gmail, you can mute any email thread by clicking the "more" button at the top of the window, then clicking "mute."
+Once you do this, new replies to the conversation will still show up as unread, but they'll automatically be archived, so you won't see them in your inbox.
+When you browse the internet, a number of companies collect data on your browsing and shopping habits, which is then used by advertising companies to tailor the ads you're shown to (supposedly) fit your interests. It's virtually impossible to stop entirely, but there are a number of things you can do to cut down on it.
+The Network Advertising Initiative and Digital Advertising Alliance both have tools that let you opt out of tracking from specific companies (you'll need to opt out separately for each browser you use). You can also opt out of being shown personalized ads by Google and Yahoo in particular.
+You can also try using DuckDuckGo — a search engine that doesn't store IP addresses or other user information — and installing a browser extension like Ghostery or Privacyfix, which tell you who's tracking you and in some cases allow you to stop it. You can also tinker with your browser settings to disable cookies (here are instruction links for Chrome, Firefox, and Safari), although you may want to later manually turn them back on for sites you visit regularly.
+You know when you try to copy text from a website and it automatically appends the URL and other information at the end of it? That's the fine work of a company called Tynt, and you can stop it from happening ever again right here.
+If you have an iPhone, you can opt out of group texts by going to the group thread, clicking "details," scrolling down, and either hitting "leave this conversation" (to truly leave it) or just "do not disturb" (to stay in the thread but stop getting notified every time someone texts).
+If you use Android, it's a bit trickier, but you can download an app called GroupXit that will silence certain message threads.
+Wait, sorry, this actually isn't possible.
+Correction: This article previously said that iMessages sent to Android phones wouldn't be silenced by the GroupXit app — but all messages sent to Androids are delivered as SMS in the first place.

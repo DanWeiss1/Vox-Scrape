@@ -1,0 +1,39 @@
+When was the first traffic light installed? Today in 1914.
+It's the 101st anniversary of the first electric traffic signal system. On August 5, 1914, in Cleveland, Ohio, engineers installed a pair of green and red lights facing each side of a four-way intersection — a simple experiment that has since shaped roads around the world, and is honored today in a Google Doodle.
+
+In a technical sense, Cleveland's device might not seem all that impressive. It was actually preceded by similar temporary systems in London and Utah, and like the others, it was manually operated. Its chief benefit was allowing a policeman to sit in a booth next to the intersection instead of standing dangerously within it.
+But this simple invention marks a key moment in the largely forgotten transformation of roads during the 20th century. For most of history, roads have been chaotic, shared public spaces, packed with horses, handcarts, merchants, pedestrians, and children. As much as any other invention, the traffic signal gave rise to the carefully controlled, highly automated thoroughfares we think of as roads today.
+Horses, carriages, carts, streetcars, and pedestrians had been navigating busy intersections for years — but they moved pretty slowly, which meant turn-taking and other informal driving customs generally worked fine.
+
+San Francisco's Market Street, in 1906, shows a handful of automobiles mixing informally with streetcars and carriages.
+As automobiles began to appear in US cities in the 1900s, there was no system for dealing with their speed. Sharing the streets with pedestrians and driving unpredictably, they caused alarming numbers of deaths and crashes. As historian Peter Norton writes in Fighting Traffic, this led the public to generally vilify the car — and prompted police departments to get involved in the business of traffic regulation.
+(Courtesy of Peter Norton)
+In many cities, they first did so based on a set of driving rules created by New York businessman William Phelps Eno in 1903. Among other ideas, he suggested traffic circles, one-way streets, pedestrian crosswalks — and for drivers making a left through an intersection, the requirement to turn at a hard right angle.
+Eno's rules prohibited soft left turns (left), requiring drivers to stay in their lane until turning at a hard angle (right).
+(National Safety Council)
+It might seem minor, but this hard left turns rule was a key way to ensure that cars didn't smash into each other — and crossing pedestrians — at intersections. With drivers making these kinds of turns, traffic at intersections could flow smoothly for the first time.
+At first, police enforced this rule by whistling at cars that cut corners, but in 1904, Eno proposed the idea of building a post in the center of each intersection (marked "C" in the diagram above) with a sign that said "keep right." New York installed many of these posts — eventually termed "silent policemen" — and other cities around the US followed. They were the first real infrastructure aimed at controlling cars — and, as Norton writes, "This humble traffic device marked the victory of common-sense traffic reform where custom alone had proved inadequate."
+A sketch of an early traffic semaphore.
+(University of Vermont)
+At busier intersections, these silent policemen were paired with actual policemen who gave hand signals indicating which lanes had the right of way. Eventually, some cities used devices called semaphores mounted on the center poles. Modeled after railway signals, they could be cranked or turned to show some drivers the word "STOP" and others "GO."
+But as more and more cars arrived on the roads, standing at the center of a busy intersection became increasingly dangerous. It also gave police a poor view, leading long lines of traffic to form — sometimes trapping fire trucks and ambulances.
+An officer operated the signal from a booth next to the intersection.
+(The American City and Country)
+The system installed in Cleveland wasn't the first we'd recognize as a traffic signal today. London's 1868 signal used semaphore arms combined with red and green gaslights during nighttime — colors that had long been used to mean "stop" and "go" by various sorts of industrial machinery. It exploded after about a month of use, though, injuring the operator.
+Then, in 1912, police officer Lester Wire built and installed a device in Salt Lake City that "looked like a large birdhouse with lights dipped in green and red paint and placed into circular holes on each side," according to the Salt Lake Tribune — but it, too, was short-lived, and Wire seems to have gone off to World War I instead of securing a patent.
+Finally, in 1914, at the corner of Euclid Avenue and East 105th Street — one of the busiest intersections in Cleveland — the city hired the American Traffic Signal Company to implement an enduring system that had been patented by Clevelander James Hoge a year earlier.
+Hoge's original 1913 patent submission, which used lights with words printed on them (not included in the Cleveland system).
+(US Patent Office)
+Its design was simple: An operator in a booth flipped a switch to illuminate either a red or green light on wires suspended above each side of the intersection. As Cleveland director of public safety Alfred A. Benesch wrote in 1915, "[It] takes the traffic officer out of the center of the street and places him at a corner of the sidewalk and at an elevation from which he can see over the heads of the crowd." If a fire engine arrived, he could throw an emergency switch, which would illuminate all red lights and allow him to clear out the intersection so it could pass.
+Benesch deemed the experiment, which cost $1,500 to install, a complete success. Other cities attempted to solve the same problem with traffic towers — elevated booths that policemen could sit in at the center of the intersection — but over the next decade, remote-operated, lighted systems like Cleveland's gradually won out.
+In 1920, Detroit policeman William Potts introduced the yellow light; soon after, cities such as New York and Philadelphia began introducing lights with linked circuits, allowing many intersections to change at the same moment. Eventually, the lighted traffic signal became the standard control mechanism for busy urban intersections.
+The American history of roads, more than anything, is the story of informal public spaces being transformed into tightly regulated conduits for traffic. In most places across the country, for better or worse, roads have been taken away from pedestrians and other non-drivers to allow cars to move as quickly as possible.
+The intersection of La Salle and Monroe Streets in downtown Chicago, 1912 vs. today. (University of Minnesota/Google Street View)
+A huge range of inventions and policies — from the concept of jaywalking to the controlled-access highway — were crucial in this transformation. But the traffic signal came at a particularly pivotal time.
+During the 1910s, when electric traffic lights first popped up, cars were still a plaything for the rich. When drivers ran over pedestrians, they were publicly portrayed as murderers. For a brief moment, many felt that automobiles were inherently deadly machines, with no place on city streets.
+If police departments, engineers, and auto enthusiasts hadn't figured out a way to minimize the carnage, that might never have changed. But they managed to do so, by forcing pedestrians to use crosswalks, writing rules to standardize the flow of traffic, and, crucially, regulating activity at intersections, where a disproportionate amount of accidents occurred.
+During the 1920s, cars steadily began to filter down to the middle class, eventually becoming mainstream — and traffic signals became commonplace in most large American cities.
+
+
+
+

@@ -1,0 +1,44 @@
+The science of sunburns
+It's summer. That means many people are going experience a sunburn, at one time or another.
+sunburns are your skin's defensive response to damage from UV light
+You probably already know that sunburns are caused by exposure to the sun's ultraviolet (UV) light and can be prevented by sunscreen. But you might not know that sunburns are actually your skin's defensive response to damage from this UV light, and that the most common remedy (aloe vera) has never been proven to be effective in relieving sunburn.
+Given that sunburns are such a mundane phenomenon, it's surprising how many questions and misunderstandings are out there. Here's a fuller explanation.
+
+This guy. Wikimedia Commons
+In short, what we think of as sunburns and tans are our skin responding to DNA damage caused by the sun's ultraviolet light. Neither tans or sunburns are intrinsically harmful, but they're both signs that your DNA has already been damaged — increasing your long-term risk of skin cancer.
+The sun naturally emits several types of ultraviolet radiation — an invisible, high-energy form of light with a wavelength that's shorter than the light we can see. The UV with the shortest wavelength (UV-C) is almost completely absorbed by the ozone layer, more than 20 miles above our heads. But the two other types — UV-A and UV-B — can penetrate this layer.
+NASA
+For years, only UV-B was thought to cause skin damage. Excessive UV-B exposure can cause the molecules in your cells' DNA to enter an excited state, leading to mutations and genetic breakages, and (given enough time) skin cancer.
+But our skin has a defense against UV-B: a group of dark pigments collectively called melanin, which color your cells' nuclei, blocking the radiation and minimizing damage to your DNA. Some people naturally have higher levels of melanin than others, which makes their skin darker to begin with — and makes them less vulnerable to UV-B. 
+uv-B exposure can lead to mutations and breakages in your skin cells' dna
+Other people can build up melanin over time in response to small doses of UV radiation, as specialized cells called melanocytes secrete melanin. This melanin generally takes one to three days to enter other skin cells. When it does, it forms a tan.
+In the meantime, however, continued UV-B exposure causes DNA damage in these cells. In extreme conditions, this can happen in as short a period of 10 to 15 minutes. People of all skin tones are vulnerable to it, but the damage occurs in fairer people much more quickly, because less ambient melanin is present as a protection.
+More recently, scientists have determined that although UV-A doesn't cause sunburns, it can also cause long-term skin damage and increase the chance of cancer. This is why using a broad-spectrum sunscreen that protects against both UV-A and UV-B is recommended.
+
+EyesWideOpen/Getty Images
+The body's short-term response to DNA damage — before melanin can take effect — is to intentionally kill off the cells that have been damaged, as part of a process called apoptosis. This reduces the chance that mutated cells will begin uncontrollably reproducing, forming a tumor.
+Dead cells on the outermost layers of your skin can simply flake off sooner than they normally do — which you experience as peeling in the days after a sunburn.
+the body's response to sunburn is to kill off the skin cells that have been damaged
+But in deeper skin layers, dead cells need to be actively cleared out. To trigger this, they release tiny fragments of damaged genetic material when they die, which signals to neighboring cells to initiate a series of changes known as the inflammatory response.
+This is the same response your body makes to an infection. Your blood vessels dilate, to allow for increased blood flow (causing your skin to feel hot) and overproduction of particular proteins leads to pain and itchiness. If extremely high numbers of cells are killed, blisters can form, in order for blood plasma to pool next to the damaged tissue and aid in healing.
+All this is meant to help regenerate your skin tissue. But in the interim, it hurts like hell.
+The time it takes you to burn is proportional to the dose of UV-B you expose your skin to. The more direct the sunlight in your area is, the greater the dose — so in general, the closer to the equator you are, the greater the chance of sunburn. It's also much higher during summer, and between the hours of 10 am and 2 pm, peaking at mid-day.
+you can get sunburned on a cloudy day
+Unfortunately, clouds are better at blocking visible light than UV — so you can indeed get sunburned on a cloudy day. In some cases, for unclear reasons, clouds can even magnify the amount of UV hitting the ground. If you're at high altitude, sunburn is also more likely because solar radiation doesn't need to travel through as much atmosphere to reach you.
+All these factors are used to produce something called a UV index: a standardized measure of the amount of UV (and thus the long-term skin cancer risk) in a given location on a given day. The index goes from 1 to 11+, and is linear, so doubling a score means doubling the dose of UV — and cutting in half the time you need to burn.
+
+Wikimedia commons
+Other factors can also affect the risk of a sunburn.  Being near snow, water, or white sand or other substances that reflect UV radiation, for instance, exposes you to more than you would be otherwise.
+The most basic advice is obvious: wear sunscreen, especially when you'll be outside for a while on high-UV days. This prevents not only sunburn, but many types of skin cancer.
+after a certain point, around spf 30, high numbers barely translate to extra protection
+Sunscreens, however, are a surprisingly contentious topic. There's evidence that some of the common active chemicals can cause toxic side-effects, which is why some people recommend opaque mineral sunblocks, like titanium dioxide and zinc oxide. A number of newer chemicals have been rolled out in Europe, but are still prohibited in the US by FDA regulations.
+All the same, most dermatologists say the benefits of using chemical sunscreens — both short-term (preventing sunburn) and long-term (preventing cancer) — outweigh the potential toxicity. They recommend using a sunscreen that's labeled as broad-spectrum (meaning that it protects against UV-A and UV-B radiation) and has an SPF over 30. If you're very concerned about toxicity, the Environmental Working Group has a list of effective sunscreens that aren't toxic.
+SPF, in theory, measures how long sunscreen remains effective on your skin (if you'd burn in 10 minutes without sunscreen, it'd take 300 minutes for you to burn wearing a 30 SPF sunscreen). But it's an imperfect measure, doesn't reflect the effect of UV-A radiation, and is logarithmic — so after a certain point (around SPF 30), higher numbers barely translate to extra protection.
+ 
+Consumer Reports
+Experts recommend applying the sunscreen at least 15 minutes before you head out into the sun, and re-applying every two hours, or if you get wet or sweaty. There are lots of sunscreens that claim to be water resistant, but the majority can still be washed away or made less effective after being immersed. It's also a good idea to wear a brimmed hat and long sleeves to minimize sun exposure.
+Step one: get out of the sun, to minimize damage and give your skin the best chance of healing.
+Step one: get out of the sun
+To relieve the pain, you can take a cool shower or bath, apply a moisturizing or anti-itch cream, and take Tylenol, Advil, or another pain reliever. Contrary to popular belief, there's no scientific evidence that aloe vera gels help relieve the symptoms. Drinking lots of water is a good idea, as dehydration can often accompany sunburn.
+If the sunburn gives way to sun poisoning — the name used for extreme cases of sunburn that involve headache, nausea, dizziness, swelling, and lots of blistering — you might want to see a doctor.
+Otherwise, your burn will start to heal within a few days, and will probably be totally better within a few weeks. The invisible DNA damage, though, is cumulative — so the more times you tan or are burned throughout your life, the greater the long-term risk of skin cancer.

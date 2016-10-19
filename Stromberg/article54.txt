@@ -1,0 +1,96 @@
+Scientists now think we could find alien life in our lifetimes. Here's how.
+Astronomers have dreamed about finding alien life for centuries. It's just always been considered a far-fetched possibility — the stuff of science fiction. That's why it's so surprising that in recent years, many scientists have started taking the search for life on other planets much, much more seriously.
+
+That's partly due to new astronomical discoveries. A generation ago, we didn't even have evidence that there were any planets orbiting other stars. But in the past few decades, scientists have found thousands of distant "exoplanets," including several that seem like they might have the right conditions for life. At the same time, scientists have discovered several moons right in our own solar system that appear to have liquid oceans underneath their icy surfaces and perhaps other ingredients necessary for life.
+"For the first time in human history, we might have the capability to do this"
+It's all extremely promising. So astronomers have decided to double down on the search for extraterrestrials. They've moved beyond the traditional methods, which involved simply hoping that intelligent aliens might contact us via radio signals, à la the SETI Institute. Instead, they're now planning missions to nearby ocean worlds and finding new ways to peer at distant planets.
+Some astronomers— including NASA's chief scientist — even believe we could find alien life within our lifetimes.  "With new telescopes coming online within the next five or 10 years, we'll really have a chance to figure out whether we're alone in the universe," Lisa Kaltenegger, the director of Cornell's new Carl Sagan Institute, told me last year. "For the first time in human history, we might have the capability to do this."
+Granted, if life does exist on any of these planets or moons — either in our solar system or outside it — it's far more likely to be in the form of simple, single-celled organisms rather than little green men. These microscopic aliens would be extremely hard to definitively detect, especially if they're orbiting other stars. But it would be a monumental discovery, a sign at last that we're not alone.
+Here's a step-by-step guide to how we'll actually go looking for alien life.
+ 
+
+
+
+
+
+
+A rendering of the Europa Clipper. (NASA/JPL-Caltech)
+It'd be a lot easier to find definitive evidence of extraterrestrial life within our own solar system than it would be to explore other stars. So the first step is to identify and explore all the ocean worlds orbiting our sun.
+Ocean worlds are planets or moons that are icy on the surface but harbor a warmer liquid ocean underneath. They're promising for a simple reason: temperature. Most of the other planets in our solar system (i.e., those besides Earth) seem to be either too hot or too cold for life to survive, too close or too far from the sun. But a planet with an ocean might be able to get around this constraint — because there are lots of possible ways an ocean on a distant icy world could have the right temperature for life to occur.
+For instance, scientists have recently found evidence of water oceans on at least three moons: Jupiter's Europa and Ganymede and Saturn's Enceladus. (Saturn's moon Titan also has an ocean of liquid methane.) Even though these moons are frigid on the surface, their insides appear to be warmed by various mechanisms.
+Europa gets squeezed continually back and forth by Jupiter's immense gravity. "That results in friction, which generates heat, which is part of what we think helps maintain that liquid water ocean beneath the icy shell," NASA scientist Kevin Hand told me in May. These oceans could theoretically be home to life — and there might be similar oceans on other icy moons and space objects.
+An animation shows how Europa is squeezed as it orbits Jupiter.
+(NASA/JPL-Caltech)
+So far, we don't know a ton about these oceans. Most of the evidence for them is  indirect, like the geysers of water vapor we've spotted erupting from Enceladus. To know more, we have to send initial probes to them. Which is what we're doing.
+The first mission will likely be NASA's Europa Clipper, tentatively scheduled to launch sometime in the mid-2020s. Current plans call for it to enter Jupiter's orbit, then fly by Europa an estimated 45 times over the course of three or so years, gathering data on composition and temperature of the ocean, plumes, and icy surface. (There aren't any planned missions to Enceladus or Ganymede yet.)
+ 
+
+
+
+
+
+
+Saturn's moon Enceladus. (NASA/JPL/Space Science Institute)
+The Europa Clipper probably might not be able to determine for sure whether there's life there. That's because it'd be too expensive to give the probe every possible tool for exploration, such as a lander with the capacity to drill through the ice and collect water. After all, we're still not certain what life would look like on such a world and don't know exactly what we'd measure to test for it.
+Instead, the initial probe will focus on understanding the size, composition, and temperature of Europa's ocean and creating high-resolution maps of its surface, so that a future mission might land and directly study the moon's ice and water. The Clipper might also sample plumes shooting out of Europa's surface, to look for indirect evidence of hydrothermal activity in the ocean, which could be fuel for life.
+Then the follow-up probes could conceivably search for life, although there's still much debate about what they'd look like. Some scientists have proposed submarines that could explore Europa's oceans after drilling through the ice. Similar missions, in theory, could someday be executed on Enceladus and Ganymede.
+These missions could collect all sorts of data on activity within the oceans, perhaps providing stronger evidence for conditions that could be right for life. And if the oceans do have hydrothermal vents, then a submarine mission could even more fruitful. On Earth, these vents emit heated water and dissolved chemicals, which feed chemosynthetic bacteria, which in turn feed diverse groups of animals. It's a long shot, but similar ecosystems could have evolved on Europa and on other moons' sea floors.
+Of course, the technology needed to carry out these sorts of missions is still years away. These follow-up probes would also be far more expensive than NASA's Clipper, in part because the extra equipment for a lander requires more fuel to launch into space. And that will undoubtedly prove a tough sell, given NASA's dwindling budget for planetary exploration.
+ 
+
+
+
+
+
+
+An artist's impression of Europa's subsurface ocean. (NASA/JPL-Caltech)
+If these ocean worlds did contain any life, they'd most likely harbor exotic microscopic organisms (rather than more complex ecosystems). If that's the case, we'd probably want hard proof that life actually existed — and it'd be extremely hard to provide that remotely. That would entail bringing a water sample back to Earth.
+This would be yet another monumental engineering challenge. To date, we've only managed to return rock samples from the moon and dust from a comet and an asteroid relatively nearby Earth. Bringing back a sample from Europa or another icy moon would require some sort of spacecraft that's light enough to launch with our rockets, but big enough (and able to carry enough fuel) to escape its destination's gravity when it's time to return home. At the moment, that technology doesn't exist.
+There would also be another problem to worry about: how to avoid contaminating Earth with any life forms that we might bring back. This risk seems small — if there were alien life forms, they probably wouldn't have evolved to survive on Earth — but the potential damage could be devastating, as no Earth organisms have evolved any sort of resistance to the threats these aliens might pose. Consequently, scientists have come up with a series of recommendations to prevent this sort of threat, mostly involving thorough quarantine of returning spacecraft and samples.
+These technical challenges mean that finding (and verifying) life in our own solar system probably wouldn't occur for decades, at the earliest. So in the meantime, we'll also want to look much farther away: to planets in other solar systems. Paradoxically, that search might end up yielding results even sooner, though they wouldn't be as definitive.
+ 
+
+
+
+
+
+
+An illustration of Kepler-452b, the most Earth-like exoplanet discovered so far. (NASA)
+The first step toward doing so is finding a planet alien life might reside on. We've already found thousands of exoplanets (and counting), mostly using NASA's Kepler space telescope and something called the transit method.
+Here's how the method works. Imagine staring at a star far away. If there is a planet orbiting that star, it might occasionally pass between us and the star, briefly blocking it from view. Scientists can't actually see the planets doing this blocking, but they can indirectly detect their presence.
+"We measure the brightness of a star, and when a planet passes in front of it, it blocks out some of the starlight for a period of a few hours," Thomas Barclay, an exoplanet researcher, told me in April. If scientists observe a star dimming by a consistent amount on a predictable schedule, they can infer the size of an exoplanet that's orbiting around it.
+A diagram shows how the transit method helped detect five planets in the star system Kepler-186.
+(Sean Raymond)
+There are a few other methods for detecting exoplanets, but the transit method is the most straightforward, and it has led to the most discoveries to date.
+Now that we've found exoplanets, we need to whittle down the list to the most promising ones.
+Scientists are still working on this step. Most of the thousands of planets in other solar systems that we've found are too big, too gaseous, or too hot to be capable of supporting life as we know it. (Unfortunately, these planets are also easier to detect.) So for now, they're crossing these off the list.
+Based on what we know about life on Earth, we'd expect life to be more likely to evolve on a rocky planet that orbits within its star's habitable zone — an area where there's enough warmth for liquid water, but not too much heat. (It's possible that a planet even farther off than this could evolve life, perhaps due to a heat-trapping layer of ice like Europa, but it'd be extremely difficult — maybe impossible — to detect signs of life in an icy world in another star system.)
+A chart showing the exoplanets discovered by Kepler that appear to be in their stars' habitable zones.
+(NASA)
+The good news is that there are definitely some exoplanets out there that meet these criteria. Scientists have already spotted about a dozen planets that are relatively close in size to Earth and which may lie in their stars' habitable zones. In July, for instance, astronomers discovered Kepler-452b, which is just 60 percent bigger than our planet and considered Earth's closest twin yet.
+The catch is that our current telescopes aren't optimized to analyze these planets and look for signs of life. (Ironically, the Kepler telescope scientists currently use is too powerful — it was built to observe distant portions of the Milky Way, not to look for planets relatively close by.) So scientists are building more suitable telescopes. NASA's Transiting Exoplanet Survey Satellite (TESS), set to launch in 2017, will be the first space telescope specifically designed to analyze exoplanets.
+ 
+
+
+
+
+
+
+An illustration of TESS. (NASA)
+Most exoplanets are probably too far off for us to ever visit — even with uncrewed probes. So the best way to learn more about them is by analyzing the light spectra that pass through their atmospheres. That lets us know what gases are present — and, if we're lucky, may give us clues as to whether there's life, as well.
+So far, scientists have been able to directly analyze the spectrum of light passing through the atmospheres of a dozen or so exoplanets. However, these have all been large, gaseous planets with thicker atmospheres. Again, we want to analyze rocky planets in the habitable zone of stars.
+A rendering of the James Webb Space Telescope.
+(NASA)
+This, too, will require better telescopes — and those are on the way. The James Webb Space Telescope, scheduled to launch in 2018, will help analyze the atmospheres of smaller, Earth-like planets that have been spotted by NASA's TESS. Meanwhile, the European Extremely Large Telescope, a ground-based telescope to be built in Chile in 2024, may also be used for this purpose.
+ 
+
+
+
+
+
+
+An illustration of the exoplanet Gliese 832c, one of the closest potentially habitable exoplanets. (Radialvelocity)
+The reason we'd want to analyze atmospheres is to look for biosignatures — gases that could be signs of alien life. "We can't go to these planets," Kaltenegger told me. "So we're trying to figure out what a planet that has life might look like from far away, in ways that would be detectable by our telescopes."
+At the moment, we only know of one planet with life — Earth — so scientists are using that as a model to determine what gases might support life. Kaltenegger and colleagues, for instance, have used our knowledge of Earth's history to generate what they call an alien ID chart — a series of snapshots of Earth's atmospheric composition over the last few billion years, as it's evolved due to the presence of life.
+Meanwhile, other researchers are modeling how various life forms might alter the atmospheres of planets with geologic compositions that differ from Earth's. As far as we know, there are some gases (like oxygen and methane) that are abundantly produced by life but can also be produced by geologic processes. On the other hand, there are some rare gases (like dimethyl sulfide) that are produced only by life forms — as far as we know — but in much smaller quantities.
+In either case, though, any potential biosignatures we find will be somewhat uncertain. It'd be impossible to say that the makeup of an atmosphere hundreds of light-years away is definitive evidence of life, even if it were chock-full of dimethyl sulfide. We might find strong suggestions of life, but when looking at planets so far away — rather than oceans in our own solar system — it'll be hard to know for sure.

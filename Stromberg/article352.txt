@@ -1,0 +1,52 @@
+Lie detectors: Why they don't work, and why police use them anyway
+The FBI gives a polygraph test to every single person who's considered for a job there. When the DEA, CIA, and other agencies are taken into account, about 70,000 people a year submit to polygraphs while seeking security clearances and jobs with the federal government.
+Polygraphs are also regularly used by law enforcement when interrogating suspects. In some places, they're used to monitor the activities of sex offenders on probation, and some judges have recently permitted plea bargains that hinge on the results of defendants' polygraph tests.
+Here's what makes this all so baffling: The question of whether polygraphs are a good way to figure out whether someone is lying was settled long ago. They aren't.
+The question of whether polygraphs work was settled long ago
+"There's no unique physiological sign of deception. And there's no evidence whatsoever that the things the polygraph measures — heart rate, blood pressure, sweating, and breathing — are linked to whether you're telling the truth or not," says Leonard Saxe, a psychologist at Brandeis University who's conducted research into polygraphs. In an exhaustive report, the National Research Council concluded, "Almost a century of research in scientific psychology and physiology provides little basis for the expectation that a polygraph test could have extremely high accuracy."
+This isn't exactly breaking news: Saxe's 1983 report for Congress ended up leading to a nationwide ban on private employers giving polygraph tests to employees, and a 1998 Supreme Court decision ruled against the use of polygraphic evidence in some federal courts because "there is simply no consensus that polygraph evidence is reliable."
+And yet polygraphs are still routinely used by government agencies and law enforcement. This raises an obvious question: Why are they relying on pseudoscience to screen employees and solve cases?
+ 
+
+
+
+
+
+
+(Shutterstock)
+Various versions of polygraph machines were developed by several different American researchers and police investigators over the first few decades of the 20th century. It began as a device that detected a person's blood pressure, and was later equipped with the ability to measure galvanic skin response on a person's hand (which is a proxy for sweat) as well as breathing rate and pulse. "Basically, they took 19th-century technology and put it in a box," says Geoffrey Bunn, author of The Truth Machine: A Social History of the Lie Detector.
+The idea was that these physiological responses could reliably indicate whether a person was telling the truth or lying, and weren't within his or her control. From the start, though, there wasn't a strong case for why this might be. "There was never any complete theory of the 'physiology of the lie,'" Bunn says. "And the three measures — blood pressure, respiration, and sweating — are all different physiological systems."
+"Basically, they took 19th-century technology and put it in a box"
+Nevertheless, through the 1950s and '60s, investigators developed the testing procedure that's still most widely used today, called the Control Question Technique. Essentially, the questioner will mix control questions (vaguely threatening ones that don't pertain to the case at hand, like "Have you ever stolen from a friend?") with specific questions relevant to the case (like "Did you commit the robbery on June 17?"). The subject will also repeatedly be reminded that the machine can accurately distinguish truth from lies, and that it's essential for them to answer truthfully.
+The idea is that the control questions will arouse some baseline anxiety in response to being interrogated, because the questions are vague and hard to answer entirely truthfully. If they didn't commit the crime in question, the thinking goes, their anxiety would actually be lower for the relevant questions (because they'd know they weren't lying). But if they did commit the crime, these questions would trigger even greater levels of anxiety. All this would be reflected in their physiological responses.
+So to figure out if someone is lying, you simply compare their physiological responses to the control questions with responses to the relevant ones. If the former are higher, they're innocent. If the latter are, they're guilty.
+ 
+
+
+
+
+
+
+(Staff Sgt. Valerie Smith/US Air Force/MCT via Getty Images)
+A polygraph test, in essence, measures one thing: anxiety.
+"All these physiological measures are simply associated with fear and anxiety," Saxe says. "And people are anxious sometimes when they're telling the truth, and they can be not anxious sometimes when they're lying. The more practiced you are at lying, the less anxiety is associated with it."
+In other words, a polygraph test can sometimes be correct, and sometimes be wrong.
+A polygraph test can sometimes be correct, and sometimes be wrong
+Controlled lab studies have found that the tests are generally capable of correctly identifying a liar at rates greater than chance, but also incorrectly indicate that lots of honest people are lying too. And the National Research Council has concluded that even these trials are flawed, because they depend on people's responses to mock crimes, which probably don't reflect real-world emotions. When accused of an actual crime, many people understandably become anxious, even if they're innocent.
+Even worse, these trials aren't conducted on people trained in what investigators call "countermeasures": various strategies aimed at beating the test. Experts conclude that polygraph tests probably are beatable by people with training, a belief demonstrated by the federal government's recent attempts at arresting people offering to teach these methods.
+Because of all this, the American Psychological Association has recommended against using polygraph tests in investigations or employee screening. Research has consistently shown that polygraphs are not an effective way to reduce recidivism among sex offenders. And the National Research Council has gone so far as to say that federal agencies' overconfidence in the test for screening "presents a danger to national security objectives."
+ 
+
+
+
+
+
+
+(Dima Korotayev/Epsilon/Getty Images)
+Despite the 1988 legal ban on private employers using polygraph tests and the 1998 court decision ruling that their results are inadmissible as evidence in federal courts, there are huge loopholes in place — and they're exploited by federal employers, law enforcement, probation officers, and others.
+But if there's so much evidence that polygraphs don't detect lies, why are these people bent on using them?
+It doesn't matter whether the test actually works, just that it's perceived as effective
+One possibility is the belief that they're useful as a prop — part of what Saxe calls the "theater" of interrogation. "If the examiner does the theater well, and tricks the subject into believing that his or her lies can be detected, they might confess," he says.
+Related is the belief that polygraphs might be useful as a deterrent: If a sex offender believes he or she is going to be regularly subjected to accurate lie detection tests, committing a crime suddenly looks like a guarantee of heading back to prison. For both of these uses, it doesn't matter whether the test actually works, just that it's perceived as effective.
+But Saxe believes that for some people, there may be a less cynical factor involved — something that more closely resembles myth or religion than science.
+"People want to believe in a just world. And in a just world, people can't get away with lying," he says. "My impression from speaking with some polygraphers is that they believe what they're doing is accurate. Some even say things like, 'God gave us this tool to make a better world.'"

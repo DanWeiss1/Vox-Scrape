@@ -1,0 +1,58 @@
+Do violent video games actually make people more violent?
+Over the past few decades, the people behind several different mass shootings — including Newtown, Columbine, and the 2011 attacks that led to 77 deaths in Norway — were found to be regular players of violent video games.
+This has led many commentators (and the NRA) to blame violent games for real-life violence. Virtually shooting others on a daily basis, they say, desensitizes people to violence and makes them more aggressive. Therefore, video games can push some people over the edge, turning virtual gunshots into the deaths of real people.
+on the whole, the evidence is decidedly mixed
+It's an intuitive idea. But is it true? The short answer: we don't really know.
+Some studies have indeed found that, in lab settings, people can become more aggressive after playing violent games. Some have also found that people who play violent games are more likely to commit violent acts in real life.
+But it'd be just as easy to conclude that inherently violent people are simply drawn to violent games — and indeed, several studies have come to that conclusion. Moreover, not all observational studies have found any correlation between gaming and violence. Perhaps most importantly, there's been no surge in violence among youth over the past few decades in gaming countries to accompany the rising popularity of violent games. 
+On the whole, the evidence is decidedly mixed. Here's a look at what we know — and what we don't know — about the link between video games and violence.
+ 
+
+
+
+
+
+
+(Photo by Kevork Djansezian/Getty Images)
+The main evidence for the link between video games and violence is found in lab studies in which participants are assigned to play violent games, then take tests that measure aggression. One recent meta-analysis of 98 different studies found that most — but not all — showed a positive relationship between exposure to violent games and increased aggressiveness.
+Some studies have also indicated that playing violent games might reduce gamers' self-control. One recent Italian study, for example, found that people who played Grand Theft Auto V were more likely to cheat in a raffle and commit aggressive acts toward other gamers (specifically, blasting them with loud noises through headphones) afterward, compared to those who played a pinball or mini-golf game. "This suggests to us that when people play violent video games, they show less self-restraint, and behave dishonestly more easily if they have the occasion to," says Alessandro Gabbiadini, the study's lead author.
+people who played GTA V were more likely to cheat in a raffle or commit aggressive acts afterward
+At the same time, there are a few caveats to keep in mind when considering these studies. One is that they use aggression and self-control as proxies for real-world violence, because researchers can't actually allow violence to occur in a lab. The idea is that, in increasing aggressiveness, these games make it more likely that someone considering violence will be pushed over the edge and actually commit it. But there's a huge difference between blasting someone with a loud noise, or scoring higher on a questionnaire intended to measure aggressiveness, and actually resorting to violence in the real world.
+Additionally, these studies mainly focus on a subset of video games. Just as with movies, TV shows, or books, some video games are violent, and some aren't. 
+Further, even violent games often require players to help others at times. And several other lab studies have found that these episodes can actually reduce aggressiveness in gamers. A 2013 study, for instance, had participants play a game in which they killed zombies to protect other players. Afterward, researchers found, they were slightly less aggressive.
+ 
+
+
+
+
+
+
+(Photo by Cate Gillon/Getty Images)
+In addition to lab experiments, researchers have collected data on real-world gaming and the prevalence of violence. And some studies have found that people who spend more time playing violent games are more likely to engage in violent acts.
+One 2012 study of residents of a juvenile delinquency facility in Pennsylvania, for instance, found that those who played violent games multiple times per week were more likely to have attacked someone or gotten into a fight. Several other studies have come to similar conclusions.
+it's possible that violent people are just more attracted to violent games in the first place
+However, still other studies have failed to turn up any positive link between violent gaming and real-world violence. A three-year study of youth in Texas found no association between those who played violent games and those who engaged in violent acts or expressed extreme aggression in interviews. Instead, the strongest predictors of violence and aggression were exposure to family violence and antisocial personality traits.
+Additionally, even for the studies that do show a correlation between violent games and violent deeds, the finding could easily be phrased in the opposite direction: that violent people are attracted to playing violent games in the first place. "Several longitudinal studies — correlational studies that track people over time — have found exactly that, especially among kids or teens," says Christopher Ferguson, a psychiatrist and lead author of the Texas study.
+ 
+
+
+
+
+
+
+(Photo by Kevork Djansezian/Getty Images)
+Forty years ago, video games were largely nonviolent and relatively rare: you could put a quarter into a Pong machine at an arcade and play for a few minutes, but that was about it. Today, the most popular games are overwhelmingly violent, and people spend an estimated 3 billion hours each week playing them worldwide. For many young people, video games have outstripped TV and movies to become the dominant form of entertainment.
+gun homicides have consistently declined
+If violent games really did make gamers more likely to commit violent acts, you'd expect to see an epidemic of youth violence in countries where gaming is popular. And yet that's the opposite of what we've seen.
+"During the era in which video games soared in both popularity and violence, youth violence in the US decreased to only about 12 percent of what it was two decades ago," Ferguson says. Additionally,  gun homicides have consistently declined and despite heavy media coverage, mass shootings are no more common than they were decades ago. On the whole, American teens are the best-behaved generation on record.
+There also isn't a strong correlation between the countries where people play violent games the most and the countries where shootings most often occur. Shortly after the Newtown shooting, Vox's Max Fisher (then at the Washington Post) compared video game spending per capita with the number of gun-related murders for the world's ten biggest video game markets. As you can see, there's no correlation:
+ 
+
+
+
+
+
+
+(Max Fisher/The Washington Post)
+The fact that we don't see a correlation between video game popularity and violence — either in terms of time or geography — doesn't prove that video games don't cause violence. It's still entirely possible that confounding factors, like the availability of guns, skew things so powerfully that the relationship doesn't show up.
+But the lack of correlation (along with the mixed results in both lab studies and observational research) does suggest that, if video games do provoke violence, their effect is relatively modest compared to other factors. If the US really wants to get serious about reducing its gun violence problem, video games are not a logical place to start.

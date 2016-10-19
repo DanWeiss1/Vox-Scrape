@@ -1,0 +1,36 @@
+Scientists made a huge discovery about the Big Bang in March. Here's why it was probably wrong.
+Back in March 2014, at a press conference at Harvard, physicists announced they'd made one of the most significant scientific discoveries of the 21st century.
+Using BICEP2, a telescope located near the South Pole, they said they'd found evidence of gravitational waves — variations in the strength of gravity throughout space that would serve as crucial evidence for part of the Big Bang theory. Physicists everywhere rejoiced, and many predicted that the work would lead to a Nobel Prize.
+the discovery was probably an error, caused by dust
+Over time, however, some scientists expressed skepticism, saying that the discovery may have been an error — essentially, the result of dust scattered throughout the galaxy.
+Now, a new paper provides evidence that the doubters were probably right. Using data from the Planck satellite, a team of scientists found that more dust is present than previously expected — likely enough to fully account for the signal detected by BICEP2. It doesn't rule out the existence of gravitational waves, but it does mean that, at the moment, the discovery announced in March shouldn't be considered strong evidence for it.
+So what exactly was that discovery — and how did it get thrown into doubt so quickly? Here's a basic primer.
+The Big Bang theory is a model that describes the beginning of the universe. Essentially, it states that about 13.82 billion years ago, all matter that we see around us was contained in a single, extremely dense point. Suddenly, it began expanding faster than the speed of light, eventually growing into the universe we know today.
+But according to the theory, this expansion didn't happen at a uniform rate: a tiny fraction of a second after the Big Bang began, the universe expanded at an exponentially fast rate — growing from smaller than an atom to roughly the size of a golf ball in a particularly pivotal instant — then slowed gradually. This part of the theory is called cosmic inflation.
+
+A timeline of the Big Bang, with cosmic inflation on the far left. NASA
+Some calculations predict that inflation should have led to something called gravitational waves. Basically, the sheer strength of gravity would have varied slightly from one part of the early microscopic universe to another — and as the universe expanded, these variations would have been stretched out, producing fluctuations in gravity on a much larger scale. These gravitational waves are often referred to as ripples in the fabric of spacetime.
+Until recently, we had physical evidence for the Big Bang theory in general, but not cosmic inflation: the main reason we had to believe in it was a series of theoretical calculations, originally made in the late 1970s. 
+But scientists have long been searching for physical evidence, and on March 17, a four person team — made up of John Kovac, Clement Pryke, Jamie Bock and Chao-Lin Kuo — announced they'd found it, in the form of indirect evidence for gravitational waves.
+
+The BICEP2 telescope. Steffen Richter, Harvard University
+Using the BICEP2 telescope in Antarctica (where cold, dry air limits interference from the Earth's atmosphere), the scientists looked at a faint form of light called the Cosmic Microwave Background, which was emitted shortly after the Big Bang and is still permeating through the universe.
+They found a distinct twisting pattern in the light (formally called B-mode polarization). This type of polarization could be caused by the light crossing through gravitational waves as it travelled through the early universe billions of years ago — so the discovery, if accurate, would have triumphantly confirmed the theory of cosmic inflation.
+
+A graphic showing the twisting B-mode polarization detected in the light. BICEP2 Collaboration
+But the polarization also could have been caused by something remarkably mundane: dust. The basic problem is that in looking for the polarization, the researchers were analyzing an extremely faint form of light in a tiny slice of the sky, so any kind of interference — such as dust scattered throughout the galaxy — could throw off the results.
+The researchers tried to account for this dust in making their calculations, but soon after their March announcement, other scientists pointed out that the team may have misread a map that showed the amount of dust present in different regions of the sky. That could have misled them into thinking less dust was present than there actually is — so the polarization they found, rather than being caused by gravitational waves, may have simply been due to extra dust in the galaxy. When they formally published their findings in June, they admitted this was a possibility.
+The new paper provides some evidence that this was the case. In it, data from the European Space Agency's Planck satellite was used to provide a more complete map of dust throughout the sky. Disappointingly, it indicates that the portion of the sky observed to make the March discovery contains more dust than originally assumed — likely enough to create the polarization the scientists observed.
+ 
+
+
+
+
+
+
+The new, complete dust map. The BICEP2 telescope looked at the area surrounded by the black box at right, which shows higher levels of dust than previously assumed. (Planck Collaboration)
+ 
+The new paper isn't the final word in this debate. Currently, its authors and the scientists behind the March discovery are collaborating on an joint assessment of its implications, to be released towards the end of 2014. When combined, the two data sources (BICEP2 and Planck) could theoretically reveal that the polarization signal was evidence of gravitational waves — or, more likely, confirm it was simply the result of dust.
+this isn't the final word in this debate
+But even if it's the latter, it's important to note that it would not disprove the existence of gravitational waves or the broader cosmic inflation theory — any more than digging into the ground and not finding any dinosaur fossils would mean that dinosaurs never existed.
+Instead, it would simply spur scientists to keep looking. One positive aspect of the new Planck data is that it points out areas of the sky with lower levels of dust (shown in blue). Scientists operating the next-generation BICEP3 telescope — to be deployed next to BICEP2 this coming winter — will likely concentrate on this area of the sky in searching for evidence of gravitational waves, and the lower dust levels could make it somewhat easier to find it.

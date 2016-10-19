@@ -1,0 +1,33 @@
+The real reason behind Virgin Galactic's deadly spaceplane crash
+Last October, Virgin Galactic's SpaceShipTwo — a small craft meant to someday take tourists into space — broke apart during a test flight over California, killing co-pilot Michael Alsbury.
+During a hearing Tuesday, the federal National Transportation Safety Board released the results of its investigation and confirmed earlier findings that Alsbury made a crucial error that brought down the craft.
+
+But the investigators also faulted Scaled Composites (the company Virgin contracted to design and test the craft) for a design that allowed a single human error to cause a crash, and a training program that didn't anticipate the possibility of such an error. It's especially disturbing given other experts' previous concerns that Virgin and Scaled have taken a cavalier attitude toward safety — rushing vehicles through test flights without properly training pilots or fully informing them of the risks.
+SpaceShipTwo, being carried by the larger White Knight Two, during a test flight.  (Photo by Mark Greenberg/Virgin Galactic/Getty Images)
+SpaceShipTwo is carried up to an altitude of 50,000 feet by WhiteKnightTwo (the larger multi-engined plane in the photo above), then released. Afterward, it flies under its own power, arcing into space, then cruising back down to Earth.
+As the plane approaches the top of its arc, the co-pilot is supposed to pull a lever to unlock a "feathering" system, the first step in allowing the plane's tail wings to shift upward. Then, just before the top of the arc, the plane's engines shut off, and both the pilot and co-pilot pull another set of levers to shift the tail wings up to 90 degrees. This new configuration slows down the plane as it flies back to Earth.
+An illustration of SpaceShipTwo's flight plan, with the wings "feathering" at its peak.
+(Virgin Galactic)
+Investigators found that Alsbury pulled the initial lever too early: The plane was only traveling at Mach 0.8, rather than Mach 1.4.
+This meant that the craft was still accelerating and flying upward. The resulting force yanked the wings into the up position, even though the second set of levers hadn't been pulled. Since the plane wasn't designed to fly in that configuration while accelerating, the speed placed extreme loads on the body, causing it to break apart.
+
+
+
+All this is an accurate description of why SpaceShipTwo went down. But it's also only the proximate cause of the crash. As the NTSB investigators noted, it could have been prevented by Scaled Composites with increased levels of redundancy — and a greater emphasis on safety overall.
+Investigators speculate that Alsbury pulled the initial lever a little bit early because if he hadn't pulled it by Mach 1.8, the plane's system would have automatically aborted the remainder of the flight, preventing entry into space. Rather than pull it a few seconds too late, he pulled it somewhat prematurely.
+But he wouldn't have done so if he'd known that it could put his life at risk. During interviews, other pilots said they were aware that this was dangerous, but NTSB investigator Catherine Wilson noted that "there was no warning, caution, or limitation in the pilot operating handbook or test card that specified this risk."
+Scaled Composites, meanwhile, says it knew this error could be dangerous, but never considered the possibility that a pilot would make it — and their flight simulator didn't mimic the extreme loads that would occur if he did. They also didn't train wearing flight masks or other gear. The last time this particular danger had been formally discussed, Wilson found, was three years before the accident.
+All this, investigators say, reflects a broader disregard for human factors that can lead to all sorts of failures. It's this environment — rather than Alsbury's error — that's really at the root of the crash.
+ 
+
+
+
+
+
+
+Virgin Founder Richard Branson speaks after the crash. (Josh Edelson/AFP/Getty Images)
+Virgin says it's taking over future design and manufacture of the craft from Scaled, and has added a new mechanism to prevent premature wing shifts. The company will also begin using its own pilots — instead of ones employed by Scaled — for future test flights, which are planned to resume later this year.
+Still, other space experts have previously criticized Virgin — which is in competition with other companies for what could be a lucrative market — for rushing the development process. In October, former Washington Post reporter Joel Glenn Brenner (who's writing a book about SpaceShipOne) speculated that pressure to bring the spacecraft to market as soon as possible may have contributed to the crash.
+The NTSB ultimately placed most of the blame for this accident on Scaled Composites, but Virgin can't afford to be involved in any future disasters if the company wants to make space tourism a reality.
+"Hundreds of people whose only qualification for spaceflight is their ability to purchase a ticket await the opportunity to go into space," said Christopher Hart, chairman of the NTSB. "For such flights to proceed safely, commercial space transportation must continue to evolve and mature."
+Correction: This article previously said the NTSB faulted both Virgin Galactic and Scaled Composites for the accident, and implied that the former company carried out the pilot training program, rather than the latter.

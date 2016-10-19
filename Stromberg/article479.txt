@@ -1,0 +1,29 @@
+Voyager 1 is the first object we've ever sent to interstellar space
+This week, NASA scientists confirmed something that had already been widely suspected: the Voyager 1 probe, nearly 12 billion miles away from Earth, is in interstellar space.
+this was first suspected as early as august 2012, but disputed
+This was first suspected as early as August 2012 and formally announced by NASA scientists in August 2013, although some others disputed it at the time. The problem is that there isn't really a clear boundary between the heliosphere — the region of space filled by our sun's solar wind — and interstellar space. Now, though, the data seems definitive in indicating Voyager has passed into the latter.
+But there's a semantic issue to be aware of: Voyager 1 might be in interstellar space, but it hasn't left the solar system. That's because the beginning of interstellar space is much closer to us than the outer boundary of the solar system, due to the comets and distant objects that orbit far outside the heliosphere.
+But this sort of occasion should allow us to focus on what's actually scientifically significant and exciting about Voyager 1. This is a spacecraft, launched in 1977, that has a computing capability a tiny fraction of your smartphone's and a memory big enough to hold a few thousand words of text. It's now traveled 11.8 billion miles, visited multiple planets, and is still sending back radio signals to its makers here on Earth.
+Voyager 1 is part of a pair. It and Voyager 2 were launched in the fall of 1977 for a groundbreaking mission: a grand tour of the solar system's outer planets, Jupiter, Saturn, Uranus, and Neptune.
+Together, the two crafts completed this mission by 1989, flying by the planets, taking some of the first high-resolution photographs of them and their moons, and making all sorts of interesting discoveries about them.
+
+A timelapse of what Voyager 1 saw as it approached Jupiter in 1979. (NASA/Wikimedia commons)
+The Voyagers told us that Jupiter has rings, that its moon Io has erupting volcanos, that Saturn has extremely high-speed winds, and that Neptune had a dark spot. To date, Voyager 2 is still the only spacecraft to have visited Neptune or Uranus. They've probably told us more about our solar system than any single mission before or since.
+they've told us more about our solar system than any other mission
+After completing this primary mission, both spacecraft were still functional, so NASA assigned them a second objective: exploring the far reaches of our solar system and beyond.
+They've been doing that ever since, dutifully sending back readings on the composition of the outer parts of the heliosphere. Voyager 2 is still active as well — it'll also enter interstellar space in a few years, after taking a slightly longer path than Voyager 1. Together, they're the two farthest human-made objects from Earth in existence.
+Yes, it finally has. But for a few reasons, this has been an area of ongoing dispute among scientists — and in reality, it's more of an arbitrary distinction than anything else.
+
+(NASA/Walt Feimer)
+The main reason is that the boundary between the heliosphere (the region filled with the solar wind, a stream of plasma shot out by the sun) and interstellar space (the vast region filled with a disperse mix of matter called the interstellar medium) is much less neat than it seems in the graphic above.
+the boundary is much less neat than it seems in the graphic above
+The solar wind flows outward at high speeds until it begins interacting with the interstellar medium at what scientists call the termination shock, then slows abruptly. These two materials interact throughout a region called the heliosheath. Then, at the heliopause, the pressure of the interstellar medium exceeds that of the solar wind, pushing back on it and effectively marking the outer edge of the heliosphere, and the beginning of interstellar space.
+But the location of this boundary can move over time, based on the strength of the solar wind and other factors. Instead of thinking of it like the boundary between two states, a better analogy is the spot where the Mississippi River becomes the Gulf of Mexico. They're two distinctly different things, filled with different substances, but the border between them is blurry, and can move around over time.
+This is part of the reason why scientists have gone back and forth on the exact status of Voyager 1 for the past couple of years. But earlier this week, using data collected by Voyager on the density of plasma surrounding it, they firmly concluded that it's entered the interstellar medium. Most now agree that it formally crossed the boundary back in August 2012.
+No. This is a fine, semantic distinction, but it's worth clarifying.
+The boundary of interstellar space is defined by the region dominated by the interstellar medium, instead of the solar wind. But the solar system includes all sorts of extremely far-flung comets and other objects that are well outside the heliosphere.
+We know very little about these comets, which may make up a hypothetical region called the Oort Cloud (its existence is only inferred, and based on some comets that have very long orbits that would take them well outside the heliopause).
+
+(NASA/JPL-Caltech)
+The Oort Cloud is probably extremely far away. Keep in mind that the graphic above is logarithmic. We're one astronomical unit (AU) away from the sun — and the main band of the Oort Cloud is believed to be between 20,000 and 50,000 times farther away.
+As a result, it'll be around 300 years before Voyager 1 even enters the Oort Cloud, and another 30,000 before it fully passes through it. Of course, we won't have any way of knowing when it happens: long before then, around 2035, the craft's small plutonium-powered generators will run out of fuel, preventing it from sending back radio signals to alert us of its whereabouts.

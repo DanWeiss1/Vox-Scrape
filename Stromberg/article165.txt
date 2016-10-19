@@ -1,0 +1,67 @@
+SpaceX just tested its new spacecraft. Elon Musk has big plans for it.
+This morning at 9 am ET, SpaceX tested the abort system of its new Dragon V2 capsule, a spacecraft that will take astronauts to the International Space Station starting in 2017 — and perhaps someday into deep space.
+The Dragon V2's abort system is designed to bring the crew to safety in case something goes wrong with the rocket on the launch pad or on the way up to space, like an ejector seat. Today's test of it (which included a dummy astronaut inside) was a success:
+ 
+
+
+
+
+
+
+(SpaceX)
+The system uses a set of thrusters built into the capsule to lift it up off the top of a stationary base. During the test, these thrusters caused it to fly nearly 5,000 feet up into the air, then parachute safely down into the Atlantic (you can see full video of the test here).
+ 
+
+
+
+
+
+
+(SpaceX)
+The test was brief (less than two minutes from launch to splashdown), but it was the first time we've seen the Dragon V2 fly — and it's a crucial first step in SpaceX's plan to put astronauts into space.
+ 
+
+
+
+
+
+
+The earlier version of the Dragon, shown docking with the International Space Station. (NASA)
+SpaceX is the most well-known of a number of private spaceflight companies that have been founded since 2000. The company tends to get a lot of press for a few different reasons: it's headed by celebrity entrepreneur Elon Musk, it's very good at marketing itself, and it's been remarkably successful in a very short amount of time.
+After its 2002 founding, SpaceX developed a rocket and carried out a number of successful satellite launches. In 2010, it became the first private company to put a spacecraft in orbit and return it to Earth. In 2012, it became the first to dock a spacecraft with the International Space Station, using the earlier, cargo-only version of its Dragon capsule as part of a resupply mission for NASA.
+SpaceX has now carried out six such missions. (Another company, called Orbital Sciences, has also made two successful cargo runs, but its launches were put on hold after the explosion of a rocket in October.) The next step is putting people in space.
+
+
+
+ 
+
+
+
+
+
+
+A rendering of the Dragon V2, which won't need a robotic arm to dock with the space station. (SpaceX)
+If all goes to plan, the Dragon V2 tested today will be one of two spacecrafts that will routinely carry NASA astronauts up to the space station and back starting in 2017.
+Back in 2009, the Obama administration announced a new policy, called Commercial Crew, that would delegate the fairly routine work of ferrying astronauts to low-Earth orbit to private companies, so that NASA could focus on more pioneering work — like sending humans to Mars.
+Plans called for NASA to retire the Space Shuttle in 2011, which left a multi-year gap before private companies would be ready. In the years since, NASA has relied on Russia for human spaceflight, while selecting a pair of companies — SpaceX and Boeing — to develop their own rockets and capsules.
+SpaceX has developed the Dragon V2 for the task, an upgraded version of the capsule it currently uses for cargo. Today's test will be followed by a similar abort test conducted in midair later this year.
+SpaceX tentatively plans to conduct the first orbital test of the capsule — launched by its Falcon 9 rocket — in late 2016, followed by the first crewed flight in 2017. Boeing is on a pretty similar schedule with its CST-100 spacecraft.
+ 
+
+
+
+
+
+
+A rendering of the Dragon landing on Mars. (SpaceX)
+Musk's stated goal for SpaceX is to establish a permanent human colony on Mars — and he thinks it's possible to start sending people there within a decade or so.
+These are wildly ambitious, extremely difficult goals, and Musk's timeline is far more aggressive than NASA's own plans. On the other hand, when Musk founded SpaceX in 2002, most experts were skeptical that the company would ever be able to put a spacecraft in orbit. So it's hard to count Musk out.
+He's also made some incremental progress toward this Mars goal. One important factor for getting to Mars would be driving down the cost of spaceflight, and SpaceX plans to do this by making its components reusable.
+To this end, the company has come extremely close to vertically landing its Falcon 9 rocket on a barge after a launch. Most rockets are simply allowed to break up into pieces after each flight, so landing the Falcon 9 could save millions on each flight.
+
+
+
+The Dragon V2 capsule being tested today will also be more easily reusable than other capsules, in part because it will land vertically on a set of thrusters, rather than splashing down into the ocean.
+Beyond the flights to the space station, SpaceX's plans are vague, but the company has released some details for a potential uncrewed mission to Mars in the early 2020s. In theory, SpaceX would launch this Dragon capsule on a bigger Falcon Heavy rocket (currently in development) to land on Mars, collect a soil sample, and return it to Earth, perhaps as a prelude to human missions.
+This sort of sample return mission is seen as a big priority within NASA, too, because it could allow us to collect direct evidence of ancient life on Mars. But NASA doesn't currently have a mission like this on the books. It's still unclear whether SpaceX will work with NASA for missions beyond Earth's orbit, or will try to forge ahead on its own.
+WATCH: A time lapse of Earth from the International Space Station

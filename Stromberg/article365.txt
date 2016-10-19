@@ -1,0 +1,34 @@
+Good news: Google has a plan to kill those annoying CAPTCHA tests on websites
+Lots of websites force you to decipher a weirdly stretched, nonsensical string of letters and numbers and type them into a box when logging in or making a purchase.
+ 
+
+
+
+
+
+
+(Google)
+This is called CAPTCHA, and it's an attempt to confirm that you're a human, not a computer program. Thankfully, it might soon be a thing of the past.
+Today, Google announced that it's developed a new security interface that allows most users to skip it, taking subtler, more intuitive tests instead.
+The reason: though CAPTCHA was state-of-the-art when it was developed in 1997, lots of automated algorithms have since been developed that can solve CAPTCHA tests. This has led the images shown to users to grow increasingly complex and distorted, which has made it more and more annoying to log in to a website — but ultimately, hasn't been effective at blocking out bots and spam.
+Google's isn't disclosing how exactly its new system works, but it's a continuation of work on previous security protocols that are adaptive — that is, they analyze the user's behavior before interacting with the test and gauge how likely they are to be a bot. According to Wired, they look at factors like your IP address and even your mouse movement speed to judge whether you're likely to be a human or a robot.
+Under the previous system, if it was the former, a user were likely to get an easier, less distorted CAPTCHA in the first place.
+Now, however, if the user seems to be a human, he or she will get a test that isn't a CAPTCHA at all. Instead, the user will simply be asked to select a favorite color, or complete another simple test before checking a box. If the software is suspicious that the user is a bot, he or she would then be prompted to complete a CAPTCHA.
+ 
+
+
+
+
+
+
+(Google)
+On mobile, meanwhile, users will be asked to indicate which pictures match — a test that bots are still pretty bad at, and one that can be completed on a small screen much more easily than a CAPTCHA.
+ 
+
+
+
+
+
+
+(Google)
+Google says that Snapchat, WordPress, and a few other websites have already adopted the new security protocol, and between 60 and 80 percent of users didn't have to take a CAPTCHA test. The system is free to use — and Google's old system is used by a huge number of websites — so if it continues to work well, it's likely that the standard CAPTCHA will slowly disappear from the web.

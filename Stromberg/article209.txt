@@ -1,0 +1,65 @@
+NASA is planning to deflect an asteroid in 2022 — to learn how to protect Earth
+In 2022, NASA plans to send a probe crashing into an asteroid at more than 13,000 miles per hour to deflect it off its course.
+This particular asteroid isn't a threat to us. But NASA is trying to figure out how it might defend Earth from asteroids more generally — in case a big one really does head our way in the future.
+A probe will crash into the asteroid at more than 13,000 miles per hour
+This is all part of a joint mission NASA's planning with the European Space Agency called Asteroid Impact & Deflection Assessment (AIDA). It will start with the launch of a European craft in 2020 to study and map the asteroid first. ESA entered the preliminary design phase of that initial reconnaissance mission earlier this week.
+The goal is to develop the technology and expertise that might be necessary to nudge an asteroid out of its orbit if we ever discovered one heading for Earth. It might sound far-fetched, but the truth is that asteroids are a potentially serious threat — and foresighted missions like this could theoretically be the difference between a closely averted disaster and catastrophe.
+
+In 2020, the European Space Agency plans to launch its Asteroid Impact Mission, or AIM  probe. It'll travel to an asteroid named Didymos, which is orbited by a relatively small (about 550 feet wide) asteroid called Didymoon.
+Over the course of a year or so, AIM will orbit Didymoon, mapping its surface and collecting data on its mass and overall structure. Current plans also call for it to send out a pair of smaller satellites to collect more data, as well as a lander that would touch down on Didymoon itself — becoming just the fourth craft (if Japan's current Hayabusa-2 mission is a success) to make a controlled landing on an asteroid.
+ 
+
+
+
+
+
+
+AIM would collect data on the DART impact. (ESA)
+Then, in 2021, NASA would launch another probe, called the Double Asteroid Redirection Test, or DART. When it arrives in late 2022, the 660-pound probe would crash into Didymoon at a speed of more than 13,000 miles per hour, likely creating a crater and slightly changing the path of the asteroid's orbit. AIM would continue to collect data on Didymoon, providing valuable information on the physics of redirecting asteroids in space.
+ 
+
+
+
+
+
+
+The Didymos binary system. (ESA–Science Office)
+Neither of these asteroids represents any risk to Earth (when they make a relatively close pass to Earth in 2022, they'll still be more than 6.8 million miles away). But scientists chose them for this mission because they're a binary system — a pair of rocks that orbit one another. And that will limit the potential negative side effects.
+This means that if DART alters Didymoon's orbit, the orbit of the larger Didymos will largely compensate for it. Though Didymoon itself will travel in a new orbit, the overall system (i.e., the pair) will continue to orbit the Sun much as it did before. So there's little risk of either asteroid's new path causing it to collide with other asteroids, potentially setting off a chain reaction that could endanger Earth.
+The whole mission is still in the early planning stages, so as with all government-funded space missions, it's not guaranteed to happen. But both probes are relatively cheap: AIM is projected to cost about $194 million and DART $150 million. The mission survived a recent cull of ESA science projects, and right now, it seems likely to proceed.
+
+This won't be the first time a spacecraft was intentionally crashed into a rock in orbit: in 2005, NASA's Deep Impact probe collided with a comet, in order to throw up debris to help scientists better understand its interior.
+But AIDA would be the first time such a collision was conducted solely to help us figure out how to move asteroids around in space. The wealth of data collected by AIM before and after the collision would allow scientists to build improved models of how asteroids respond to such impacts.
+this would be the simplest way to prevent disaster
+This could someday be extremely useful, because if we detected a big asteroid headed for Earth, the simplest way to prevent disaster would be to nudge it slightly it out of our way.
+"The amount of momentum you'd need to transfer to an asteroid to change its trajectory slightly — to prevent a future impact — is really quite small," physicist and former NASA astronaut Ed Lu, who now heads an organization that seeks to protect Earth from asteroids, told me in a recent interview. "It's a couple of millimeters per second. That means you can run into it with a small spacecraft."
+ 
+
+
+
+
+
+
+Trees felled by the asteroid that exploded over Siberia in 1908. (Sovfoto/UIG via Getty Images)
+Even if we do develop the technology to deflect asteroids, that's still not sufficient. We'd also need to spot a dangerous asteroid far enough in advance to launch a mission. And right now, there's no certainty we'll always be able do that.
+Scientists have located more than 90 percent of the huge kilometer-wide or larger near-Earth asteroids capable of causing a global catastrophe, and none of them, thankfully, are on track to hit us. But midsize asteroids hit Earth much more regularly (once every few centuries or so) and can cause significant damage, and we've still only spotted a small percentage of them. One terrifying example is the Tunguska event: a 30- to 60-meter-wide asteroid that exploded over a remote corner of Siberia in 1908, discharging an amount of energy one thousand times greater than the Hiroshima atomic bomb and knocking down some 80 million trees.
+ 
+
+
+
+
+
+
+(NASA Office of Inspector General)
+In 2005, Congress assigned NASA the task of locating 90 percent of all near-Earth asteroids larger than 140 meters wide by 2020, but a report last year determined that we've only found about 10 percent. The report blamed a lack of coordination and organizational structure, not funding problems, for the shortcoming.
+But there's also a hardware issue: the telescopes currently used to spot asteroids are on Earth, but the best way to see smaller ones is to use telescopes in space, because they don't have to deal with interference from the atmosphere and the sun's glare.
+ 
+
+
+
+
+
+
+A rendering of the proposed Sentinel telescope. (B612 Foundation)
+NASA has proposed launching one of these, called NEOCam, and Ed Lu's organization (called the B612 Foundation) is currently raising $450 million for a complementary mission, called Sentinel, that would survey a different area of the sky.
+Read more: Why one former astronaut is trying to save the world from asteroids

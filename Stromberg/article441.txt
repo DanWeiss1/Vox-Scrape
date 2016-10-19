@@ -1,0 +1,12 @@
+Map: How does the Napa earthquake compare to the big one in 1989?
+The earthquake that rattled Napa Valley and other parts of northern California on Sunday measured 6.0 on the magnitude scale. That was strong enough to damage buildings, injure 87 people, and leave thousands without power.
+It was also the biggest quake in the Bay Area since the Loma Prieta earthquake in 1989 that wreaked havoc in Santa Cruz, San Francisco, and Oakland. That one measured 6.9 on the magnitude scale and caused far more destruction — killing 63 people and injuring 3,757.
+So how did the two earthquakes compare in terms of actual shaking on the ground? The map below, put together by UC Davis geologist Dawn Sumner, shows the difference. The 1989 earthquake (on the right) had much more violent shaking throughout the region:
+The 2014 Napa quake (magnitude 6.0) vs the 1989 Loma Prieta quake (magnitude 6.9)
+
+Click to enlarge. Credit: Dawn Sumner, using data from the California Integrated Seismic Network
+It's worth remembering that the scale that geologists use to measure the size of the energy released by an earthquake is logarithmic. That means that a magnitude 6.9 earthquake releases roughly 22 times as much energy as a magnitude 6.0 earthquake.
+That said, the amount of ground shaking that actually occurs depends on a variety of additional factors besides magnitude — the depth at which the earthquake takes place, how far away the quake is, the type of rock and soil in the region, as well as how the seismic waves propagate through the Earth's crust.
+David Perlman of the San Francisco Chronicle has a good rundown of what geologists know so far about the 2014 Napa earthquake. The quake appears to have occurred along the West Napa Fault, a right-lateral strike slip fault. (Strike slip faults are common in California — in an earthquake, the blocks on either side of the fault slip horizontally past each other.)
+By contrast, the 1989 Loma Prieta quake occurred further south — likely on an offshoot of the San Andreas Fault. Here's a rundown from the US Geological Survey of that earthquake, which involved not just horizontal slipping along the fault but also some possible lifting and sinking.
+The AP offers a helpful list of major earthquakes throughout California since 1989. And Roger Pielke Jr. of the University of Colorado ranks the most damaging quakes in the United States over the past century (when adjusted for inflation, population growth, etc., the 1906 earthquake in San Francisco tops the list).

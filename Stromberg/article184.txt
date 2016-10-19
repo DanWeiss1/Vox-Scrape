@@ -1,0 +1,62 @@
+Astronomers just detected light bouncing off an exoplanet. Here's why that's so exciting.
+A team of Portuguese astronomers has detected light bouncing directly off the surface of an exoplanet for the first time.
+Why is this a big deal? Studying the light reflecting from exoplanets can give us clues about the gases present in that planet's atmosphere. That could help researchers identify which planets are habitable and may contain life.
+it could help us identify which planets are habitable — and may contain life
+Until now, we've discovered about 1,900 exoplanets, but we've only seen the vast majority of them indirectly — most often by noticing when they pass in front of their stars, causing a momentary dip in light. In a few cases, we've also detected tiny amounts of starlight passing through planets' atmospheres at the same time.
+This new technique, looking at light reflecting off of planets directly, could open up a much bigger range of distant planets' atmospheres for study in future years — especially if it's employed by the next generation of even bigger telescopes currently under construction.
+"We want to be able to understand the atmospheres of planets far away," Sara Seager, an MIT exoplanet researcher, told me last year, "and if any gases in those atmospheres don't belong — and could be attributable to life."
+The planet studied, 51 Pegasi b (nicknamed Bellerophon), was the first exoplanet to be discovered that orbited a star like our sun, in 1995. It's about 50 light years away from us and is a so-called "hot Jupiter" — because it's the size of Jupiter but orbits its star at an extremely close distance, even closer in than Mercury orbits the sun.
+This huge size and proximity to its star made Bellerophon easier to spot initially — and easier to use in the new discovery now.
+ 
+
+
+
+
+
+
+If a star moves slightly toward or away from us, it causes a detectable shift in the wavelength of its light. (ESO)
+Originally, astronomers discovered Bellerophon by carefully analyzing its star's light. Over the course of a few days, the light would shift very slightly in wavelength: at times, it'd shift toward the blue end of the spectrum, and at others, it'd shift toward the red.
+ 
+
+
+
+
+
+
+A star wobbles slightly due to the gravity of an orbiting planet. (Zhatt)
+The astronomers determined the star was moving in place, ever so slightly, because of a massive planet orbiting it nearby. At certain points in the planet's four-day orbit, its gravity would pull the star very slightly away from us, and at other points it'd tug it closer. This would cause the light to get stretched or compressed on its journey to Earth (due to the Doppler effect), leading to the shift in spectrum.
+This sort of indirect method — called the radial velocity method — is great for initially finding a planet, and it has allowed us to find hundreds of them. But this method can't tell us much else about the planet itself, and certainly can't allow us to search for signs of life on it.
+Here, though, astronomers cleverly used the same method to spot light directly bouncing off the planet, as well. As Bellerophon orbits the star it, too, moves slightly closer to us, then slightly farther away. That means the much smaller quantity of light hitting the planet also gets compressed and stretched on its journey to us.
+Using a European Space Organization telescope in Chile, the astronomers subtracted out the light known to be coming from just the star, and saw a second, much fainter series of peaks and troughs in the wavelength over time. This, they determined, is light that's being released by the star, hitting the planet, and traveling all the way to us.
+ 
+
+
+
+
+
+
+Cyclical shifts in the light coming from the star 51 Pegasi, due to the orbit of Bellerophon. (The Planetary Society)
+This new method, while exciting, is more of a proof of concept than a practical way of learning more about Bellerophon. That's because the telescope the researchers used was relatively small, so it can't collect enough light bouncing off the planet for us to analyze its atmosphere in detail.
+But the technique itself could be a big deal — because it might open up a whole new range of exoplanets for study.
+This isn't the first time astronomers have collected light that's passed through an exoplanet's atmosphere. Another method of doing so is waiting for exoplanets to pass in front of their stars and analyzing the starlight that passes just around the planet's edge, and in doing so, crosses through its atmosphere.
+ 
+
+
+
+
+
+
+When a planet crosses in front of a star, we can see traces of light that travel through its atmosphere. (Seager and Bains, Science 2015)
+The distinction here is that the light collected actually bounced off Bellerophon's surface. Additionally, it was light in the visible spectrum, not infrared, which has previously been used to create images of exoplanets. But, most important, this new method can be used to analyze a much bigger range of exoplanets' atmospheres — since not all planets pass in front of their stars, and some do only on rare occasions.
+The next step is using this same method with a series of much bigger telescopes under construction, such as the James Webb Space Telescope (to be launched in 2018) and the European Extremely Large Telescope (to be completed in Chile in 2024). Because they'll be able to collect so much more light, these telescopes may allow us to infer the gases present in a wide range of planets' atmospheres, including smaller, rockier ones that could more closely resemble Earth.
+ 
+
+
+
+
+
+
+A rendering of the European Extremely Large Telescope, to open in Chile in 2024. (ESO/L. Calçada)
+Other scientists are studying what sorts of gases might theoretically serve as signs of life. For instance, there are some (like oxygen and methane) that are abundantly produced by life but can also be produced by geologic processes. On the other hand, there are some rare gases (like dimethyl sulfide) that are produced only by life forms — as far as we know — but in much smaller quantities.
+Combining these two areas of research might eventually yield evidence of life on a distant planet, hundreds of light years away or more. "With new telescopes coming online within the next five or 10 years, we'll really have a chance to figure out whether we're alone in the universe," Lisa Kaltenegger, a Cornell astronomer, told me last year. "For the first time in human history, we might have the capability to do this."
+

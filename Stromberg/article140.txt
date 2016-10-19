@@ -1,0 +1,38 @@
+Someone did a statistical analysis of New Yorker cartoons, and it's actually pretty depressing
+Recently, in a series of articles, the semi-satirical journal Proceedings of the Natural Institute of Science conducted a thorough statistical analysis of a very important topic: New Yorker cartoons.
+Okay, so the basic idea of analyzing these alternately beloved and mocked cartoons is admittedly a little tongue-in-cheek in the first place.
+But Matt J. Michel and the series' other authors actually looked at real data — they coded every cartoon the magazine published in 2014 — and they came to some pretty depressing findings about the portrayal of nonwhite dudes in one of the country's most liberal magazines.
+ 
+
+
+
+
+
+
+(
+First, Michel analyzed the sex and ethnicity of every cartoon character. Of course, it's not always possible to tell what ethnicity a character is intended to represent in a black-and-white cartoon, but when in doubt, he coded a character as nonwhite, so it's likely he overrepresented the number of minorities in cartoons.
+Nevertheless, in 2014, the New Yorker fully complied with what Michel calls the Law of Media: "in which underrepresentation of minorities and females is the default setting for any given media outlet."
+Out of 1,810 total characters, 1,277 (about 70.6 percent) were male, and 1,714 (94.7 percent) were white. As Michel notes, this is similar to the underrepresentation of nonwhites in newspaper comics (which have about 2 to 4 percent nonwhite characters) and worse than children's books (which have 5 to 10 percent).
+When it comes to the disparity between men and women in these cartoons, the study authors noticed something interesting — though, again, not surprising. The handful of female cartoonists were way, way more likely to draw female characters:
+(Proceedings of the Natural Institute of Science)
+On the whole, female cartoonists drew about 46.9 percent female characters, compared with 26.6 percent for male cartoonists.
+Michel next analyzed the occupations and types of characters represented in every 2014 cartoon, and the number of women or nonwhite characters who filled the roles.  Again, it wasn't possible to always determine exactly what a character was meant to be, so the most common designation was simply "person."
+After that, though, there were some amusing trends that are worth bringing up before we get to the serious stuff. In addition to the usual suspects you'd expect popping up in the top 20 most common characters (like "spouse," "office worker," and "child"), there were some pretty bizarre and utterly New Yorker cartoon-esque roles — like "cave person," "historical stereotype," and member of a "medieval/royal court."
+Note: there are two X-axes. The top portion shows the most frequently occurring characters on a compressed scale.
+(Proceedings of the Natural Institute of Science)
+Again, though, there were some depressing trends to be found when it came to the representation of nonwhite male characters.
+Women disproportionately filled the roles of "parent," "assistant," and "spouse." They were far less likely to be portrayed as "scientists," "literary figures," "coaches," or "police."
+In fact, when it comes to many of these occupations, it's a good bet that New Yorker cartoons are far behind the real-world numbers: about 10 percent of the lawyers in the cartoons were women, whereas about 33 percent of American Bar Association members are in reality.
+ 
+
+
+
+
+
+
+(New Yorker)
+When it comes to movies or TV shows, the need for accurate representation of nonwhite guys is more obvious.
+"Hollywood films reach people all over the globe, and they significantly impact the way that we see women in the world. What we see on the silver screen, ultimately, tells us what to believe about ourselves, and the world around us," Vox's Kelsey McKinney wrote about the Hollywood gender gap.
+
+But the same principle could apply to art as mundane as New Yorker cartoons and children's books. "When whole groups of people appear as stereotypes or not at all, all children lose out," Amy Rothschild recently wrote at FiveThirtyEight in discussing the lack of nonwhite characters in kids' books.
+Children might not read the New Yorker, but adults are impressionable, too. The fact that the default setting for its cartoon characters is white and male — and that when women appear, they're most often wives or mothers — subtly drives home stereotypes in much the same way.

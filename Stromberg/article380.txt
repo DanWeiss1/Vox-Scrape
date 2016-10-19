@@ -1,0 +1,35 @@
+Mars may have been warmer in the past — but probably not warm enough for life
+The surface of Mars, on average, is about -81°F. Mars is really, really cold.
+But mysteriously, Curiosity and other probes we've sent there have found rock formations that seem to have been shaped by flowing water. To some scientists, this suggests that Mars was once much warmer than it is today, raising the exciting possibility that it could have once harbored life.
+a new study indicates that warm periods were as brief as one to ten years
+A new study published today in Nature Geoscience could reconcile this discrepancy — but not in a way that's very promising for hopes of ancient Martian life.
+In it, a pair of scientists modeled the ancient Martian atmosphere, and found that periods of intense volcanic activity could have emitted enough carbon dioxide and sulfur to warm the planet above freezing temperatures. The bad news, however, is that these periods would have been as brief as one to ten years — which would make it extremely unlikely for life to possible evolve.
+As part of the study, geoscientists Itay Halevy of the Weizmann Institute of Sciences in Israel and James Head of Brown University built a new model of Mars' environment from about 3.7 billion years ago, when the planet was still young.
+It was already known from geologic evidence that, during its early days, Mars featured gigantic volcanic explosions. Previous attempts to model how all the carbon dioxide they emitted might have affected the climate, however, didn't indicate this alone would have been sufficient to raise temperatures above freezing.
+ 
+
+
+
+
+
+
+Rounded rocks discovered by Curiosity on Mars (left) look an awful lot like rounded rocks on Earth (right), the product of flowing water. (NASA)
+Based on rounded rocks (which indicate erosion by flowing water), evidence of ancient freshwater lakes, and other findings made by our probes on Mars, however, we believe that temperatures much have been above freezing for at least some of the planet's history.
+As a result, scientists hypothesized other explanations. Perhaps huge amounts of buried rock could have slowly leaked heat-trapping carbon dioxide into the atmosphere, making it thicker and more insulating for an extended period of time. Or maybe a strong magnetic field (which is now diminished) could have reflected cosmic radiation back out to space and protected a much thicker atmosphere, which has since been stripped away.
+Halevy and Head's new model, however, comes to a different conclusion. 
+It's slightly more sophisticated than previous models, taking into account the volcanic gas sulfur dioxide and predicting that it would have interacted with Martian dust to form aerosols suspended in the atmosphere. Though they would reflect some incoming sunlight back out to space, they'd prevent more heat radiating off Mars from escaping, and ultimately, their net effect would have been to warm the planet.
+ 
+
+
+
+
+
+
+Olympus mons, a huge volcano on Mars. (NASA/JPL)
+Soon after each huge explosion, the model predicts, the warmest part of the planet would heat up to just about 32°F for a few months a year. But it'd only stay that way for one to ten years. Then, after the dust settled, even the warmest parts of Mars would drop back down to the subzero temperatures we see today for 1,000 to 10,000 years at a time.
+If the model is accurate, it's bad news for our hopes of finding evidence of ancient life on Mars. These brief periods of relative warmth might be enough to allow for liquid water, but they're not nearly long enough for life to evolve.
+This study also isn't the only reason to be skeptical that Mars was warmer and wetter for extended periods of time. Most recently, an analysis of Martian craters indicated that the atmosphere was rather thin throughout most of the planet's history, allowing relatively small meteorites to penetrate and impact the planet's surface, rather than burn up on the way down.
+brief periods would be enough for liquid water, but not for evolution
+Still, this model certainly doesn't rule out the possibility that Mars could have once been more habitable than it is today. It could be overturned by subsequent, more sophisticated modeling, or by direct contradictory evidence gathered by one of our Martian probes.
+There's also the alternate possibility, suggested by some scientists, that life could evolve below Mars' surface, where geologic activity might provide enough heat even when surface temperatures are far below freezing.
+Currently, though, we have no evidence for this idea — or for the broader hope that life evolved on Mars at all. And findings like this new one are why many scientists are saying that other places, like Jupiter's moon Europa or Saturn's moon Enceladus, might be our best bets for finding extraterrestrial life in our solar system.

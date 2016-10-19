@@ -1,0 +1,82 @@
+Some physicists believe we're living in a giant hologram — and it's not that far-fetched
+ 
+
+
+
+
+
+
+(TU Wien)
+Some physicists actually believe that the universe we live in might be a hologram.
+The idea isn't that the universe is some sort of fake simulation out of The Matrix, but rather that even though we appear to live in a three-dimensional universe, it might only have two dimensions. It's called the holographic principle.
+
+The thinking goes like this: Some distant two-dimensional surface contains all the data needed to fully describe our world — and much like in a hologram, this data is projected to appear in three dimensions. Like the characters on a TV screen, we live on a flat surface that happens to look like it has depth.
+The laws of physics seem to make more sense when written in two dimensions than in three
+It might sound absurd. But if when physicists assume it's true in their calculations, all sorts of big physics problems — such as the nature of black holes and the reconciling of gravity and quantum mechanics — become much simpler to solve. In short, the laws of physics seem to make more sense when written in two dimensions than in three.
+"It's not considered some wild speculation among most theoretical physicists," says Leonard Susskind, the Stanford physicist who first formally defined the idea decades ago. "It's become a working, everyday tool to solve problems in physics."
+But there's an important distinction to be made here. There's no direct evidence that our universe actually is a two-dimensional hologram. These calculations aren't the same as a mathematical proof. Rather, they're intriguing suggestions that our universe could be a hologram. And as of yet, not all physicists believe we have a good way of testing the idea experimentally.
+
+The idea originally came out of a pair of paradoxes concerning black holes.
+1) The black hole information loss problem
+In 1974, Stephen Hawking famously discovered that black holes, contrary to what had long been thought, actually emit slight amounts of radiation over time. Eventually, as this energy bleeds away from the event horizon — the black hole's outer edge — the black hole should completely disappear.
+ 
+
+
+
+
+
+
+An illustration of radiation escaping from a black hole. (Communicate Science)
+However, this idea prompted what's known as the black hole information loss problem. It's long been thought that physical information can't be destroyed: All particles either retain their original form or, if they change, that change impacts other particles, so the first set of particles' original state could be inferred at the end.
+As an analogy, think of a stack of documents that are fed through a shredder. Even though they're cut into tiny pieces, the information present on the pieces of paper still exists. It's been cut into tiny pieces, but it hasn't disappeared, and given enough time, the documents could be reassembled so that you'd know what was written on them originally. In essence, the same thing was thought to be true with particles.
+But there was a problem: If a black hole disappears, then the information present in any object that may have been sucked into it seemingly disappears, too.
+
+One solution, proposed by Susskind and Dutch physicist Gerard 't Hooft in the mid-'90s, was that when an object gets pulled into a black hole, it leaves behind some sort of 2D imprint encoded on the event horizon. Later, when radiation leaves the black hole, it picks up the imprint of this data. In this way, the information isn't really destroyed.
+And their calculations showed that on just the 2D surface of a black hole, you could store enough information to completely describe any seemingly 3D objects inside it.
+"The analogy that both of us independently were thinking about was that of a hologram — a two-dimensional piece of film which can encode all the information in a three-dimensional region of space," Susskind says.
+The entropy problem: There was also the related problem of calculating the amount of entropy in a black hole — that is, the amount of disorder and randomness among its particles. In the '70s, Jacob Bekenstein had calculated that their entropy is capped, and that the cap is proportional to the 2D area of a black hole's event horizon.
+"For ordinary matter systems, the entropy is proportional to the volume, not the area," says Juan Maldacena, an Argentinian physicist involved in studying the holographic principle. Eventually, he and others saw that this, too, pointed to the idea that what looked like a 3D object — a black hole — might be best understood using only two dimensions.
+None of this was proof that black holes were holograms. But early on, Susskind says, physicists recognized that looking at the entire universe as a two-dimensional object that only looks three-dimensional might help solve some deeper problems in theoretical physics. And the math works just as well whether you're talking about a black hole, a planet, or an entire universe.
+In 1998, Maldacena demonstrated that a hypothetical universe could be a hologram. His particular hypothetical universe was in what's called anti-de Sitter space (which, to simplify things, has a curved shape over huge distances, as opposed to our universe, which is believed to be flat):
+ 
+
+
+
+
+
+
+Anti-de Sitter space (left) curves in on itself. Our universe (right) is believed to be flat. (The Physics Mill)
+What's more, by viewing this universe in two dimensions, he found a way to make the increasingly popular idea of string theory — a broad framework in which the basic building blocks of the universe are one-dimensional strings, rather than particles — jibe neatly with the well-established laws of particle physics.
+And even more importantly, by doing so, he united two hugely important, disparate concepts in physics under one theoretical framework. "The holographic principle connected the theory of gravity to theories of particle physics," Maldacena says.
+Combining these two fundamental ideas into a single coherent theory (often called quantum gravity) remains one of the holy grails of physics. So the holographic principle making it possible in this hypothetical universe was a big deal.
+Of course, all of this is still quite different from saying that our actual universe — not this weird hypothetical one — is a hologram.
+That's still a matter of active debate. But there's been some recent theoretical work that suggests the holographic principle might work for our universe too — including a high-profile paper by Austrian and Indian physicists that came out this past May.
+Like Maldacena, they also sought to use the principle to find a similarity between the disparate fields of quantum physics and gravitational theory. In our universe, these two theories typically don't align: They predict different results regarding the behavior of any given particle.
+But in the new paper, the physicists calculated how these theories would predict the degree of entanglement — the bizarre quantum phenomenon in which the states of two tiny particles can become correlated so that a change to one particle can affect the other, even if they're far away. They found that by viewing one particular model of a flat universe as a hologram, they could indeed get the results of both theories to match up.
+Still, even though this was a bit closer to our universe than the one Maldacena had worked with, it was just one particular type of flat space, and their calculations didn't take time into account — just the other three spatial dimensions. What's more, even if this did apply directly to our universe, it'd only show that it's possible it could be a hologram. It wouldn't be hard evidence.
+ 
+
+
+
+
+
+
+Fermilab's Holometer, used in tests that some say could find evidence for the holographic principle. (Fermilab)
+The best type of proof would start with some testable prediction made by holographic theory. Experimental physicists could then gather evidence to see if it matches the prediction. For instance, the theory of the Big Bang predicted that we might find some form of remnant energy emanating throughout the universe as a result of the violent expansion 13.8 billion years ago — and in the 1960s, astronomers found exactly that, in the form of the cosmic microwave background.
+At the moment, there's no universally agreed-upon test that would provide firm evidence for the idea. Still, some physicists believe that the holographic principle predicts there's a limit to how much information spacetime can contain, because our seemingly 3D spacetime is encoded by limited amounts of 2D information. As Fermilab's Craig Hogan recently put it to Motherboard, "The basic effect is that reality has a limited amount of information, like a Netflix movie when Comcast is not giving you enough bandwidth. So things are a little blurry and jittery."
+Hogan and others are using an instrument called a Holomoter to look for this sort of blurriness. It relies on powerful lasers to see whether — at super-small, submicroscopic levels — there's a fundamental limit in the amount of information present in spacetime itself. If there is, they say, it could be evidence that we're living in a hologram.
+Still, other physicists, including Susskind, reject the premise of this experiment and say it can't provide any evidence for the holographic principle.
+ 
+
+
+
+
+
+
+Everyday life in a holographic universe. (Shutterstock.com)
+In one strict sense, it'd mean little. The same laws of physics you've been living with for your entire life would seem to remain exactly the same. Your house, dog, car, and body would keep appearing as three-dimensional objects, just like they always have.
+But in a deeper sense, this discovery would revolutionize our existence on a profound level.
+It doesn't matter much for your day-to-day life that the universe was formed 13.8 billion years in a sudden, violent expansion from a single point of matter. But the discovery of the Big Bang is instrumental for our current understanding of the history of the universe and our place within the cosmos.
+By signing up, you agree to our terms. For more newsletters, check out our newsletters page.
+Likewise, the bizarre principles of quantum mechanics — like entanglement, in which two distant particles somehow affect each other — don't really change your daily life either. You can't see atoms and don't notice them doing this. But these principles are another basic truth that tells us something utterly unexpected about the fundamental nature of the universe.
+Proving the holographic principle would be much the same. Living our normal lives, we probably won't think much about the peculiar, counterintuitive fact that we live in a hologram. But the discovery would serve as an important step toward fully understanding the laws of physics — which dictate every action you've ever taken.

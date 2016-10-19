@@ -1,0 +1,37 @@
+June 13th is Friday the 13th and a full moon. That won't happen again until 2049
+We're not superstitious. But if you are, you might want to know that a full moon is falling on Friday the 13th this week.
+Specifically, the full moon occurs at precisely 12:11 am EDT on Thursday night — i.e., early Friday morning. That means the 13th will coincide with the full moon for residents of the Eastern time zone (as well as South America, Europe, Africa, and Asia), but not the Central, Mountain, or Pacific time zones.
+The next time this happens will be august 13, 2049
+It's pretty rare for these two events to fall on the same day. The last time it happened was October 13, 2000. The next time will be August 13, 2049.
+Of course, there's absolutely no evidence that Friday the 13th is unlucky, or that the full moon changes human behavior.
+To delve deeper into the math behind this phenomenon — and the evidence regarding the (nonexistent) effects of full moons and Friday the 13th — read on.
+
+Karen Bleier/AFP/Getty Images
+The answer is basic arithmetic.
+For a full moon to fall on a Friday the 13th, you need a confluence of three independent conditions — the moon phase (full), the day of the week (Friday), and the day of the month (13th). To get the probability of all three happening, you multiply the probably of each by each other.
+On average, there are 12.37 full moons in a year and 365.25 days in a year (because of leap years). So the odds of any one day being a full moon are 3.39 percent (we're going to do some rounding here).
+This happens, on average, every 20 years or so
+There are seven days in a week, so the odds of any one day being a Friday are 1 in 7, or 14.29 percent.
+There are 12 13th's in a year (each month has exactly one). So the odds of any one day being a 13th is 12/365.25, or 3.29 percent.
+To get the odds of any one day being all three of these things, simply multiply the percentages by each other. The result is .0159 percent. 
+Then, to get the odds of a year having this happen, you multiply by 365.25 — so the odds of a year having a Friday the 13th full moon are just 5.81 percent. That means it happens, on average, every 20 years or so. 
+Of course, this is just an average probability — sometimes it'll happen more often, and sometimes less. To know exactly when the full moon Friday the 13ths fall, you'd need to consult a moon schedule and our Gregorian calendar, which the kind folks at ResearchManiacs.com have done for us.
+Full moon on Friday the 13th:
+
+ResearchManiacs.com
+It's worth mentioning that just having two of the events coincide is much less rare. There's a full moon on any 13th (not necessarily Friday) every three years or so, and in any given year, there are usually between one and three Friday the 13th's.
+You may be reading this post because you believe Friday the 13th is unlucky. We're here to dispel that idea.
+Atul Gawande looked at it for Slate when the full moon fell on Friday the 13th back in 1998. He noted that, at the time, there was just one legitimate study on the topic, and it did find that traffic accidents in a London suburb increase on Friday the 13th.
+His explanation was that this was a random, meaningless finding from one narrow dataset. After all, Friday the 13th is just an artifact of our Gregorian calendar, so there's no known mechanism through which it could cause bad luck.
+there's no known mechanism through which it could cause bad luck
+A more interesting hypothesis is that while Friday the 13th itself doesn't cause bad luck, it does cause people to behave differently out of fear or anxiety, thereby causing things like accidents, which we attribute to "bad luck."
+But there have been more studies of Friday the 13th since Gawande wrote that article — and the data suggests this doesn't happen either. A Finnish study found that female drivers were more likely to get in accidents on the day, but a subsequent study found the correlation disappeared with better data and more controls. A German study similarly found that the number of accidents that occur during hospital operations is pretty much the same on Friday the 13th as on other days.
+A few other studies have looked at the very plausible idea that stock markets might perform more poorly on Friday the 13th — because of investors' superstition — but they found the markets actually do slightly better, on average, than on other days.
+
+Ronaldo Schemidt/AFP/Getty Images
+This idea is a little more plausible than the previous one. Unlike the Gregorian calendar, we evolved with the lunar cycle in place, so it's conceivable it could affect our behavior in ways we don't yet understand.
+But the data, again, says that this isn't true.
+Police departments often anecdotally link a full moon to surges in crime, and individual studies, at times, have shown correlations between the lunar cycle and arrests or mental instability. But they seem to be the result of tiny data sets or misleading analyses.
+More substantive meta-analyses have repeatedly found no link between full moons and any effects of temporary insanity, including violent crime.
+ 
+Update: This article was edited to clarify that which time zones will have the full moon on the 13th.

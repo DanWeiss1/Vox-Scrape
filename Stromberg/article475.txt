@@ -1,0 +1,29 @@
+Double-dipping spreads bacteria. But does it get people sick?
+Among the many polarizing debates in American society, one reigns supreme: double-dipping.
+Many people believe that dipping a chip into a shared bowl of dip, taking a bite, and dipping again — termed "double-dipping" in a 1993 episode of Seinfeld — is an abhorrently unsanitary practice. Others, like George Costanza, think this aversion is unscientific, and there's actually no harm in double-dipping at all.
+
+each instance of double-dipping transfers a few thousand bacteria from the dipper's mouth to the bowl
+The truth is somewhere in the middle. As it happens, there has been a single scientific study conducted on the topic — and it found that each instance of double-dipping does transfer a few thousand bacteria from the dipper's mouth to the bowl.
+But although this sounds terrifying, the study didn't seek to figure out whether these bacteria were harmful — and about 99 percent of bacteria we generally encounter are not. Similar numbers of bacteria are likely spread when we share a drinking glass with someone else, and if they're not sick, it's generally not a huge deal.
+So what's our scientifically-informed recommendation on double-dipping? It might be alright to do among a few close friends, if you're sure you're not sick. In a large social setting, though, it's inconsiderate, even if the risk may be relatively small.
+
+Essdras M Suarez/The Boston Globe via Getty Images
+The study, conducted at Clemson University, involved Wheat Thins being dipped into petri dishes full of several different substances — sterile water, salsa, Hershey's syrup, cheese dip, and water (with its pH adjusted to match each of the food dips). For each, a few different crackers were double-dipped, and the results were compared to control dips, which either had unbitten crackers repeatedly dipped into them, or weren't dipped at all. 
+After each trial, the researchers took a sample from the dip and cultured the bacteria present, then took a sample again after the dip had stood at room temperature for two hours, to see how many bacteria survived that long.
+The results were uniform across dips: double-dipping consistently spread bacteria from mouth to bowl (or in this case, petri dish). There were way more bacteria in the double-dipped samples, compared to both kinds of control samples.
+Here's a graph of the cheese, salsa, and Hershey's syrup trials:
+
+Journal of Food Safety, Dawson et. al.
+The graph is a bit tricky to read, but the main thing is that all all the short bars are the various controls and the tall bars are the double-dips. Taller means more bacteria.
+Initially, the salsa picked up the most bacteria, likely because it's the least viscous, so when you double-dip, there's a higher chance of some salsa coming into contact with the chip but staying in the bowl. But the chocolate and cheese picked up nearly as many, and the salsa's acidity appeared to kill off a bit of bacteria in the intervening time.
+The researchers also converted these numbers (which represent the density of bacteria in the dips) into rough estimates of how many bacteria were transferred with each dip. On average, a sequence of three double-dips (so six dips total) transferred about 10,000 individual bacteria.
+
+Tammy Ljungblad/Kansas City Star/MCT via Getty Images
+That's the real question here, and unfortunately one that isn't really answered by this current study. It found contamination, but noted that "whether the type or amount of contamination is dangerous to a dippers’ health or not is debatable."
+Now, it's certainly interesting that double-dipping conveys any bacteria at all. Paul Dawson, the food scientist that led the study, told he me was "very surprised at the number of bacteria we found were transferred from the subjects' mouths during double dipping."
+you can think of double-dipping as something similar to sharing glasses or utensils
+At the time time, while the idea of thousands of bacteria going from someone's mouth to a bowl of dip certainly sounds disgusting, keep in mind that a square centimeter of your skin is home to about 100,000 bacteria. Thousands of these can also be spread to someone else if you simply shake hands, and we're equipped to deal with about 99 percent of the bacteria in our environment without any harm. 
+You can think of double-dipping as something similar to sharing drinking glasses or utensils. It's rude to do in large social functions, and definitely unacceptable to do if you think you might be sick. But among a few close friends sitting around a bowl of dip, it might not be a huge deal.
+But there's still a remaining question about double-dipping: if you see someone do it, should you avoid dipping yourself?
+"I would avoid that dip," Dawson says. "You don't know if the person doing the double-dipping is carrying a virus or bacteria that could make you sick. People that are carrying a pathogen don't always appear sick themselves."
+Further reading: Science says the five-second rule isn't such a bad idea

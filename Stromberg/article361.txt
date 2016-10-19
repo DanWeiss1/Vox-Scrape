@@ -1,0 +1,54 @@
+A paper by Maggie Simpson and Edna Krabappel was accepted by two scientific journals
+ 
+
+
+
+
+
+
+(20th Century Fox)
+A scientific study by Maggie Simpson, Edna Krabappel, and Kim Jong Fun has been accepted by two journals.
+Of course, none of these fictional characters actually wrote the paper, titled "Fuzzy, Homogeneous Configurations." Rather, it's a nonsensical text, submitted by engineer Alex Smolyanitsky in an effort to expose a pair of scientific journals — the Journal of Computational Intelligence and Electronic Systems and the comic sans-loving Aperito Journal of NanoScience Technology.
+ 
+
+
+
+
+
+
+One journal congratulates the authors on their paper being accepted. (Alex Smolyanitsky)
+These outlets both belong to a world of predatory journals that spam thousands of scientists, offering to publish their work — whatever it is — for a fee, without actually conducting peer review. When Smolyanitsky was contacted by them, he submitted the paper, which has a totally incoherent, science-esque text written by SCIgen, a random text generator. (Example sentence: "we removed a 8-petabyte tape drive from our peer-to-peer cluster to prove provably "fuzzy" symmetries’s influence on the work of Japanese mad scientist Karthik Lakshminarayanan.")
+Then, he thought up the authors, along with a nonexistent affiliation ("Belford University") for them. "I wanted first and foremost to come up with something that gives out the fake immediately," he says. "My only regret is that the second author isn't Ralph Wiggum."
+ 
+
+
+
+
+
+
+The paper, as published in the Aperito Journal of Nanoscience Technology. (Alex Smolyanitsky)
+One journal immediately accepted it, while the other took a month before accepting (perhaps as part of an effort to fake peer review), but has since published it — and now keeps sending Smolyanitsky an invoice for $459.
+The fact that these journals would accept the paper is absurd, and the Simpsons connection is pretty funny. But it's also a troubling sign of a bigger problem in science publishing.
+This is one of many times that low-quality, for-profit online journals have been exposed — either intentionally or by accident.
+Most recently, one journal accepted a paper titled "Get me off Your Fucking Mailing List" that had been created by a pair of computer scientists as a joke to use in replying to unwanted conference invitations.
+ 
+
+
+
+
+
+
+Figure 1 from the paper "Get me off Your Fucking Mailing List." (Mazieres and Kohler)
+In other cases, reporters have intentionally exposed low-quality journals by submitting substandard material to see if it would get published.
+Last April, for instance, a reporter for the Ottawa Citizen named Tom Spears wrote an entirely incoherent paper on soils, cancer treatment, and Mars, and got it accepted by 8 of 18 online, for-profit journals. And last year, reporter John Bohannon and the prestigious journal Science collaborated on a similar stunt, getting a deeply flawed paper about a cancer-fighting lichen accepted by 60 percent of 340 journals. Using IP addresses, Bohannon discovered that the journals that accepted his paper were disproportionately located in India and Nigeria.
+a paper titled "get me off your fucking mailing list" was accepted by one journal
+Earlier this year, I carried out a sting of a predatory book publisher — a company that uses the same basic strategy, but publishes physical books of academic theses and dissertations. When they contacted me offering to publish my undergraduate thesis for no fee, I agreed, so I could write an article about it. They gained the permanent rights to my work — along with the ability to sell copies of it for exorbitant prices online — but failed to notice that I'd stuck in a totally irrelevant sentence in towards the end, highlighting the fact that they publish without proofreading or editing.
+Perhaps most troublingly, in Feburary 2014, a pair of science publishers (Springer and IEEE) retracted more than 120 papers, some of which were pure nonsense (created by the same program used for the Simpsons paper) but had made it into their published conference proceedings. Both these publishers are generally seen as reliable — showing how far the problem of substandard quality control goes.
+ 
+ 
+The existence of these dubious publishers can be traced to the early 2000's, when the first open-access online journals were founded. Instead of printing each issue and making money by selling subscriptions to libraries, these journals were given out for free online, and supported themselves largely through fees paid by the actual researchers submitting work to be published.
+The number of predatory journals has exploded
+The first of these journals were and are legitimate — PLOS ONE, for instance, rejected Bohannon's lichen paper because it failed peer review. But these were soon followed by predatory publishers — largely based abroad — that basically pose as legitimate journals so researchers will pay their processing fees.
+Over the years, the number of these predatory journals has exploded. Jeffrey Beall, a librarian at the University of Colorado, keeps an up-to-date list of them to help researchers avoid being taken in; it currently has 550 publishers and journals on it.
+Still, new ones pop up constantly, and it can be hard for a researcher — or a review board, looking at a resume and deciding whether to grant tenure — to track which journals are bogus. Journals are often judged on their impact factor (a number that rates how often their articles are cited by other journals), and Spears reports that some of these journals are now buying fake impact factors from fake rating companies to seem more legitimate.
+Scientists view this industry as a problem for a few reasons: it reduces trust in science, allows unqualified researchers to build their resumes with fake or unreliable work, and makes research for legitimate scientists more difficult, as they're forced to wade through dozens of worthless papers to find useful ones.

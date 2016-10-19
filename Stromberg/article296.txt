@@ -1,0 +1,35 @@
+This scientist thinks Bill Belichick's explanation for Deflategate is plausible
+After the New England Patriots were found to be playing with under-inflated footballs during the AFC championship, their coach Bill Belichick denied responsibility — and blamed it on a loss of air pressure naturally caused by temperature changes and moisture.
+Initially, some scientists expressed skepticism at this idea, and many observers have speculated the Patriots intentionally deflated their balls to gain an unfair advantage in throwing and holding on to them.
+experiments show footballs can lose pressure in cold, wet conditions
+But more recently, some scientists have started to suggest that Belichick's explanation may be plausible after all.
+Using both calculations and actual experiments, Carnegie Mellon engineering grad student Thomas Healy found that inflating footballs at room temperature and bringing them outside into a moist, 50°F environment could decrease their air pressure by 1.95 pounds per square inch — roughly the amount the balls were found to be under-inflated by officials. His paper hasn't been formally peer-reviewed, but the New York Times reports that a few physicists have reviewed his work, and they say it's solid.
+This certainly doesn't allow us to conclude anything about whether the Patriots cheated or not, and also doesn't fully explain why only their balls — and not the Colts' — were deflated. But as the NFL continues to investigate the matter (reportedly consulting with a Columbia physicist to do so), it's worth considering as a possible explanation.
+ 
+
+
+
+
+
+
+Belichick, on the sideline of the AFC Championship. (Elsa/Getty Images)
+Most of the previous "scientific" evidence — either for or against Belichick's explanation — consisted of scientists casually weighing in on the matter in media reports. Healy is one of the first to rigorously test the idea.
+In his experiments at HeadSmart Labs (a company that analyzes helmets to see how effective they are at preventing concussions), Healy attempted to simulate the AFC championship game as closely as possible. He inflated the footballs to the minimum mandatory pressure (12.5 psi) inside a 75°F room, then took them down to 50°F (the outside temperature on game day), and dampened them (to mimic the game's wet conditions).
+healy found the balls dropped by an average of 1.82 psi
+Then, he checked their pressure again about 2.5 hours later (when halftime would have occurred) — and found they dropped by an average of 1.82 psi, with one ball dropping by 1.95 psi, roughly in line with what the NFL reportedly measured in the Patriots' game balls at halftime.
+Healy also pointed out a few mistakes made by many scientists quoted in the press on the matter. In citing the ideal gas law, some of them failed to take into account that the air pressure inside a 12.5 psi ball is actually twice as high, because the measurement also reflects the surrounding atmosphere pushing back against the ball. When you account for that, the balls can drop by about 1 full psi from the temperature difference alone.
+Additionally, the effect of moisture was often ignored. After the leather absorbed a bit of water, however, it expanded slightly, led to an additional 0.7 psi decrease in air pressure in his experiments.
+ 
+
+
+
+
+
+
+Tom Brady throws a pass during the AFC Championship game. (Jared Wickerham/Getty Images)
+This analysis can't tell us anything definitive about whether the Patriots deflated their balls or not. But it does provide an alternate explanation, one the NFL will likely consider as it investigates the case.
+It doesn't fully account for why the Colts' balls wouldn't be similarly deflated by the cool, wet conditions, but it's possible that they did lose some air — but had more to begin with. If they were inflated to the maximum air pressure (13.5 psi) instead of the minimum (12.5 psi) to start the game, it's conceivable they might have stayed within the allowed bounds by halftime.
+Still, these scenarios — as well as ones involving someone on the Patriots staff intentionally letting some air out of the balls — are all conjecture. The NFL is taking its time with this investigation, and we probably won't find out the league's conclusions until well after the Super Bowl.
+Read More: The New England Patriots' deflated footballs scandal, explained
+WATCH: 'The NFL's concussion crisis explained
+

@@ -1,0 +1,44 @@
+Wikipedia's geography problem: There are more articles about Antarctica than Egypt
+Wikipedia's ambition is simple: to freely share the sum of all human knowledge.
+In many ways, its writers and editors have made remarkable progress toward that goal. But analyzing the 31 million articles that currently make up Wikipedia reveals it has a pretty huge blind spot — the world outside of Europe and North America.
+84 percent of articles are about north america or europe
+Mark Graham, an Oxford geographer, and a few colleagues have analyzed a sample of nearly 4 million Wikipedia articles in 44 languages that describe a subject with a particular geographic location — say, the Battle of Gettysburg, or the Great Wall of China. When the researchers examined the geographic distribution of these articles, they found that Europe and North America are dramatically overrepresented, while Africa, Asia, and South America are hugely underrepresented.
+You might not be shocked to learn this, but there are a few statistics that really drive home how profound the geographic distortion is. 84 percent of all geotagged articles, Graham found, are about places or events in North American or Europe. Meanwhile, there are more Wikipedia articles written about places in Antarctica (which has no permanent human residents) than about any single country in Africa.
+ 
+
+
+
+
+
+
+(Graham et. al. 2014)
+This map shows the huge discrepancy in Wikipedia coverage worldwide. But it might actually undersell it a bit, because the color scale used is logarithmic, collapsing the difference between countries.
+To get a better idea, consider this: Japan has more than 94,000 articles about it, and all of North Africa and the Middle East only have 88,342 combined.
+The discrepancy is even bigger when you consider population, since the underrepresented areas also happen to be among the Earth's most heavily populated. Here's another striking chart from the research:
+ 
+
+
+
+
+
+
+(Graham et. al. 2011)
+Simply put, there are barely any articles about most places besides Europe and North America. Keep in mind that this covers articles in all languages — not just English.
+The research uncovered another geographic problem with Wikipedia — of the few articles written about places in Asia, Africa, and South America, a disproportionate amount are in languages that most local residents don't speak. Wikipedia skews towards English for articles about most countries, including almost all of Africa, the Middle East, and South Asia.
+Here's a map of the language most commonly represented in articles about places or events in each country:
+ 
+
+
+
+
+
+
+(Graham et. al. 2014)
+This basically means that few of the articles being written about these countries are by locals — and the majority of residents can't actually read them, because they're not in the right language.
+Apart from documenting Wikipedia's geographic disparities, Graham's research seeks to explain why they exist. And by looking at a number of different variables and statistically analyzing them, his team highlighted some of the factors that correlate with the number of Wikipedia articles about a country.
+One is pretty straightforward: the country's population. Although (as mentioned) many of the world's most populated areas are underrepresented, on the whole, there are still more articles about countries with more people in them. This makes sense, because at some level, more people mean more places and events that are considered to be worth writing about.
+A related factor is simply the number of Wikipedia edits made from each country. On the whole, people tend to write and edit articles based on places and events in their country, so there's an overall correlation between Wikipedia activity in each nation and the number of articles about it.
+wikipedia's geographic DISPARITIES reflect the world's digital divide
+But if these two factors were the only important ones, it'd mean Wikipedia represented the world pretty perfectly. The reason it doesn't is a third factor: each country's degree of broadband internet access. Wikipedia's geographic disparities are simply a reflection of the world's digital divide.
+People in poorer countries are less likely to have access to computers, smartphones, or the internet. The correlation is so high, in fact, that researchers sometimes use internet and smartphone penetration as a proxy measure of a country's overall development.
+There are some ongoing efforts to fix this, such as Google's Project Loon, which could use high-altitude balloons to bring internet to remote areas in Africa and Asia. If these projects succeed, the presence of internet could help people in these regions in a number of ways. And among the benefits could be the chance for residents to document and learn about important places in their countries in the world's largest encyclopedia.

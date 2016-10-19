@@ -1,0 +1,39 @@
+Is asteroid mining legal? Congress wants to make it so.
+A few different companies have recently announced grand plans to mine asteroids for precious metals and other materials.
+But in addition to all the technological hurdles that would need to be cleared to make this possible, there's an obstacle of a much different sort: the law.
+experts disagree whether international law permits asteroid mining
+The Outer Space Treaty of 1967 — a UN treaty signed by 102 countries, including the US — bans countries from appropriating any astronomical bodies. But there's a dispute over whether this would apply to private companies mining asteroids.
+Congress seems to be arguing that it does not. On Wednesday, a House subcommittee discussed a new law that would explicitly give companies ownership over any materials they extract from an asteroid.
+Still, experts disagree over whether this would be compatible with international law — and whether it'd actually legalize asteroid mining. Here's a breakdown of the issue.
+ 
+
+
+
+
+
+
+Another proposed craft, from Deep Space Industries. (Bryan Versteeg/DSI)
+The Outer Space Treaty of 1967 is the foundation of most current international space law. It's crystal-clear on a few different things: it bars countries from putting nuclear weapons in space, using the moon as a military base, or otherwise claiming ownership over the moon or planets.
+But it's frustratingly vague — and a little self-contradictory — when it comes to asteroid mining. The relevant clause says "Outer space, including the moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means."
+Proponents of asteroid mining argue there are a few loopholes that would permit them to do their thing.
+if mining is technically use, rather than appropriation, it could be legal
+One argument is that the treaty applies to nations, not individuals or companies. However, the treaty also specifies that countries are responsible for ensuring that private individuals and corporations within their borders abide by all the terms of the treaty. The International Institute of Space Law has argued that this means that the US government couldn't allow an American company like Planetary Resources to violate any part of the treaty without violating it itself.
+A more plausible loophole is the fine distinction between "appropriating" a celestial body and "using" it. Another clause of the treaty says "Outer space, including the moon and other celestial bodies, shall be free for exploration and use by all States."
+If mining is technically use and not appropriation, then it could be legal. Some space law scholars have argued this is indeed the case — and that any materials extracted by an asteroid-mining company would only become their property after they removed them. As evidence, they cite precedent: NASA, for instance, claims exclusive ownership of 842 pounds of lunar rock that was collected during the Apollo missions. In doing so, they argue, NASA hasn't appropriated the moon, just what was brought home from it.
+There are a few other arguments why asteroid mining might be legal, but they're more iffy. One is that asteroids, technically, might not be considered "celestial bodies" — some argue that the term refers only to planets, moons, and other objects large enough that they can't be moved from their orbits, but not asteroids.
+ 
+
+
+
+
+
+
+Another proposed asteroid-mining craft, from Planetary Resources. (Planetary Resources)
+These arguments vary somewhat in their plausibility, but all of them are very uncertain. A person or company planning to spend millions of dollars inventing the equipment necessary to mine an asteroid would presumably want better assurance that they'd get to use it. That's where Congress comes in.
+The House Subcommittee on Science, Space, and Technology recently discussed the proposed ASTEROIDS Act (the cute acronym stands for American Space Technology for Exploring Resource Opportunities In Deep Space). The most important line of the proposed bill is "Any resources obtained in outer space from an asteroid are the property of the entity that obtained such resources."
+The language of the bill as a whole, experts say, was written to coexist with the international treaty. It relies on the distinction between "appropriation" and "use" to make asteroid mining legal. Again, there's healthy disagreement over the validity of this distinction.
+a company would want assurance that asteroid mining is legal before investing millions of dollars
+But for all the logic involved in these sorts of arguments, if the bill became law, the real test might be a practical one. Would the UN and other countries actually object to asteroid mining if it began?
+One reason they might is that the current bill only applies to American companies — it doesn't make the same assurances for other nations'. One possible fix, Adam Minter at Bloomberg notes, would be to put a "reciprocal recognition" provision into the act.
+This would compel the US to sign treaties with other countries interested in asteroid mining, and the treaties would specify that each country recognizes the other's property claims in space. There's precedent for this: since the early 80s, the US has followed this sort of protocol when it comes to mining rights on the ocean floor.
+It's very uncertain whether this bill will pass (although it does have some bipartisan support), and if it did, it'd still be years before asteroid mining comes to fruition. But figuring out whether it's legal to mine an asteroid is a crucial step that needs to occur before anyone will actually launch a spacecraft.

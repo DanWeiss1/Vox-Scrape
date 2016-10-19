@@ -1,0 +1,50 @@
+Why new planets always get such boring, terrible names
+Earlier this week, scientists announced the discovery of eight potentially-habitable exoplanets — the latest in a remarkable string of over 1,800 exoplanets we've spotted over the past few decades.
+But there's one major downside to them: they all have utterly dull, unmemorable names.
+The planets found this week, for instance, include Kepler-438b and Kepler-442b. And there are plenty of even worse names out there: KIC 12454613 b, CoRoT-24 c, and OGLE-05-390L b, to name a few.
+The problem was perfectly illustrated this week, when NASA released a set of beautiful, evocative "travel" posters for three exoplanets. They were all marred in the same way: by boring, unwieldy planet names.
+ 
+
+
+
+
+
+
+(NASA/JPL-CalTech)
+So why do planets get such terrible names? The short answer is that, like most other newly-discovered astronomical objects, their names follow set conventions, laid out by the International Astronomical Union (IAU). Most often, they're named after the star they orbit or the telescope that discovered them, followed by numbers and letters.
+This system was designed for scientists trying to keep track of thousands of new planets, but it isn't much fun for the general public. In science fiction, planets have cool names, like Hoth and Arrakis. Why can't we have them too?
+The good news, though, is that in July 2014, the IAU announced that astronomy clubs would be allowed to suggest new, interesting names for a few hundred planets. These clubs had until December 31, 2014 to register, and the names they suggest will go to a public vote in April.
+
+The explosive growth in exoplanet discoveries over time. (NASA)
+The IAU was formed by astronomers in 1919 to serve as the sole official authority of names for astronomical objects, among other roles. At the time, the other planets in our solar system were all already named, and the IAU went on giving most newly discovered objects — such as stars, comets, asteroids, and the like — conventional scientific names without much problem. The main goal was to create unique, standardized names that all scientists could agree on.
+IAU's goal is to create standardized names scientists can agree on
+This only became an issue over the past two decades, when astronomers started discovering things that got the public especially interested: new planets.
+IAU guidelines dictate that planets be named after their star (if it already had an established name), or the telescope that finds them. In the latter case, this often involves a number, indicating the order of the star system's detection by that instrument. And in either case, it's followed with a letter indicating the order of that planet's discovery in its star system (starting with b, then c, then d, and so on). Essentially, planet names are a code, and if you know how to decipher them, they can tell you a lot about that planet's discovery.
+But the surge of planets spotted in recent years — which includes a few potentially habitable ones — has led some non-astronomers to want memorable names, more like Saturn and Venus than OGLE-2013-BLG-0341L b.
+In some cases, this has led to unofficial nicknames. The planet PSR B1620-26 b, for instance, is often called Methuselah because of its extreme age (it's believed to be 12.7 billion years old). 51 Pegasi b, which is in the Pegasus constellation, is sometimes called Bellerophon, after the Greek mythological hero that tamed Pegasus.
+ 
+
+
+
+
+
+
+An artist's rendering of PSR B1620-26b. (NASA and G. Bacon)
+The IAU has generally ignored these nicknames. But in April 2013, the organization got upset when a private company called Uwingu ran an exoplanet naming contest, selling name nominations for $4.99 each and votes for $.99. Thousands of votes were cast. Uwingu claimed that some proceeds went to fund scientific research, but the IAU still didn't take it well, putting out a press release reminding the public that "these campaigns have no bearing on the official naming process."
+But here's the thing: the IAU doesn't actually own space, any more than Uwingu does. Based on precedent, it may be responsible for coordinating the "official" names, but if there's a groundswell of interest in exoplanets with more memorable names, why should the IAU silence it?
+Apparently, the IAU was convinced by this sort of thinking — or at least decided that if popular, unscientific names were going to be coined, it'd rather be in charge of them. In October 2013, the organization put out a statement announcing its intention listen to name suggestions from the public, and announced a detailed voting system in July.
+ 
+
+
+
+
+
+
+An illustration of Kepler-186f, a potentially habitable exoplanet discovered in April. (NASA-Ames/SETI Institute/JPL-CalTech)
+First off: the new names won't replace each planet's existing scientific name. Rather, they'll serve as a complementary name that can be used interchangeably and is officially sanctioned by the IAU. Some astronomical objects already have this sort of scheme in place — the Orion Nebula, for instance, is scientifically known as Messier 42.
+For now, just 305 well-studied planets discovered before 2009 are eligible for new names. This was decided to avoid naming more recently-spotted planets that may not actually exist, and could be revisited once the 305 names are set.
+between april and june, new names will be put to a public vote
+Astronomy clubs and other astronomy-related organizations (such as schools) were able to sign up through a new website for free, and currently, they're supposed to specify 20-30 exoplanets they're interested in naming — though each group will ultimately be allowed to name only one.
+Next month, they can submit specific names, along with arguments for why they're worthy, and between April and July, they'll be put to a public vote.
+There are some rules for the name proposals. They're supposed to be one word that's shorter than 16 characters, pronounceable, and not offensive or similar to an existing astronomical object. Additionally, groups aren't supposed to submit names of living people, pets, anything that's trademarked or commercial, or anything strongly associated with political, military or religious activities.
+The final results will be announced in August 2015. And we can't wait to say goodbye to HD 178911 B b forever.

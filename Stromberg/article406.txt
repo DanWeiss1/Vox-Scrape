@@ -1,0 +1,41 @@
+Scientists found 8 genes that make you more likely to drink coffee
+You probably know that many of your traits are influenced by your genes. Your eye color, hair texture, and even the consistency of your earwax, for instance, are all based on genetics.
+the genes increase the rate at which we metabolize caffeine
+But new research suggests that your genes play a role in determining something quite different: your preference for coffee and other caffeinated drinks.
+In a new study in the journal Molecular Psychiatry, an international group of researchers led by Marilyn Cornelis of Harvard examined the genes of more than 120,000 people and found six different gene variations that are more common among people who regularly drink coffee. Cornelis had previously found two other variations linked to coffee drinking in 2011.
+Why are these genes disproportionately found among coffee drinkers? It seems they increase the rate at which we metabolize caffeine — so people with the genes can tolerate higher caffeine intakes, and need to drink more to get the same effect as other people.
+Here's a closer look at the work.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+The new study was a continuation of the 2011 work that identified genes associated with coffee-drinking for the first time. After finding the two genes that were more common among habitual coffee drinkers, Cornelis and other researchers suspected many more were present.
+But lots of other factors also affected coffee drinking — for instance, whether someone likes the taste of coffee, and whether he or she has enough money to buy it. So to filter out more caffeine-related genes from the noise of all these other factors, the researchers needed a much larger sample size.
+"We pulled together existing data from several different institutes, and accumulated genetic data — as well as information on habitual coffee consumption — for over 120,000 men and women," Cornelis says. The coffee consumption info came from interviews or questionnaires, and the genetic data came from DNA sequencing.
+The first stage in the new study involved analyzing the data for 91,462 people of European ancestry who drank at least a bit of coffee daily. After the researchers identified a number of genetic variations that were more common in the people who drank more coffee, they followed up with a different sample of 38,026 people of either European or African ancestry to see if they were consistent among different ethnic groups.
+each gene is correlated with someone drinking an increased quarter of a cup of coffee per day 
+All told, they found six new single nucleotide polymorphisms (SNPs) — genetic sequences in which a single DNA base-pair is different from that of the majority of humans — that were positively associated with coffee-drinking.
+Each of the eight total SNPs is present in a relatively large amount of people (between about 10 and 40 percent of the overall population), and each is only correlated with a modest increase in coffee drinking — about a quarter of a cup a day. But, as Cornelis points out, "when you add them up, it can accumulate to a significant difference between individuals." 
+In total, the researchers estimate that 7.1 percent of the variation in coffee consumption between people can be explained by these genetic differences. That means that the vast majority of the difference between people's coffee preferences is due to other factors, but that a tangible part is determined by genes.
+For each one of these SNPs that you have, you're likely to drink a bit more coffee per day. And if you have happen to have all eight of them, odds are that you drink a cup or two more daily than someone who has none of them.
+ 
+
+
+
+
+
+
+(madame.furie)
+Six of the eight SNPs identified are known to affect the way your body processes caffeine.
+These SNPs appear to alter your metabolism so that you can process caffeine a little more quickly. If you have them, it means that caffeine stays in your bloodstream — and your brain — for a shorter period of time. As a result, says Cornelis, "individuals who rapidly metabolize caffeine probably tend to consume more coffee in order to acquire the same stimulating effects." 
+In other words, you need more coffee to get the same caffeine jolt, even when controlling for caffeine tolerance. Additionally, you may be comfortable taking in higher levels of caffeine without feeling the negative effects — such as jitteriness and an upset stomach — as sharply.
+if you have some of these genes, you need more caffeine to get the same jolt
+I took a DNA test with 23andMe before the FDA ordered the company to stop interpreting customers' genetic data for health-related purposes, so I was able to find out that I have one of the earlier-discovered SNPs that allow people to process caffeine more quickly. Perhaps not coincidentally, I'm a heavy coffee drinker.
+The roles of the other two SNPs identified in the study are less clear, but they appear to affect the release of serotonin and other neurotransmitters in the brain that are involved in the sensation of pleasure. It's unclear whether they allow caffeine to trigger larger releases of these neurotransmitters (thereby making a caffeine buzz more pleasurable) or actually lead to smaller releases (so that someone with them needs to drink more coffee for the same amount of pleasure). 
+Interestingly, one of these SNPs was previously found to be more common among cigarette smokers, suggesting that tendencies for nicotine and caffeine addiction might be linked.
+Other genes, meanwhile, have been found to be more common among people who like the taste of alcohol and people who can taste extreme bitterness. This sort of research raises an interesting point: when it comes to certain foods and drinks, your preferences could be surprisingly dependent on your genetic inheritance.
+Further reading: Scientists agree: Coffee naps are better than coffee or naps alone

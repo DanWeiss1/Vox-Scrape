@@ -1,0 +1,22 @@
+Map: The world's straightest roads really are in the Midwest
+Very few of the world's roads, it turns out, run in straight lines. But the American Midwest is chock full of them.
+Rory McCann, who works with the German mapping company Geofabrik, analyzed the percentage of roads that curve in every location worldwide:
+(Rory McCann)
+Thanks to John Metcalfe at CityLab for spotting this strangely fascinating map.
+McCann created it by extracting road data from OpenStreetMap and calculating the "bendyness ratio" of each road: the length of the road divided by the length of a straight line running between its starting and ending points. Then he calculated the percentage of roads within each area that had a bendyness ratio close to 1 (indicating a perfectly straight road), and mapped the results, giving more weight to roads that were longer.
+The maps aren't perfect, McCann notes, as OpenStreetMap lacks some road data, especially in developing countries. In some cases, the data also splits curving roads into many short, straight lengths.
+Still, the project came to some pretty interesting conclusions that agree with our experience, at least in the Midwest. The US and Canada, McCann found, have more straight roads than virtually anywhere else in the world — with especially high proportions in the Midwest, the only region worldwide where the majority of roads are straight.
+(Rory McCann)
+This makes sense. In many other countries, roads still run along ancient routes laid out before modern machinery. In the US and Canada, on the other hand, most routes have been plotted more recently — and in the non-mountainous regions where it's possible, planners have generally preferred straight roads. In fact, seven of the world's 10 longest straight roads are in North America.
+In Africa, the Middle East, and India, meanwhile — regions that have seen far less new road construction — almost all are curvy:
+ 
+
+
+
+
+
+
+(Rory McCann)
+Europe is somewhere in between, with a decent percentage of straight roads in Germany, the Netherlands, and a few other areas:
+(Rory McCann)
+Check out McCann's full map to zoom in on other regions worldwide.

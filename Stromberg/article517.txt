@@ -1,0 +1,33 @@
+NASA is about to harvest lettuce on the International Space Station
+Steve Swanson, an astronaut currently aboard the International Space Station, was recently tasked with a new responsibility: caring for a small patch of red romaine lettuce growing in space.
+over the past month, three romaine plants have sprouted and grown successfully
+On May 7, he installed NASA's new Vegetable Production System (nicknamed "VEGGIE"), which had been sent up as part of a resupply SpaceX rocket launched on April 18. Over the past month, three of the six romaine plants in the chamber have sprouted and grown successfully, and Swanson is scheduled to harvest them in one week.
+He and the other astronauts in flight won't be eating these plants — they'll be frozen and sent back to Earth for testing to make sure they're safe. But if all goes as planned, the experiment will lead to subsequent batches of lettuce later this year, which would be the first food NASA has ever grown in space.
+
+The VEGGIE prototype, photographed with test romaine growing at the Kennedy Space Center. NASA/Bryan Onate
+Plants have been growing in space for a while now. The USSR put plant seeds (along with a mannequin and a dog named Chernushka) on one of its early Sputnik spacecrafts, and plants were first germinated in orbit in 1997, when turnip plants sprouted about the old Mir space station. In addition to two existing plant experiments already onboard the space station, astronaut Don Pettit grew a zucchini plant in a plastic bag for fun last year.
+what's new about veggie is that its goal is practical: providing food for astronauts
+What's new about VEGGIE is that its goal is practical: providing food for astronauts. Using lessons learned from the previous experiments about how plants grow in zero gravity, engineers from the private company Orbitec worked with NASA to develop the new foot-wide growth chamber.
+"Getting the environment exactly right for plants to grow in space is a challenge," says Gioia Massa, NASA's lead researcher on the project. The chamber includes bright red and blue LEDs (which are externally cooled to prevent the plants from overheating) and clear, flexible walls to trap humidity inside.
+At the bottom of VEGGIE is a mat — for the plants' roots to take hold in — with six small kevlar-lined plant "pillows" on top of it. Each of the pillows contains seeds, controlled-release fertilizer pellets, and a kitty litter-like clay mixture, designed to allow oxygen and water to reach the plants' roots as they grow.
+
+Swanson poses next to VEGGIE after setting up the experiment. NASA/Koichi Wakata
+As an initial test, NASA picked the "Outredgeous" variety of red romaine lettuce, because it's a relatively hardy, compact, and nutritious plant (and perhaps because it's delicious served with "its sweet crispy heart lightly kissed with a seasoned olive oil.")
+After opening up the pillows, Swanson had to water them to get them to germinate. "Watering is the biggest challenge," Massa says. "You've probably seen videos of water in space: it just forms a ball."
+As a solution, VEGGIE relies on a system in which water is injected directly into the pillows, stimulating germination. Five of the six pillows germinated (Massa's not quite sure why the remaining one didn't), and several had multiple seeds sprout, so Swanson even had to do a little thinning.
+nasa's not taking any chances with food poisoning: instead of being eaten, the plants will be tested
+He's sent photos of the lettuce down to Earth once a week, and it looks like three of the plants have been growing steadily, at rates similar to those in parallel control VEGGIE experiment Massa and others are conducting at NASA's facility in Florida. It's unclear why the other two plants are stunted, but it may be due to getting insufficient water.
+After a little over a month of growth, Swanson is scheduled to harvest the lettuce on June 10. NASA's not taking any chances with food poisoning: instead of eating the plants, he'll freeze them and swab them to sample any bacteria present. The swabs and frozen plants will eventually be tested after they're sent back down to Earth in September, when Swanson and two Russian astronauts aboard the space station are scheduled to come home. 
+If the tests go well, astronauts will germinate extra pillows of romaine seeds that were sent up and add the leafy greens to their diets. In the meantime, as they wait for the test results, they can grow pillows of zinnia flower seeds, sent purely for recreational purposes.
+
+Another shot of the parallel VEGGIE test on Earth. NASA/Gioia Massa
+Over the decades, NASA has optimized packaged space food. But there's only so much you can do with heavily-processed, dehydrated, thermostabilized dishes.
+"The astronauts have a pretty amazing diet, with a lot of different foods, but they don't get fresh vegetables often," Massa says. "When they do get supply shipments up there, they eat all the vegetables right away."
+if we wanted to send people to mars, having them grow their own food would be essential
+If it's successful, VEGGIE could be a relatively easy way of adding nutrition and variety to the space diet. It doesn't hurt that plants consume carbon dioxide and produce oxygen, which could help slightly in recycling the station's atmosphere.
+Currently, there are proposals in the works to grow a variety of different plants inside the chamber, which will stay on the station permanently. Like lettuce, the next ones to be grown will also require minimal processing — things like herbs, greens, tomatoes, radishes, and snap peas, which can just be picked and eaten.
+But there are longer-term motivations for the project as well. If we wanted to send people to more distant space destinations, like Mars, enabling them to grow their own food would be essential.
+"As we go farther and farther from Earth, it costs a lot to take food," Massa says. Currently, it costs about $10,000 to send each pound of food to the space station, a number that will only increase as our spacecrafts travel further.
+For her, the solution is obvious: "Ultimately, if we ever want to live somewhere else, we'll have to learn how we can produce food in those habitats."
+Further reading:
+ 

@@ -1,0 +1,81 @@
+6 things everyone should know about plane crashes
+On Tuesday, Germanwings Flight 4U9525 crashed into the French Alps, killing all 150 people on board. French prosecutors say the co-pilot, Andreas Lubitz, appears to have intentionally crashed the plane.
+This is the latest in a string of highly publicized plane crashes. But the good news is that aviation accidents are still extremely rare, compared with other forms of transportation.
+The number of commercial accidents worldwide (defined here by the Bureau of Aircraft Accidents Archives as crashes that damaged the plane beyond repair) has steadily been declining since around 1980, even as the total amount of air traffic has increased:
+
+<!--
+window.pym || document.write( '<scr' + 'ipt src="http://apps.voxmedia.com/tools/javascripts/vendor/pym-15baa7e3.js"></scr' + 'ipt>' );
+// -->
+<!--
+var Commercial_airline_crashes_per_year = new pym.Parent( "Commercial_airline_crashes_per_year", "http://apps.voxmedia.com/tools/charts-public/?labels=1950%2C1951%2C1952%2C1953%2C1954%2C1955%2C1956%2C1957%2C1958%2C1959%2C1960%2C1961%2C1962%2C1963%2C1964%2C1965%2C1966%2C1967%2C1968%2C1969%2C1970%2C1971%2C1972%2C1973%2C1974%2C1975%2C1976%2C1977%2C1978%2C1979%2C1980%2C1981%2C1982%2C1983%2C1984%2C1985%2C1986%2C1987%2C1988%2C1989%2C1990%2C1991%2C1992%2C1993%2C1994%2C1995%2C1996%2C1997%2C1998%2C1999%2C2000%2C2001%2C2002%2C2003%2C2004%2C2005%2C2006%2C2007%2C2008%2C2009%2C2010%2C2011%2C2012%2C2013%2C2014&datasets=259%2C260%2C255%2C206%2C202%2C180%2C170%2C214%2C211%2C195%2C186%2C210%2C199%2C158%2C218%2C257%2C248%2C309%2C301%2C318%2C289%2C261%2C334%2C313%2C263%2C309%2C268%2C328%2C347%2C328%2C325%2C272%2C248%2C240%2C233%2C261%2C238%2C275%2C251%2C265%2C261%2C239%2C266%2C275%2C231%2C266%2C251%2C232%2C226%2C221%2C196%2C211%2C198%2C201%2C178%2C194%2C193%2C171%2C190%2C162%2C162%2C155%2C155%2C139%2C120&title=Commercial%20airline%20crashes%20per%20year&description=%20&source=Bureau%20of%20Aircraft%20Accidents%20Archives&link=http%3A%2F%2Fwww.baaa-acro.com%2Fgeneral-statistics%2Fcrashs-rate-per-year%2F&type=line&legend=", { xdomain: ".*.voxmedia.com" } );
+// -->
+
+Commercial aviation fatalities have been steadily declining, too, though 2014 saw a slight uptick:
+
+<!--
+window.pym || document.write( '<scr' + 'ipt src="http://apps.voxmedia.com/tools/javascripts/vendor/pym-15baa7e3.js"></scr' + 'ipt>' );
+// -->
+<!--
+var Commercial_airline_fatalities_per_year = new pym.Parent( "Commercial_airline_fatalities_per_year", "http://apps.voxmedia.com/tools/charts-public/?labels=1950%2C1951%2C1952%2C1953%2C1954%2C1955%2C1956%2C1957%2C1958%2C1959%2C1960%2C1961%2C1962%2C1963%2C1964%2C1965%2C1966%2C1967%2C1968%2C1969%2C1970%2C1971%2C1972%2C1973%2C1974%2C1975%2C1976%2C1977%2C1978%2C1979%2C1980%2C1981%2C1982%2C1983%2C1984%2C1985%2C1986%2C1987%2C1988%2C1989%2C1990%2C1991%2C1992%2C1993%2C1994%2C1995%2C1996%2C1997%2C1998%2C1999%2C2000%2C2001%2C2002%2C2003%2C2004%2C2005%2C2006%2C2007%2C2008%2C2009%2C2010%2C2011%2C2012%2C2013%2C2014&datasets=1870%2C1624%2C1805%2C1606%2C1379%2C1222%2C1271%2C1405%2C1670%2C1411%2C1891%2C1693%2C2300%2C1698%2C1608%2C2187%2C2136%2C2229%2C2324%2C2505%2C2261%2C2228%2C3346%2C2815%2C2621%2C1861%2C2420%2C2450%2C2042%2C2513%2C2203%2C1506%2C1957%2C1921%2C1281%2C2969%2C1764%2C2058%2C2307%2C2504%2C1631%2C1964%2C2294%2C1760%2C2018%2C1829%2C2798%2C1769%2C1721%2C1150%2C1586%2C1539%2C1418%2C1233%2C767%2C1463%2C1298%2C981%2C952%2C1108%2C1130%2C828%2C800%2C459%2C1328&title=Commercial%20airline%20fatalities%20per%20year&description=%20&source=Bureau%20of%20Aircraft%20Accidents%20Archives&link=http%3A%2F%2Fwww.baaa-acro.com%2Fgeneral-statistics%2Fdeath-rate-per-year%2F&type=line&legend=", { xdomain: ".*.voxmedia.com" } );
+// -->
+
+ 
+In 2013 (the most recent year for which the IATA has compiled complete data), there was one accident every 2.4 million flights, which carried more than 3 billion passengers. Though 2014's fatality numbers are higher, the actual number of fatal accidents was lower than in recent years — they just happened to large planes, such as flights MH17, AirAsia QZ8501, and MH370. 
+The most important thing to note here is that even 2014's elevated rate of 1,328 deaths per 3 billion or so travelers is extremely low, compared with other forms of transportation. These positive trends are largely due to improved plane design and technology and effective investigation and correction of the factors that cause the crashes that do occur.
+ 
+
+
+
+
+
+
+(Jonathan Alcorn/AFP/Getty Images)
+In 2014, zero people died on scheduled, commercial US flights. But 252 people died traveling on what's called "general" aviation: a category that covers small, privately owned planes. Another eight people died on chartered commercial flights, which are typically smaller planes, as well.
+There are a few different reasons why these small planes crash so much more frequently. They're often flown by amateur pilots, and sometimes land at smaller airports with unpaved runways. The planes themselves are more likely to have defects, and aren't as well maintained. And with surprising frequency, the pilots flying these planes run out of fuel during flight.
+ 
+
+
+
+
+
+
+(Forbes)
+These two regions have way more plane crashes than other regions of the world when you adjust for the number of total flights or passengers, as Forbes notes.
+Africa's elevated accident rate is mostly due to the use of older, poorly maintained planes and substandard runways, pilots with less training, and reduced government enforcement of safety standards.
+Russia's crash rate has surged recently due to an aging fleet of Russian-made jets that are difficult to maintain and find new parts for.
+Though a definitive cause often can't be determined, Boeing estimates that 80 percent of all crashes can be blamed on humans, rather than hardware.
+One of the most common scenarios, the BBC notes, involves pilots crashing into the ground, a mountain, or water — either due to poor visibility, distraction, or a navigation mistake. Hardware malfunctions, however, do cause some accidents, and can compound a pilot's error to lead to a crash. The majority of crashes (whether caused by human or mechanical factors) occur during landing, as Reuters notes:
+ 
+
+
+
+
+
+
+(Reuters)
+Incidents of pilots intentionally crashing their planes — as is believed to have happened to the Germanwings flight — are extremely rare. There are at least eight known instances of this occurring since 1976.
+ 
+
+
+
+
+
+
+(NTSB)
+This chart comes from a government analysis of all US accidents between 1983 and 2000. The majority have high survival rates, with more than 81 percent of the people on board surviving. Most of these involve improper landings — like the Delta flight that skidded off a LaGuardia runway a few weeks ago but came safely to a stop on the ground adjacent to it.
+A handful of accidents, though, killed more than 80 percent of the people on board. These are what we typically think of as "plane crashes": the plane actually drops from the air and hits the ground or water at high speed.
+Meanwhile, experts say there's no strong evidence that sitting near the front or back of the plane makes your odds of surviving a crash higher. Though a Popular Mechanics analysis did find sitting near the back was slightly safer, it relied on a very small sample size of 20 crashes.
+ 
+
+
+
+
+
+
+Car crashes kill at much higher rates than planes. (John Lamparski/Getty Images)
+Comparing flying with other forms of transportation makes one thing clear: flying is much, much safer.
+Over the past 20 years, there have been 1,598 deaths over a total of 1.43 billion miles flown by US carriers. This works out to 1.11 fatalities per 100 million miles traveled by airplanes.
+Meanwhile, car fatality rates in the US have been gradually declining over the past 50 years or so. But in 2013 (the most recent year for which we have complete data), 32,719 people still died in car accidents, which works out to 1.10 deaths for every 100 million miles traveled by cars.
+To directly compare the risk for a given person in deciding which mode of travel to choose, you'd have to convert both of these numbers (1.10 and 1.11 deaths per 100 million miles traveled by cars and planes, respectively) into passenger miles — the total number of miles traveled by all the individual passengers in those vehicles. Unfortunately, the data on passenger miles isn't as readily available (government data only covers miles traveled on highways for cars, and domestic miles for planes). But it's still clear that the risk for flying is much lower than for driving.
+That's because a car typically has no more than five people in it (usually less), and a commercial plane has at least 50 in it (usually more). So even figuring conservatively, your risk of death while driving 100 miles as compared with flying it is at least 10 times higher.
+

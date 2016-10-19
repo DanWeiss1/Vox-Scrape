@@ -1,0 +1,22 @@
+Study: people are better at spotting bullshit when they see it on Twitter
+At times, Twitter users might feel like their feeds are a sea of misinformation and misleading rumors.
+But here's a bit of good news: new research suggests that young people are actually less likely to trust misinformation they got via Twitter, compared to information they read on a normal text interface.
+something about the twitter medium made people more closely scrutinize false information they read
+Something about the medium of Twitter made people — at least the small group of undergrads tested for the study — more closely scrutinize false information they read, compared to others who saw information that came through in short lines of scrolling text that was similar to Twitter, but wasn't labeled as such.
+It's hard to say why exactly this might be the case, or guarantee that it carries over into the real world. But it does suggest that these college students are aware that patently false pieces of information often spread virally on Twitter — and that everything they read on the platform needs to be judged accordingly.
+The new study, conducted by psychologists at Michigan State, involved 107 undergraduates (73 of whom had their own Twitter accounts). The researchers showed them a series of 50 images that told a story of a man robbing a car, then later showed them a timeline of observations about the story, purportedly written by previous experiment participants.
+one-third of the subjects saw timelines that looked pretty much like twitter
+One-third of the students saw timelines that looked pretty much like Twitter (shown on the far left). The photos and usernames of the "previous participants" were blurred out — suggesting they were actual Twitter users — and their statements were written in what the researchers consider to be realistic Twitter language (their full, adorable description: "designed to resemble text found online, it was written with informal language and syntax. Moreover, some lines incorporated hashtags (#) or at signs (@), which are frequently used in tweets.") 
+Another third of the students saw information in the same format, but in more formal language (far right). The final third saw the same information via a "Photo Recap," which just showed the images of "previous participants" next to plain language descriptions that they'd written (middle).
+
+The tweet ticker (left), compared to the Photo Recap (center) and the tweet ticker with normal language (right). Psychonomic Bulletin and Review, Fenn et. al.
+All the feeds mostly showed pieces of information that matched with the earlier photos, but each had a few pieces of misinformation thrown in: in the example above, the car in the photos had actually had a Johns Hopkins sticker, not a Harvard one.
+After seeing 30-40 of these scroll by, the students were tested: they were shown 36 different observations about the car-stealing scene, and had to say how confident they were that each was true, on a scale from 1 to 8. Of these 36 observations, 6 were wrong — they matched with the text, but not the photos themselves.
+As it turned out, the specific language used to convey misinformation (whether hashtag-ridden or proper English) had no effect on students' answers. The only factor that did matter was whether they'd seen the information on the tweet ticker or the photo recap.
+students who saw false facts on the tweet ticker were significantly less confident in them
+Students who saw false facts on the tweet ticker were significantly less confident in them than students who'd seen them on the photo recap. On average, they rated their confidence in these pieces of misinformation at 3.61, compared to 4.24.
+It's not a huge difference, but it was statistically significant given the sample size, and way larger than any other discrepancy in the experiment — such as confidence in the accurate facts, or for entirely novel observations, which hadn't appeared either on the feeds or in the original photos.
+ 
+Psychonomic Bulletin and Review, Fenn et. al.
+It's especially interesting because the students who'd seen the formal language in the Twitter-esque format were showing less confidence in the exact same statements of misinformation — with the exact same photos of previous participants next to them.
+The sheer awareness that they were reading these false observations on Twitter, it seems, made them less likely to buy them — and more likely to call bullshit.

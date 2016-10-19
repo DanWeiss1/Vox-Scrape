@@ -1,0 +1,17 @@
+Scientists created a self-powered camera
+Digital cameras and solar panels have more in common than you might realize. At their core, both convert light into electric current — it's just that a camera does so to measure light's intensity, and a solar panel does it to create usable power.
+A group of Columbia University engineers recently took advantage of this similarity to create something pretty cool: a camera that powers itself.
+The camera, which is made from off-the-shelf parts and will be presented next week at the International Conference on Computational Photography, doesn't take especially sharp pictures. Instead, it's intended as a proof of concept:
+ 
+
+
+
+
+
+
+A short video made from photos taken by the self-powered camera. (Computer Vision Laboratory, Columbia Engineering)
+What makes the camera special is its image sensor. Normally, this component senses the intensity of the light hitting the lens with millions of photodiodes — semiconductors that convert light into electric current, which gets encoded as digital data.
+But in this camera, the photodiodes cycle back and forth between the image-taking mode and an energy-harvesting mode, in which the current instead charges the battery. This means that if the camera is in a bright area, it can continuously take a photo every second, indefinitely, without ever needing an external charge. The scientists claim it's the first camera that's fully self-powered.
+Eventually, this sort of technology could be used in what's called the "Internet of Things": the growing network of ubiquitous wifi-connected devices like smart thermostats, locks, and light bulbs.
+A cheap, small camera that can be left on indefinitely could have all sorts of uses. It could perhaps be part of an array of face-recognizing security cameras, for instance, or a series of cameras that sense when someone's in the room to adjust the heating or lighting accordingly.
+Read more: Everything's connected — how tiny computers could change the way we live

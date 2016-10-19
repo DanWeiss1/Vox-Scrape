@@ -1,0 +1,62 @@
+The Large Hadron Collider is starting back up. Here's what scientists hope to find.
+This weekend, the Large Hadron Collider — the particle accelerator used to discover the Higgs boson in 2012 — is being fired back up after a two-year break.
+The gigantic collider (which includes a 17-mile-long underground tunnel that runs between France and Switzerland) was shut down in February 2013 so engineers could make upgrades. Now, physicists are starting it back up for a new series of experiments intended to push the laws of physics to their limits.
+ 
+
+
+
+
+
+
+A tunnel at the LHC. (Fabrice Coffrini/AFP/Getty Images)
+The LHC, which was completed in 2008 by CERN (the European Organization for Nuclear Research) at a cost of around $9 billion, is the world's largest particle accelerator: an extremely long underground tunnel that allows physicists to conduct some pretty intense experiments.
+In essence, these experiment involve shooting beams of particles around the ring, using enormous magnets to speed them up to 99.9999 percent of the speed of light (causing them to whip around the ring about 11,000 times per second), then crashing them together. Sophisticated sensors capture all sorts of data on the particles that result from these collisions.
+ 
+
+
+
+
+
+
+Data from one of the particle detectors at the LHC. (Fabrice Coffrini/AFP/GettyImages)
+The huge amount of energy present in these collisions leads the particles to break apart and recombine in some pretty exotic ways. And these conditions can reveal flaws in the standard model of physics — currently our best formula for predicting the behavior of all matter.
+Physicists want to do this because, as accurate as the standard model seems to be, it's still incomplete. "It's extremely efficient at making predictions, but we physicists don't really like it," Patrick Koppenburg, a researcher at the LHC, told me for an article last year.
+The biggest problem is that the model doesn't account for the force of gravity (it only describes the other three fundamental forces) or exotic substances such as dark matter and dark energy. It also doesn't mesh well with our theories about the birth of the universe.
+In other words, the standard model is the best description we currently have of how all objects behave, but as Koppenburg says, "it must be wrong somewhere." Forcing particles to behave in unusual ways, as he and others do at the LHC, could help reveal exactly where the model is wrong.
+ 
+
+
+
+
+
+
+A diagram showing the 17 fundamental particles of the standard model, including the Higgs boson. (MissMJ)
+The LHC's biggest finding so far was the July 2012 discovery of an elementary particle called the Higgs boson.
+Since the 1960s, the Higgs boson was thought to exist as a part of the Higgs field: an invisible field that permeates all space and exerts a drag on every particle. This field, physicists theorized, is why we perceive particles to have mass (or, in other words, a resistance to being moved). As physicist Brian Greene put it in an article in Smithsonian:
+Think of a ping-pong ball submerged in water. When you push on the ping-pong ball, it will feel much more massive than it does outside of water. Its interaction with the watery environment has the effect of endowing it with mass. So with particles submerged in the Higgs field.
+On paper, the Higgs field and boson both made a lot of sense — all the equations of the standard model pointed toward their existence. But we had no direct physical evidence of them. "In building the LHC, what we really hoped to do was either find the Higgs, or be able to exclude its existence," Koppenburg said.
+In 2012, after three years of experiments at the LHC, physicists confirmed the Higgs boson does indeed exist. It had been calculated that after being formed during a collision, the Higgs boson would immediately decay into other particles in a specific ratio. Data collected after protons were crashed together showed evidence of these particles in the ratio predicted.
+This is so important because the Higgs field is a keystone of the standard model: it allows the rest of its equations to make a whole lot more sense. And finding it 50 years after it was predicted on paper shows we're on the right track so far in trying to understand the universe.
+ 
+
+
+
+
+
+
+A tunnel in the LHC. (Vladimir Simicek/isifa/Getty Images)
+All the experiments conducted at the LHC so far are part of "run one." This week, after several years of upgrading the LHC's magnets (which speed up and control the flow of particles) and data sensors, it'll begin "run two": a new series of experiments that will involve crashing particles together with nearly twice as much energy as before.
+These more powerful collisions will allow scientists to keep discovering new (and perhaps larger) particles, and also look more closely at the Higgs boson and observe how it behaves under different conditions.
+it'll begin new collisions with nearly twice as much energy as before
+"We're hoping to find things that were not predicted by the standard model," Koppenburg said. "Perhaps particles that are so heavy that they haven't been produced before, or other kinds of deviations." It's possible, for instance, that the Higgs boson is just one of several undiscovered particles that are part of the Higgs family. 
+The right kinds of data, Koppenburg and other physicists hope, will allow us to find new particles and otherwise improve our model, perhaps allowing it to accurately incorporate dark matter, the birth of the universe, and other obscure topics. Someday, this sort of work could even lead to the creation a new, perfect model that fully describes the behavior of all objects in the universe.
+ 
+
+
+
+
+
+
+A design plan for the International Linear Collider, which might be built in Japan. (ILC Comms)
+Yes. Physicists hope to eventually build larger accelerators that would produce collisions with even more energy than the LHC, which might allow them to discover new particles and better understand dark matter. The proposed International Linear Collider, for instance, would be more than 20 miles long, with a pair of accelerators facing each other straight on, rather than the familiar ring design of the LHC and other accelerators. It's still pending, but could be built in Japan, with scientists hoping to have it operational by 2026.
+Once upon a time, it looked like a truly gigantic accelerator would actually be built in the US. In 1989, Congress agreed to spend $6 billion to build the Superconducting Super Collider: a 54-mile-long underground ring in Waxahachie, Texas, that would have produced collisions with five times as much energy as the LHC's. But in 1993, with the costs rising to a projected $11 billion, Congress killed the project — after $2 billion had already been spent on drilling nearly 15 miles of tunnel.

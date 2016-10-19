@@ -1,0 +1,76 @@
+Bill Nye's organization launched a solar sail. It could change space travel.
+Most spacecraft, once launched from the Earth, move around in space with thrusters: small rockets that burn fuel, emit exhaust, and push the craft along.
+On Wednesday, scientists launched a very different kind of spacecraft — the LightSail, which has a large, thin Mylar sail designed to catch sunlight and convert the pressure of solar rays into forward momentum. The launch was a test of whether the sail could successfully unfold and deploy, and it was a success.
+Here's video of the launch:
+If this sort of technology is perfected, it could someday allow us to send spacecraft all over the solar system at much lower costs than we can right now, since it means heavy fuel won't have to be launched into orbit.
+
+The LightSail isn't the first solar sail ever tested — Japan successfully launched one in 2010, which harnessed solar power to accelerate on its way to Venus. But previous solar sail experiments have been thwarted by rocket failures and other problems.
+What also makes the LightSail pretty interesting is that it's not being conducted by NASA or even a private spaceflight corporation. Instead, it's been designed and built by the Planetary Society, a nonprofit space advocacy group headed by Bill Nye, and partly funded on Kickstarter. If the group is successful with this test, it could point toward an entirely new model for space research.
+ 
+
+
+
+
+
+
+Carl Sagan appears on the Tonight show in 1976 to advocate for a solar sail mission. (Courtesy of the Planetary Society)
+The idea of solar sailing goes back a long way. In the 1800s, Scottish scientist James Clerk Maxwell discovered that when light hits an object, it exerts very slight amounts of pressure on it. On Earth, we don't notice the effect at all. In space, however, if you collect enough photons, you can significantly alter the momentum of a spacecraft over time.
+In the 1950s, science fiction authors suggested that you could build a large sail to intentionally catch these photons. Soon after, when space agencies began launching probes to other planets in the 1960s and '70s, engineers had to take this pressure into account when mapping out their trajectories. And when NASA sent the Mariner 10 probe to Mercury in 1974, engineers actually used this principle to lift the craft up to a slightly higher orbit, by configuring its solar panels and antenna so it'd be hit by more sunlight.
+Around the same time, scientists proposed designing crafts that would harness this pressure as a primary source of momentum. "Back in 1976, Carl Sagan went on the Tonight show with Johnny Carson and held up a model of a solar sail," Bill Nye told me in a recent interview.
+
+Sagan was advocating for a plan, first proposed by NASA's Jerome Wright, that would have used a solar sail–propelled craft to rendezvous with Halley's Comet. Ultimately, NASA decided not to pursue it, devoting money to developing the Space Shuttle and other programs instead.
+But in 2001, the Planetary Society — which had been founded by Sagan and Friedman, among others — partnered with Russia on a much smaller solar sail prototype craft, but the rocket it was being launched on failed to reach orbit. The same thing happened again in 2005, and again with a NASA prototype in 2008. Finally, in 2010, a small replacement NASA craft reached orbit, though it wasn't equipped with instruments to send back much data.
+ 
+
+
+
+
+
+
+An illustration of Japan's IKAROS probe in flight. (Andrzej Mirecki)
+That same year, Japan's IKAROS craft was successfully launched. Unlike the other missions — which merely demonstrated that a solar sail could unfurl and collect solar energy in Earth's orbit — IKAROS actually used the energy to accelerate en route to a flyby of Venus. There's still a lot of work to be done, but it was resounding proof that solar sails can help us explore space.
+ 
+
+
+
+
+
+
+A rendering of LightSail opening in space. (The Planetary Society)
+A disproportionate part of the cost of exploring space goes toward lifting spacecraft and their fuel up into Earth's orbit. Reducing the weight of spacecraft can make it much cheaper to launch them — and eliminating the need for fuel can drive down that cost significantly.
+The LightSail being launched tomorrow is a tiny craft (folded up, it's about the size of a loaf of bread) and only cost $5.45 million to build and launch — a figure way lower than any previous NASA mission. This craft will test whether its 32-meter wide sail can successfully deploy in space, and it will be followed up by another LightSail in 2016 that will actually propel itself through space by collecting sunlight.
+If engineers can further develop this technology, it could have all sorts of applications in future years — especially as NASA looks to keep exploring the solar system within a limited budget. "We could use solar sails to push spacecraft to all sorts of distant destinations, for a much lower cost than conventional propulsion," Nye told me. Like wind sails, they can be maneuvered to move crafts in directions perpendicular to or against the direction of sunlight.
+Although solar sails initially propel spacecraft at slower speeds than thrusters, over time the momentum builds up to allow them to travel many times faster. They also have far fewer moving parts than conventional crafts, which could make them more reliable and easier to maintain over time.
+ 
+
+
+
+
+
+
+(The Planetary Society)
+These two qualities could make solar sails particularly well-suited to exploring the Kuiper belt (the band of debris past Neptune that includes Pluto and other dwarf planets), the Oort cloud (an even farther belt that is thought to be the source of comets), and other distant locales. In theory, you could send a craft near the sun, then unfurl the sail, where it would catch a lot of solar radiation to propel it rapidly toward the outside of the solar system.
+Others have suggested that solar sails could be used for controlled descents of defunct satellites (to clean up Earth's orbit of space junk). They might even be useful for interstellar probes, perhaps pushed by the light of a laser, either on board or shot from near Earth.
+It's all a long way off, but basic demonstrations and tests like the LightSail are a necessary start. SpaceX, among other groups, has recognized that driving down the cost of spaceflight is a necessary step toward expanding it — and solar sails might be one strategy for doing so.
+ 
+
+
+
+
+
+
+The low-cost LightSail craft, at launch, is the size of a loaf of bread. (The Planetary Society)
+The other interesting thing about this mission is that it's been entirely funded and carried out by a nonprofit advocacy group.
+For most of space history, only national agencies were capable of activities in space. More recently, private spaceflight — carried out by for-profit companies — has made huge strides. With this launch, we may be looking at the start of a third phase: nonprofit spaceflight.
+To be clear, though the Planetary Society built and designed the LightSail, it's paying United Launch Alliance (a partnership between Boeing and Lockheed Martin) to launch it into space, and next year's LightSail will actually be launched by SpaceX. But the Planetary Society's involvement here could be the start of a bigger trend.
+There's also Copenhagen Suborbitals, a Danish nonprofit that wants to develop open-source human spaceflight and has launched several rockets from ocean platforms. Meanwhile, the Inspiration Mars Foundation and Mars One both have stated plans to send humans to Mars, though at the moment, they're pretty unrealistic.
+ 
+
+
+
+
+
+
+A 2011 rocket launch by Copenhagen Suborbitals. (Copenhagen Suborbitals)
+Still, in an era with dwindling funding for NASA's planetary science program, small-scale experiments like the LightSail could take on more importance. The Planetary Society is supported mostly by member donations, and raised more than 10 percent of the cost of the LightSail on Kickstarter. It built the craft partly with inexpensive, off-the-shelf components, allowing it to keep costs down.
+Though NASA and other countries' space agencies will always be necessary to carry out larger-scale projects, this sort of mission — done on the cheap, and funded entirely by space enthusiasts — could help accelerate space exploration in the future.

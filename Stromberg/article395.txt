@@ -1,0 +1,35 @@
+An unmanned Antares rocket carrying supplies to the space station exploded
+At 6:22 pm on Tuesday evening, the scheduled launch of an Antares rocket — which would have carried cargo up to the International Space Station — ended in failure.
+The unmanned rocket exploded seconds after liftoff from NASA's Wallops Flight Facility in Virginia. No one was injured.
+Here's a video of the explosion:
+
+The 133-foot tall rocket is owned by Orbital Sciences Corporation, one of two companies (the other is SpaceX) that has contracted with NASA to carry out resupply missions to the International Space Station. The company's previous two missions to the space station, both carried out earlier this year, were successful.
+"The ascent stopped," said Orbital Sciences VP Frank Culbertson during a post-launch press conference. "There was some disassembly of the first stage, it looked like, and then it fell to earth." On Wednesday, the company will begin gathering debris from the crash site and analyzing other data to investigate the underlying cause, which is still unknown. 
+ 
+
+
+
+
+
+
+The location of the failed launch, along with the times viewers in nearby areas would have seen the rocket. (Orbital Sciences)
+However, based on the video, astronomer and launch expert Jonathan McDowell suspects that the explosion may have originated within the rocket's first-stage engine. "That suspicion gets stronger when you recall that an identical engine had a test failure earlier this year and exploded, which ended up delaying this launch," McDowell says.
+The engine used in the rocket — the Aerojet AJ-26 — is a refurbished version of a decades-old Soviet engine. "These engines were essentially sitting in plastic bags in Russia for 30 or so years, ever since their lunar program was cancelled," McDowell says.
+Still, the rocket was also equipped with an upgraded version of its second-stage engine for the first time. We can only be certain of the explosion's underlying cause when the results of Orbital's investigation are made public.
+ 
+
+
+
+
+
+
+The AJ-26 engine, a refurbished version of a decades-old Soviet model. (NASA)
+For this particular mission, the Cygnus spacecraft atop the rocket was loaded with 4,883 pounds of cargo, including 1,360 pounds of food, computers, flight crew equipment, and research equipment designed to study the flow of blood to astronauts' brains in the absence of gravity. It was also carrying various student research projects looking at the effects of microgravity on plants and the rates of milk spoilage in space. Culbertson said the total value of the lost rocket and capsule was roughly $200 million.
+The six astronauts currently aboard the space station don't need to worry. "We have plenty of capability to support the crew on board," Michael Suffredini, the manager of the space station program, said during the press conference. Food, water, oxygen, and other basic supplies will last until March, and a separate Russian resupply mission is scheduled to launch tomorrow.
+This launch failure will, however, mean that some science projects will not occur. Because gas canisters needed to operate the space station's airlock were also onboard, it could mean that fewer spacewalks will be possible in the short-term. 
+Additionally, the rocket was carrying a satellite for Planetary Resources, an asteroid mining startup, and 26 micro-satellites for the Planet Labs, a satellite imaging company.
+Here's another video of the explosion, taken a few miles away from the launch site:
+
+SpaceX's next resupply mission, its fifth, is planned to launch in early December. Orbital Sciences has five more missions scheduled over the next few years as part of a $1.9 billion contract with NASA, but will likely put plans on hold until it can determine the exact problem that led to this explosion.
+As the story unfolds and more is learned, NASA's updates can be found here.
+Update: This story has been edited to reflect ongoing developments.

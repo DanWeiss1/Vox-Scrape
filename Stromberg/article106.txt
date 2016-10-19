@@ -1,0 +1,33 @@
+An uncrewed SpaceX flight ended with the rocket exploding mid-air
+Update: The mission ended in failure, with the rocket disintegrating in midair. Read more here.
+Today at around 10:21 am Eastern, SpaceX launched a capsule packed with supplies for the International Space Station — but a few minutes after the launch, the uncrewed rocket disintegrated in midair:
+ 
+
+
+
+
+
+(SpaceX)
+
+
+
+(SpaceX)
+The company had planned to try landing the Falcon 9 rocket on a floating barge in the ocean a few minutes afterward, as part of an effort to reuse the equipment and drive down the cost of spaceflight. It would've been their third attempt, after two near misses earlier this year.
+Normally, rockets are used only once. They're allowed to simply break up into pieces or sink into the ocean after each use, a practice that CEO Elon Musk has famously likened to throwing away a brand new 747 after a single flight to London.
+Controlled landings, though, could allow SpaceX to reuse these multimillion-dollar rocket stages on future flights, which could dramatically drive down the cost of space travel.
+(SpaceX)
+The rocket would have sent a Dragon capsule packed with 4,100 pounds of supplies up to the space station. This was the seventh of 12 resupply missions SpaceX is carrying out for NASA, and the capsule was scheduled to arrive there on Tuesday.
+The Falcon 9 is made up of two parts. The 138-foot-tall first stage burns for the first few minutes of flight, lifting the craft up to an altitude of about 50 miles before separating and falling back to Earth. A smaller, 49-foot-tall second stage burns for another six minutes, carrying the Dragon into orbit before disconnecting and falling back down to Earth, too.
+Normally, both of these parts — as well as the stages that make up other rockets, in general — break up into pieces as they plummet downward after the launch, eventually sinking into the ocean and becoming unusable. But on Sunday, as the first stage fell back to Earth, SpaceX planned to fire its engines in order to stabilize and guide it in for a controlled vertical landing that theoretically will look a lot like this:
+A rendering of the barge landing.
+(Jon Ross)
+The plan was to land it on an autonomous uncrewed barge stationed east of Cape Canaveral. As the rocket descended, steerable fins affixed to its outside would have helped guide it and slow it down. As it nearedthe barge, a set of legs would have unfolded from its bottom, which should have allowed it to land gently upright.
+It might sound straightforward, but this is an extremely difficult, unprecedented maneuver, and Musk only predicted a 50 percent success rate during the previous attempts. Rockets are primarily designed to launch spacecrafts into orbit, which means that they're very tricky to slow down and steer on the way down. Still, the company says it's addressed the mechanical failures that doomed the last two attempts.
+Unfortunately, the launch failure rendered the landing attempt moot.
+
+
+
+One of the factors that makes space travel so expensive that most of the equipment used to put cargo or people in orbit is destroyed after each use. As SpaceX put it in a recent press release, "We don’t throw away an airplane after a one-way trip from LA to New York. Each new plane costs about the same as one of our Falcon 9 rockets, but takes off and lands many times per day and is likely to conduct tens of thousands of flights over its lifetime."
+From the beginning, this company has sought to make spaceflight cheaper with reusable components. Initially, SpaceX tried to use parachutes to slow down rocket stages as they descended. But they broke apart from stress and heat, so in 2011 the company switched to the current powered landing approach.
+Building a new Falcon 9 rocket costs $54 million, but using it to put a payload into orbit takes only about $200,000 of fuel. While it'll cost some money to refurbish, the rocket is still by far the most expensive component of their launch system — and reusing one, instead of building a new one each time, would hugely reduce launch costs.
+As a result, figuring out a way to reuse the rocket could make all sorts of missions — commercial satellite launches, collaborations with NASA, and perhaps even space tourism — cheaper by orders of magnitude, opening up all sorts of new possibilities in spaceflight.

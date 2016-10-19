@@ -1,0 +1,53 @@
+Physicists just made the most precise atomic clock ever
+Physicists have built a new atomic clock that is the most precise ever made. It won't gain or lose a full second for 15 billion years.
+The clock, created by researchers at the National Institute of Standards and Technology (NIST) and the University of Colorado and described in a new paper in Nature Communications, relies on an intricate web of laser beams and thousands of strontium atoms to keep time.
+it won't gain or lose a full second for 15 billion years
+Granted, in 15 billion years the sun will have run out of hydrogen fuel and exploded outward, enveloping the Earth and annihilating any life that might still exist on its surface. So what's the point of creating a clock this precise?
+Past a certain point, super-precise atomic clocks such as this one aren't really about keeping good time for its own sake — they're more useful for allowing scientists to precisely measure the passage of time for more exotic reasons. The flow of time, for instance, can vary slightly based on the strength of gravity, and minute fluctuations in the passage of time could theoretically help us learn about mysterious topics like dark matter and the basic laws of physics.
+Jun Ye, one of the creators of the clock, notes that extremely precise clocks could even allow us to someday detect shifts in spacetime caused by the explosion of distant supernovas. As Ye poetically put it to the Los Angeles Times, "If we can make a clock 1,000 times more accurate, we could hear the symphony of the universe."
+ 
+
+
+
+
+
+
+(NIST)
+Over the centuries, clocks have become more and more accurate by relying on increasingly precise and stable mechanisms to define the length of a second.
+Mechanical clocks used pendulums or springs to measure out seconds, while electric ones relied on the rotation period of a motor or the vibration of a quartz crystal in a circuit.
+Atomic clocks, first built in the 1950s, harness a mechanism that measures out units of time even more consistently: the frequency at which the electrons surrounding an atom jump from one energy level to another.
+ 
+
+
+
+
+
+
+When hit by the right frequency of energy, an electron jumps up to the higher-energy excited state, then falls back down to the ground state. (Ishikawa-Ankerhold et al. 2012)
+In every atom, a nucleus is surrounded by electrons, which orbit it in a series of discrete shells at different distances. By shooting energy at the atom, you can cause some of the electrons to jump out to more distant, higher-energy shells, then fall back down. Based on the particular type of atom, different frequencies of energy (called the natural resonance frequency) are needed to do this.
+ 
+
+
+
+
+
+
+In a cesium fountain clock, cesium atoms are dropped through a cavity and bombarded with microwaves. A probe laser and a detector measure how many have jumped to an excited state and back down, to calibrate the correct frequency of microwaves to define a second. (NIST)
+Because this frequency never changes for a given type of atom, atomic clocks can use it to make sure the durations of their seconds don't change, either. In cesium clocks, for instance — which have served as the NIST's official standard since 1967 — cesium atoms are bombarded by microwaves. When you shoot just the right frequency at them, 9,192,631,770 cycles of the microwaves fit inside the length of time that had previously been defined as a second (which had been based on a specific fraction of the amount of time it takes the Earth to orbit the sun).
+This latest clock uses strontium atoms and laser beams as the energy source, but the basic principle is the same. Thousands of the atoms are trapped in grid of lasers and held as still as possible — and cooled to nearly absolute zero — to minimize the amount of error. Other lasers are fired at the atoms at slightly different frequencies until you arrive at the one that causes their electrons to jump to the next level. One second fits 430 trillion cycles of this frequency.
+Compared with the microwaves fired at cesium, the lasers shot at these strontium atoms have much higher frequencies, allowing for greater consistency. And a series of technical upgrades on this new clock (such as radiation shields that block black-body radiation) mean it's even more consistent: it can determine the right frequency with about three times more precision than the NIST's previous best strontium clock, which was announced in January 2014.
+ 
+
+
+
+
+
+
+Another close-up of the new clock. (JILA/NIST/University of Colorado/PA)
+Neither of these strontium clocks is used as the NIST's official timekeeper. That's because in 1967, the International System of Units officially defined a second as exactly 9,192,631,770 cycles of the microwaves you need to shoot at cesium atoms to cause their electrons to jump to the next level.
+As a result, the NIST's official clock has to use cesium atoms to define its second. Over the years, a series of increasingly accurate cesium clocks have served in this role: a few weeks a year, they're used to recalibrate the length of a second. This data is sent to the International Telecommunication Union, in Europe, to help determine Coordinated Universal Time (UTC), which is used to run all sorts of infrastructure — including satellites, the power grid, and the internet.
+It's conceivable that a second could someday be redefined to allow for the use of strontium clocks like this instead. But that's not really what the researchers behind this clock are after.
+Instead, they imagine that these clocks could be used to precisely measure the flow of time for much more bizarre, fascinating reasons. For instance, as predicted by Einstein, the force of gravity affects the passage of time, due to the way it bends spacetime.
+
+As a result, the new clock's extreme precision means that it defines a second as very slightly shorter when it's placed just two centimeters off the ground — because it's a bit farther away from the gravitational pull coming from the center of the Earth. Someday, this principle could be used to help map the Earth's surface to unprecedented levels of accuracy.
+And other things bend spacetime, too — such as the explosion of distant galaxies (as Jun Ye points out), or perhaps the presence of dark matter. Just as tools that allow us to precisely measure the distances between faraway objects (such as the laser reflectors left on the moon) have helped us better understand the force of gravity, super-precise clocks like these could someday provide new insight into the basic laws of physics.

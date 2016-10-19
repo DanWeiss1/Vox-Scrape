@@ -1,0 +1,25 @@
+Life isn't fair: the people who practice the most aren't the most successful
+Over the past 20 years or so, some psychologists have been arguing for an appealing idea about expertise and success: they're hugely dependent on putting in lots of practice time.
+a new statistical analysis shows success mostly reflects factors other than hours of practice
+This idea is a nice one, because it suggests that successful people earned their expertise, and that many people have a shot at becoming successful if they work hard enough. It gained especially wide attention through a rule it inspired in Malcolm Gladwell's book Outliers: that to become really, really good at something, you have to intensely practice at it for around 10,000 hours, the "10,000-hour rule."
+But this is an area of active dispute among psychologists — and over the years, dozens of studies have collected hard data on the link between practice and top performance in all sorts of fields. A new statistical analysis of 88 of these studies comes to the exact opposite conclusion: success mostly reflects other factors (probably things like innate talent and opportunity) rather than hours and hours of practice.
+In other words: life isn't fair. People who practice the most aren't the best at sports, music, or business — and top-level success depends mostly on factors that have nothing to do with practice time.
+
+Felix Man/Picture Post/Getty Images
+A trio of psychologists led by Brooke Macnamara looked at 88 studies conducted over the past 21 years that considered the correlation between practice time and success in various fields. The studies covered expertise at games like chess and darts, sports like cricket, music skills like piano sight-reading, educational accomplishments like the spelling bee, and professions like medicine.
+just 12 percent of the difference in success between people could be explained by practice
+These studies logged data on practice time and success to calculate how much of the variability between different people's success in their field could be explained by the difference in their lifetime hours of practice — as opposed to innate talent and other factors.
+On average, their models found that just 12 percent of the difference in success between any two people could be explained by practice. In other words, of the enormous difference between the best and worst professional cricketers, or between pianists who can sight-read effortlessly and those who can't, just 12 percent is due to the former practicing more over the course of their lives.
+Practice may be modestly helpful. But this loose correlation isn't what you'd expect if there were really a hard threshold of practice time — such as 10,000 hours — for success.
+Among the studies, the importance of practice number did vary from field to field. But practice didn't explain a majority of the variation in any of them:
+
+Light grey shows the percentage of success in each area that could be explained by practice time. Psychological Science, Macnamara et. al.
+One of the reasons practice was more important in some fields, the researchers found, is because those fields are more predictable. In highly structured competitions like darts, large amounts of practice time can do more to make someone successful. But in professions that have circumstances that can shift rapidly and require people to be adaptable, practice was less directly correlated with top-level success.
+Interestingly, the importance of practice dropped to just 5 percent when the researchers strictly looked at studies that relied on practice time data logged by people as they actually practiced, rather than retrospective studies that simply asked them to remember how much they'd studied. If the log data is more accurate — and the researchers think it probably is — then practice may be even less pivotal than it seems.
+The researchers didn't attempt to figure out what the other important factors were, because the studies they used specifically involved data on practice time and success. They could be things like a person's innate talent, and his or her amount of opportunity, and they probably vary widely between fields too.
+
+Kirill Kurdyavtsev/AFP/GettyImages
+Not at all. There was still a positive correlation between practice time and success in 78 of the 88 studies — meaning that, on the whole, people with more practice time were more successful. Lots of factors go into success, and succeeding in any field certainly requires some minimum amount of practice in it.
+But that might not be anywhere near 10,000 hours — and practice is probably way less important than that "10,000-hour rule" implies. Practice can increase your success a bit in a particular area, but it won't make you a superstar, and the people who practice at their craft the most aren't necessarily the most successful ones.
+(Hat tip to Business Insider.)
+Further reading: Study smarter, learn better: 8 tips from memory researchers.

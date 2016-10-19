@@ -1,0 +1,41 @@
+A Japanese probe is heading to an asteroid — to bring rock samples back to Earth
+Last month, the European Space Agency's Philae lander made history by becoming the first spacecraft to land on a comet.
+On Tuesday, the Japanese space agency JAXA began an even more ambitious mission: it launched Hayabusa 2, a probe that will travel to an asteroid, collect a rock sample, and bring it back to Earth.
+scientists hope the probe will help us learn about the origin of the solar system
+This isn't actually the first such mission JAXA has conducted. In 2010, the original Hayabusa probe successfully returned to Earth after landing on the asteroid 25143 Itokawa and picking up microscopic grains of dust from its surface.
+However, that earlier probe was originally intended to collect a much larger rock sample and other scientific data, but due to a few different malfunctions, that wasn't possible. JAXA scientists are hopeful that the new Hayabusa 2 will collect more data on an asteroid that's actually more scientifically interesting, because it's more likely to contain significant amounts of water and organic molecules.
+ 
+
+
+
+
+
+
+Technicians attach Hayabusa-2 to an H-2A launcher. (JAXA)
+The probe was successfully launched Tuesday evening at 11:22 pm EST, after a few delays due to weather problems.
+In terms of hardware, it's a slight upgrade on its predecessor, and will also use a set of four ion engines to travel towards the tiny asteroid 1999 JU3. The asteroid, which is roughly a kilometer wide, orbits the Sun just a bit farther out than Earth, but closer in than Mars.
+ 
+
+
+
+
+
+
+The orbits of both asteroids, along with Earth and Mars. (NASA)
+Hayabusa-2 is projected to arrive at the asteroid in the summer of 2018, remain there for a year and a half, then arrive back on Earth towards the end of 2020. Unlike the previous probe, it'll deploy a small explosive device while landing on the asteroid, and by filming the explosion and collecting some of the debris that result from it, scientists hope to learn more about the asteroid's interior.
+Additionally, the original Hayabusa was equipped with a secondary mini-lander, which would have hopped across the asteroid's surface and taken  more photos of it. However, due to communication problems, it failed to deploy upon landing. Hayabusa-2 will carry an identical lander, along with more sophisticated cameras and a spectrometer that will hopefully collect additional data on the asteroid.
+ 
+
+
+
+
+
+
+(JAXA)
+One of the main reasons for sending a probe to an asteroid is similar to the motivation for the Philae mission: by learning about the composition of these celestial bodies, we can learn more about the formation of the solar system 4.5 billion years ago, and perhaps even about how life originally formed on Earth.
+That's because most asteroids and comets formed shortly after the birth of the Solar System, when other debris gradually coalesced to form the planets. And some scientists hypothesize that these objects actually brought water to Earth as part of collisions sometime after this period, making life possible (there are also other hypotheses, such as the idea that water gradually leaked out of hydrous minerals in rocks). By sending probes to asteroids and comets to sample them, we can get clues about whether this idea is correct.
+some scientists hypothesize that asteroids and comets originally brought water to earth
+The new Hayabusa probe will be visiting a C-type asteroid, a type of asteroid that's more likely to contain substantial amounts of water ice and organic materials than the S-type asteroid visited by Hayabusa 1. If it can successfully collect and return larger samples of rock and ice, scientists will be able to chemically analyze them — for instance, looking at the chirality of the organics, or the ratio of different isotopes in the ice, and seeing if they match those on Earth.
+Doing this sort of analysis on meteorites that have crashed into Earth is less valuable, since it's impossible to tell whether they've been contaminated by substances in our own atmosphere on the way down. Additionally, this analysis wasn't possible with the first Hayabusa probe, because its malfunctions meant it only ended up bringing back microscopic grains of dust that got sucked into its collection mechanism, and they didn't include any ice.
+But carrying out this analysis on a larger sample from the new Hayabusa 2 probe, which scientists believe is more likely to include water ice, carbon-based molecules, and perhaps even amino acids, could tell us a lot — namely, whether this sort of asteroid, millions of miles away, may have been crucial in seeding life on Earth billions of years ago.
+Update: This post has been edited to reflect the probe's successful launch.

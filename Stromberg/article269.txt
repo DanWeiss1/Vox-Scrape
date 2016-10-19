@@ -1,0 +1,66 @@
+Stephen Hawking's research is more accessible than you think. Here's a guide.
+Eddie Redmayne won the Oscar for Best Actor for his portrayal of Stephen Hawking in The Theory of Everything — a film that tells the story of Hawking's personal life, his turbulent marriage, and his battle with ALS.
+But as some critics have pointed out, the film is pretty light on Hawking's actual science.
+This isn't a huge surprise. Even though Hawking is probably the most famous living scientist, his field — theoretical physics — is incredibly abstract and has little impact on our daily lives. "His research tells us about the profound nature of gravity, but it is intensely impractical," says Matthew Francis, a physicist and science writer.
+Still, this impractical work is fascinating, and not nearly as inaccessible as you might think. Here, with a bit of help from a pair of scientists, is a explanation of Hawking's biggest contributions to physics — in basic English.
+There are two types of physicists. Experimental physicists conduct real-world experiments that test predictions and theories (like the scientists working at the Large Hadron Collider, which was used to discover the Higgs Boson).
+Then there are theoretical physicists — the researchers who come up with the predictions and theories that need testing. They do this with math, building off the models created by other physicists in an attempt to more fully understand the physical world.
+theoretical physicists come up with predictions and theories that need testing
+Currently, physicists have largely boiled down the behavior of all objects so they can be described as the result of four fundamental forces: gravity, electromagnetism, the strong nuclear force, and the weak nuclear force. Everything that happens is the result of these forces.
+The latter three forces can be described in terms of quantum mechanics (rules that govern the behavior of tiny particles at small scales), but at the moment, gravity can't. One of the "holy grails" of physics is to combine quantum mechanics and the force of gravity in a comprehensible manner.
+"Hawking's biggest contributions have to do with the structure of gravity," Francis says. "Specifically, they've looked at how that structure needs to be modified when you include quantum physics."
+ 
+
+
+
+
+
+
+An artist's depiction of a black hole. (NASA/JPL-Caltech)
+One way to better understand the nature of gravity is to look at the places where it's strongest. That's where black holes come in.
+Black holes occur when a massive star runs out of fuel — so it can no longer burn — and it collapses in on itself. Due to the extreme strength of its gravity, nothing can escape from it, not even light. This much was known before Hawking got involved.
+But in the 1970s, Hawking and another physicist named Roger Penrose calculated that black holes are also instances of something especially weird called singularities — places where the strength of gravity effectively becomes infinite. 
+hawking and penrose calculated that black holes are singularities
+Another way of thinking of a singularity, says Peter Bokulich, a Boston University philosopher who studies astrophysics, is as "a tear in spacetime, or the edge of spacetime." If you were in a rocket and reached the singularity at the center of a black hole, you wouldn't be able to go any farther. No more spacetime. (You'd also be ripped limb from limb by the force of gravity, but that's a different matter.)
+Hawking and Penrose also demonstrated that if you went back to the Big Bang, you'd hit the same sort of singularity. "That means if you go back 13.8 billion years, you come to the very beginning of time," Bokulich says. "Time doesn't extend past that. Before that, there is no such thing as time or space." 
+Hawking's biggest contribution to physics also concerns black holes. It was thought that they sucked in absolutely everything — every trace of light and heat. But Hawking calculated that black holes actually do emit slight amounts of thermal radiation. In other words, black holes have a temperature — a very low one, but not quite absolute zero, as was previously thought.
+"This was totally shocking to pretty much everyone," Bokulich says. "And this is what Hawking is really immortalized for. Two hundred years from now, this discovery will mean there are still footnotes about him in physics textbooks."
+ 
+
+
+
+
+
+
+An artist's depiction of Hawking radiation being emitted from a black hole. (NASA)
+Working with the physicists James Bardeen and Brandon Carter, Hawking made a number of other, related findings about black holes. One important one was that, apart from the volume lost by radiation given off, the content contained within a black hole can only increase, not decrease.
+One reason these discoveries were so important were that they made it seem possible to unify our understanding of gravity with quantum mechanics. The same way virtually all other objects obey the laws of thermodynamics, it seemed that black holes obeyed their own laws of thermodynamics that were roughly parallel.
+To some physicists, this hinted at an important underlying correspondence between black holes and other objects that could someday help us untangle the relationship between gravity and quantum mechanics. Despite some optimism, however, that still hasn't happened yet.
+Yes — this black hole research actually got Hawking and other physicists embroiled in an interesting dispute.
+The fact that black holes emit slight amounts of heat, Hawking realized, meant that the ones that aren't growing are dying — albeit very slowly. "If a black hole keeps emitting radiation for an extremely long time, it'll eventually go poof — no more black hole," Bokulich says.
+This led to a conundrum called the black hole information loss problem. Previously, it was thought that physical information couldn't be destroyed. All particles in existence, in other words, either retained their original form, or if they changed, that change impacted other particles, so that the first set of particles' original state could be inferred at the end. For every piece of physical information that went into a system, a corresponding piece of physical information came out.
+hawking and kip thorne argued that black holes destroy physical information
+It's a weird idea, but you can think of it this way: if you take a stack of documents and shred them, the information present on the pieces of paper still exists. It's been cut into tiny pieces, but it hasn't disappeared, and given enough time, the documents could be re-assembled so that you'd know what was written on them originally. In essence, the same thing was thought to be true with particles.
+The idea of black holes disappearing, however, threatened this idea. Because if particles get sucked into a black hole, and then the black hole vanishes after billions of years, the information present in those particles has vanished too. "Afterward, you don't know whether it was electrons, or protons, or dark matter particles you dropped into the black hole," Francis says.
+So after Hawking's discovery that black holes could eventually disappear, there was dispute among physicists about how to resolve this issue. In 1997, Hawking and a physicist named Kip Thorne made a famous bet against another physicist named John Preskill. Hawking and Thorne argued that information really was getting destroyed, and Preskill argued that it wasn't, and our understanding of black holes was somehow flawed.
+In 2004, Hawking admitted he was wrong, and posited that black holes somehow leak information about the particles they swallow. The wager had been the winner's encyclopedia of his choice, so to settle the bet, Hawking gave Preskill Total Baseball, The Ultimate Baseball Encyclopedia.
+ 
+
+
+
+
+
+
+(Bantam Books)
+Yes. Even though these discoveries are hugely significant in physics, there are other physicists who've done work of similar magnitude, and none are household names.
+Moreover, even within physics, Hawking's work is as abstract as it comes — so abstract that most of it can never be experimentally tested. "This is all really esoteric stuff. It's not stuff you learn in introductory physics," Francis says.
+So why is Hawking so famous? Francis says there are a few aspects of his story that make it especially compelling.
+other physicists have done work of similar magnitude, and none are household names
+One is his battle with ALS. The average life expectancy of someone diagnosed with ALS is two to five years. Hawking has not only lived more than 50 years with the disease, but has managed to produce truly groundbreaking scientific discoveries, even as he's confined to a wheelchair and forced to speak through a computer.
+Additionally, Hawking's popular work — most notably, the 1988 bestseller A Brief History of Time — has dramatically increased his fame, bringing the topics of cosmology and physics to a broad audience.
+Finally, the extreme abstraction of Hawking's field means he neatly fits many people's idea of a scientist. Unlike the vast majority of scientists, his work concerns the most profound and fundamental questions we have about the universe. And though he's done this work with other physicists, it's easy to imagine to imagine him as the quintessential lone scientist, a modern-day Albert Einstein. "It's a set of very appealing stories," Francis says.
+Further reading
+— A timeline of Hawking's biggest scientific discoveries
+— The Columbia Journalism Review: Media Made Hawking Famous
+— Alex Abad-Santos' review of the Theory of Everything
+Correction: This article previously said the area within a black hole can't shrink, when a more appropriate word to use is content, since we're not discussing a two dimensional surface.

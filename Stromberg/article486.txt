@@ -1,0 +1,78 @@
+Sitting all day is really bad for you. Here's why.
+By now, you may have heard of the emerging science showing the dangers of sitting all day — and the health benefits of increasing the amount of time you spend standing or walking on a daily basis.
+It might not be a shock that sitting a lot makes you more likely to be obese. But scientists have found that, apart from obesity, excessive sitting is linked with all sorts of other health problems — even if you vigorously exercise after spending a work day in your chair.
+Each hour you spend sitting shaves 21.8 minutes off your life expectancy
+"What really surprised us was when our data began to show that people who sit longer are more prone to breast cancer, prostate cancer, cardiovascular disease, diabetes, hypertension, even depression," says James Levine, the Mayo Clinic endocrinologist whose research has largely jumpstarted the field of sitting science over the past few years.
+Most recently, a review of 43 different studies published last week found that the amount of time you spend sitting increases your chance of colon, endometrial, and lung cancers. The bottom line is that each hour you spend sitting reduces your life expectancy by about 21.8 minutes, regardless of your exercise and diet (with a confidence interval of 0.3 to 44.7 minutes for the study that arrived at this figure).
+How does this work? Here's an explanation of what we know about how sitting affects the human body.
+
+Ilia Yefimovic/Getty Images
+One way that sitting makes you more likely to become obese is pretty straightforward: you burn fewer calories sitting all day, compared to standing or walking. This is because your leg muscles need to work to keep you upright and balanced, expending some energy.
+It varies widely from person to person, but it's estimated that you burn an extra 50 calories per hour when standing, compared to sitting. This might not sound like a lot, but it adds up if you sit for eight hours per day, five days a week. 
+Standing just half that time means you'll burn an extra 1000 calories each week without changing your diet or exercise. Do it for a year, and that's about 50,000 extra calories — the rough equivalent of running 15 marathons.
+
+Mahmoud Khaled/AFP/Getty Images
+The effects of sitting go far beyond fewer calories burned — which explains why research has shown that increased exercise for an hour or so per day can't undo the negative effects of sitting for eight hours, any more than running a mile can erase the damage caused by a smoking habit.
+idle muscles release lower amounts of lipase, an important enzyme
+Various metabolic changes that occur in sedentary muscles seem to be the culprit. They're still not well understood, but one likely explanation is that idle muscle cells release much lower amounts of lipase, an enzyme that's important for eliminating fats from the bloodstream and maintaining high levels of "good" cholesterol. 
+Another likely cause is that our bodies become more resistant to insulin when consistently sedentary. The expression of genes involved in suppressing inflammation is also altered when we sit, and may contribute to the increased cancer rates observed in people who sit a lot.
+Ultimately, all of these mechanisms — along with others we still haven't detected — probably contribute to the insidious health cost of sitting all day.
+
+Rob Monk/Computer Arts Magazine via Getty Images
+The effect of these mechanisms is seen in epidemiological studies that link a sedentary lifestyle with an increased risk of cardiovascular disease, diabetes, cancer and other health problems. Put simply, sitting for most of your waking hours — like the 50 to 70 percent of Americans who sit for six or more hours per day — shaves years off your life.
+adults who spend four or more hours per day sitting and watching tv have a 125 percent increased risk of cardiovascular disease
+Time spent watching TV is often used as a convenient metric for sitting at home, since people tend to more accurately report how they watched TV on a given day than how long they sat. And research has found, for instance, that compared to adults who spend two or fewer hours per day sitting and watching TV, those who spend four or more have a 125 percent increased chance of heart attack, chest pain, or other symptoms of cardiovascular disease, even when controlling for diet and exercise.
+Other work has found that adults who spend the most time sitting have a 112 percent increased chance of developing type 2 diabetes — and that for adults already at risk of developing diabetes, time spent sitting is a bigger risk factor than getting enough exercise.
+All this also applies to cancer. "We observed that each 2-hour per day increase in sitting time was associated with increased risks of cancers of the colon and endometrium, and with a borderline significant increased risk of lung cancer," says Daniela Schmid, lead author of the recent analysis of sitting and cancer risk. "The results were independent of physical activity, showing that sedentary behavior represents a potential cancer risk factor distinct from physical inactivity."
+These are all correlations, not causations. But they're reinforced by controlled studies in both human and animals showing the metabolic changes that occur in sedentary muscles. And these correlations persist when researchers control for physical activity, diet, smoking, and other health metrics. In other words, even if two people eat the same foods and work out the same amount, the data tells us that the person who sits more every day will be more likely to develop cardiovascular disease, diabetes, and cancer.
+Spend enough of your day in a desk chair, a driver's seat, or on a couch, and the effect adds up. One study found that an adult who spends six hours a day sitting and watching TV will live, on average, 4.8 fewer years than one who watches no TV, even if they have the same diet and exercise.
+To put it in more tangible terms: each hour of TV you sit and watch past the age of 25 is associated with a 21.8 minute reduction in your lifespan. Of course, there's some variation in this: if you're lucky, the reduction might be as small as 0.3 minutes, and if you're not, it could be as big as 44.7 minutes (this is the confidence interval).
+But on average, it's 21.8 minutes. Other researchers have calculated that each cigarette you smoke, in comparison, reduces your life expectancy by roughly 11 minutes.
+
+Ramsey Beyer
+Fixing this problem doesn't necessarily require that you go out and get a standing desk — although that isn't a bad idea. But the key, in general, is to incorporate movement into every hour of your day.
+The key is to incorporate some movement into every hour of your day
+"Step one is to get up," Levin says. "You've got to find systematic, organized methods to getting up more often."
+There are lots of ways to do this. In an office, you could start by getting up and walking around while on the phone, scheduling standing meetings, or intentionally putting a garbage can or printer farther away from your desk, so you need to walk a bit every so often to get there. If you do opt to try a standing desk, experts recommend taking sitting breaks to reduce the strain on your heels and knees.
+At home, cut down on the amount of TV you watch, or even just take your dog for a quick walk around the block during a commercial break. Research has shown that people who simply take short walking breaks of a few minutes during sedentary periods have lower rates of obesity and other risk factors for diabetes and cardiovascular disease.
+Want an even more tangible way to remind you of the harms of sitting? Try our calculator. Enter in the number of hours you sit each week, and it'll tell you what researchers estimate is the associated reduction in your life expectancy:
+
+<!--
+$(".calculate").click(function(){
+    $("#output").slideDown('fast');
+  });
+
+function getAge(inputHours)
+	{
+		var textHours = inputHours
+		var minutes = inputHours * 21.8;
+		var minutes_low = inputHours * 0.3;
+		var minutes_high = inputHours * 44.7;
+
+		var hours_low = Math.floor(minutes_low / 60);
+		var minutes_low = Math.floor(minutes_low - (60*hours));
+
+		var hours_high = Math.floor(minutes_high / 60);
+		var minutes_high = Math.floor(minutes_high - (60*hours));
+
+		var hours = Math.floor(minutes / 60);
+		var minutes = Math.floor(minutes - (60*hours));
+		
+		var min_year = inputHours * 21.8 * 52;
+		var days = Math.round(min_year / 60 / 24);
+		
+		var min_year_low = inputHours * 0.3 * 52;
+		var days_low = Math.round(min_year_low / 60 / 24);
+
+		var min_year_high = inputHours * 44.7 * 52;
+		var days_high = Math.round(min_year_high / 60 / 24);
+
+		//document.getElementById('output').innerHTML = "<p>Hours: " + hours + " Min: " + minutes + "</p><p>Days: " + days + "</p>";
+		document.getElementById('output').innerHTML = "<p>Sitting <b>" + textHours + " hours</b>, you reduce your life expectancy by <b>" + hours + " hours and " + minutes + " minutes</b> each week.</p><p>Per year, you lose about <b>" + days + " days.</b></p><p>With a 95% margin of error, you lose between " + hours_low + " to " + hours_high + " hours weekly, and " + days_low + " to " + days_high + " days in a year.</p>";
+	}
+// -->
+
+ 
+Further reading:
+
+Update: In response to readers, we added the margin of error for the degree to which sitting reduces life expectancy.

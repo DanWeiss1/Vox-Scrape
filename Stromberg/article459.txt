@@ -1,0 +1,37 @@
+How to use genetics to figure out if you'll go bald
+There's a common notion that, for men, if you want to figure out whether you'll go bald, you can just look at your mother's father. 
+If he was bald, the thinking goes, you'll be bald too. If he wasn't, you're safe.
+you can get a rough idea by looking at your maternal grandfather and father's scalps
+As it turns out, genetic research tells us that the full picture is somewhat more complicated — but this idea isn't entirely misleading.
+Male pattern baldness (formally known as androgenic alopecia, or AGA) does appear to be mostly determined by genes. And if you're a man, some of the crucial genes that determine your hair loss over time do tend to come from your maternal grandfather — although other genes from all of your parents and grandparents also play a role.
+So you can get a rough idea of your chance of baldness by just looking at both your maternal grandfather and your father's scalps. Basically, one bald guy = bad. Two bald guys = worse.
+Many physical traits are the result of a complex interplay between a person's genes and the surrounding environment. But male pattern baldness appears to be especially dependent on genetic influences. (Female pattern baldness is distinct, and appears to be caused by entirely different factors.)
+"If you look at identical twins — who share 100 percent of their genes — typically, they have a very similar pattern of hair loss," says Markus Nöthen, a geneticist at the University of Bonn in Germany who studies the factors that contribute to male pattern baldness. 
+Based on identical twin studies, he and other researchers have calculated that somewhere between 79 and 81 percent of baldness is determined by genes. But Nöthen speculates that the real number may be even higher, due to twins sometimes erroneously giving themselves slightly different ratings on the Hamilton-Norwood scale, generally used to distinguish between levels of baldness.
+
+The all-important Hamilton-Norwood scale. (Journal of Investigative Dermatology, Nyholt et. al.)
+Of course, very few physical traits are determined by a single gene, and baldness is no exception. Over the past few decades, researchers have uncovered a number of different genes that appear to be involved.
+To use this information to estimate your own chance of going bald, there's one key thing to know: inside each of your cells, you have two basic types of chromosomes (structures of coiled DNA that contain most of your genes).
+
+(Sponk/Wikimedia Commons)
+Most of your chromosomes are called autosomes — each of your cells has 22 pairs of them, with one chromosome from each pair coming from your mother, and the other from your father.
+But each of your cells also has one pair of sex chromosomes, which determine your biological sex. Everyone has at least one X chromosome, which comes from your mother. But when you were conceived, your father's sperm randomly provided either another X or a Y chromosome, which determined your sex — if it was an X, you're biologically a female, and if it was a Y, you're biologically a male.
+So, for males, all the X chromosome genes you have can be traced exclusively to your mother.
+
+A karyotype, showing the 23 pairs of chromosomes in a male human cell. Chromosome 23 is the XY pair. (Mikael Häggström/Wikimedia Commons)
+"The single gene most strongly associated with baldness is on the X chromosome," Nöthen says. His research has shown that it's involved in the fabrication of your cells' androgen receptors — structures that recognize the presence of testosterone and other hormones.
+If you're a man, you got your X chromosome — which either has or does not have the variation of this gene that promotes baldness — solely from your mother. There's a fifty percent chance that she in turn got it from her father — so if your maternal grandfather had the X chromosome genes for baldness, there's at least a fifty percent chance you do too. (The same goes for your maternal grandmother, but it's harder to casually assess her genes in this area, because they're not expressed as male pattern baldness.)
+"The single gene most strongly associated with baldness is on the x chromosome"
+Now, research has shown that not all of the baldness-related genes are on the X chromosome — there are 11 other genetic sequences of varying importance identified so far, located on chromosomes 1, 2, 3, 5, 7, 12, 17, 18, and 20. You inherited these chromosomes from both your mother and father, who inherited them from their mothers and fathers.
+All these genes interact in complex ways that we don't yet totally understand to increase or decrease the chance of male pattern baldness. So simply having the baldness genes on one's X chromosome is no guarantee of going bald, and not having them isn't a sign you're safe either.
+But one reason why your maternal grandfather's genes are so important is that, if you're a man, you only have one set of X chromosome genes, versus two sets of autosomal genes. For the latter, you can have one variation that promotes baldness and another that does not, giving you a medium chance of going bald. "If you have one copy, you have a certain level of risk, and that is further increased by a second copy," Nöthen says.
+But because you only have one set of X chromosome genes, the risk is concentrated. For any given baldness-related gene on this chromosome — including the androgen receptor gene — you either have it or you don't.
+
+(Shutterstock)
+Alas, not completely — but you can get some rough clues about what'll happen to your hair as you age simply by looking at your father and maternal grandfather's heads. 
+Basically, if your maternal grandfather went bald, there's a good chance that you have some of the X chromosome genes for baldness, and some chance you have the autosomal genes for it too. If your father went bald, there's a good chance that you have the autosomal chromosome genes for it, but this has no impact on your chromosomal genes. (You can find out with a bit more certainty, for two of the genes on chromosomes X and 20, by taking a genetic test.)
+This doesn't mean that your father's (and paternal grandfather's) genes don't play a role, but it provides real support for the widespread idea that your maternal grandfather's genes are especially crucial.
+The key question: are they actually more important than your father's? It's still not known*. All these genes (and perhaps more still to be discovered) interact in complex ways, and continuing genetic research will be necessary before there's a foolproof way to predict the fate of your scalp.
+*One way scientists are trying to figure out the relative importance of each set of genes is by looking at the average rates of resemblance (in terms of hair loss levels) between fathers and sons, versus maternal grandfathers and grandsons.
+Theoretically, if all the important genes were on the X chromosome, men would match their maternal grandfathers more strongly than their fathers, on average. If they were all on autosomal chromosomes, they'd match their fathers more closely.
+Researchers are still gathering epidemiological data to figure out which is the case, but Nöthen has calculated that the tipping point is 37 percent. In other words, if more than 37 percent of the influence comes from X chromosome genes, men will more closely resemble their grandfathers; if it's less, they'll more closely resemble their fathers.

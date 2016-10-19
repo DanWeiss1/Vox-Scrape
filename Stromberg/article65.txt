@@ -1,0 +1,59 @@
+10 simple tips for making your home wifi network faster
+There's a good chance that you're reading this article over a wifi connection. And if you are, it's quite likely that from time to time, your wifi network doesn't perform as well as you'd like.
+But there are some very simple steps you can take to make it better.
+We often think of wifi networks as virtual, uniform fields that fill our living spaces. In fact, they're very physical signals that can be blocked or scattered by walls, other electronics, and even people.
+For evidence of that fact, take a look at this wifi map that physics grad student Jason Cole made of his apartment:
+ 
+
+
+
+
+
+
+(Jason Cole)
+Clearly, where you put your router — and what's around it — make a big difference in the strength of your network. Here's how to set up your network most efficiently.
+A router sends out signals in all directions, so putting it in a corner of your house or apartment — or near a window — means that a significant amount of its signal is wasted.
+You might only have a network connection in one spot, but long network cables can be pretty cheap, and moving your router can dramatically improve performance.
+ 
+
+
+
+
+
+
+(Scott Beale)
+There are two reasons why it's not a ideal to have your router directly on the floor.
+One is that most are designed to broadcast signals slightly downward as they travel from its antenna. Additionally, they can't easily penetrate some solid materials — metal, concrete, and cement — which may be present in your floors.
+As a result, experts recommend having your router at least a few feet off the ground — perhaps on a table or bookshelf. This is also why you shouldn't put it in the basement, especially if you have a multi-story house and a concrete foundation.
+Regardless of where you put your router, the signal will be strongest in the room it's in. So ideally, you can put it in a spot that's relatively near the center of your house and a room in which you actually use wifi-connected devices.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+Because the router's signal can be absorbed by many materials, you want to have it out in the open as much as possible. In other words, don't hide it away in a closet, or stick it in between a big piece of furniture and a wall.
+Radio waves travel best through open air, so sight lines are a good clue here: if you can see the router from far away, and from many different angles, you're using it efficiently.
+All sorts of electronic devices can interfere with your router's signal: microwaves, TVs, cordless phones — essentially, anything that generates an electromagnetic signal or has a motor. This is why sandwiching it between home entertainment components, beneath your TV, is not a good idea. In general, keep it away from other electronics.
+Large metal objects (like mirrors or filing cabinets) and water (like, say, a fish tank) can also block the signal, and should be avoided.
+Because the router's signal spreads out in the direction perpendicular to that of the antennas, conventional wisdom holds that vertically-oriented antennas will broadcast the signal horizontally, covering more of your house.
+This is true, but it's also the case that having your device's antenna aligned in the same direction as the router's can maximize reception. Most laptops have horizontally-aligned antennas inside, but a phone or tablet's might be positioned in a different way depending on how you're holding it. Putting one router antenna in a vertical position, and the other in a horizontal, can cover all your bases, while still spreading the signal as broadly in your house as possible.
+There are a number of apps — like Cloudcheck or Amped's Wi-Fi Analytics — that allow you to map your wifi signal throughout your house, and figure out where it's weak. This can give you some clues on how to better position your router.
+In some cases, there are software tweaks you make to improve your wifi network.
+To configure the software, you usually need to enter a specific IP address in your web browser (look on the bottom of the router or just search for your router's brand name to figure out what that is). Once you're in the settings, there are two useful things you can try.
+One is changing the channel that the router operates on. This is less of an issue for newer routers, but older ones can often cause interference with each other (especially in crowded urban areas with lots of networks), and changing the frequency channel is a way to solve it. These older routers operate at 14 different frequencies — numbered 1 through 14 — and channels 1, 6, and 11 are generally best, because they overlap the least with other channels, causing less interference. The default is usually channel 6, and if you're having signal problems, try each of them.
+Another option is upgrading the router's software (which is actually called firmware). This won't be possible for all routers, but for some older ones, manufacturers put out free firmware upgrades from time to time, and these can improve performance. Search for your router model to see if there's one out there for you.
+A simple way of confirming that your router is the problem — and not your actual internet provider — is running a speed test under two conditions: over the wifi, and with your computer plugged directly into the router via an ethernet cord.
+If they're both slow, then talking to your ISP or upgrading your plan might help. If the wifi speed test is much slower, then your router itself is likely the problem.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+If you're still experiencing network problems that weren't solved by any of these free fixes, upgrading to a new router can make a huge difference, as the technology used to broadcast signals has changed a lot over the years. The Wirecutter has a great buying guide for routers.
+You might also try upgrading your current router with a more powerful antenna, though only some routers will let you do this. Finally, to extend your router's range, you can buy a repeater — a device that picks up your current network and broadcasts it again. It won't increase your total bandwidth at all, but will spread your network more widely.

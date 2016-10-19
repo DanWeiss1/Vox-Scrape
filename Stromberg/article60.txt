@@ -1,0 +1,51 @@
+Philae's clumsy landing taught us a surprising amount about comets
+Last November, the European Space Agency sent its Philae probe to land on a comet. The craft was equipped with harpoons that were supposed to anchor it to the surface, but they failed to fire — leading Philae to take a few huge, slow bounces in microgravity and eventually come to rest in a shadowy crater.
+After 10 years and 3.5 billion miles of flight, this was a big disappointment. But in a new paper published today in Science, scientists used Philae's imperfect landing to learn more about the surface of the comet 67P/C-G.
+
+That paper is part of a package of new research that includes a number of interesting findings about the comet. Other scientists analyzed its interior and found evidence suggesting that comets might have brought organic matter to Earth billions of years ago — though this debate is likely to continue for some time.
+ 
+
+
+
+
+
+
+A series of images shows Philae's path after bouncing off the comet. (ESA)
+A group led by Jens Biele of the German Aerospace Center analyzed Philae's bounce trajectory and photos of the landing site (taken by the Rosetta orbiter) to find that the comet's surface was much softer than anticipated.
+They calculated that it's covered by about 8 inches or so of a relatively soft, soil-like material, with harder rock underneath. The material Philae eventually came to rest upon, meanwhile, appears to be solely hard rock — perhaps explaining why the anchoring screws located in its feet were unable to penetrate the surface.
+Philae's calculated bounce trajectory, as seen in two different models from different angles.
+(Science/Biele et. al.)
+What's really fascinating about this is that until now, no one had any reliable way to determine the surface texture of a comet. The best previous estimates came from grains of dust collected from other comets, an imprecise method that led to widely varying findings.
+ 
+
+
+
+
+
+
+There's another reason scientists are so interested in comets. A longstanding hypothesis suggests that during collisions with Earth billions of years ago, comets may have delivered some of the first water and organic compounds to our planet. Those impacts might have even planted the seeds for the evolution of life.
+Now Philae is shedding some light on this question.
+Shortly after the landing, scientists announced that Philae had indeed detected some organics — carbon-based molecules that serve as the basic building blocks of life. But at the time, no one was sure if this was actually a big deal or not, since these molecules might have just been from simple gases like methane (which wouldn't be very unexpected).
+However, a new paper published today suggests that Philae did indeed discover something exciting. Further analysis revealed that comet 67P/C-G actually has 16 different organics, including four rather complex molecules that had never been detected on any comet before.
+The 16 organic molecules detected by Philae.
+(Science/Bibring et. al.)
+To be sure, these absolutely do not serve as evidence that life exists on the comet. But their presence does provide a bit of support for the idea that comets in general may have delivered organic molecules to Earth billions of years ago.
+ 
+
+
+
+
+
+
+The comet 67P/C-G. (ESA)
+All comets contain a mix of rock and ice. But Philae discovered the comet it landed on had a relatively high amount of ice inside.
+The probe sent out electromagnetic signals that penetrated the comet and were sent back to the Rosetta orbiter. Scientists, in turn, used these signals to calculate exactly how much ice was present: 2.6 parts ice for every 0.4 parts dust or rock.
+A diagram of the signals sent through the interior of the comet by Philae.
+(Science/Kofman et. al.)
+So what does this all mean? In the past, some scientists have speculated that — as with organic matter — ancient comet impacts may have initially delivered water to Earth.
+
+This is still an ongoing debate, although other research done on 67P/C-G doesn't support this water hypothesis. A paper published last year found that this comet's water doesn't exactly match the water on Earth, chemically speaking. This could suggest that it's more likely water was brought to Earth by an asteroid, rather than a comet.
+
+Because Philae ended up in a shadowy crater, rather than its intended landing site, its solar panels were unable to collect as much energy as planned — and its battery drained in about 60 hours, leaving it unable to communicate with the Rosetta orbiter.
+Scientists have been hopeful that as the comet travels toward the sun, enough sunlight could hit Philae's solar panels to charge its battery and wake it up. This briefly happened in June and again in July, but the craft still didn't have enough of a charge for sustained communication or data gathering. And the signals sent back in July indicated that the craft was getting even less sunlight than before, perhaps because it had shifted onto uneven terrain.
+The Rosetta orbiter is still periodically listening for signals from Philae, but it's appearing less likely that the lander will be able to collect the extended amounts of data originally planned. For now, scientists will have to continue focusing on the relatively limited data collected during Philae's landing and first few days on the comet.

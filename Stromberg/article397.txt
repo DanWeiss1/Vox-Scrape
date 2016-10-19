@@ -1,0 +1,34 @@
+The fascinating world of plant communication: Ferns "talk" to each other to determine their sex
+Ferns, it turns out, are far more sophisticated than you might realize.
+As revealed in a new study in Science, Japanese climbing ferns are actually capable of chemically communicating among themselves to ensure the proper ratio of male and female plants. A group of researchers from Japan's Nagoya University found that, within a given group of ferns, early-maturing female plants emit a chemical that's detected by later-maturing plants, causing them to develop into males.
+This is only the latest in a spate of recent studies finding that plants can communicate in surprisingly sophisticated ways. Other experiments have shown that thale cress plants can detect the sound of caterpillars munching on them and produce defense chemicals in response, and that searocket plants can determine whether they've been planted with kin or unrelated plants, and grow accordingly.
+ 
+
+
+
+
+
+
+Mature Japanese climbing ferns. (Forest and Kim Starr)
+The new Science paper is a particularly interesting illustration of this complexity.
+Unlike most flowering plants, individual ferns are either male or female — not both. Their sex doesn't become fixed until after germination, in their early growth stages.
+ Scientists previously knew that the factor that determines which sex a specific fern will end up as is a hormone called gibberellin. If the hormone is present in large enough quantities as the plant develops, the fern usually becomes a male, and if it isn't, it becomes a female.
+What the botanists in this study found is that within a given group of these Japanese climbing ferns — a problematic invasive species in the US — most of the early-germinating plants become female. Inside their cells, their enzymes carry out some of the steps necessary to produce gibberellin — they just don't quite finish the job.
+However, as the plants grow, they release the gibberellin precursor out into the environment, where it's detected by the next wave of germinating ferns. These plants absorb it and finish the job, turning it into full-blown gibberellin, which leads them to develop into males. This process ultimately leads to a few females, surrounded by a bunch of males, which is just the right ratio needed to ensure genetic diversity and survival.
+Scientists had previously known that inter-plant communication was involved in sex determination in some plant species, but they'd never mapped it out before in such detail.
+ 
+
+
+
+
+
+
+Thale cress plants, capable of detecting the chewing sounds made by predatory caterpillars. (BlueRidgeKitties)
+This experiment is just the latest to uncover a plant's surprisingly complex ability to sense its environment, communicate with other organisms, or make a decision in response to these factors.
+We've all seen plants sense light and grow towards it. But they can also detect all sorts of chemicals in the air and water, analogous to our senses of taste and smell. Their sense of touch is especially acute: research has shown that plant roots actually alter their direction of growth before hitting a rock or a toxic substance.
+Research also tells us that plants use intricate signaling systems to communicate with each other and respond to threats. Experiments have shown that searocket plants, for instance, can distinguish between kin and unrelated searockets when they're planted together, and grow fewer roots — thereby presenting less competition — when planted with kin.
+Many species of plants, scientists have learned, respond to being eaten by insects by releasing chemicals that attract those insects' predators. When they're attacked by mites, for example, lima bean plants emit a chemical that attracts larger predatory mites — but they don't emit that chemical when they're simply damaged by steel wool. Thale cress plants, meanwhile, can detect the characteristic vibrations produced by predatory caterpillars and respond by secreting volatile defense chemicals.
+All these discoveries have led to a bit of a controversy in botany. Some botanists call this type of research plant neurobiology. They might argue that the ferns involved in the new study "talked" to each other to determine the right sex ratio, and that the thale cress plants "heard" the caterpillars eating them. Some even suggest that these plants' internal chemical signaling systems are complex enough to merit being described by words like "thought," "decide," and "intelligence" — words we usually only use when talking about animals. 
+Many other botanists, however, argue that these terms (and the comparison with animal thinking processes) are overstatements — that they inaccurately anthropomorphize chemical reactions. 
+Either way, though, what's clear is that plant communication and behavior is far more sophisticated and nuanced than most of us long imagined.
+Read more: Can plants actually "hear" predators?

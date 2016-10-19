@@ -1,0 +1,66 @@
+The leap second: Why today will be exactly one second longer than usual
+Today — June 30, 2015 — will be exactly one second longer than most days.
+Just before 8 pm ET, the world's official timekeepers will add a leap second in order to keep our clocks in sync with Earth's rotation. It's the 27th such adjustment since the practice began in 1972.
+They're doing this because it takes just a bit longer than 24 hours for Earth to make one complete rotation on its axis: right now, around 86,400.002 seconds, rather than 86,400 even. So in order to keep our clocks matched up with solar noon, the time at which the sun is the highest in the sky, we add a leap second every few years.
+The earth takes just a bit longer than 24 hours to rotate on its axis
+In practical terms, this probably won't affect your life very much. Though the most recent 2012 leap second caused a glitch in the software running Reddit, Gawker, and other websites, most systems seem to be better prepared this time.
+The underlying reasons for the leap second, though, are pretty fascinating — and they reveal some under-appreciated facts about the difficulty of precise timekeeping on the spinning chunk of rock that we call Earth.
+Just after 23:59:59 Coordinated Universal Time (the world's official time standard, based off atomic clocks and used to calculate the times around the world), clocks will move to 23:59:60 before moving on to 00:00:00 the next day, as they usually would. This is the leap second.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+You don't have to do anything. People who write timekeeping software have had to go to lots of trouble to make sure the leap second doesn't cause any glitches, but you're all set.
+Devices that set their times automatically — like phones and computers — will adjust on their own. And you really don't have to worry about your other clocks because a one second difference between their time and official time is probably too small for you to notice.
+This is where it gets interesting. As it turns out, all sorts of factors, including tides and melting glaciers, cause the rate of Earth's rotation to vary slightly over time (more on that below).
+"Lots of people think the Earth's rotation is a simple, 24-hour thing," Steve Allen of the University of California's Lick Observatory told me for an article last year. "But weather in the atmosphere, in the ocean, and in the core of the Earth make it complicated."
+The measured length of a day, between 1750 and the present. The Y-axis shows how many milliseconds each day is off from exactly 24 hours.
+(Steve Allen)
+Historically, this variation didn't really matter, as the world's official clocks were based off Greenwich Mean Time, which in turn is based off of the time when the sun is highest in the sky in Greenwich, London. We set our clocks based on the position of the sun (and thus, the rotation of Earth) and didn't really notice when it varied by a fraction of a second.
+In 1967, though, most countries switched over to UTC, which is based off of atomic clocks that run with extreme precision (the basis of their seconds is the frequency at which electrons surrounding an atom jump from one energy level to another). Their definition of a second is supposed to be exactly 1/86,400th of an average day — but it's based on an estimate of an average day in 1900, which was slightly too short. Days have generally been a bit longer since then, and a discrepancy has formed between solar time and official time.
+The official definition is based off the length of an average day in 1900
+The difference is very small, amounting to less than a second per year. But if we didn't start using leap seconds to account for it, the two clocks would now be nearly 30 seconds apart. Eventually, over centuries, this could lead to the sun reaching the highest point in the sky minutes after official noon — and over millennia, the gap could get hours long.
+So as a solution, timekeepers in the International Telecommunications Union (ITU) — the United Nations agency that manages UTC — stick in a leap second whenever the difference between the two clocks threatens to exceed 0.9 seconds. They determine when to do this based off the observations of astronomers who carefully measure the Earth's rotational speed by looking at distant quasars in the sky/universe:
+
+The official rules dictate that leap seconds can be inserted up to twice a year (on June 30th and December 31st), always at 23:59:60 UTC. The timekeepers can also subtract a second, but that has never been necessary so far, as Earth's days have generally been longer than 86,400 seconds, not shorter.
+Yes! As you might imagine, this sort of ad-hoc process bothers some people who devote their lives to keep time as precisely and consistently as possible — and it presents a practical problem for people who write software that involves time, which is to say virtually all software running on every computer.
+The leap second could be abolished during a vote in November
+Leap seconds were originally devised with sailors in mind, who at the time used the position of the stars to navigate, and thus wanted the Earth's rotation to roughly matching up with official time. Now, however, ships use GPS — and the GPS time system, in fact, doesn't use leap seconds at all, so it's constantly drifting away from both UTC and solar time.
+As such, in 2005 American members of the ITU proposed to abolish the leap second. Their plan called for leap hours rather than leap seconds, allowing UTC to drift as much as an hour away from solar time. In practice, this would have decoupled the two clocks, as it'd take thousands of years for an entire leap hour to be necessary.
+The proposal wasn't formally submitted, but other countries have presented similar ideas. Over the years, the debate has continued within the ITU, and another vote on the issue is scheduled for the World Radiocommunication Conference in Geneva this November.
+ 
+
+
+
+
+
+(Shutterstock)
+
+
+
+(Shutterstock.com)
+There's a whole array of complex reasons that the Earth doesn't spin at a constant rate. Anything that alters the distribution of its mass affects its speed.
+Long-term factor: Tidal friction
+Over the longest time scales, the main factor at play is a phenomenon called tidal friction. As the moon orbits around the Earth, its gravity pulls at our oceans, creating two bulges of water that rotate around the planet, called tides.
+But these bulges aren't oriented directly underneath the moon. They're slightly ahead of it, in terms of the direction of Earth's rotation. As a result, the Earth's crust encounters just a bit of friction from this bulge of water as it rotates, slowing it down slightly.
+The tidal bulge caused by the moon is slightly ahead of the spot on Earth directly under the moon.
+(Wahr 1996)
+Over time, this has slowed down the planet dramatically: 350 million years ago, a day was less than 23 hours. But over time, it's grown by about one to two milliseconds every century.
+Long-term factor: glaciers melting
+The other big long-term factor is the melting of glacial ice. "During the last ice age, the weight of ice sheets in North America and Antarctica pushed mantle mass very slightly toward the equator," Ryan Hardy, a PhD student in geodesy at the University of Colorado, told me last year. Over the last 12,000 years or so, though, that ice has melted, causing the land below it to spring back up very slightly (currently at rates of a centimeter or so per year in these polar regions).
+This map shows the degree of vertical uplift per year throughout world. The blue areas have more than a centimeter of annual lift because of melting glaciers.
+(Erik Ivins, JPL)
+This means there's slightly more mass at the poles and less at the equator, bringing more near the planet's axis. This causes it to spin a bit more quickly — and an average day to shorten by about 0.6 milliseconds every century. Climate change is projected to further shorten the length of a day by about 0.12 milliseconds over the next two centuries as glaciers melt even further.
+Shorter-term factor: outer core activity
+An illustration of the many factors that affect Earth's rotation speed.
+(Lambeck 1988)
+Over the course of decades, geologic activity within Earth's outer core can speed up or slow down the length of a day by a few milliseconds. This layer of molten rock — situated between the solid inner core and the semi-solid mantle — rotates slightly faster than the rest of the planet. The flow of this liquid rock alters the transfer of momentum to the mantle and crust, and as a result, the Earth's measured rotation speed. But this variation and its relationship to the Earth's speed isn't well-understood.
+Even shorter-term factors: wind, tides, storms, and more
+At shorter timescales, a huge variety of factors can alter the length of a day by around 0.2 to 0.3 milliseconds.
+Seasonal changes in wind speed, for instance, can sap slight amounts of the planet's rotational momentum. If the atmosphere as a whole is moving primarily from West to East, for instance, this effect will slightly slow down the rotation of the Earth underneath it as it turns in the same direction. Ocean currents can do the same.
+Tides also cause a number of distinct cycles in the length of a day — at 12-hour, daily, fortnightly, monthly, every six months, every year, and 18.6 year frequencies — by subtly changing the shape of the Earth. This is distinct from their longer-term tidal friction effect. The 12-hour variations, for instance, are due to each day's two high tides and low tides. The longer-period variations are linked to subtler, longer-term cycles in tides that are caused by gravity exerted by the sun and Jupiter.
+Finally, there are random, sporadic events — such as giant storms — that may alter the distribution of mass throughout the Earth enough to change its rotation speed. It's been hypothesized that earthquakes could do the same, but that hasn't been proven yet.

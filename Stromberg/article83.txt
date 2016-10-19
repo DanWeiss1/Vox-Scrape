@@ -1,0 +1,80 @@
+Why some scientists think Pluto should be a planet again
+With the New Horizons probe set to become the first spacecraft to fly by Pluto on Tuesday, the debate over its official status has flared up again — and there are several good reasons most astronomers no longer consider Pluto a planet.
+
+For one, in terms of size, Pluto is much closer to Eris, Haumea, and Makemake — small objects classified as dwarf planets — than to Mercury or Mars. Like those other dwarf planets, Pluto also orbits the sun within a fairly crowded band of debris called the Kuiper belt, rather than as a relatively isolated object in space. This is why the International Astronomical Union decided to formally reclassify Pluto as a dwarf planet back in 2006.
+But recently, after I laid out the differences between Pluto and the other eight planets, I heard from several scientists and laypeople who made a different sort of argument: that we should just classify all dwarf planets as planets. Not only Pluto, but Eris, Haumea, and Makemake, too.
+ 
+
+
+
+
+
+
+(Lexicon)
+In 2006, the IAU ruled that in order to be a planet, an object must orbit the sun*, be massive enough that the force of its gravity has pulled it into a round shape, and have cleared the neighborhood of its orbit of other debris. These Pluto supporters are arguing that we should simply eliminate the third requirement and have three classes of planets: rocky inner planets (like Earth and Mars), gas giants (like Saturn and Neptune), and dwarf planets (like Pluto and Eris).
+There's no indication that the IAU has any plans to adopt this sort of scheme. For now, the formal debate appears to be dead, and Pluto is not officially a planet. But there are some compelling arguments for why the IAU might want to reopen the discussion.
+ 
+
+
+
+
+
+
+From left: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and the dwarf planets Pluto, Haumea, Makemake, and Eris. (Illustration by Roberto Ziche)
+In terms of mass and diameter, Pluto and the other dwarf planets are an order of magnitude smaller than Earth and the other rocky planets of the inner solar system. As I argued, this is a good reason to put them in a different category of astronomical objects.
+
+<!--
+window.pym || document.write( '<scr' + 'ipt src="http://apps.voxmedia.com/tools/javascripts/vendor/pym-cb3d02c4.js"></scr' + 'ipt>' );
+// -->
+<!--
+var Objects_of_the_solar_system_by_mass = new pym.Parent( "Objects_of_the_solar_system_by_mass", "http://apps.voxmedia.com/tools/charts-public/?labels=Earth%2CVenus%2CMars%2CMercury%2CEris%2CPluto%2CHaumea%2CMakemake%2CQuaoar%2CCeres&datasets=1%2C0.815%2C0.107%2C0.0553%2C0.0027%2C0.0022%2C0.00069%2C0.00067%2C0.0003%2C0.000159&title=Objects%20of%20the%20solar%20system%2C%20by%20mass&description=Each%20object's%20mass%20as%20a%20fraction%20of%20Earth's&source=Windows%20to%20the%20Universe&link=http%3A%2F%2Fwww.windows2universe.org%2Four_solar_system%2Fsolar_system.html&type=bar&legend=", { xdomain: ".*.voxmedia.com" } );
+// -->
+
+But as Philip Metzger, a planetary scientist at the University of Central Florida, points out, Earth and the other rocky planets are also an order of magnitude smaller than the gas giants:
+
+<!--
+window.pym || document.write( '<scr' + 'ipt src="http://apps.voxmedia.com/tools/javascripts/vendor/pym-cb3d02c4.js"></scr' + 'ipt>' );
+// -->
+<!--
+var Objects_of_the_solar_system_by_mass_2 = new pym.Parent( "Objects_of_the_solar_system_by_mass_2", "http://apps.voxmedia.com/tools/charts-public/?labels=Jupiter%2CSaturn%2CNeptune%2CUranus%2CEarth%2CVenus%2CMars%2CMercury%2CEris%2CPluto%2CHaumea%2CMakemake%2CQuaoar%2CCeres&datasets=317.83%2C95.159%2C17.147%2C14.536%2C1%2C0.815%2C0.107%2C0.0553%2C0.0027%2C0.0022%2C0.00069%2C0.00067%2C0.0003%2C0.000159&title=Objects%20of%20the%20solar%20system%2C%20by%20mass&description=Each%20object's%20mass%20as%20a%20fraction%20of%20Earth's&source=Windows%20to%20the%20Universe&link=http%3A%2F%2Fwww.windows2universe.org%2Four_solar_system%2Fsolar_system.html&type=bar&legend=", { xdomain: ".*.voxmedia.com" } );
+// -->
+
+Ultimately, the basic concept of "planet" is always going to be somewhat arbitrary — there's a continuum of differently sized pieces of debris orbiting the sun, and we simply choose to draw the line between "planets" and "not planets" somewhere.
+Metzger's point is that we could just as easily draw this line to include Pluto, Eris, and other dwarf planets — or draw it to exclude Earth, Venus, and the other terrestrial ones. Where you choose to draw the line depends on the assumptions you bring to the debate.
+ 
+
+
+
+
+
+
+Pluto is orbited by at least five moons. (NASA, ESA, and M. Showalter [SETI institute])
+The main development that led to Pluto's reclassification was the discovery, over the past few decades, that it's part of a cloud of debris called the Kuiper belt — a region of the solar system, out past Neptune, that's filled with thousands of chunks of rock and ice (including Eris, which is actually more massive than Pluto).
+This is similar to what happened with Ceres. When that dwarf planet was first discovered in the 1800s, it was thought to be a unique object — and considered a planet — but the later discovery that it was part of the asteroid belt led scientists to reconsider.
+Yet there's one pretty big planet-like characteristic that Pluto, Eris, and the other dwarf planets have, and which the other Kuiper belt objects (KBOs) don't. "The majority of asteroids and KBOs are tiny, shapeless rocks and ice balls," says Laurel Kornfeld, a science writer who blogs about Pluto. The handful of dwarf planets, on the other hand, are massive enough for the force of their own gravity to pull them into rounded shapes. That is, they satisfy the second requirement in the IAU's definition of planet.
+Pluto also has a few other key qualities that most KBOs don't. It's orbited by five moons, has a thin atmosphere, and, as Kornfeld points out, is believed to have differentiated geological layers: a rocky core, surrounded by a mantle made of ice. These distinguishing features, she argues, mean Pluto has more in common with rocky planets like Earth than Kuiper belt objects.
+ 
+
+
+
+
+
+
+A plot of all known Kuiper belt objects, shown in green. (WilyD)
+The IAU's definition of planet excludes Pluto and the other dwarf planets through its third, "clearing the neighborhood" requirement. Because Pluto and the other dwarf planets are part of a cloud of debris they haven't cleared (the Kuiper belt), they aren't planets.
+But lots of Pluto supporters criticize this requirement as being excessively vague — and in some ways, they say, you could even argue that it has cleared its orbit. "Pluto gets hit by about the same rate of infalling bodies (asteroids, comets) as the Earth," Metzger says. "That’s because the distances are more vast between bodies so far from the sun." The Kuiper belt is more debris-dense than neighboring areas of deep space, but it's not all that crowded compared with our orbit here in the inner solar system.
+What's more, he and others point out, the "clearing the neighborhood" requirement means that in its current location Pluto isn't a planet, but if it were moved to a different spot it suddenly would be. The classification has as much to do with an object's location as its intrinsic properties.
+ 
+
+
+
+
+
+
+The first color image of Pluto sent back by the New Horizons probe. (NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute)
+David Aguilar, who served as the director of media at the Harvard-Smithsonian Center for Astrophysics before retiring in January, suggests that all this can be fixed by a slight change to the IAU's planet definition.
+Currently, objects like Pluto and Eris that are massive enough to be round and orbit the sun, but haven't cleared their neighborhoods, are technically dwarf planets, but not planets. Aguilar recommends simply eliminating the controversial third requirement — so that dwarf planets become a type of planet.
+"It’s as simple as that, and it neatly eliminates 99.9999 percent of all the small, irregular, lumpy rocks floating out in the Kuiper belt," he says. Sure, it would mean the list of planets will likely grow significantly in future years — as more dwarf planets are found in the Kuiper belt and beyond — but that shouldn't stop us from adopting the best definition possible.
+But unfortunately for the Pluto supporters, there's no indication that the IAU plans to pick this topic back up anytime soon. The original reclassification stirred up a ton of controversy that continues to this day, and the astronomers who support the original decision have no wish to stoke it further. For better or worse, when the New Horizons probe visits Pluto for the first time this coming Tuesday, it'll be visiting a dwarf planet.
+*An unrelated but substantial criticism of the IAU's definition is that it requires an object to orbit the sun to be a planet — so it totally excludes all exoplanets. As we discover more and more planets orbiting other stars, this is becoming a bigger problem, and there are plenty of astronomers who would like this aspect of the definition changed, too.
+

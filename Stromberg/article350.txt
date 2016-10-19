@@ -1,0 +1,51 @@
+The infuriating reason you still get a phonebook delivered every year
+Last month, you probably got a fat new yellow pages phonebook (listing all the businesses in your area) delivered to your doorstep. You might have also gotten the white pages (listing residential addresses), either as a separate volume or combined as one book.
+And if you're like 70 percent of Americans, you probably won't even open the phonebook once before the next year's batch arrives.
+around 70 percent of americans don't use phonebooks
+Phonebooks were once extremely useful: before the internet, they were the main way we had of looking up phone numbers and addresses of local businesses or acquaintances. But for most people, they've become useless — and simply recycling or throwing away the 650,000 tons of phonebooks distributed nationally each year costs municipalities somewhere between $45 and $62 million.
+So why are phonebooks still regularly delivered to most American households every year? Mainly because companies have fought regulations to phase out the yellow pages out of self-interest — they're packed full of ads, and make these companies money.
+Meanwhile, many states legally require phone companies to deliver the white pages as a public service, though these laws are gradually disappearing over time.
+Now, if you don't use the phonebook, manufacturers have created a system that lets you opt out online. However, critics say that it's not reliable — and that if you opt out, there's a pretty good chance you'll get a phonebook anyway.
+ 
+
+
+
+
+
+
+Stacks of unopened phonebooks sit outside. (Bonnie Natko)
+The yellow pages are an advertisement disguised as a directory. Although they list all businesses in a given area in small type, a subset of businesses pay for ads or for larger type.
+And even though phonebook ad revenues are shrinking — and shifting to digital directories — a handful of companies (mainly Dex Media, AT&T, Hibu, and Verizon) still make a healthy profit off yellow pages distributed in the US. This is partly because ad rates are often calculated based off the number of phonebooks distributed, not actual usage phonebook usage.
+As a result, these companies have fought efforts to reduce phonebook distribution every step of the way — even as fewer and fewer people use them. In 2010, the city of Seattle passed the first ordinance requiring phonebook companies to let residents opt out of getting the yellow pages, and assigned the companies penalties for each unwanted book delivered.
+Phonebook companies have fought efforts to reduce distribution every step of the way
+The Local Search Association (LSA) — an industry group representing the largest phonebook companies — sued the city, arguing that the ordinance violated their free speech rights. The group eventually won the lawsuit, striking down the law.
+Interestingly, as the lawsuit proceeded, the Local Search Association started their own nationwide opt-out system. "We're trying to do the right thing here, by our customers and environmentalists," LSA president Neg Norton told TreeHugger at the time, explaining that a unified national site would be better than a patchwork of city-run opt-out systems.
+But you could also take a more cynical view of their strategy: the LSA sued Seattle to eliminate the precedent of municipalities having the power to regulate phonebook distribution. Moreover, the LSA's opt-out doesn't have the accountability or transparency of Seattle's — there's no penalty stopping the companies from just delivering books to people who've opted out. They don't have to actively advertise the opt-out system, which the Seattle ordinance had required. Most importantly, they reluctantly adopted the opt-out system to avoid an even worse fate: opt-in.
+If this was indeed the strategy, it paid off quickly: San Francisco passed the first opt-in ordinance in 2011, but after Seattle was forced to settle its lawsuit with a $500,000 payment to the Local Search Association and the group proceeded to sue San Francisco, the city abandoned its plan.
+As a result, for every household in the country, the default setting is still to get the yellow pages each year. You can opt out, but few people are aware of the option, and some critics say the lack of accountability makes the system pretty noneffective. My brother, for instance, who lives in Charlottesville, Virginia, opted out online and still had the yellow pages delivered from Hibu last month.
+ 
+
+
+
+
+
+
+A phonebook delivery station in Denver. (Photo By Helen H. Richardson/The Denver Post via Getty Images)
+The white pages — which contain residential listings — are a very different story. They cost money to print and distribute, and provide essentially no revenue. For years, states have required landline providers to distribute white pages as a public service.
+Gradually, though, that's changing. In 2010, Verizon submitted a request to regulators in several states to allow it to create an opt-in system for white pages, and in New York, Florida, and Pennsylvania, they got permission.
+white pages are  a different story — they provide no revenue
+Since then, at least 12 more states — Alabama, Delaware, Georgia, Indiana, Missouri, New Jersey, North Carolina, Ohio, Oklahoma, Texas, Virginia, and Wisconsin — have given various companies permission, though white pages are still being distributed in some areas of them. Other state legislatures, such as Maryland's, have denied the requests, asking for hard evidence that people truly don't use white pages. In response, Verizon has commissioned polls showing that just 11 percent of households rely on white pages to look things up.
+What's funny, though, is that representatives from some of these same companies have made the exact opposite argument in favor of keeping the yellow pages. There, companies claim that the low numbers actually underestimate the real number of people who use the yellow pages. It may just be a coincidence that the yellow pages are profitable while the white pages are an expense.
+ 
+
+
+
+
+
+
+A phonebook disposal dumpster in Orlando, a day after delivery. (Tim Welch)
+There is one good argument against opt-in systems for both yellow and white pages: they could disproportionately hurt the elderly and the poor, who are least likely to have internet access to look up addresses and phone numbers. If phonebook deliveries suddenly stopped, some people would be stuck with outdated information.
+printing phonebooks produces roughly 3.57 million tons of greenhouse gases annually 
+Still, automatically printing phonebooks for millions of households across the country is a huge waste. All that wasteful printing produces roughly 3.57 million tons of greenhouse gases and consumes billions of gallons of water, despite the fact that recycled paper is generally used. Furthermore, municipalities pay millions of dollars to trash or recycle stacks of books that haven't even been removed from their shrink-wrapping. There must be a better way.
+And it's not particularly hard to think of some possible fixes to ensure opt-in programs are more equitable. Companies could distribute phonebooks with a letter explaining the new system, and a slip to be sent in if someone wanted to keep getting the books next year. They could send follow-up letters to people or areas they calculate to be most likely to actually use the books, or merely establish opt-in systems for urban areas — which are most likely to have good internet access — and preserve the current opt-out scheme in rural areas, as Missouri has.
+Whatever the means, what's clear is that it's time to end the blanket delivery of phonebooks to every household in the country. This system only benefits one group: the people who sell ads in them.

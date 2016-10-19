@@ -1,0 +1,81 @@
+Photos from the Philae landing: What a comet's surface looks like up close
+ 
+Yesterday, the European Space Agency's Philae probe made history as the first spacecraft to ever land on a comet.
+Today, Philae sent back the first photos from the comet's surface — including the photo above, a composite of two photos taken by a series of small cameras mounted on Philae.
+Here's a larger composite, created from six photos. They're unprocessed — so they're grainy and a bit dark — but they give you a rough idea of what you'd see from Philae if you looked around from the top of it:
+ 
+
+
+
+
+
+
+(ESA)
+Meanwhile, here's what Philae saw just 40 seconds before it landed:
+ 
+
+
+
+
+
+
+(ESA)
+The bad news, however, is that Philae is roughly one kilometer from its planned landing site, due to a series of rather large bounces it took during landing. It's also not anchored down by a harpoon system, as planned, but seems to be resting on its side, with just two of its three feet in contact with the ground.
+Scientists had planned to put Philae in a relatively smooth area, which would have given it the chance to collect a bit of sunlight to charge its batteries. The cavernous area in which it ended up might make this difficult, and could limit its operational time on the comet.
+
+These photos are the culmination of a ten-year, 3.5 billion-mile journey, during which Philae was carried by the larger Rosetta probe to the comet. Rosetta looped around the solar system several times en route, using the gravity of Earth and Mars to slingshot outwards, finally meeting up with the comet 67P/C-G in August.
+ 
+
+
+
+
+
+
+(LiveCometData.com)
+Yesterday, the Philae lander was disengaged from the Rosetta orbiter and made the seven-hour journey down to the comet.
+ 
+
+
+
+
+
+
+A series of photos of Philae descending, taken by Rosetta. (ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA)
+There were some mishaps: Philae's rocket thruster system stopped working the night before, and its harpoons, which were meant to shoot out and latch on to the comet, appear not to have engaged.
+ As a result, it took two large bounces before settling down. Because the strength of gravity on the comet is so slight, it hovered for two hours between bounces, allowing the comet to rotate underneath it. Ultimately, it seem to have traveled about a kilometer (on a comet that's just four kilometers wide) before coming to a rest, and ESA scientists plan to use Philae's radar-emitting instrument, along with the Rosetta orbiter, to locate it precisely.
+ 
+
+
+
+
+
+
+Philae was planned to land in the red area, and ultimately bounced and landed somewhere in the blue diamond. (ESA)
+Data now indicates that Philae is on its side, and isn't anchored to the comet's surface. Because it may be unstable, scientists have cancelled today's plans to drill for a rock sample for fear of tipping over the lander, though they may still attempt at a future time.
+
+The other problem with the final landing spot is that nearby rock formations may prevent Philae's solar panels from receiving any sunlight. Currently, only one of Philae's two solar panels is getting any light, and it's getting only 1.5 hours of light during each 12-hour period. If Philae can't recharge, its estimated battery life is only about 64 hours from touchdown, severely cutting down on the time it has to conduct science.
+ 
+ 
+
+
+
+
+
+
+A photo of the comet taken by Rosetta. (ESA/Rosetta/NAVCAM)
+Both Rosetta and Philae are packed with all sorts of scientific instrumentation that will hopefully tell us a ton about both this comet and comets in general.
+Rosetta has already taken dozens of remarkably detailed photos of the comet and analyzed the gases given off by it, and will continue to do so for the next year as the comet nears the sun. This information will help scientists better understand the process through which gas and dust vaporizes, forming a comet's tail.
+ 
+
+
+
+
+
+
+A rendering of Philae landing on the comet. (ESA)
+Philae, meanwhile, carries 10 scientific instruments, including a system capable of drilling up to nine inches down into the comet's surface and extracting soil samples. Other instruments onboard will analyze the contents of these samples, telling us far more about the composition of comets than we've ever known before.
+Another instrument will emit radio waves that will travel through the comet's center, then get picked up by the orbiting Rosetta. Based on the time it takes for these waves to arrive, scientists will be able to map the comet's interior.
+All this data will be especially interesting because the comet is believed to have formed 4.6 billion years ago, from material leftover as Earth and the solar system's other planets were coalescing. As a result, understanding the composition of comets could help us better model the formation of the solar system.
+Moreover, many scientists believe that in the period afterward, when the solar system was still a chaotic, collision-filled system, comets and asteroids were responsible for bringing water and perhaps even organic molecules to Earth. If water ice is present on this comet, as scientists hope, Philae will calculate the ratio of different sorts of hydrogen isotopes present in it — information that could provide an important clue as to whether the hypothesis is correct.
+In other words, data collected by a tiny robot on this lopsided, spinning comet, millions of miles away, could provide a window into the history of all life on earth.
+Update: This article has been edited to reflect ongoing developments.

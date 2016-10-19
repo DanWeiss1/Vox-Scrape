@@ -1,0 +1,85 @@
+NASA stopped looking for life on Mars in the 1970s. Is it time to reconsider?
+One of the most exciting possibilities about Mars is the idea that it could be home to living things. For more than a century, people have dreamed about the idea of life on Mars, and it's one of things that's driven us to explore it.
+But even though NASA has sent numerous probes to Mars, most of them — including the Curiosity rover — have not actually been intended to look for life. Instead, they survey Mars' geology and atmosphere, searching for water and evidence that the planet may once have been habitable.
+new findings have revived interest in the idea of current life
+So why don't they actually look for life? Because, back in the 1970s, experiments conducted by the Viking landers convinced most scientists that there was no life on Mars. After that, NASA switched its focus to examining the planet's past.
+But perhaps it's time to reconsider. A number of more recent findings — including Curiosity's recent discovery of methane gas — have revived interest in the possibility that there might be microbes living on Mars right now.
+So here's a look at the search for current life on Mars, and what we know so far.
+ 
+
+
+
+
+
+
+A photo of Mars taken by VIking 2. (NASA)
+The only spacecraft NASA has ever sent to directly search for life on Mars were the Viking landers: a pair of identical probes sent to two different spots on the planet's surface in 1976. Among other things, they carried out a study called the Labeled Release experiment.
+"It was a very simple experiment," says Gilbert Levin, the principal investigator at the time. The probes collected a small sample of Martian soil, mixed it with a few drops of a nutrient-rich solution, kept it warm for a few days, and detected gases emitted from the sample. If the sample absorbed carbon from the solution and emitted it in gaseous form, that could be evidence of microbial activity in the soil.
+the viking experiments were interpreted as a failure in the search for life
+Initially, the experiment seemed promising. "We were astonished to see positive results," Levin says. "Both landers detected gases coming from the samples."
+However, other tests carried out by the Vikings made life seem less likely. Repeat trials of the same experiment didn't produce positive results, and a separate experiment failed to find organic compounds — carbon-based molecules that serve as the basic building blocks of all life on Earth — in Mars' soil. Though Levin has ardently campaigned for the idea that the Viking experiments found evidence of life in the years since, most scientists concluded the opposite.
+"The bottom line is that the various Viking experiments were interpreted by most experts as indicating that they did not detect active life on Mars," says Michael Mumma, director of NASA's Goddard Center for Astrobiology. "So at that point, the search for life on Mars turned from a search for active life towards one for extinct life."
+ 
+
+
+
+
+
+
+A photo of the Curiosity rover on Mars. (NASA)
+In the years since, subsequent Mars missions have mainly looked for water, along with atmospheric and geologic evidence that Mars may have once been habitable. However, they've also turned up a few pieces of data that make the Viking experiments seem less conclusive.
+One important finding is that organic compounds are indeed present in Martian rocks and soil. It seems that in early experiments, their presence was masked by other chemicals called perchlorates. More recent work by Curiosity and other instruments has confirmed that organic compounds are present — a factor that many scientists consider to be a necessary precondition for life.
+ 
+
+
+
+
+
+
+A rock drilled by Curiosity, used to find evidence of organic compounds. (NASA/JPL-CalTech)
+The other major finding was an organic compound floating in Mars' atmosphere: methane gas. In a 2009 paper in Science, Mumma and colleagues announced that, using telescopes on Earth, they'd detected large, seasonal plumes of methane gas on Mars' surface.
+This is a big deal because on Earth, methane is often made by microscopic organisms — though it can be made by geologic processes as well. Additionally, the plumes of methane detected disappeared faster than we would have expected, given what we know about Mars' atmosphere, suggesting that something unknown might be breaking it down.
+At the time, not everyone accepted these measurements. "They were way outside the bounds of our understanding of chemistry on Mars," says Chris McKay, a NASA planetary scientist. "I think that was just bad data."
+Two weeks ago, howver, methane entered the conversation once again, with McKay and colleagues reporting that the Curiosity rover had detected methane plumes. Most of Curiosity's monthly readings for methane showed extremely low, expected values, but a few readings were way off. "The methane concentration jumped up by a factor of ten, for about sixty Martian days, then fell back down," McKay says. "This was unexpected."
+The methane readings weren't as dramatically high as the ones remotely detected by Mumma, but they still raise an intriguing question. What on Mars is making all that methane?
+ 
+
+
+
+
+
+
+Satellite images show seasonal water seeps on Mars' surface, a condition that could theoretically make life possible.  (NASA)
+The most exciting possibility, obviously, is that there is some sort of microscopic life form living in the Martian soil and making methane.
+To be clear, there's no direct evidence for this idea — and there are other explanations for methane (below) that don't invoke life. But it still has some scientists excited.
+That's because, on Earth, methanogens (microbes that emit methane as part of their metabolism) often live in extreme environments, such as hydrothermal vents on the sea floor. Some of them use  carbon dioxide (which we know is present on Mars) and hydrogen (which could theoretically bubble up through Martian rock) to produce methane, which in turn feeds other microbes, called methanotrophs.
+Methane, in other words, could be the signal of a simple, hypothetically plausible Martian ecosystem.
+ 
+
+
+
+
+
+
+Meteorite impacts on Mars could be another explanation for methane gas. (ESA/DLR/FU Berlin)
+However, there are several hypotheses that could explain the methane without involving life — hypotheses that, McKay believes, are much more likely.
+"Everybody wants there to be life on Mars, so when any data shows up that can possibly be construed as supporting that idea, everybody jumps on it," he says. "But the simplest explanations don't require that we invoke like."
+The simplest possibility, he notes, is that a carbon-rich meteorite happened to fall near Curiosity right before it detected the methane plume. When meteorites of this type have fallen to Earth, they've emitted methane gas as they react with the atmosphere.
+meteorite impacts or geologic activity could explain the methane
+The downside of this theory, McKay says, is that "the odds that the rover would happen to be near a place where a carbon-rich meteorite fell are low." And if Curiosity detects another methane plume, it makes this theory look much less likely — because the odds of being near two meteorite impacts are much lower.
+There are, however, geologic explanations for how methane might form. The most prominent one is a process called serpentinization. We don't have direct evidence for this occurring on Mars, but it occurs regularly on Earth. Hypothetically, it would involve liquid water moving through rock. This would cause a chemical reaction, converting iron oxide into a mineral called serpentinite. As a byproduct, hydrogen gas would be released, and as it bubbled upward to the surface, it would react with carbon dioxide or carbon-bearing rocks to form methane gas.
+If seasonal flows of liquid water are triggering serpentinization, that could explain the occasional methane plumes detected by Curiosity — without any life being present.
+ 
+
+
+
+
+
+
+A future sample return mission, to be conducted with samples stored by a rover sent to Mars in 2020, could help us learn more. (NASA/JPL-Caltech)
+Scientists hope that data collected by Curiosity and other instruments in the future will help clear this up.
+In the short-term, Curiosity will continue taking monthly methane readings, looking for subsequent plumes. If it finds one, that would make the meteorite hypothesis look considerably less likely. Curiosity will also continue analyzing Martian rocks and soil, which will help us better understand the planet's geologic history.
+there are no plans to directly search for life on mars
+A few future missions will also provide indirect information about life. In 2016, the European and Russian space agencies will send an orbiter and a lander as part of the ExoMars project, and in 2020, NASA will send an upgraded version of Curiosity.
+The landers could theoretically be sent to methane hotspots (as identified by remote sensing), and all three of the probes will allow us to better understand Mars' atmosphere — including the nature of its methane plumes. The 2020 rover, meanwhile, could cache rock samples, to be picked up and brought back to Earth as part of a future sample return mission.
+Still, there are no plans to repeat the Viking experiments or send instruments intended to directly detect life. At this point, our exploration of Mars is largely aimed at better understanding the planet as a whole, and reconstructing its ancient past.

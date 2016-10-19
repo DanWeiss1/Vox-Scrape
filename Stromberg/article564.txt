@@ -1,0 +1,28 @@
+Graphene is the material of the future — and now you can make it at home
+For the scientists who create new materials, there are few things more exciting than graphene.
+graphene is remarkably strong, thin, and flexible
+The material, made up of sheets of carbon atoms, is remarkably strong, thin, and flexible. Engineers speculate that it could revolutionize the electronics and computing industries — so much so that the New York Times recently proclaimed it "the material of tomorrow."
+On Sunday, scientists announced a new, simplified way to make graphene that could potentially be done using less energy. Just for fun, they also tweaked their new process slightly to show that it can be done with things you have in your home kitchen, like soap and a blender.
+
+A sheet of graphene, simulated. Wikimedia commons
+Graphene is the name for sheets of carbon atoms bonded in a honeycomb shape. The rock graphite — used as the "lead" in pencils — is made up of many of these sheets stacked together, but individual graphene sheets don't normally occur in nature.
+graphene is made up of sheets of carbon atoms bonded together in a honeycomb
+As a result, the existence of these tiny sheets was only proven in 1990, when British scientists peeled them off a piece of graphite with adhesive scotch tape. Since, scientists have figured out ways to make bigger sheets of the single atom-thick material and discovered that it's remarkably strong — 100 times stronger than steel.
+Because graphene is thin, light, strong, flexible, and conducts electricity, engineers are excited about the possibility of making many different things out of it, like electronic circuits, batteries, cell phones, and solar panels. But graphene has only been used experimentally so far.
+Previously, engineers made graphene by mixing small pieces of graphite in a liquid and blasting it with ultrasonic energy, heating it up by thousands of degrees. This broke up the graphite further, causing sheets of graphene to flake off. Special chemicals in the liquid prevented the newly formed sheets of graphene from sticking together.
+The new method replaces ultrasonic activity with physical slicing, done by an industrial machine called a high shear mixer. "You have a rotating blade inside a cylindrical holder, and the gap between the holder and the blade is tiny — like a tenth of a millimeter," says Jonathan Coleman, a physicist at Trinity College in Dublin who helped to develop the method. 
+When the blade is turned on and small pieces of graphite slip into this gap, they're suddenly exposes to huge amounts of stress, and flake apart. "You can think of it like you're holding a deck of cards in one hand, and you put your other hand on top of the deck and move it back and forth, causing the cards to slide off the top," Coleman says.
+This new method for producing graphene is promising because it uses much lower amounts of energy than the old technique and can probably be scaled up to produce large amounts of graphene without huge complications, because shear mixers are already used industrially. "I think this technique is definitely going to be useful," says Andrea Ferrari, a graphene researcher at the University of Cambridge who wasn't involved with this work. "There are many ways to make graphene, but this is a really interesting one, because it can be scaled up."
+Coleman and the other researchers developed the method in collaboration with Thomas Swan, a British chemical company, which has built a pilot reactor to begin producing the material in greater quantities.
+Image right: the researchers' shear mixer, churning up a batch of graphene. CRANN
+ 
+Brent Thomson
+Well, you couldn't do use the exact same technique, but Coleman and the other scientists adapted it slightly to be done with ingredients and tools you might have at home.
+you'd take tiny flakes of graphite, mix them with water and soap, and put it in a blender
+Basically, you'd take tiny flakes of graphite (which you can buy online), mix them with water and dish soap (the scientists used Fairy Liquid brand), and put the mixture into a high-powered kitchen blender. After running the blender for a few minutes, you'd produce a cocktail of tiny, microscopically-thin graphene flakes and water, which would basically look like a black sludge.
+To be clear, this isn't the same process that they're proposing has commercial value, and there'd be no practical way for you to extract the graphene flakes from the water. But still, pretty cool.
+Engineers are figuring out ways to use graphene — produced either via conventional methods or this new process — in all sorts of devices.
+because its flexible, graphene could be used in cell phones and wearable tech
+Because it's flexible and stretchy, some speculate it'd be great to be use in cell phones, wearable tech, or other consumer devices. Electronics companies like Samsung, Nokia, and IBM are trying to use the material to make ultra slim sensors, transistors, and circuits. It's been used to make experimental long-lasting batteries, high-fidelity audio speakers, and high-efficiency solar panels.
+Still, graphene has only been used experimentally so far. At the moment, we don't have any proven uses for graphene that can't be done more easily and cheaply by conventional materials, like silicon, and some obstacles stand in the way of commercial use (currently, we have a tough time producing pure sheets that don't fray at the edges, and there are concerns that stray pieces could pierce skin and lung cells because they're so sharp).
+The field, though, is steadily moving forward, and new production methods like the one announced today could eventually make graphene an everyday material.

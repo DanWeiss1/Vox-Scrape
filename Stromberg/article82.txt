@@ -1,0 +1,78 @@
+Sorry, Pluto: You're really not a planet
+One of the most controversial subjects in our solar system is whether Pluto should be a planet.
+In 2006, Pluto was officially demoted from "planet" to "dwarf planet." But the debate's flared up again, as the New Horizons probe is set to become the first spacecraft to visit Pluto on Tuesday.
+
+Before that happens, we need to get one thing clear: there are very good reasons why Pluto isn't a planet.
+"There are eight bodies in the solar system that dominate the others," says Mike Brown, the Caltech astronomer who in 2005 discovered Eris — a dwarf planet more massive than Pluto — and wrote How I Killed Pluto and Why It Had It Coming. "Those eight are planets, and the other thousands are not."
+His point isn't just that the eight planets are orders of magnitude bigger than Pluto (though they are). Equally important is the fact that in terms of size and location, Pluto fits neatly in a group with dwarf planets like Eris, Haumea, Makemake, and likely thousands of undiscovered rocks that orbit in the Kuiper belt, outside Neptune. If we really want to call Pluto a planet, our list of planets is going to be expanding dramatically in future years.
+ 
+
+
+
+
+
+
+From left Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and the dwarf planets Pluto, Haumea, Makemake, and Eris. (Illustration by Roberto Ziche)
+The whole idea of a "planet" is, admittedly, an arbitrary category. Our solar system has thousands of objects that orbit the sun, and fundamentally they're not all that different from one another.
+But if you want to single out a handful of these objects as particularly significant ones — i.e., "planets" — then it's clear that Pluto is very different. The simplest reason is Pluto's tiny size, in terms of both diameter (shown in the illustration above) and mass.
+To see how tiny Pluto is, here's a graph of the smaller planets and other objects we've found in the solar system, by mass (I've excluded gas giants because they'd throw off the scale so much):
+
+<!--
+window.pym || document.write( '<scr' + 'ipt src="http://apps.voxmedia.com/tools/javascripts/vendor/pym-cb3d02c4.js"></scr' + 'ipt>' );
+// -->
+<!--
+var Objects_of_the_solar_system_by_mass = new pym.Parent( "Objects_of_the_solar_system_by_mass", "http://apps.voxmedia.com/tools/charts-public/?labels=Earth%2CVenus%2CMars%2CMercury%2CEris%2CPluto%2CHaumea%2CMakemake%2CQuaoar%2CCeres&datasets=1%2C0.815%2C0.107%2C0.0553%2C0.0027%2C0.0022%2C0.00069%2C0.00067%2C0.0003%2C0.000159&title=Objects%20of%20the%20solar%20system%2C%20by%20mass&description=Each%20object's%20mass%20as%20a%20fraction%20of%20Earth's&source=Windows%20to%20the%20Universe&link=http%3A%2F%2Fwww.windows2universe.org%2Four_solar_system%2Fsolar_system.html&type=bar&legend=", { xdomain: ".*.voxmedia.com" } );
+// -->
+
+Based on this chart, it seems much more intuitive to group Pluto with these smaller objects than with the bigger planets.
+ 
+
+
+
+
+
+
+Pluto and other Kuiper belt objects (note: not shown to scale). (NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute/Alex Parker)
+If Pluto were its current size but a unique object — the only object of its kind out past Neptune — that would be one thing. But in 1992, astronomers discovered another tiny object out past Neptune, the first one discovered in what's now the Kuiper belt. 
+"Most astronomers, by that point, realized that Pluto had probably been mistakenly classified," Brown says. "It was pretty clear that Pluto was not going to be a singular object." In the years since, more than a thousand Kuiper belt objects have been found.
+What finally led the International Astronomical Union to reconsider Pluto's status was Brown's discovery of another Kuiper belt object, Eris, that was actually a bit more massive than Pluto. Aware that this would probably just be the first of many, the IAU voted to approve a new definition that would eliminate all of these objects from the list of planets — rather than continue to add more and more planets in future years.
+ 
+
+
+
+
+
+
+(Joss Fong)
+The IAU's new definition of planet has three requirements: an object has to orbit the sun, be massive enough so that the force of its own gravity made it round, and be able to "clear the neighborhood around its orbit" to be a planet.
+This last requirement is the one Pluto doesn't meet. The IAU made a special intermediate category, called "dwarf planets," for objects like Pluto and Eris that meet the first two conditions but not the third.
+The third requirement is admittedly pretty vague, and has come under fire from some astronomers. "It's poorly worded," Brown says, "but the concept itself is rock solid."
+The basic idea is that a planet can't be part of a cloud of similarly sized debris, like the asteroid belt or the Kuiper belt. A planet has to be large enough that over time it'll clear this cloud away, with the debris coalescing to the planet due to the force of the object's gravity. This is how Earth and the other planets grew larger billions of years ago, and it's a qualitative difference between those eight bodies and the clouds of debris in the asteroid and Kuiper belts.
+ 
+
+
+
+
+
+
+The asteroid Vesta was once a planet — and was demoted with little fanfare. (NASA/JPL-Caltech/UCAL/MPS/DLR/IDA)
+Over time, the list of planets has varied widely. In the 18th and early 19th centuries, any new object that orbited the sun was considered a planet: Uranus and Neptune, as well as asteroids like Vesta and Pallas.
+Around the mid-19th century, however, astronomers realized that some of these were among hundreds of asteroids clustered in a belt. They were all dramatically smaller than the planets, so they were eliminated from the list of them.
+In retrospect, Pluto's 1930 discovery and 2006 demotion has followed the exact same pattern. At first, Pluto was thought to be one of a kind. Eventually, though, it was found to be part of a cloud of debris (one that actually resembles the asteroid belt), and was consequently demoted.
+But this time, unlike in the 18th and 19th centuries, huge numbers of people were educated in astronomy, and had gotten used to thinking of the demoted object as a planet. This is why so many people have such a sentimental connection with Pluto — and why there's been such a popular backlash to its inevitable demotion.
+Now, there are some more substantial arguments against the IAU's decision. Some astronomers point out that the difficulty of clearing one's neighborhood depends on the size of a planet's star, and its distance from it — so the same object could be a planet in one area but a dwarf planet in another.
+Another response is questioning the idea of defining "planet" in the first place. "'Planet' is a culturally defined word that has changed its meaning over and over again," Harvard astronomer and historian Owen Gingerich said during a 2014 panel. "My feeling is that in retrospect, the IAU should not have attempted to define the word 'planet.'" By taking on this task, the IAU may have effectively cut off funding for study of Pluto and the other dwarf planets, and made it so that students are less likely to learn about them.
+Even so, there are no known ongoing efforts within the IAU to reconsider Pluto's status. There's a vocal minority that opposes the 2006 decision, but most astronomers agreed with it — and, more than anything, they want to move on, so that this issue dies among the public as soon as possible. As Brown put it, "The IAU really wants to never have to talk about this again."
+ 
+
+
+
+
+
+
+The first color image of Pluto sent back by the New Horizons probe. (NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute)
+The most important part of this debate is keeping it in perspective. When the New Horizons probe reaches Pluto on Tuesday, it'll be a huge moment for science. 
+The craft will tell us all about a strange, poorly understood place that we've never seen before. "Pluto seems to be at the intersection of many important scientific questions about the accretion of planets and the loss of atmospheres, like the Earth experienced early in its history," New Horizons' principal investigator, Alan Stern, recently told me. "We know the Earth went through the stage of growth that Pluto stopped at. This will help us connect the dots."
+new horizons will be a huge moment for science
+There's no good reason to let an argument over the term we use to describe Pluto overshadow that. Though there are some big differences between the planets and Pluto, the key thing is that "planet" is a category created by humans. It doesn't exist in nature. 
+The solar system is made up of tons of debris, some of which has coalesced into especially large objects over time, and some of which hasn't. What we soon learn about Pluto will be no less valuable because we don't put it in a special category. Instead of worrying about this, let's celebrate New Horizons' impending arrival to a fascinating new world.

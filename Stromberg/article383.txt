@@ -1,0 +1,61 @@
+Philae is stuck in a shadowy crater. Its battery is dying. What happens next?
+Wednesday morning, Philae became the first spacecraft ever to land on a comet.
+
+However, we now know that it didn't go exactly as planned. The craft's harpoons failed to engage, so Philae ended up bouncing off the comet, then landing two hours later, a kilometer away from its intended landing site.
+European Space Agency scientists now believe the lander is resting on its side, perhaps just inside the edge of a crater, with two of its three feet in contact with the comet. This certainly doesn't mean the mission is a failure, as Philae is still capable of gathering many types of data, including photos, and transmitting them up to Rosetta.
+ 
+
+
+
+
+
+
+A composite of six photos taken by Philae. (ESA)
+However, the rocky landing does pose some difficulties for the mission going forward. Here's a recap of the current situation.
+ 
+
+
+
+
+
+
+Philae landed in the red area, and has bounced to somewhere within the blue area. (ESA)
+The fact that Philae is resting on its side in a crater poses two big problems.
+One is access to sunlight. The craft is equipped with solar panels, which are designed to top off its battery when the comet rotates to face the sun. In ideal conditions — such as on the relatively flat spot where Philae was supposed to land — this could have extended the craft's battery life significantly.
+But currently, only one of the craft's two solar panels is getting any sunlight, and it's only getting about 90 minutes of light for every 12-hour period.
+Without any solar power, Philae's battery was projected to empty about 64 hours after landing on the comet. Scientists are hoping to make one more scheduled data link between the lander and the orbiter late Friday evening (EST), but they believe that will be its last, based on battery simulations conducted on Earth.
+ 
+
+
+
+
+
+
+This is how Philae should have landed — rather than coming to a rest on its side. (ESA)
+The other problem is that Philae's instability made it somewhat risky to drill into the comet and extract a sample, because the extremely weak force of gravity on the comet means that doing so could tip it over or potentially even send it back out to space.
+Nevertheless, ESA scientists decided to try drilling before Philae's battery ran out, and they've confirmed that the drill has descended 25 centimeters below the lander's baseplate, though it's uncertain whether that was far enough to penetrate the comet's surface.
+We won't find out the results of this attempt until Friday evening (EST) at the earliest, as Rosetta's orbit around the comet has taken it out of communication with Philae. Ideally, the lander will have enough battery life to make one more connection, and send back the data of its sample analysis.
+The good news is that we've still put a spacecraft on a comet, and whether the drilling data can be collected or not, it has already collected all sorts of data that will help us better understand comets than ever before.
+Philae carries ten different scientific instruments, and eight of them have already sent back data. Apart from the drill, the craft has several cameras, an instrument that will send electromagnetic waves through the comet to analyze its interior, and sensors that measure the density and temperature of the comet's surface.
+ 
+
+
+
+
+
+
+A diagram of Philae's instruments. CIVA and ROLIS are the cameras, MUPUS is the surface temperature sensor, and CONSERT is the radar-emitting device. (DLR)
+The data these instruments have already sent back is unprecedented, and will be studied in the coming years to better understand the comet.
+Additionally, scientists say that as the comet gradually nears the sun next year, it's possible the probe would be exposed to additional sunlight and wake back up, allowing for further investigations.
+Finally, the key thing to remember is that the original plan called for 80 percent of the science of this mission to be carried out by the Rosetta orbiter, not the lander. Rosetta is capturing hundreds of amazingly detailed photos of the comet and analyzing the dust and gas given off by it as it vaporizes.
+ 
+
+
+
+
+
+
+A photo of the comet's surface taken by Rosetta. (ESA/Rosetta/NAVCAM)
+This is a big deal because the comet formed 4.6 billion years ago, from material leftover as Earth and the solar system's other planets were coalescing. As a result, understanding the composition of comets could help us better model the formation of the solar system.
+Moreover, it's hypothesized that comets colliding with Earth during this era brought the water present on our planet today, and perhaps even organic molecules that gave rise to life. Learning more about this comet — and comets in general — might help us determine if this was true, providing a fascinating window into the history of all life on earth.
+Update: This story has been edited to reflect ongoing developments.

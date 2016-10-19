@@ -1,0 +1,47 @@
+Why do traffic jams sometimes form for no reason?
+If you've ever driven on a highway, you've probably seen it happen. Traffic slows to a crawl, then stops entirely. Minutes later, it begins to move again, and then suddenly, you're moving at full speed.
+The weirdest part: there's no construction, accident, or other possible explanation for the traffic. Why does this happen?
+As it turns out, a few different groups of researchers have been using mathematical calculations and real-world experiments to try answering this question. And they think they have the answer. They also have suggestions on how to stop these jams.
+If there are enough cars on a highway, any minor disruptions to the flow of traffic can cause a self-reinforcing chain reaction: one car brakes slightly, and the ones behind it brake just a bit more to avoid hitting it, with the braking eventually amplifying until it produces a wave of stopped or slowed traffic.
+"These traffic waves arise from small perturbations in a uniform traffic flow, like a bump in the road, or a driver braking after a moment of inattention," says Benjamin Seibold, a mathematician at Temple University who's worked with colleagues on understanding the phenomenon.
+one car brakes slightly, and the ones behind it brake just a bit more
+Even when cars leave this traffic wave, though, the wave itself doesn't disappear: it gradually drifts backward, against the direction of traffic. "It's typically 100 to 1000 meters long, and it usually begins with vehicles running into a sudden increase in density at the start, and a drop in velocity," Seibold says. "Then, after that, they slowly accelerate again."
+He and others developed the concept of these waves (which they call jamitons, because they're analogous to waves in physics called solitons) using computer algorithms that simulate driving behavior:
+ 
+
+
+
+
+
+
+(Seibold et. al.)
+Japanese researchers have also conducted real-world experiments that come to the same conclusion. In one, they instructed 22 drivers to drive at the same speed (18.6 mph), and preserve the same amount of space between cars, on a small circular road. Inevitably, traffic waves formed:
+
+In one sense, it seems reasonable to blame these phantom traffic jams on individual drivers. The models indicate that these jams are more likely to form when people drive as fast as possible, then finally brake when necessary to avoid hitting the car in front of them, triggering a chain reaction.
+"If people anticipate higher traffic densities ahead, and take their feet off the gas earlier and leave more room in front of them — instead of waiting until they have to brake — that can prevent traffic jams from arising," Seibold says.
+Another way to think of it, says Berthold Horn — an MIT computer scientist who's worked on the same topic — is to try driving so that you stay halfway between the car in front of you and the one behind you. This will lead to you avoid sudden braking when possible.
+ 
+
+
+
+
+
+
+(Justin Sullivan/Getty Images)
+On the other hand, this sort of behavioral change doesn't totally eliminate phantom traffic jams — it merely makes them less likely to form (specifically, it means that a higher density of cars on the road is required for traffic waves to develop). But if there are enough cars on the road, even if people anticipate approaching traffic to the best of their abilities, phantom traffic jams will form.
+"We're usually inclined to think that these must be caused by an individual driver," Seibold says. "But the models show that even if all drivers drive by the exact same rules, and no one does anything wrong, these waves can still arise."
+These jams, in essence, emerge whenever you have enough humans driving cars on a highway. So the only real way to eliminate them probably involves handing the wheel over to something other than a human driver.
+ 
+
+
+
+
+
+
+A prototype of Google's self-driving car. (Google)
+In the short term, there are some things engineers can do to cut down on these traffic jams.
+The straighter and smoother a road is, the less likely the jams are to form, since it means drivers won't be doing as much sudden braking. Most highways are already built to be as straight as possible, so it's mainly by better maintaining current ones that this can make a difference.
+self-driving cars can anticipate slow-downs more effectively than humans
+A more innovative idea, Seibold says, are variable speed limits, which are already in place in a few places in the US (but are mainly used to alter speeds based on  weather conditions). Using LED signs, speed limits could be decreased in the area leading in to a phantom traffic jam, causing cars to slow down gradually, rather than all at once. In some cases, this could break up the wave.
+Finally, Seibold believes a comprehensive solution will come in the form of self-driving cars. Because they'll be able to control their speeds with more precision and use data on traffic miles down the road, they'll be able to anticipate slow-downs much more effectively than any human.
+One car suddenly braking, for instance, could send out a signal to all the cars within a mile behind it, instructing them to slow down gradually, rather than suddenly when they arrive at the nascent traffic wave. In theory, at least, this will smooth out waves of traffic before they're able to form.

@@ -1,0 +1,20 @@
+Study: In the short term, elections make society less happy overall
+If you're a Republican, you're likely thrilled after last night's big midterm win. Millions of Democrats, meanwhile, are devastated.
+But a group of researchers believes that these emotions aren't exactly balanced out. Based on data they collected before and after the 2012 election, they argue that on the whole, elections increase sadness for the losing side much more than they increase happiness for the winners.
+In other words, the short-term effect of an election is that it makes society sadder as a whole. "The hurt of losing an election is worse than the joy of winning one — and losing hurts a lot," write the researchers, led by Lamar Pierce of Washington University in St. Louis.
+Obviously, elections aren't held to make people happy (at least in the short-term) — they're held to elect people who decide on policy. But the researchers were interested in seeing how elections affect happiness because it could reflect how central political partisanship is to many people's identities.
+They looked into the question using data collected by the polling firm CivicScience. For eight weeks before and after Election Day 2012, they asked about 300 people daily "How happy are you today — very happy, happy, so so, unhappy, or very unhappy?" 
+Very happy was coded as a 1, and very unhappy as a 0, with other responses in between. They also asked if respondents were Democrats, Republicans, or Independents.
+The data was pretty stark. Despite Obama's decisive reelection and a gain of seats in both the House and the Senate, there wasn't a noticeable uptick in happiness for Democrats. There was, however, a big dip for Republicans: in the week after the election, their happiness levels dropped by 30 to 60 percent.
+ 
+
+
+
+
+
+
+(Pierce, Rogers, and Snyder)
+Interestingly, this doesn't seem to simply be a result of Republican overconfidence: the researchers also polled some respondents on who they expected to win the Presidential election beforehand, and afterward, Republicans who'd expected Obama to win experienced similar levels of sadness to those who'd thought Romney would win.
+Now, this could certainly be due to some factor specific to the 2012 election — the researchers haven't looked at any other ones so far, so we don't know that this is a basic characteristic of all elections, as they claim. But they do point to previous psychology research showing that bad events just affect people more profoundly than positive ones in general.
+Additionally, economist Alex Tabarrok (who didn't work on research) makes an enlightening comparison: data indicates that many people's happiness levels are disproportionately affected by the results of sports games. Research has even shown that a losing team can increase unhappiness so much that people are more likely to vote out incumbent politicians. In this sense, some people's emotional identification with a political party might be just as strong as with a sports team — so losing hurts just as much.
+However, one interesting thing about this research is that, in 2012, even the sad Republicans returned to their previous happiness levels within about a week. So for Democrats, next week will probably hurt a lot less than it does today.

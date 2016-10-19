@@ -1,0 +1,81 @@
+Mercury is shrinking — and 4 other facts we've learned from NASA's MESSENGER probe
+On Thursday, after four years of orbiting Mercury, NASA's MESSENGER probe is going to crash violently into the planet's surface.
+Scientists will use the 50-foot-wide crater carved out by the crash to study rates of erosion on Mercury. That only seems appropriate, because over the course of its time there MESSENGER has taught us the vast majority of what we know about the planet.
+the probe has taught us most of what we know about mercury
+"Although Mercury is one of Earth’s nearest planetary neighbors, astonishingly little was known when we set out," Sean Solomon, MESSENGER's principal investigator, said during a recent NASA briefing. Because Mercury is so small and close to the sun, it's tricky to send spacecrafts to visit it — and before MESSENGER, the only craft that had come close was Mariner 10, which made a series of quick flybys in the 1970s.
+But MESSENGER has since spent years closely orbiting Mercury and collecting all sorts of data. It was originally designed to orbit for just a year, but engineers figured out ways to save fuel so MESSENGER could stay in orbit, teaching us about Mercury's surface topography, composition, inner geology, and magnetic field. I recently spoke with Solomon to hear about some of the most interesting things we've learned.
+When Mariner 10 flew by Mercury, it spotted geological formations such as scarps and cliffs. These are signs that the planet is shrinking — due to the steady cooling of its core over time — forcing the crust to buckle in on itself.
+ 
+
+
+
+
+
+
+The ridge running diagonally across this MESSENGER image is a scarp, evidence that the planet is shrinking. (NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington)
+But MESSENGER's comprehensive survey of Mercury's surface has shown that these features are more predominant than previously estimated — and that the planet is shrinking about five times faster than scientists thought.
+"All the planets are losing heat," Solomon says, "but Mercury alone has cooled so much that its contraction has become the dominant deformational process on its surface." In total, it's estimated that Mercury's diameter has shrunk by about 8.5 miles since the planet was first formed.
+ 
+
+
+
+
+
+
+The yellow patches show areas where water ice is believed to exist. (NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington)
+You'd assume that on such a hot planet (Mercury is 840°F at the equator), there'd be absolutely no chance of ice forming. But previous observations by telescopes on earth had indicated that in craters at Mercury's poles, there were shiny deposits, which were hypothesized to be water ice.
+MESSENGER has confirmed that idea — and shown that these craters stay cold enough to permit ice because as Mercury rotates, they remain in permanent shadow. "If you're in permanent shadow, because there's almost no atmosphere to transport heat from one part of the planet to another, it can be extraordinarily cold," Solomon says.
+ 
+
+
+
+
+
+
+A false-color image, coded to show temperature differences, shows the much cooler craters on Mercury's pole where sunlight never reaches. (NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington)
+Subsequent work has shown that some of this ice seems to be covered by a thin layer of a mysterious substance that's darker than Mercury's surrounding soil. Solomon and other scientists hypothesize that it might be carbon-rich material that was delivered, along with the water, by asteroids or comets that traveled from the outer solar system and crashed into Mercury — a hypothesis for how water might have originally arrived on Earth, as well.
+ 
+
+
+
+
+
+
+The Kuniyoshi crater has a pair of vents on its wall and upper rim, likely the result of a billion-year-old volcano. (NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington)
+Mariner 10 suggested that Mercury might have volcanic features on its surface — but the relatively low quality of its images meant that scientists couldn't rule out the possibility that they were simply impact craters.
+MESSENGER, however, has removed all doubt, and revealed that Mercury had a surprisingly volcanic history. Its images have revealed long channels, hills, and vents that appear to have been formed by ancient volcanoes.
+What's more, analysis of these features' ages indicates that the volcanism went on for some time: some are 3.5 billion years old (almost stretching back to the formation of the planet 4.5 billion years ago), but others are as recent as 1 billion years old. Right now, though, there appears to be no more volcanic activity.
+ 
+
+
+
+
+
+
+(NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington)
+Earlier measurements had shown that Mercury is extremely dense — the second-densest planet, after Earth. One explanation for this, since confirmed by MESSENGER, is that it has a disproportionately large, iron-rich core, which makes up about 60 percent of the planet's mass. Mercury is similar to what Earth might look like if you ripped off its crust and mantle.
+"One idea for how this might happen is a huge impact early in Mercury's history that would have stripped most of the outer rocky material off, leaving behind the core," Solomon says. Alternately, extreme heating during the planet's early phase could have simply boiled many of the lighter elements of the planet away into space. In either case, you'd expect that nowadays you'd see relatively few volatile elements or compounds — such as sulfur and ammonia — which have low boiling points, and would presumably have been vaporized during the process.
+But MESSENGER's measurements of volatiles like potassium, sulfur, sodium, and chlorine on Mercury's surface showed surprisingly high levels of them — as high or higher than on the other inner planets. "This means that all those ideas for how Mercury became so iron-rich can be rejected," Solomon says. "And it forces us to reconsider how the entire inner solar system was assembled."
+Scientists are now trying to figure out alternate ways of explaining how Mercury could've lost so much outer material while retaining these volatiles. One possibility is that a huge impact could have occurred but the incoming object might have come in at a very low angle, so lots of material could have been ejected out to space but the planet might not have been heated up enough to boil off all the volatiles.
+ 
+
+
+
+
+
+
+Mercury's magnetic field is oddly shifted to the north. (NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington )
+Venus, Mars, and the moon don't have strong, planet-wide magnetic fields like Earth's, which deflects radiation that comes in from space. So it came as a surprise to scientists when data collected by Mariner 10 indicated that tiny Mercury had a relatively weak but distinct magnetic field of its own.
+MESSENGER confirmed that Mercury has a magnetic field, likely the result of the flow of iron in its outer core, just like on Earth. "But the big surprise was that unlike the Earth, which has the magnetic field you'd expect if there were a bar magnet at the right at center of the planet, Mercury's is offset by a lot," Solomon says, "about 20 percent of the planet's radius."
+This off-kilter magnetic field, shifted to the planet's northern pole, doesn't fit with what scientists expected, based on their models of how the field works. During MESSENGER's final days, they're taking advantage of its proximity to search for evidence of historical magnetic fields in Mercury's crust, which could help us understand how it's changed over time.
+ 
+
+
+
+
+
+
+(NASA/JHU/APL)
+MESSENGER ran out of its primary fuel weeks ago, and scientists originally expected it to crash last month. But it's been kept aloft at very low orbits by a series of maneuvers using helium (kept on board to pressurize the fuel tanks) as a substitute.
+This has allowed the probe to take the most detailed images of Mercury's surface yet. "We're frantically downloading the data as fast as we can acquire it," Solomon says.
+On April 30, the force of the sun's gravity will finally drag MESSENGER into the planet's surface, with a violent crash that's expected to create a 50-foot-wide crater. In 2024, the BepiColombo probe (a partnership between European and Japanese space agencies) will arrive at Mercury to conduct further study of the planet. Among other things, it'll image MESSENGER's impact crater — the color and size of which will be used to help calculate the rate of weathering on Mercury's surface.

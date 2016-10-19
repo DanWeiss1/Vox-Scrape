@@ -1,0 +1,74 @@
+How one perfume company misled scientists into believing in human sex pheromones
+There are all sorts of colognes and perfumes out there promising to help you attract the opposite sex with "human pheromones" — products with names like "Liquid Attraction" and "EvoMuse."
+Their manufacturers point to scientific studies showing that these chemicals can improve mood and trigger a sexual response in the opposite sex.
+But the basic truth is that we have no evidence human pheromones even exist — and these studies can all be traced back to a single fragrance company called Erox that managed to convince dozens of scientists their two "pheromones" were worth researching in the first place.
+dozens of studies can be traced back to a myth started by a single fragrance company
+In a recent review in Proceedings of the Royal Society B, Oxford biologist Tristram Wyatt tells this strange story, starting with a 1991 paper presented at an Erox-funded conference that identified two molecules the company would later patent (androstadienone and estratetraenol) as "putative human pheromones."
+"When it comes to explaining where they get them, it simply says, 'These putative human pheromones were supplied by the Erox corporation,'" Wyatt says. "That was the sum total of the evidence that these might actually be human pheromones."
+This small, dubious paper has since been cited by dozens of other studies examining the molecules — and, in some cases, finding effects from them. And the story of how that happened reveals some of science's biggest weaknesses.
+
+Watch: Tristram Wyatt's TED Talk on human pheromones.
+A pheromone isn't just a distinctive smell specific to an individual or one that evokes an emotion for you. It's a chemical that's emitted by all similar individuals of a species and always triggers a reflexive, identical response in others.
+Scientists have identified pheromones in single-celled organisms, insects, plants, and a few vertebrates such as pigs and goats — but not, so far, in humans.
+SCIENTISTS USE a rigorous process to find new pheromones
+Normally, scientists like Wyatt — who studies animal pheromones — go through a very rigorous process to identify a new pheromone. The key is to start with a specific, consistent response that always comes after an individual has smelled a certain mixture of chemicals. Pheromone-driven responses are binary: they either happen, or they don't.
+A good example is the 2014 discovery of a sex pheromone emitted by male goats. Previously, scientists knew that putting a male goat in a group of females would lead the females to begin ovulating, and they suspected a pheromone might be responsible. So they used the act of ovulation as the theorized response to a possible pheromone, and started hunting for it.
+Because castrated goats don't trigger ovulation in females, the scientists next compared the odors emitted by normal male goats with those emitted by castrated ones. Then they identified the chemicals secreted only by the non-castrated group. Finally, they isolated and tested each chemical on the female goats, ultimately discovering that a molecule called 4-ethyoctanal could reliably trigger ovulation.
+ 
+
+
+
+
+
+
+A gas chromatograph shows the particular molecules present in the secretions of castrated and non-castrated male goats. (Murata et al. 2014)
+In humans, you might find a sex pheromone by using erections or other signs of sexual stimulation as the response. But humans are far more complicated than goats — and we don't behave sexually in such a binary, reflexive way.
+As a result, no pheromone has ever been found this way in humans. So what's the deal with all those pheromone sprays on the market?
+In 1991, an American company called Erox was interested in patenting a pair of chemicals (androstadienone and estratetraenol) to use in perfume and cologne. To lend legitimacy to the molecules, Wyatt says, "they sponsored a Paris conference on mammalian olfaction, almost as a product launch." (Erox did not respond to requests for comment on this article.)
+A number of respected scent scientists attended, and the proceedings were eventually published. When that happened, a small study by a pair of University of Utah psychiatrists entered the scientific literature.
+Both the university and the paper's lead author, Luis Monti-Bloch, had a stake in Erox (which was founded by former Utah professor David Berliner), and Monti-Bloch would go on to work for the company. But the paper didn't mention these conflicts of interest.
+What it did say is that androstadienone and estratetraenol, when injected into the human nose, elicited a physical response from the nasal tissue of females and males, respectively. The authors called these chemicals "putative pheromones" — even though they hadn't been isolated through the process normally used to find pheromones, and had been supplied by Erox in the first place.
+ 
+
+
+
+
+
+
+The source of the paper (top), and the brief note on the source of the molecules (bottom). (Monti-Bloch and Grosser, 1991)
+In 1994, Erox patented some uses of those molecules in fragrances and began selling them.
+Then in 2000, the widely respected psychologist Martha McClintock cited the 1991 work in a new study showing that androstadienone seemed to have a positive effect on the mood of women, and estratetraenol on men. She was careful to note that "it is premature to call these ... human pheromones" — but, Wyatt says, "other people took the lead from that to use them in their own studies."
+Because the molecules could be easily purchased — compared with actual human pheromones, which would have to be painstakingly isolated — research on them took off. In the years since, dozens of studies have been published showing that they improve mood, trigger sexual responses in the brain, and, most recently, affect the way we perceive gender. Erox still exists, and it cites these studies as evidence that its products increase sexual attraction.
+ 
+
+
+
+
+
+
+(Erox)
+But here's the thing: even though androstadienone and estratetraenol are chemically related to testosterone and estrogen, respectively, there isn't even evidence that they're secreted by all men and women, which would be the first requirement for a true pheromone. In fact, says Wyatt, "estratetraenol has only ever been found in the urine of pregnant women in the third trimester."
+So how did all these studies come to the conclusion that the chemicals trigger a response? The answer reflects a broader problem in psychology — and in science as a whole.
+ 
+
+
+
+
+
+
+(Shutterstock)
+The truth is that you could pick any number of different naturally occurring molecules and shove them into people's noses, and some of the time you'd find an effect. Sometimes, this could be the effect of random chance (especially if the studies are small).
+But even if a study is well designed, it doesn't indicate the molecules are pheromones — all sorts of plant oils, like lemon oil, Wyatt points out, have also been found to improve mood. The real way to identify a pheromone is to start with a specific, binary, reflexive response (like, say, goat ovulation) and find a molecule that consistently triggers it — instead of finding a molecule and then trying to see what it does.
+Now, if scientists published the results of all studies ever performed on these molecules, doing things backward might not be as big of a problem. But if they only publish the positive results, it's going to look like a real pheromone when there are actually just a lot of false positives or random effects.
+This sort of positive publication bias is a growing problem across the sciences — especially psychology — and some journals, such as Plos One, have begun publishing negative or inconclusive results in an effort to remedy it. Still, it's currently estimated that more than 90 percent of psychology papers present positive results — which is way more than would be expected if there weren't biases involved.
+ 
+
+
+
+
+
+
+A 2010 study found that all disciplines publish disproportionately positive results — including more than 90 percent of psychology papers. (Fanelli 2010)
+There's also a related problem: a lack of replication, which has plagued psychology as a whole in recent years. Because researchers largely get funding to conduct and publish brand new work, rather than try to reproduce other research and see they find the same result or not, flawed findings often don't get exposed.
+Finally, there's what Wyatt calls the "echo chamber" problem: when a paper on androstadienone or estratetraenol gets submitted to a journal, many of the people asked to review it have probably done their own research using the molecules and have already accepted that they're pheromones. Even though critics consistently pointed out the problem with these "pheromones" all along, this echo chamber can amplify a single random result into a long series of papers and citations.
+But after two "lost decades" of human pheromone research (as Wyatt calls them) some scientists are now searching for pheromones the right way. There's some preliminary evidence that secretions from lactating human mothers might trigger suckling responses in infants. Ongoing work in this area could identify actual human pheromones — although it seems unlikely that anyone could sell them to help you attract the opposite sex.

@@ -1,0 +1,106 @@
+Why space tourism is going to be utterly disappointing
+People have been dreaming about space tourism for nearly a century. Think of the orbiting space hotels in 2001: A Space Odyssey, or the Martian visits in Total Recall. Years before anyone had ever even been to space, people were thinking of vacationing there.
+Now billionaires like Jeff Bezos and Richard Branson have poured tons of money into building vehicles for space tourism — and it seems possible that sometime in the next few years, one of their companies will become the first to carry paying passengers into space.
+ 
+
+
+
+
+
+
+Suborbital flights will cross the 100-km Karman line that marks the bottom of space — but won't go much higher. (SpaceFuture.com)
+But there's a catch. Their plans merely involve flights into suborbital space: high enough up to technically cross the 100-kilometer line considered the lower boundary of space and give fliers a few minutes of weightlessness, but not high enough to actually enter Earth's orbit like a satellite or the International Space Station.
+The sad reality is that Virgin flights, currently priced at $250,000 for an estimated six minutes of weightlessness, might not provide an experience tremendously different from what's currently available to anyone willing to spend $5,000: a brief zero gravity flight on a plane often called the "vomit comet."
+Now, all these companies — along with Elon Musk's SpaceX — have vague plans to eventually bring tourists all the way into Earth's orbit, but experts say it's a long shot. "Fundamentally, it's all very hard to do," says John Logsdon, founder of the Space Policy Institute. "We've been launching people into space for 54 years now, and less than 600 people have made the trip. I think the idea that there's some magic bullet that could open up orbital space to large numbers of people is illusory."
+The hard truth is that we're closer to the era of space tourism than ever before — but if you're waiting for vacations in space, you'll probably be disappointed.
+"The idea of space tourism has been bandied about, at least in science fiction, since the 1920s," Paul Milo, author of Your Flying Car Awaits — a book about 20th-century speculation on future technologies — told me for an article last year. "In the 1960s, there was this perception that by the 21st century, space tourism — whether a stint aboard an orbiting hotel or a trip to the moon — would be as common as a flight from New York to Tokyo."
+The main reason that isn't the case is money. After the moon landing and the perception that the US had won the space race, Congress's funding for NASA dried up significantly in the 1970s. For decades, dreams of space tourism went nowhere, as space travel remained far too expensive and risky.
+That began to change in the late 1990s, when a pair of entrepreneurs created the X Prize: a standing offer of $10 million to the first private organization that created a reusable spacecraft. In 2004, the prize was won by Burt Rutan, who twice flew his spaceplane, SpaceShipOne, to an altitude of more than 100 kilometers — and in doing so, scraped the bottom edge of space.
+ 
+
+
+
+
+
+
+SpaceShipTwo would scrape the bottom edge of space, giving passengers six minutes of weightlessness. (American Museum of Natural History)
+Soon after, Richard Branson licensed the technology for use in developing a similar craft (SpaceShipTwo) that could carry paying passengers to the same altitude, allowing them to experience zero gravity and see the curvature of Earth from space. But though his new company Virgin Galactic has generated lots of hype — and got about 700 people to sign up for the waiting list for the $250,000 flights — it has had to repeatedly push back its timetables for commercial flights. Most recently, plans had called for them to begin in the spring of 2015, but a crash that destroyed the sole SpaceShipTwo in existence and killed one of the co-pilots has caused delays.
+To date, just seven people have gone into space as tourists — and they were all carried there on existing flights operated by the Russian space agency, paying $20 million to $40 million each for weeklong stays on the International Space Station. Even these flights have been put on hold (mainly because NASA will pay more to reserve those spots for American astronauts), but they're expected to start back up in late 2015.
+After many years of delays, there's some reason to think that at least suborbital tourist flights might be around the corner.
+For one, the field has recently become crowded with a number of legitimate, well-funded companies. Apart from Virgin, Jeff Bezos's Blue Origin has quietly been working on its own suborbital rocket. After a few failed test flights, it finally conducted its first successful one earlier this year, sending it to an altitude of 93,000 meters — just below the lower edge of space.
+
+Eventually, the company says, its New Shepard craft will be able to carry three people into suborbital space, for tourism and research purposes.
+Meanwhile, the California-based company XCOR Aerospace began developing a series of spaceplanes for the same purpose in 2008. It still hasn't conducted any actual flights, but last month the company raised the price of future flights on its Lynx craft from $100,000 to $150,000, promising that test flights will soon follow.
+Virgin has seemingly moved on from its crash and appears to be the farthest along in development. A federal investigation largely blamed Scaled Composites (the company contracted to design and test SpaceShipTwo) for the disaster, and Virgin reportedly plans to begin testing an improved replacement craft later this year.
+ 
+
+
+
+
+
+
+Wreckage from the 2014 Virgin crash. (Sandy Huffaker/Getty Images)
+On the other hand, it seems that we've been just a few years away from commercial flights for some time now.
+In 2008, for instance, Virgin founder Richard Branson predicted commercial flights would begin sometime in 2009. In 2012, the company's CEO, George Whitesides, said they'd start in 2013. When XCOR debuted its spaceplane design in 2008, it was supposed to fly by 2010; in 2012, it was supposed to fly in 2013.
+You get the idea. "It's always the same number, but it never gets any closer," says space expert Howard McCurdy.
+Still, he believes that suborbital flights will eventually happen, given the number of companies involved and the large pool of wealthy people willing to pay for the thrill. Virgin and others have some technical problems to solve (most importantly, the aerodynamic difficulties of decelerating a plane from 2,600 miles per hour to landing speed), but they're doable, given enough money.
+The Virgin crash, however, was a painful reminder of the inherent risks of space travel: after decades of research, about 5 percent of rocket launches still end in failure. For a purely recreational flight, this number might be too high for many would-be space tourists to swallow.
+At the same time, McCurdy points out that even though 1 percent of the people who attempt to climb Mount Everest die, about 1,000 still attempt it each year. "The extreme adventure market carries substantial risk, but that doesn't keep people off Everest," he says. If Virgin or another company can approach this 1 percent figure, many thrill seekers might be willing to fly.
+ 
+
+
+
+
+
+
+(MGM)
+These companies' hope is that once they start flying people into suborbital space, they'll make enough money to fund the development of orbital spaceflight. That would eventually lead to true space tourism à la 2001: space hotels, weeklong zero-gravity vacations, the whole shebang.
+But even though suborbital flight and this sort of spaceflight might seem similar, from an engineering perspective they're vastly different. Right now, Virgin and XCOR are trying to fly a plane to a relatively high altitude, then coast back down. But it's essentially impossible to reach orbit this way because you can't reach the high speeds necessary.
+"For a suborbital flight, you only have to accelerate to Mach 3 or 4. For an orbital flight, it's Mach 25," says Logsdon. "The energy difference needed to reach that speed is exponential." To date, everyone who's ever gone to orbit has gotten there with a vertically launching rocket.
+But rocketry is the rare technology that has seen barely any advancement in the last 50 years. The rockets being used to launch satellites and astronauts today aren't all that different from the one that put Sputnik in space in 1957. Both involve large tubes that burn fuel, expelling huge amounts of gas to push the payload into orbit, and then fall away, breaking into pieces and disintegrating.
+The problem with this model is that it makes orbital spaceflight really expensive. Elon Musk has famously likened it to throwing away a brand new 747 after a single flight to London. Because of the one-use model, NASA has to pay Russia more than $80 million for each astronaut it carries up to the International Space Station, after retiring its own space shuttles in 2011. If a company wants to carry out flights primarily for tourists, it'd have to drive down this price significantly.
+The most obvious way to do so would be to figure out how to make that rocket reusable, instead of throwing it away after each launch. This is why SpaceX keeps trying to land its rockets vertically: A new Falcon 9 rocket costs $54 million, but the fuel needed to relaunch only costs about $200,000.
+
+
+
+SpaceX's April rocket landing attempt was the closest one yet.
+SpaceX still hasn't managed to land a rocket, but it's made a bit of progress toward the goal — and though its main business is conducting launches for the government, it could eventually enter the space tourism field. However, even if it managed to reuse a rocket, there'd be another big hurdle before it could be viable for orbital space tourism: It will need really fast turnaround between flights.
+At the moment, it'd take a huge number of engineers many months to fully refurbish a Falcon 9 rocket for the next flight. NASA's Space Shuttle — which included a reusable spaceplane launched atop a pair of reusable rocket boosters — was the closest anyone has come, but it took 19,000 engineers several months to refurbish all the equipment for the next flight. All this labor meant it ended up costing even more than the traditional method of spaceflight: launching a capsule atop a disposable rocket.
+Given these difficulties, what can we realistically expect for the future of space tourism? In all likelihood, Virgin, XCOR, Blue Origin, or another company will eventually achieve suborbital flights, offering wealthy flyers the chance to scrape the bottom edge of space for a few hundred thousand dollars.
+For many people, that raises an obvious question: Is it worth it? It's hard to say, since no tourists have taken this sort of flight yet. But thousands have gone up on Zero-G "vomit comet" plane flights, initially developed by NASA in the 1950s as a means of training astronauts and now offered by a handful of companies.
+ 
+
+
+
+
+
+
+The Zero G plane flies in a series of parabolas to induce a feeling of weightlessness. (Zero Gravity Corporation)
+During each flight, a plane goes in a series of parabolas, diving steeply downward to produce a feeling of weightlessness for several 30-second periods. It's certainly not spaceflight, but it's the closest analogue we have to the "several minutes of weightlessness" Virgin promises for the future — far closer than the weeklong stay at the International Space Station a handful of tourists have had from Russia.
+When I spoke with several Zero-G passengers, I found that they generally found it to be a fascinating, unique experience — but perhaps not a life-changing one.
+
+"You're lying down, and then all of a sudden, you begin to feel your limbs lift up on their own," says Maraia Hoffman, who worked as an in-flight coach for the company. "It was just a weird, amazing feeling," says Cynthia Emmons, who took a flight in 2007. "I couldn't help but keep laughing the whole time."
+"I wouldn't call the weightlessness life-changing," says Miriam Kramer, a space reporter for Mashable who took the flight for a 2013 article. "It was fun, but it was so quick." Though Zero-G says its flights are short enough to prevent nausea, Kramer also notes that, at least among her passenger group, the plane still lived up to its vomit comet nickname.
+ 
+
+
+
+
+
+
+A prototype of the Virgin Galactic cabin. (Daniel Berehulak/Getty Images)
+Of course, there's one big difference between suborbital spaceflight and the vomit comet: The former will offer passengers the chance to look down from about 10 times higher and see the curvature of Earth. Space tourism companies hope that will induce the so-called overview effect. Many astronauts have reported that seeing Earth from above — isolated as a marble floating in space — gave them a profound sense of awe and a dramatically different perspective on life.
+But even though suborbital flights might come closer to providing this experience than Zero-G, they won't allow for a full-on overview of Earth. "At 100 miles up, you are just skimming the surface and you don’t get a feeling for the Earth as a whole," astronaut Michael Collins said in 1986. On Virgin's SpaceShipTwo, you'll be peering through 17-inch-wide portholes to see out. And these flights won't necessarily even reach 100 miles — the lower boundary of space is just 62 miles up. The space station, by contrast, is 250 miles from Earth.
+Still, these passengers and space experts believe there's a market for suborbital flights. "I can totally see the average person being really interested in it and wanting to experience it, as much for the aura of spaceflight as the experience itself," Kramer tells me.
+ 
+
+
+
+
+
+
+(Mark Greenberg/Virgin Galactic/Getty Images)
+At the same time, even if one of these companies succeeds in operating regular flights — and thereby driving down the price — we're still talking about hour-long flights, providing a few minutes of weightlessness, that will costs hundreds of thousands of dollars. And if orbital tourism ever happens, tickets will certainly cost millions. Both options might eventually get cheaper, but there's absolutely no way either will soon be accessible to the average person.
+That brings us to what may be the most disappointing aspect of the future of spaceflight: its elitism. More than anything, spaceflight seems poised to become a new status symbol for the superrich.
+"The odd thing about the space tourism business is that it's based on the assumption of income inequality, of intense concentrations of wealth," says McCurdy. "There might be a market for it, but it makes you ask: Is that really the kind of society that we really want to live in?"
+Correction: This article previously stated that a suborbital craft would have to decelerate from 17,000 miles per hour, rather than 2,600 miles per hour.

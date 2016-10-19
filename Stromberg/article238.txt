@@ -1,0 +1,45 @@
+Watch: This new type of 3D printing was inspired by Terminator 2
+
+This new 3D printing technology looks like science fiction. But it's entirely real — the scientists who created it took inspiration from the futuristic liquid metal in the movie Terminator 2.
+Joseph DeSimone and the other University of North Carolina scientists who describe the technology in a new paper published today in Science call it "continuous liquid interface production." (They've also founded a new company called Carbon3D to sell the printer.)
+Unlike conventional 3D printing, which prints in layers, their printer continuously forms a new object. As a result, they say, it's much faster than conventional 3D printing, taking minutes instead of hours.
+This could finally bring the big advantage of 3D printing — that it lets you easily customize or tweak designs by making changes to software, rather than building new manufacturing machines — to mass consumer products.
+There are a few different types of existing 3D printers, but they mostly work via the same principle: a printing head passes over a platform over and over, depositing layer after layer of a material like plastic in a precise pattern. Over time, these layers combine to form the desired object — much like a paper printer forms text on a page by putting down row after row of ink.
+By contrast, this new continuous 3D printer would do away with the layers entirely. Instead, a platform draws the object continuously out of a bath of liquid resin.
+ 
+
+
+
+
+
+
+(Carbon3D)
+The resin solidifies when ultraviolet light hits it (a process called photopolymerization). So to create the desired item, a projector underneath the resin pool shoots UV light,  in the form of a series of cross-sectional images of the object. Light, in a sense, is the blade the printer uses to sculpt its products.
+Meanwhile, oxygen prevents this reaction from occurring — so to stop the object from simply hardening and sticking to the floor of the pool, there's a layer of dissolved oxygen there, creating an ultra-thin "dead zone" at the very bottom.
+ 
+
+
+
+
+
+
+(Carbon3D)
+With the projector and platform in sync, the object forms as it moves upward, with new resin continuously solidifying just above the dead zone.
+Right now, the printer is still a prototype, used by Carbon3D to print mainly demonstration objects. Carbon3D hasn't said how much it'll cost, but it does plan to begin selling the printers to companies in about a year.
+ 
+
+
+
+
+
+
+Prototype coronary stents, printed by Carbon3D's printer. (Carbon3D)
+3D printing in general is exciting for one big reason: it lets you customize objects or introduce new product designs simply by altering software (that is, the data the printer uses to make the object), rather than having to retrofit the molds or other hardware used to make the actual object.
+For this reason, lots of people have speculated that 3D printing could revolutionize manufacturing, or lead to people printing their own goods at home instead of buying them at stores. But so far, it's mostly been a niche process, used for prototypes, models, and other individually crafted items.
+One of the reasons is that it's pretty slow. Conventional 3D printers usually take several hours to print an object — because with most printing methods, they need to individually treat each new layer of material after it's put down so that the next layer can be put down on top of it.
+the new method works in minutes rather than hours
+The new method is much faster because it works continuously, instead of in layers, eliminating this step. As a result, it works in minutes rather than hours — 25 to 100 times faster, its creators say, than conventional 3D printing.
+The lack of layers also makes the products of this new method stronger. That's because they're solid objects, rather than layers of material stacked together.
+These two factors, Carbon3D says, could make its technology practical for mass-producing common products — like, say, a toothbrush you buy in a store. In theory, it could combine the flexibility of 3D printing with the speed and strength of old-school injection molding — the current standard for mass-producing many types of products and parts, especially plastic ones.
+However, people have said similar things about conventional 3D printing, but that still hasn't happened. And that's not just because of time. Conventional 3D printing falls into a bit of a gap between potential uses — it's still far more expensive than manufacturing goods the old-fashioned way, but the printers are still mostly too complex for the average person to use at home.
+For it to succeed where conventional 3D printing hasn't, Carbon3D's technology will have to solve one of these problems. Its creators are betting it'll end up being cheap and reliable enough to use in mass production of goods, but right now, it's still a prototype — so we'll have to wait and see.

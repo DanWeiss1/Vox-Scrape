@@ -1,0 +1,28 @@
+Want to lose weight? Move to Denver
+Conventional wisdom holds that your chance of becoming obese depends mainly two obvious factors: your diet and how much exercise you get.
+But recently, some scientists have been testing the notion that an entirely unrelated factor can play a role.
+That's the conclusion of a new study by Air Force public health researcher Jameson Voss and others, published this month in the journal PLOS ONE. Rather than pointing to diet or exercise-related factors that have to do with high altitude (like, say, going hiking in the mountains), they point to the impact that low levels of oxygen can have on the body.
+The human body produces higher levels of leptin, a hunger-reducing hormone, at high altitude 
+Previous work has found that at higher altitudes — when less oxygen is present in the air — the human body produces higher levels of leptin, a hormone that reduces hunger. 
+Experiments have also shown that production of the hormones cholecystokinin (which also suppresses appetite) and norepinephrine (which reduces blood flow to the stomach, indirectly reducing hunger) also go up at high altitudes.
+There's also the possibility that your body has to do more overall work just to sustain its normal activities with less oxygen present, causing it to burn more fat over time.
+The initial evidence for this idea came from studies with rats, which found that keeping the animals in low-oxygen chambers led to lower obesity rates.
+Voss and other researchers subsequently conducted large-scale studies of humans and found that lower obesity rates strongly correlated with higher altitudes. This was true for countries as different as the US and Tibet.
+ Their work showed that for American adults, living at elevations close to sea level made people four to five times more likely to be obese than people living at high altitude:
+
+Jameson Voss
+But this sort of data could represent a correlation, not a causation — fewer obese people might move to high altitudes in the first place, so the link could have nothing to do with high altitudes and lower oxygen levels actually reducing obesity.
+Voss' new study addresses this problem by looking at a very specific population of people that has little control over where they move: military personnel.
+Americans at sea level are four to five times more likely to be obese
+He and colleagues looked at obesity rates over the course of seven years for a total of 98,009 military personnel, comparing those who were stationed at high altitude (greater than 6,430 feet above sea level) with those stationed at low altitude (less than 3,215 feet above sea level). They looked specifically at service members who were overweight (but not obese) at the start of the period, and had already served two years, eliminating the effects of enlisting and undergoing basic training.
+By comparing two groups that were similar at the start, they could see if obesity rates diverged over time. Because these personnel didn't choose to move to high elevation, but were assigned there, this would help eliminate the role of some irrelevant factors, like people moving to Colorado who were less prone to obesity in the first place.
+When they controlled for sex, age, and body mass index at the start of the study, they found that the correlation between altitude and reduced obesity was still quite strong. By the end of the period, people stationed at high elevations had a 41 percent lower chance of being obese than those at low elevations, and the split between the two groups became greater over time:
+
+Voss et. al.
+Interestingly, one specific low-altitude group showed obesity rates just as low as the high-altitude personnel: those who flew airplanes. The researchers speculate that this might also be due to their exposure to low-oxygen conditions while in flight.
+Even in this tightly controlled group, the correlation between high altitude and reduced obesity could still be caused by unrelated factors that have nothing to do with lower oxygen levels.
+the correlation could still be caused by unrelated factors
+Although personnel are assigned to their locations, their requests can have some influence on assignments, so it's possible people less prone to obesity — say, those who really like hiking in the mountains — might disproportionately request assignments in high-altitude places like Colorado.
+There could also be aspects of the bases built in high-altitude places that happen to make obesity less likely: personnel might have to climb more stairs, say, or the food at these bases might be healthier.
+The only way to know for sure would be a pretty unrealistic randomized controlled trial: you'd have to randomly separate people into two groups, tell one to move to Colorado, and the other to Delaware, ensure they ate the same diet and got the exact same amount of exercise for seven years, then compare their obesity rates.
+But if the researchers are right that intermittent exposure to low oxygen levels up in flight reduced obesity rates too, there could be a more realistic option: you do the same experiment, but just put people in hypobaric chambers for an hour a day instead of moving them to Colorado and Delaware. If conducted properly, this kind of study could definitively prove the effect of low oxygen levels on obesity, and could even suggest a new kind of therapy for it.

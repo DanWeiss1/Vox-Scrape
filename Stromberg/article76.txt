@@ -1,0 +1,31 @@
+The New Horizons Pluto flyby: what to expect
+NASA's New Horizons mission is about to show us Pluto up close for the first time.
+At 7:49 am ET Tuesday, the unmanned spacecraft flew within 7,750 miles of Pluto, taking high-resolution photos of its surface and collecting all sorts of scientific data. But we won't see any of these photos until Wednesday afternoon because the craft was focusing on data collection — not transmission — during the brief flyby.
+This is one of a few surprising aspects of how the mission is unfolding, dictated by the hard limits of engineering and gravitational physics.
+
+New Horizons' flyby trajectory.
+(NASA/JHUAPL)
+To get New Horizons all the way to Pluto in a reasonable amount of time (i.e., less than a decade), engineers had to send it there at an extremely high speed: around 31,000 miles per hour. That meant the craft had to be very light (about 1,000 pounds) — a bigger one would have been impossible to accelerate to that velocity. That, in turn, meant that New Horizons couldn't carry much fuel, not nearly as much as would be needed to put it in orbit around Pluto, a small object without much gravity to grab the spacecraft.
+As a result, this event that's been nine years in the making was over in a very short period of time: New Horizons flew by Pluto at an extremely high speed, traversing its diameter in a little less than three minutes. Fourteen minutes later, it made its closest approach to Pluto's moon Charon and took photos of its other four moons, as well.
+But the good news is that during this brief interval, the probe was able to capture more than 150 extremely detailed photos, as well as lots of other scientific data. The Pluto images will be 10 times sharper than the best ones New Horizons (or any craft, for that matter) has taken so far, showing us features as small as the pond in Manhattan's Central Park.
+The probe also gathered lots of scientific data on Pluto's atmosphere, temperature, and geology. All of this happened on autopilot, since it takes 4.5 hours for any signals sent from Earth to reach the spacecraft.
+ 
+
+
+
+
+
+
+Pluto, as seen by New Horizons on July 13. (NASA-JHUAPL-SWRI)
+New Horizons was oriented towards Pluto (away from Earth) during the flyby, and it was using its finite computing power to gather data — rather than send it back to us. As a result, NASA scientists received no signals from the craft most of Tuesday. In the evening, they finally got a signal confirming the craft successfully made it through the Pluto system.
+ 
+
+
+
+
+
+
+New Horizons' trajectory through the solar system. (JHU/APL)
+New Horizons subsequently began beaming back photos, but they're not scheduled to be publicly released until 3 pm ET Wednesday.
+The reason they're taking so long is because of New Horizons'  extremely low rate of data transmission: about 1 kilobit per second, more than 50 times slower than a 56k modem from the '90s. This is because of the huge distance between Pluto and Earth, and it means that it'll take more than 42 minutes for New Horizons to fully transmit an image that's 1024 pixels wide.
+NASA will release a handful of the most appealing images for public consumption over the next few days. Because it takes so long to send data back from Pluto, though, we won't have all of the photos and scientific data for a full 16 months, so scientists will have to be patient.

@@ -1,0 +1,60 @@
+Seasonal affective disorder: Why the short days of winter make you depressed
+As this endless winter has pressed on, there's a good chance that you might have begun to feel a little depressed. You could be moody, anxious, or less energetic. You might have the urge to sleep and eat more — and engage less socially.
+It's not in your head, and it's not the cold. It's the darkness.
+it's believed to affect 1.4 to 9.7 percent of the US population
+These symptoms are all part of a condition called seasonal affective disorder (SAD), and they're likely caused by a mismatch between your body's circadian rhythms and the timing of sunrise and sunset. "It's kind of like having jet lag for five months," says Alfred Lewy, a doctor at Oregon Health & Science University who worked with colleagues to define the disorder for the first time in the 1980s.
+Scientists once doubted the existence of this disorder, but it's now well-established and believed to affect somewhere between 1.4 and 9.7 percent of the US population, with greater numbers the farther north you go.
+Although the underlying mechanisms aren't fully understood, researchers have put together many pieces of the puzzle, and we now have a treatment that helps most sufferers: morning exposure to artificial light that mirrors the spectrum of light emitted by the sun.
+SAD was first identified in the 1980s, and initially many scientists thought it was simply caused by insufficient sunlight exposure during the short days of winter.
+Here was the idea: Normally, our brains produce the hormone melatonin at night, which makes us drowsy. Then, in the day, exposure to sunlight (but not artificial light) suppresses production of melatonin. For people living in northern latitudes, the thinking went, the short days of winter led to excessive melatonin production, ultimately causing SAD. This was known as the photoperiod hypothesis.
+However, over the past decade or so, researchers have largely ruled out this theory and instead support a slightly more complex one: the phase-shift hypothesis.
+ 
+
+
+
+
+
+
+(Birgit et. al.)
+Every morning, when sunlight first hits special receptors in your eyes, it suppresses your melatonin production by signaling to your body that it's time to wake up. This daily occurrence is responsible for setting your body's internal clock, housed in an area of your brain called the suprachiasmatic nucleus. 
+During the winter, as dawn gets later and later, your circadian rhythm naturally shifts later. "Unfortunately, this puts [our circadian rhythms] out of phase with our actual sleep-wake cycle, because we get up at the same time year-round," Lewy says.
+"this puts our circadian rhythms out of phase with our actual sleep-wake cycle"
+Because some people wake up before dawn during the winter, our bodies don't get sunlight at the right time to correctly calibrate their circadian rhythms every morning. (Other people have the opposite problem: they stay up way after it's dark out, so we begin producing melatonin too early, long before we actually go to sleep.)
+It's still not entirely certain, but most researchers now believe that this misalignment is the cause of the depression, overeating, sluggishness, and other symptoms many people experience every winter. In studies, Lewy and other researchers have found that people whose melatonin production begins too many or too few hours before they go to sleep at night have the highest rates of SAD.
+Giving these patients a low dose of melatonin at just the right time, meanwhile, effectively treats their symptoms — by resetting their bodies' internal clocks.
+ 
+
+
+
+
+
+
+Lewy and colleagues have found that six hours between the beginning of melatonin production and the midpoint of sleep is the ideal offset, and is associated with the lowest rates of SAD. (Lewy et. al.)
+However, the researchers mainly used melatonin here to demonstrate its involvement in the chain of events that causes SAD. If you suffer from the disorder, you can actually treat your symptoms by solving the root problem: light exposure.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+Light therapy is a highly effective treatment for SAD for most people. It basically involves sitting next to a special type of light box that emits a broad spectrum of light for 30 minutes or so. Here are some guidelines for picking out a good one.
+When scientists thought that SAD was simply caused by insufficient light exposure, they recommended doing this twice a day, extending the day in the morning and in the evening. But now, it's generally thought that a morning dose of light — right when you wake up — is best for synchronizing your circadian rhythms with the time you actually spend awake.
+For the minority of SAD sufferers that are misaligned in the opposite direction — that is, their internal clocks think it's nighttime before they actually go to sleep — light exposure therapy in the evening, rather than the morning, is best.
+In either event, you should talk to your doctor if you think you have SAD. Melatonin tests can confirm a diagnosis and indicate which way you need to shift.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+At this point, the link between light exposure, circadian rhythms, and SAD is pretty well established. But it's still unknown exactly why the clock misalignment leads to depression and the other symptoms. "That's just the general mechanism." Lewy says. "What actually makes some people depressed when their circadian rhythms are misaligned has not yet been figured out."
+A few different research groups are currently trying to address that. One recent brain-scan study indicated that people who suffer from SAD also have lower levels of the neurotransmitter serotonin in their brains during the winter. It's also been hypothesized that production of the stress hormone cortisone may be involved.
+scientists want to know why some people get the condition and others don't
+An intriguing, related question is whether there's a logical evolutionary basis for SAD. Some researchers have suggested that the urge to sleep and eat more during winter could have been an advantageous adaptation that led to higher survival rates during our evolutionary history — similar to other species' seasonal hibernation patterns. That idea, though, is entirely speculative. (It's also at odds with the phase-shift hypothesis, which suggests that if we woke and slept with the sun, SAD wouldn't happen.)
+There's also a very practical question scientists are trying to answer about SAD: why some people get it and others don't. "Not every person who experiences circadian misalignment gets depressed," Lewy says. "There has to be some other biological vulnerability." Women are far more likely to suffer from seasonal depression, as are young people, and researchers still don't know why.
+Finally, some researchers are intrigued by the possibility that there might be a link between circadian rhythm misalignment and general depression, anxiety, bipolar disorder, and other mental illnesses. Some are even experimenting with the use of light boxes to treat those disorders, rather than medication. At this point, though, it's still uncertain.
+Further reading: Why you're so tired on Monday mornings

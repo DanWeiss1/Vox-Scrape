@@ -1,0 +1,46 @@
+Scientists just found the Beagle-2 lander a decade after it vanished on Mars
+In December 2003, the European Space Agency's Beagle-2 lander was dropped to Mars by the Mars Express Orbiter. The craft was meant to search for life on the planet.
+Scientists expected to receive transmissions from Beagle-2 six days later, when it was due to land on Mars' surface. Instead, they heard nothing — and for the past 11 years, the fate of the tiny lander remained a total mystery.
+But today, ESA announced that, using satellite images, they've found Beagle-2. The images might also explain why the craft never transmitted any data: it appears that its solar panels didn't fully unfold, so the antenna wasn't exposed.
+ 
+
+
+
+
+
+
+An image taken by NASA’s Mars Reconnaissance Orbiter shows Beagle-2. (http://www.esa.int/spaceinimages/Images/2015/01/Colour_image_of_Beagle-2_on_Mars)
+
+The meter-wide lander was carried to Mars by the Mars Express Orbiter, then released five days before the orbiter entered Mars' orbit.
+To slow down the craft — which would have started out traveling at a speed of more than 12,000 miles per hour — a series of parachutes were to deploy once it entered Mars' atmosphere. Then, about 650 feet above the surface, a set of airbags were supposed to inflate, protecting the craft as it landed.
+ 
+
+
+
+
+
+
+A rendering of Beagle-2 being released. (Beagle-2)
+After the landing, solar panels were to unfold, allowing Beagle-2 to draw power and begin transmitting data.
+The lander would have been the first craft sent to Mars specifically to search for life since the Viking missions of the 1970s. Using a drill — as a well as a robotic "mole" that would have crawled across the surface, taken soil samples, then been pulled back to the lander by a wire — Beagle-2 would have collected Martian rock and soil. Then, a series of spectrometers inside would have analyzed them searching for signs of extant life, as well as organic compounds — the basic building blocks of all life on Earth.
+ 
+
+
+
+
+
+
+Beagle-2's robotic arm, with several scientific instruments. (Beagle-2)
+After scientists didn't hear from Beagle-2, they suggested a number of explanations: perhaps the parachutes hadn't deployed, maybe because the lander had gotten tangled in them on the way down. Or maybe the airbags hadn't inflated before Beagle-2 hit the surface, so that the craft was destroyed upon landing. Some even suggested that the lander might have burnt up in Mars' atmosphere on the way down.
+For years, scientists also used photos taken by several Mars orbiters to try searching for the lander, but were unsuccessful. Late last year, though, Michael Croon — a retired ESA staff member — spotted tiny dots in a few photos taken by NASA's Mars Reconnaissance Orbiter that he suspected might be Beagle-2. Subsequent research has confirmed it.
+ 
+
+
+
+
+
+
+A close-up of Beagle-2 suggests that only two out of four solar panels unfolded. (HiRISE/NASA/JPL/Parker/Leicester)
+The new photos also clear up the mystery of why we haven't heard from Beagle-2: it appears to have successfully landed on Mars' surface, but didn't fully unfold as planned.
+It looks like only one or two of the lander's four solar panels unfolded, preventing the antenna from being exposed. The photos also show what is believed to be one of Beagle-2's parachutes nearby.
+Despite finding it, there's no way ESA can resurrect Beagle-2 and use it to conduct science. But finally understanding what went wrong — and what worked perfectly — could help in designing future missions to Mars.

@@ -1,0 +1,32 @@
+We may be getting closer to predicting big earthquakes
+Scientists still can't predict the timing of big earthquakes. But they might be getting a little bit closer.
+At least, that's the argument of UC Santa Cruz seismologists Emily Brodsky and Thorne Lay in a new Science article.
+before powerful japan and chile earthquakes, similar swarms of small tremors occurred
+Here's why: A few weeks before the powerful earthquakes that hit Japan in 2011 and Chile in 2014, swarms of small tremors occurred at the faults off the shores of both nations. These patterns jibed with other seismologists' recent observations about the seismic patterns that happen before other large earthquakes that happen at faults between tectonic plates.
+All this doesn't give seismologists a surefire way to predict big earthquakes. For one, there are cases where this same pattern happened and didn't lead to a big quake. What's more, scientists often don't have sufficient offshore monitoring equipment in many places. But the research does suggest that, after years of trying, seismologists might finally be making some progress in the quest to predict earthquakes.
+Earthquake prediction has been a goal of seismologists for decades. If they could provide minutes, hours, or even days of notice before big earthquakes, authorities could evacuate danger areas and dramatically reduce the death toll.
+But to predict an earthquake, scientists would need to find some kind of precursor event — something that often occurs just before a big earthquake, but rarely at other times.
+finding a phenomenon that routinely happens before big quakes has been difficult
+Previously, a wide range of precursors have been proposed: everything from animal behavior to the leakage of radon gas from the ground. There have even been a number of notable prediction successes, each time leading to claims that a legitimate prediction method was finally here.
+But it's easy to accurately predict an earthquake happening once. Finding a specific phenomenon or trend that routinely occurs before big earthquakes has proven much more difficult, and seismologists have been unable to identify one so far.
+As a result, seismologists rarely talk about "predicting" earthquakes anymore. There are probabilistic, multi-year forecasts of risk — California, for instance, has a 99.7 percent chance of a 6.7-magnitude or larger earthquake during the next 30 years — but there are no short-term predictions so far.
+
+The swarm of small earthquakes off the shore of Chile that came before the 8.1-magnitude quake. USGS
+In recent years, however, some seismologists have come up with a new proposed precursor — and the recent large earthquakes in Tohoku, Japan and Chile have lent that proposal some credibility.
+"Tohoku suggested was that there was a precursory sequence for a few weeks before the big earthquake," Brodsky says. "The location of these small earthquakes appeared to migrate for a few kilometers a day, then they stopped, then there was a slightly larger earthquake before the big one."
+Because this pattern precisely mirrored one that had been observed before other large quakes at undersea faults, seismologists took notice, but only in retrospect.
+SEISMOLOGISTS and news outlets noted the swarm in the days before the big earthquake
+Then, this March, the same pattern — a swarm of small earthquakes at similar depths, gradually migrating along a slipping undersea fault line — began happening off the coast of northern Chile. Though seismologists didn't want to cause a panic, they did take note of it at the time, to the extent that news outlets even picked up the story in the days before the April 1, 8.1-magnitude quake.
+Seismologists are generally a cautious bunch, so no one is going out and saying that this swarm "predicted" the big earthquake.
+Still, observing the seismic pattern in real time — and correctly suggesting it might be a precursor a big quake — is definitely progress. It's especially promising because the particular kind of faults involved (offshore faults in subduction zones) cause the majority of the world's strongest quakes.
+
+The Cascadia subduction zone, off the coast of the Pacific Northwest, isn't yet wired with undersea seismic equipment. USGS
+There are still two big obstacles standing in the way of earthquake prediction, however.
+One is with the theory. Sure, this same seismic pattern was a precursor to both the Japan and Chile earthquakes. But there have been other times when a similar pattern of tremors occurred and didn't lead to a big quake.
+most of the world's undersea faults don't have the seismometers necessary
+"In 1997, also off the coast of Chile, there was a pattern of small, migrating earthquakes, but they didn't lead anywhere," Brodsky says. So seismologists need to narrow how they define the precursor — and explain why the swarms led to big, destructive quakes in 2011 and 2014, but not 1997.
+One potential distinction that Brodsky and Lay note is that in 2011 and 2014, the regions of the faults involved hadn't had any strong earthquakes in over a century, allowing large amounts of seismic strain to build up. That wasn't the case leading up to the 1997 pattern.
+The other obstacle is practical: most of the world's undersea faults at subduction zones don't yet have the large numbers of wired seismometers necessary to transmit seismic data in real time. Japan and Chile have both begun investing in such infrastructure, but they're a minority.
+The US, for instance, does not have any installed at the Cascadia subduction zone, off of Washington and Oregon, which is the main fault of this type that impacts the country and is projected to produce a strong earthquake sometime in the next few decades. (California's earthquakes are caused by the San Andreas fault, a different type of fault that isn't covered by this theory.)
+Laying the cable needed to transmit real-time data from a few thousand seafloor seismometers — the number necessary to be able to calculate the slow creep of a slipping fault, as well as a swarm of quakes — could cost upwards of $1 billion. Given that the US hasn't experienced any large earthquakes in some time, there isn't a lot of momentum behind this kind of expenditure.
+But Brodsky says that's exactly the wrong mentality. "There's a tendency to install seismometers right after a big earthquake. That happens a lot," she says. "But it would be much more useful, for science and society, to do it beforehand."

@@ -1,0 +1,102 @@
+No, this winter solstice wasn't the longest ever. Scientists explain what we got wrong.
+On Sunday, I published a story claiming that the 2014 winter solstice would feature the longest night in earth's history. That claim was absolutely incorrect.
+How did I get this wrong? My reasoning was that the days on earth are gradually lengthening over time due to a phenomenon known as tidal friction, which slows down the planet's rotation. That would mean that every new winter solstice — the longest night of the year in the Northern Hemisphere — would also be the longest night of all time.
+a number of factors can speed up or slow down the earth's rotation
+But as readers pointed out, this was far too simplistic — and I'd missed some important factors. Yes, tidal friction does slow down the earth's rotation over extremely long periods of time. But other factors — including geological activity and shifting ice caps — can also slow it down or speed it up by a few milliseconds over the course of many years. If you take all of these factors into account, the 2014 winter solstice was not actually the longest night in history.
+I apologize for this. My primary job as a reporter — and my biggest responsibility to readers — is to get the facts right. In this case, I failed spectacularly.
+So this follow-up post is my attempt to begin setting things right. I've spoken with a number of experts in an attempt to explain all the different factors that actually affect earth's rotation. And the truth is way more interesting, complex, and telling about the spinning rock we live on than my initial assumption.
+"The earth's rotation changes on many different timescales because of all sorts of different factors," says Richard Gross, a NASA physicist who studies the subject. "Basically, anything that substantially changes the distribution of mass throughout the earth will do it."
+As a result, scientists have seen a good deal of variation in the length of a day ever since they've been keeping close track of it, over the last few centuries. The longest day on record — which was a full 3.9 milliseconds longer than a standard, 24-hour (or 86,400 second) day — occurred not on Sunday, but back in 1912:
+ 
+
+
+
+
+
+(Steve Allen)
+
+
+
+The measured length of a day, between 1750 and the present. The Y-axis shows how many milliseconds each day is off from exactly 24 hours. (Steve Allen)
+"Lots of people think the earth's rotation is a simple, 24-hour thing," says Steve Allen of the University of California's Lick Observatory. "But weather in the atmosphere, in the ocean, and in the core of the earth make it complicated."
+Over the past few centuries, scientists have used astronomical observations to determine the exact length of days.
+Historically, this involved timing the exact length of a lunar eclipse or occultation (that is, the moon passing in front of a star) and using that as a proxy for the speed of earth's rotation. More recently, the development of satellites and other technology have allowed scientists to measure the rotation rate with ever-greater precision.
+So how do we know that the earth's rotation rate has been gradually slowing down for thousands of years?
+ 
+
+
+
+
+
+
+The measured length of a day, going back several thousand years. The Y-axis shows how many milliseconds each day is off from exactly 24 hours. (Steve Allen)
+"Those are data that were painstakingly teased out of historical eclipse observations," Allen says. By looking at the eclipses witnessed — or not witnessed — by various cultures in the history of our species, British astronomers F. Richard Stevenson and L.V. Morrison extrapolated information about the speed of earth's rotation throughout recorded history.
+Going back farther than that, scientists have studied fossils to infer the rotation speed. Corals, for instance, generate growth bands based on daily and seasonal growth cycles, and by counting these bands, scientists have calculated that 350 million years ago, a full day was slightly less than 23 hours long.
+Even farther back, the calculations are largely theoretical. Due to tidal friction (more on that below), we know the rate of rotation has steadily decreased since the earth was formed 4.5 billion years ago. Back then, the length of a day was estimated to be only six hours.
+Over the longest time scales, the main factor at play is a phenomenon called tidal friction. As the moon orbits around the earth, its gravity pulls at our ocean water, creating two bulges of water that rotate around the planet. We call them tides.
+However, these bulges aren't oriented directly underneath the moon — they're slightly ahead of it, in terms of the direction of earth's rotation.
+ 
+
+
+
+
+
+(Wahr 1996)
+
+
+
+The tidal bulge caused by the moon is slightly ahead of the spot on earth directly under the moon. (Wahr 1996)
+As a result, the earth encounters just a bit of friction from this bulge of water as it rotates, slowing it down slightly. Additionally, the sun causes tides and tidal friction, though only about a fifth as much as the moon, because of our vast distance from it. Together, these effects are responsible for the dramatic slowdown of our planet's rotation over millions of years, and they continue to cause the length of an average day to grow by one to two milliseconds every century.
+However, for the last 12,000 years or so, there's been another factor working in the opposite direction, speeding up earth's rotation by about .6 milliseconds every century: the melting of glacial ice.
+"During the last ice age, the weight of ice sheets in North America and Antarctica pushed mantle mass very slightly toward the equator," says Ryan Hardy, a PhD student in geodesy at the University of Colorado.
+As ice disappears, the land below it springs back up very slightly — currently, at rates of a centimeter or so per year in these polar regions — which means that there's slightly more mass at the poles, and less at the equator.
+ 
+
+
+
+
+
+
+A map showing the vertical uplift throughout world. The blue areas show more than a centimeter of annual lift due to melting glaciers. (Erik Ivins, JPL)
+This redistribution changes earth's moment of inertia, and allows it to spin just a bit more rapidly,  much like a spinning figure skater spins faster if he or she pulls her arms in. This effect will be accelerated by the melting of glacial ice due to climate change — scientists calculate that it will further shorten the length of a day by about .12 milliseconds over the next two centuries.
+Over the course of several decades, geologic activity can speed up or slow down the length of a day by a few milliseconds. "The earth's rotation speed will increase for a few decades or so, then decrease, mostly due to processes that are happening within the earth's liquid core," Gross says.
+The liquid core is a layer of molten rock between the solid inner core and the semi-solid mantle and crust, which we stand on. The inner core rotates slightly faster than the rest of the planet, so the flow of liquid rock in the outer core alters the transfer of momentum to the mantle and crust, and as a result, the earth's measured rotation speed.
+ 
+
+
+
+
+
+
+(Kelvinsong)
+Variations in this geologic activity aren't predictable or well-understood. However, we believe they're responsible for the decade-scale changes in the earth's rotation speed because they match up well with recorded fluctuations in the earth's magnetic field, which is also formed by flow of molted iron in the outer core.
+ 
+
+
+
+
+
+(Lambeck 1988)
+
+
+
+An illustration of the many factors that affect rotation speed. (Lambeck 1988)
+At shorter timescales, there are many different factors that cause multi-year, annual, six-month, one-month, and two-week cycles in rotation speed. Combined, they can alter the length of a day by around .2 to .3 milliseconds.
+One factor at play here is seasonal changes in wind speed, because the movement of the atmosphere can sap slight amounts of the planet's rotational momentum. If the atmosphere as a whole is moving primarily from west to east, for instance, this effect will slightly slow down the rotation of the earth underneath it. Seasonal changes in atmospheric pressure also play a role.
+Tides also cause a number of distinct cycles — at 12-hour, daily, fortnightly, monthly, every six months, every year, and 18.6 year frequencies — in a way that is entirely distinct from their longer-term tidal friction effect. "They periodically change the shape of the earth, which affects its rotation," Gross says.
+The 12-hour variations are simply due to each day's two high tides and low tides, caused by bulges in ocean water that form due to the effect of the moon's gravity. The longer-period variations are linked to subtler, longer-term cycles in tides that are caused by gravity exerted by the sun and Jupiter as well.
+Seasonal changes in ocean currents cause similar changes over the course of a year. Because of them, Allen says, "In the Northern Hemisphere summer, the earth spins slightly faster, and in the winter, it spins slightly slower."
+Finally, there are random, sporadic events that may alter the distribution of mass throughout the earth enough to alter its rotation speed. "Some very large weather systems — say, a huge storm over the Andes — have been shown to cause an observed change," Gross says.
+It's been hypothesized that earthquakes could cause similar changes, but that's never been directly observed using measured data.
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+Closely tracking these variations and trying to figure out why they occur is important because, when added up over time, they mean that the length of a day ends up being appreciably different from 24 hours (or 86,400 seconds).
+So to keep the Coordinated Universal Time (the time standard used to coordinate essentially all modern technology, such as satellites, airplanes, and computer systems) synced up with the period of earth's rotation, official timekeepers began occasionally creating leap seconds in 1972, and have done it a total of 25 times in the years since.
+Because the exact length of a day is dependent on all these complex factors, these leap seconds can't be added on a predictable schedule. Instead, they're announced about six months ahead of time. The most recent one occurred on June 30, 2012.
+In some cases, software isn't written to accommodate leap seconds, and the 2012 event actually caused outages for Mozilla, Reddit, Gawker, and other websites. As a result of these sorts of problems, some officials have proposed eliminating leap seconds, advocating that we simply let our official time gradually drift out of sync with solar time, but it's uncertain whether this will occur.

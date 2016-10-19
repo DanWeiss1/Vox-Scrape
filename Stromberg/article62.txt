@@ -1,0 +1,50 @@
+Robot umpires should be the future of baseball
+On Tuesday night, at a minor league baseball game between the San Rafael Pacifics and the Vallejo Admirals, the home plate umpire called no balls or strikes. Instead, for the first time in history, a computer system did.
+For the first time in history, a computer system called strikes and balls
+Specifically, a trio of cameras tracked the precise location of every pitch as it crossed the plate, and a computer system determined whether it had crossed the strike zone. The system is technically called PITCHf/x — but fans generally call it a RoboUmp. 
+The technology itself isn't new, as similar systems have been in place in major league stadiums for years. But until the Pacifics' two-game experiment with the RoboUmp, they had only been used for broadcast graphics and analytics, rather than for making official rulings.
+Baseball traditionalists might cringe at the idea of this technology ever reaching the major leagues. But it's a better way of calling balls and strikes — and in a sport where a few inches can be the difference between a win and a loss, there's no reason to retain inaccuracy solely for tradition's sake.
+ 
+
+
+
+
+
+
+(Sportvision)
+PITCHf/x uses three cameras — one in center field and two mounted on the grandstand — to track each pitch. Each camera captures about 30 images of the ball from the time it leaves the pitcher's hand to the time it's caught, and a computer analyzes this data to determine its path, speed, and location as it crosses home plate.
+Deciding whether a pitch crosses vertically over the plate is relatively simple, because the location of home plate doesn't change. An operator calibrates the system so that its strike zone matches the width of the plate, and currently it's recalibrated several times per season in each MLB stadium, before opening day and whenever data indicates it needs adjustment.
+Three cameras track the path, speed, and location of each pitch
+But determining whether the pitch passed between a batter's shoulders and his knees — the MLB's official definition of the strike zone — is a bit trickier, because the zone changes from batter to batter. Currently, PITCHf/x relies on human auditors who watch previous film of each batter and code exactly where his strike zone is. The system then loads this data when he comes to the plate.
+A human operator at the center-field camera watches the system throughout the game to make sure it's calibrated correctly, and he or she has the ability to tweak each batter's defined strike zone, if needed. But PITCHf/x's improving software models mean this is rarely necessary. "We’ve gotten to the point where we really change them very, very little, because even though batters will change their stance somewhat, the process we have for maintaining them is very sound," Cory Schwartz of Major League Baseball Advanced Media told Grantland in 2013.
+At the Pacifics game in San Rafael, for the first time, the computer's calls were made official. Specifically, they were passed off to a human (former player and PITCHf/x advocate Eric Byrnes) who called "ball" or "strike" in an umpire's characteristic bark — and the players generally approved of the system's decisions.
+ 
+
+
+
+
+
+
+(Sportvision)
+A study by physics professor Alan Nathan found that PITCHf/x accurately locates a pitch to within an inch. The MLB implicitly endorses its accuracy by using it to grade its umpires after each game.
+And when doing so, they've found that umpires overall have a 95 percent success rate in calling strikes and balls: a pretty high figure, but one that still means that roughly eight pitches per game are called incorrectly. As it turns out, it's pretty hard for a human to track a 3-inch ball coming at him at 100 miles per hour and accurately decide if it nicked the corner of the plate.
+The system is accurate to within an inch
+Of course, adopting an entirely new system means that entirely new sorts of errors can pop up. Occasionally, PITCHf/x can completely fail to register a pitch, sometimes due to poor lighting (Schwartz told Grantland that this occurred on 892 of 709,917 pitches thrown during the 2013 season). And meanwhile, on two at-bats, human operators incorrectly calibrated the system, leading to the possibility that absurdly high pitches — thrown at the level of the batter's head — could have been called strikes.
+Still, these sorts of problems can be corrected as PITCHf/x is used, and it's improved substantially since the 2013 season. Most of those missed pitches, for instance, occurred during a handful of games in which the system was installed incorrectly.
+ 
+
+
+
+
+
+
+(Justin Edmonds/Getty Images)
+When asked by a batter if a pitch was a ball or a strike, legendary umpire Bill Klem  once famously declared, "Sonny, it ain’t nothin’ till I call it." This ambiguous definition of the strike zone — that it's a decision made inside the mind of the umpire, rather than a physical location above the plate — still rules in the minds of many traditionalists.
+They believe that the strike zone is a mutable area, varying based on the game situation, the particular umpire, the handedness of the pitcher, and even the performance of the catcher in positioning his glove and body to make it look like he caught the ball behind the plate. Transforming it into a strictly defined, consistent zone, they argue, would strip away a key element of baseball.
+Already, the strike zone varies far less than it used to
+The idea that these arbitrary factors, entirely absent from the rule book, are a good thing to base calls on is part of baseball's deeper obsession with tradition, one that's greater than in any other American sport. Only last year did they begin allowing managers to challenge calls using instant replay — and balls or strikes still can't be reviewed.
+The same type of thinking holds that human umpires should arbitrarily change the strike zone because they've always arbitrarily changed the strike zone. PITCHf/x faces the huge obstacle of nostalgia before it might ever be implemented.
+But what its opponents rarely consider is that technologies like PITCHf/x have already transformed baseball. Starting in 2002, the MLB used an older system called QuesTec to evaluate umpires' performance after each game and see how consistently they called balls and strikes; in 2009, it was replaced by PITCHf/x. Through use of this data, grades, and other incentives, the league has pushed umps to standardize their strike zones, and studies find the variance between different umpires' calls narrowed by more than 25 percent by 2008. For years, MLB has been trying to standardize the strike zone — and as a result, it isn't nearly as variable as it used to be.
+There's no reason PITCHf/x shouldn't be employed in real time to further close this gap. It wouldn't eliminate the home plate umpire: he'd still be there to call foul balls, checked swings, balks, and other facets of the game. Perhaps he'd still have the final say over balls and strikes — a light or a buzzer could tell him PITCHf/x's call, but he could overrule it in some circumstances.
+It's certainly still a long way off, and there are no indications that MLB is considering adopting this sort of plan. But let's hope Tuesday's Pacifics game is the start of something bigger — and that PITCHf/x eventually reaches the major leagues.
+Update: This article previously used MLB's rule against aluminum bats as an example of its traditionalist streak, though there's good evidence that they are more dangerous than wooden ones.

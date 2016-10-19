@@ -1,0 +1,21 @@
+Chart: NFL games are mostly commercials and replays
+Given the NFL’s huge popularity, there’s something surprising about the average three-hour NFL game: Very little of it involves people playing football.
+ 
+
+
+
+
+
+
+(Joseph Stromberg/Vox)
+This chart is based off data I collected during a regular-season game in 2014, but the Wall Street Journal charted four other games and came to a similar conclusion. Because of the basic design of the sport and the economics of TV broadcasts, the majority of a game consists of players standing around between plays and commercials.
+In the game I charted, 8.3 percent was made up of actual gameplay. For the Super Bowl, that number is probably even lower because it has an especially long halftime (about half an hour, versus 12 minutes during the regular season).
+The good news is that because companies pay so much for Super Bowl ads, they should at least be a little more entertaining than usual. Watch all the 2015 ads here.
+For more, check out 40 maps and charts that explain sports in America.
+This story was originally published on February 1, 2015.
+
+
+<!--
+  new pym.Parent('super-bowl-50-coverage__graphic-super-bowl-widget', '//apps.voxmedia.com/sbnation/super-bowl-50-coverage/vox/');
+// -->
+

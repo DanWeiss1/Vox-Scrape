@@ -1,0 +1,33 @@
+SpaceX launched a NOAA satellite to protect us from solar storms
+At 6:03 pm ET on Wednesday, the company SpaceX launched a rocket carrying DSCOVR, a satellite that will orbit the Sun to warn us about space weather. Here's a replay of the Cape Canaveral launch:
+
+SpaceX originally planned to attempt to land the main part of its rocket on a floating barge after it was used, part of a long-term plan to make rockets reusable, which could dramatically reduce the price of space travel.
+But stormy weather caused the company to abandon that aspect of the plan. However, it still brought the rocket vertically back down into the ocean, for practice.
+ 
+
+
+
+
+
+
+An illustration of SpaceX's plan to land the rocket. (John Gardi and Jon Ross)
+Read more about the rocket landing here. Here's what you should know about DSCOVR:
+The DSCOVR satellite will function as an early-warning system for solar storms. These events occur when the Sun's surface erupts, sending clouds of charged particles through space — and sometimes, towards Earth.
+If they hit Earth, especially strong solar storms can create electrical currents, which interfere with our electrical grid. In a few cases in the past, big storms have caused localized blackouts, and it's possible that even bigger storms could cause widespread power failures. (Constant low-level charged particles from the sun are also what cause the auroras that are visible at the poles).
+DSCOVR is supplementing an older satellite, called ACE, that was launched in 1997 and is near the end of its lifetime. The new satellite will be put at a Lagrangian point — a location where the gravity of the Earth and the Sun will effectively cancel each other out. This will let DSCOVR stably orbit the Sun about 930,000 miles inward from Earth.
+
+When solar storms occur, DSCOVR (which will be operated by the US's National Oceanic and Atmospheric Administration) will give about an hour of warning before the charged particles hit Earth. It will be like "buoy in space ... that warns us of that solar tsunami coming toward the Earth," Thomas Berger, of NOAA's Space Weather Prediction Center, said in an interview with NPR.
+It will also collect a wealth of data to help scientists better understand solar storms in general.
+DSCOVR will also carry out a secondary mission: taking a photo of the entire sunlit portion of the Earth several times a day.
+That aspect of the mission can be traced back to Al Gore. In 1998, as Vice President, he proposed launching a satellite that would provide a live stream of Earth's surface at all times. The idea was inspired by the famous "blue marble" photo taken by Apollo 17 in 1972 — an image that helped galvanize the environmental movement, as a reminder that we all live on an isolated, finite planet:
+ 
+
+
+
+
+
+
+(NASA/Apollo 17 crew)
+After Gore proposed the satellite, NASA scientists decided to add solar storm monitoring instruments, and it was ready to be launched in 2003. By then, though, Republicans had come to power, and they killed the project.
+It was revived in 2009, when the need for a new space weather satellite became apparent, and DSCOVR was literally brought out of storage at Maryland's Goddard Space Flight Center and readied for launch. It won't provide a live stream of Earth, but will snap several photos a day and also capture images of specific wavelengths of light to collect data on ozone and atmospheric pollutants.
+Correction: This article originally said DSCOVR would be 930,000,000 miles from Earth, not 930,000.

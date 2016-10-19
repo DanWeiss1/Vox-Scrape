@@ -1,0 +1,33 @@
+The case against always leaving the toilet seat down
+Any household shared by men and women inevitably deals with a pressing question: what do you do with the toilet seat after it's used?
+Conventionally, it's considered courteous for men to always lower the seat back down after they've urinated.
+But is that necessarily the optimal solution? As it happens, a few different economists have considered this question — and found that, if your priority is minimizing the total amount of toilet-seat moving (and therefore touching) that goes on or making things fair, it's not necessarily the best strategy.
+If one man and one woman are living together, and the goal is minimizing the total number of times that the toilet seat has to be moved, the best strategy is pretty straightforward. As Michigan State economist Jay Pil Choi has found, everyone should just leave the toilet seat at whatever position it's in when they're finished.
+ 
+
+
+
+
+
+
+(Data from simulation by Jeff Sergeant)
+The reason this works is pretty simple. Imagine that the man and the woman alternate in their use of the toilet (they won't always, but it works for the purposes of this explanation).
+The man will have to lift the seat up each time he pees, but won't have to do anything when he poops. The woman will have to put the seat down if she uses the toilet after the man pees, but not if he poops.
+Overall, moves — and touching of the toilet seat — will be minimized, as no one will ever move it twice in one session. And a decent percentage of the time, no moves will be required at all (especially since, in reality, the man and the woman won't always alternate).
+ 
+
+
+
+
+
+
+(Shutterstock.com)
+Of course, minimizing the total number of moves isn't always the top priority. Though the man will end up making slightly more moves than the woman in the scenario above, you might argue that the strategy is unfair to the woman.
+That's because, if she were living alone, she'd never have to move the seat at all. The man, on the other hand, would have to move it occasionally. So the woman's incremental cost to sharing the toilet with the man is higher.
+That's why Richard Harter developed an alternate strategy in an article for Creative Science Quarterly. He calculated that to make the incremental costs to the man and the woman roughly equal, the woman should always leave the seat down when she's finished, and the man should put it back down half of the time after he pees.
+This assumes that he poops on about a third of his bathroom visits, though, which seems a little high. If the real number is a bit lower, then he'll have to lower the seat after peeing somewhat more often — perhaps two thirds of the time.
+Of course, these calculations assume there's an equal number of men and women using the toilet. If there are more of one or the other, it'd skew things slightly — making it so that the men should raise or lower the seat more often, respectively.
+There is, however, one reason why you'd want to put the seat down every time — to prevent anyone from falling in to the toilet, especially during groggy nighttime bathroom visits when they might not look at the seat position before sitting.
+This is probably a more frequent concern for women, but can affect men too. So if anyone has an unshakable habit of sitting without looking, that could justify putting the seat down every time, even though it means more toilet seat touching.
+Otherwise, you might end up like Larry David:
+

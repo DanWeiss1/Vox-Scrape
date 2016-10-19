@@ -1,0 +1,102 @@
+We just landed a spacecraft on a comet for the first time. Here's why it matters.
+ 
+At around 10:30 am EST Wednesday morning, a small probe named Philae made history — by becoming the first spacecraft to ever land on a comet.
+
+The 220-pound, box-shaped lander was carried to the comet, called 67P/C-G, by a larger probe named Rosetta, launched and operated by the European Space Agency. In August, Rosetta became the first spacecraft to ever be put into orbit around a comet, and at 3:35 am EST on Wednesday morning, it released Philae.
+After a seven hour journey down from Rosetta, the lander successfully made contact with the comet, sinking down an estimated four centimeters into its dusty surface. However, the lander's harpoons did not correctly fire, and Philae slowly bounced off the comet, then landed again. 
+Ultimately, Philae landed on its side, perhaps next to a crater, jeopardizing its ability to collect sunlight. Still, it's stable at the moment, and has already begun transmitting scientific data, as well as photos:
+ 
+
+
+
+
+
+
+A composite of six images taken by Philae on the comet's surface. (ESA)
+If it can't gather sunlight, the lander will have just 64 hours or so (the amount of time its battery power will last) to collect all scientific data, telling us more about comets than we've ever known before.
+ 
+
+
+
+
+
+
+A rendering showing the Rosetta probe (top left) next to Philae (center) and the comet. (ESA/Rosetta/Navcam)
+Rosetta was launched from French Guiana in March 2004, and has now traveled more than 3.5 billion miles in space.
+The reason it's been traveling so long is that, to reach the comet, Rosetta had to loop around the solar system several times, passing by Earth and Mars so that it could use the planets' gravity as a slingshot. In 2008 and 2010, the spacecraft also flew by a pair of asteroids, allowing engineers to take photos and calibrate Rosetta's cameras before it approached its final destination.
+In 2011, after Rosetta had traveled too far from the sun to sustain itself with solar power, it went into hibernation to conserve energy, and was woken back up at the start of 2014. Finally, in August, Rosetta successfully rendezvoused with the comet, a 2.5 mile-wide chunk of rock and ice that approaches the sun in an elliptical orbit, then goes back out once every six and a half years.
+ 
+
+
+
+
+
+
+(LiveCometData.com)
+Scientists had been expecting a nice, even, roughly spherical object, which would have hopefully provided several level landing areas. Instead, they found a lopsided comet that they've been calling "duck-shaped."
+ 
+
+
+
+
+
+
+A close up of the comet, taken by Rosetta on August 6th. (ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA)
+Two previous probes had flown by comets, and in 2005, NASA intentionally crashed a probe into a comet in order to analyze its interior. But putting a craft into orbit around a comet is much more difficult (it is, after all, a spinning, mountain-sized object orbiting the sun at about 84,000 miles per hour, millions of miles from Earth) and Rosetta is the first craft to ever achieve the feat.
+ 
+
+
+
+
+
+
+
+Video taken by Rosetta as it approached the comet. (ESA/Rosetta/Navcam)
+Over the past three months, Rosetta has orbited the comet, taking photos of the surface and searching for landing sites. The craft has also analyzed the gases given off by the comet as it nears the sun and warms up.
+Rosetta will stay in orbit around the comet for the next year, tracking it as gets continually hotter and begins to vaporize. Data collected during this period will provide new information about the plume of dust and water vapor that forms a comet's tail as it passes by the sun. Then, in December 2015, Rosetta will break away from the comet, which will travel back out toward the outer reaches of the solar system.
+Even without the lander, this is by far the most ambitious project ever attempted by the European Space Agency — it involved 10 years of planning and 10 years of travel just to reach this point, and cost an estimated $1.59 billion.
+ 
+
+
+
+
+
+
+A rendering of Philae landing on the comet. (ESA)
+Despite the many firsts of Rosetta, the most remarkable part of this mission was landing Philae, a dishwasher-sized probe, on the comet's surface.
+Much was rightfully made of the difficulty of landing Curiosity on Mars' surface in 2012. But some experts have said that Philae's landing was even more difficult: partly because we've mapped the comet much less thoroughly than we have Mars, and because the comet's uneven shape made it impossible to find a landing site that was entirely level.
+ 
+
+
+
+
+
+
+The landing site. (ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA)
+Undetected cracks or boulders could have caused the lander to flip, jeopardizing its ability to transmit data back to Rosetta. In terms of space landings, the speed of this mission — going from taking initial photos to landing three months later — was unprecedented.
+Making matters even more difficult was the fact that, late Tuesday evening, scientists discovered that the lander's rocket thruster system was malfunctioning. The thrusters were originally designed with the expectation that Philae would be landing on a smaller comet with a weaker level of gravity (they'd be needed to help propel it downward), so they weren't essential for this mission, but it still limited scientists' ability to control the lander.
+ 
+
+
+
+
+
+
+The first photo taken by Philae during its descent. The Rosetta spacecraft is at the top right, with a solar panel extending into the top center. (ESA/Rosetta/Philae/CIVA)
+Still, after a descent of about 19 miles over the course of seven hours, Philae successfully landed on the comet at a speed of about one meter per second (similar to that of a person walking).
+Because the harpoons didn't fire, the lander slowly bounced off the comet twice, floating for two hours and traveling a full kilometer. It's currently stable — albeit resting on its side, with only two of three legs touching the surface — but it is currently capable of collecting some data.
+Philae now has less than three days' worth of battery life to tell us a ton of new information about both this comet and comets in general. It'll immediately begin using its panoramic camera to provide photos of the comets' surface of unprecedented detail.
+The lander carries 10 scientific instruments in total, including a system capable of drilling up to nine inches down into the comet's surface, extracting, and analyzing soil samples. However, its precarious position may prohibit this from happening — drilling could push the lander off the comet's surface entirely.
+Another instrument will emit radio waves that will travel through the comet's center, then get picked up by the orbiting Rosetta. Based on the time it takes for these waves to arrive, scientists will be able to map the comet's interior.
+ 
+
+
+
+
+
+
+A photo taken by a camera aboard Philae of Rosetta, with the comet in the background. (ESA/Rosetta/Philae/CIVA)
+All this data will be especially interesting because the comet is believed to have formed 4.6 billion years ago, from material leftover as Earth and the solar system's other planets were coalescing. As a result, understanding the composition of comets could help us better model the formation of the solar system.
+Moreover, many scientists believe that in the period afterward, when the solar system was still a chaotic, collision-filled system, comets and asteroids were responsible for bringing water and perhaps even organic molecules to Earth. If water ice is present on this comet, as scientists hope, Philae will calculate the ratio of different sorts of hydrogen isotopes present in it — information that could provide an important clue as to whether the hypothesis is correct.
+In other words, data collected by a tiny robot on this lopsided, spinning comet, millions of miles away, could provide a window into the history of all life on earth.
+Update: This article has been edited to reflect ongoing developments.

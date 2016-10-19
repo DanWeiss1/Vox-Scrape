@@ -1,0 +1,86 @@
+Why one organization is building a clock that will tick for 10,000 years
+When you hear the phrase "long-term," what time span do you think about?
+The Long Now Foundation wants to get you thinking about the next 10,000 years
+For most people, a long-term plan is five years. 50 years is an unfathomably long time. 100 years, of course, is longer than most people's lives.
+The Long Now Foundation wants to get you thinking about the next 10,000 years. "Civilization is revving itself into a pathologically short attention span," writes co-founder Stewart Brand in an essay explaining the central idea of the organization, which was founded in 01996 (they use five-digit years to avoid the year 10,000 problem, a Y2K-like bug that will occur in 8,000 years). 
+Our leaders obsess over getting re-elected in two years, or maximizing earnings for the next quarter — and this short attention span, the Long Now argues, prevents our species from seeing its existential threats, like global warming and asteroid impacts. As Brand writes, "Some sort of balancing corrective to the short-sightedness is needed."
+One of the organization's attempts at a corrective will be the 10,000-year clock — a monumental clock currently in construction in the remote West Texas desert that will tick for ten millennia, sounding a different melody every single day, giving people a tangible reminder of how brief our moment really is. "Ideally, it would do for thinking about time what the photographs of Earth from space have done for thinking about the environment," Brand writes.
+Other correctives include a nickel disc with 1,500 languages microscopically engraved on it that can last for thousands of years, a forum for making bets that can take decades to resole, and an effort to use genetics to bring back extinct species.
+The objective of all these strange projects: to get humankind thinking about solving problems on a truly long-term timescale — rather than obsessing over the next quarter's stock market earnings or voter approval ratings leading up to the next election. I recently spoke with the organization's director Alexander Rose to learn more.
+Joseph Stromberg: What, in a nutshell, is the idea behind the Long Now Foundation?
+AR: The basic thrust is long-term thinking. It's both encouraging long-term thinking, and identifying which problems are worth taking a longer perspective with.
+For instance, if someone told you that you needed to solve climate change in the next four years, before the next group of politicians are elected, you'd say, 'that's impossible.' But if they said you've got 200 years, you can start to think about how you might actually do that — how you'd divide it up into generational phases, so you could lay the groundwork for the next generation, which would take on the next phase.
+Giving yourself permission to think long-term can give you a way to approach the impossible and make it possible. There are even times in politics where this might work. For instance, if you passed a law that didn't go into effect until all the current people in power were out, they might be much more willing to make a reform that was extremely visionary, and might actually fix some core political problems, like money in politics. You can use that long-term thinking as a lever, basically, to find solutions for things that were previously intractable.
+ 
+
+
+
+
+
+
+A diagram showing the organization's conception of "The Long Now." (Long Now Foundation)
+JS: Where did this idea and organization come from, and how did you get involved?
+AR: The foundation really got started with Stewart Brand and Danny Hillis and a group of friends, who eventually became the founding board. Danny had sent out a note about his idea for the 10,000-year clock, and a lot of people wrote it off as being kind of crazy. But a set of people engaged with it. And they kept thinking about it, and realized that there were more and more issues in the world that were being set aside as impossible, because they were long-term.
+Stewart Brand thought the idea was important enough that, even if you got everyone's attention with a clock like this, you still need to do something with it. He wanted to do an information storage service — a library that could last 10,000 years. So he started all this as an institution, and incorporated it as a non-profit back in 1996.
+I knew Stewart from growing up on the Sausalito waterfront — he lives on a tugboat, and I knew him from his various efforts to save the artist and boat-building scene there. After I went to design school at Carnegie Mellon, I was mostly doing game design, and realizing that none of the work I did had much staying power in the world. I was talking to him about that, and he told me about this project, and invited me to a board meeting on getting the clock project going, and from there I joined in.
+JS: What are some of the problems that can benefit from this sort of thinking? Where are we not thinking long-term enough?
+AR: One obvious one is climate change. We have failed at long-term thinking there: everyone knows it's going to happen, but no leaders want to take the steps to fix it now, because then they get blamed for the costs that happen in the short term. They'd rather kick that can down the road, even though dealing with it or living with it later is going to be more painful.
+ 
+
+
+
+
+
+
+(Photo by Visions of America/UIG via Getty Images)
+You can also look at something at simple as the levee system in the Gulf of Mexico, where Katrina hit. Everybody knew the levees were past their designed life, and could not handle a storm like that. And they also knew that a storm like that happens every so often. They could have spend a few billion dollars fixing them, but instead we spent over $100 billion in repair and lost many lives.
+But there are also examples of success. Holland, for instance, built the Maeslantkering barrier for 450 million Euros. It's designed specifically to handle the once-in-10,000 year major hurricane-level storm that will hit their country. They clearly were taking an actual 10,000-year view and are putting their money down on it, knowing that if it happened and they hadn't prepared, the consequences would be catastrophic.
+'we know that, at some point, a catastrophic meteor or asteroid will impact this planet'
+Another great example of failure in long-term thinking is a meteor impact. We know that, at some point, a catastrophic meteor or asteroid will impact this planet. For the first time in human history, we have the capability to detect and potentially divert it. Yet we aren't really putting any money into that — there's one private foundation, the B612 Foundation, that's trying, but that's it. You would think we would make this a high priority, but we're not taking it seriously as a species. It might be a once in 10,000 year problem, but we know it'll happen eventually. We're due, and we're not acting like it.
+Tsunami and earthquake preparedness are very similar. After the Tohoku tsunami, they found these 400-year-old stone tablets up in the hills above the coast that said, "Do not build below this point." And all these buildings that had been built below that were destroyed. You can ignore these risks, but it's at your own peril.
+JS: Can you tell me a little about the clock, and what it's meant to do?
+AR: Well, the clock is definitely our flagship project. Essentially, it's a clock that will tick for 10,000 years. It'll also have 10 bells that will chime in a different sequence each day for that entire time, a different melody that no one has heard before. Basically, we want to make something that will last for 10,000 years, something that people can experience and use to think about the long term.
+ 
+
+
+
+
+
+
+A prototype of the clock's display face. (Rolfe Horn/Long Now Foundation)
+So in designing it, there are a few things to think about. One is a material-science problem. What do you make it out of that can last 10,000 years? One issue is the bearings — the parts that allow the clock to keep moving and rotating. We're using all ceramic, un-lubricated bearings, that we've tested for this. For the other materials, we use things that won't corrode: titanium, stainless steel.
+The rest of the design questions involve how we want to display the time — how we want people to experience an architectural-scale clock that you have to walk through. What is the aesthetic that you want to last for 10,000 years, and be compelling for that whole time?
+It started with a prototype that was finished in 1999, and is now at a science museum in London. Then, in 2005, we started working on the full size clock in earnest. In 2010, we began excavation in West Texas. We've now done most of the excavation for the site, and most of our effort is finishing the machinery that's going to go in.
+JS: So what does it actually look like?
+AR: The design is this huge vertical hole drilled through spiral rock, which we've carved a spiral staircase around, and the clock is hung within the center of it. So most of your experience there is spent going up the spiral staircase, around the clock machinery.
+ 
+
+
+
+
+
+Rolfe Horn/Long Now Foundation
+
+
+
+Rolfe Horn/Long Now Foundation
+A prototype of the 10,000-year clock. The full version will be constructed in an underground chamber, and several stories tall. (Rolfe Horn/Long Now Foundation)
+JS: Do you know, roughly, when it'll be finished and open?
+AR: No.
+JS: Okay. What are some other projects you're working on?
+AR: One is the Rosetta project, which is a document of all human languages, which will be stored on a micro-etched nickel disc that can last for thousands of years. It's not ones and zeros, but actual text imagery that you can look at with a microscope. One of the prototypes of that disc was launched with the European Space Agency's Rosetta mission, which is just now arriving at a comet.
+ 
+
+
+
+
+
+
+The Rosetta disc is nickel, contained within a glass sphere. (Rolfe Horn/Long Now Foundation)
+We also have a seminar series on long-term thinking, a monthly series hosted here in San Francisco by Stewart Brand. And we're just finished the Interval, which is our new space here, in which we have events, and a bar and a cafe — basically a meeting place for having conversations about long-term thinking. It also has our library, which will eventually be 3500 books you would most want to sustain or re-start civilization.
+And the most recent effort that's going on is the Revive and Restore Project, which is bringing extinct species back to life with genetic engineering.
+JS: It seems like the Long Now frequently uses this 10,000-year figure. How did you arrive at that?
+AR: Originally, Danny's idea was for this multi-millennial clock — he didn't have a specific timeframe. But in our discussions, we realized that it's very hard for people to work in a completely open-ended system. And if you start looking at geologic time or astronomical time, in millions or billions of years, it gets pretty hard to feel that anything you do could matter.
+10,000 years is basically how long humanity has been doing agriculture, and changing the Earth more than the Earth is changing us. It's often what's being identified as the start of the Anthropocene. So it seemed like a good number to use as the length of our human moment.
+But most importantly, we see the human moment as actually a 20,000 year story. It began 10,000 years ago, and we should be looking 10,000 years in the future. We should be thinking about ourselves in the middle of a story, and not the end of the story, which I think we often do.
+Note: this interview has been edited for length and clarity.

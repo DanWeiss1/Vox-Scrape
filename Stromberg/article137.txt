@@ -1,0 +1,60 @@
+Why China wants to land a spacecraft on the mysterious far side of the moon
+China appears to be planning a space mission to a place no nation has ever been — the far side of the moon.
+The China National Space Administration (CNSA) currently plans to launch Chang'e 4, a craft that will carry the country's second lunar rover, in 2020. According to comments recently made by Wu Weiren, the Lunar Exploration Program's chief engineer, the rover will likely touch down on the side of the moon that faces away from Earth.
+"We probably will choose a site on which it is more difficult to land and more technically challenging," Wu recently told the state broadcaster CCTV. "Other countries have chosen to land on the near side of the moon. Our next move probably will see some spacecraft land on the far side of the moon."
+Since 2007, China's ambitious lunar program has already placed two probes in the moon's orbit and one lander on its surface. Putting a rover on the far side could provide new data on the moon's geologic history — and demonstrate the CNSA's growing expertise in and recent dominance of lunar exploration.
+ 
+
+
+
+
+
+
+The Chang'e 3 lander, which touched down on the moon in 2013. (Chinese Academy of Sciences)
+Though China began launching satellites and conducting other activities in space all the way back in the 1970s, the country's space agency has made its biggest strides since 2000, becoming the third nation to send astronauts into space in 2003. Since then, the CNSA has focused on a destination that NASA and other space agencies have mostly overlooked as of late: the moon.
+In 2007, the CNSA sent its first spacecraft — named Chang'e 1, after the Chinese goddess of the moon — into lunar orbit. That was followed by the orbiter Chang'e 2 in 2010 and the lander Chang'e 3 in 2013, the latter of which brought a small rover (called Yutu) to the moon, and became the first craft to make a soft-landing there since the 1970s.
+ 
+
+
+
+
+
+
+A close-up of Yutu, the rover carried to the moon by Chang'e 3 in 2013. (Chinese Academy of Sciences)
+The next few missions will go even further. Chang'e 5, to be launched in 2017, will collect a rock sample and launch it back up to an orbiter, in order to bring it back to Earth. (Confusingly, Chang'e 5 is launching before Chang'e 4 because the latter was originally built as a backup to Chang'e 3, then sat in storage for a few years and has since been retrofitted for the new mission.)
+Plans call for Chang'e 4 to launch in 2020. Though Chang'e 3 successfully landed, mechanical problems prevented the rover it carried from traveling more than 100 meters. If all goes as planned, the new craft's rover will be able to gather much more data — and perhaps explore the moon's relatively unknown far side.
+ 
+
+
+
+
+
+
+Because the moon rotates at the same rate it orbits the Earth, it's tidally locked, as shown at left — and the same side always faces Earth. If it didn't rotate, we'd see both sides equally, as shown at right. (Stigmatella aurantiaca)
+From Earth, we always see one side of the moon because it's tidally locked: it rotates at the same speed that it orbits us.
+As a result, we know much less about the far side (calling it the "dark side," while a bit more poetic, isn't really accurate, because it gets just as much sunlight). And because there's no direct line of sight from the Earth to the far side, landing a craft there would require all communications to be routed through an orbiter before reaching the lander.
+But as difficult as it sounds, a mission to the far side would yield plenty of rewarding data. Though the moon's entire surface has been extensively photographed by orbiting probes — starting with the USSR's Luna 3, in 1959, and currently by NASA's Lunar Reconnaissance Orbiter — no lander or rover has ever documented the far side up close.
+ 
+
+
+
+
+
+
+The moon's near side (left) has far more dark basaltic plains than the far side (right). (NASA/GSFC/Arizona State University)
+We already know the near side of the moon is covered in dark spots, which are plains of basalt that formed after volcanoes erupted billions of years ago and their lava cooled.
+The far side is different: it has few dark spots and lots of craters, though scientists don't fully understand why. It may be that underneath its surface, there were never as many volcanoes, but that explanation still isn't fully proven. Chang'e 4 might tell us more, by collecting data on the rock that covers the far side's surface.
+Depending on where the rover is sent, it could also provide some information on the moon's interior. The far side features the giant South Pole–Aitken basin — a huge crater in which the crust might be so thin that mantle rock peeks through. Data on this rock could help scientists better understand the layers that make up the moon.
+ 
+
+
+
+
+
+
+Mantle material might be accessible in the South Pole-Aitken basin, on the southern end of the far side. (JAXA)
+Finally, there's some speculation that China might be interested in visiting the moon's far side and conducting sample-return missions for an entirely different purpose: harvesting helium-3, an isotope of helium that could someday be used for both nuclear weapons and energy production.
+The isotope is much more abundant on the moon than on Earth, where it's extremely rare. And the moon's far side is believed to have the highest concentrations of it, because it's exposed to much more solar wind, which deposits helium-3 in the first place.
+It's not certain that this is China's goal. In order to get usable quantities of helium-3, a craft would need to harvest way more rock than Chang'e 5 will be capable of doing. The CNSA, meanwhile, has never explicitly said that it's planning on mining helium-3.
+Still, Ouyang Ziyuan, chief scientist of CNSA's Lunar Exploration Program, has previously mentioned helium-3 as a long-term potential benefit of the Chang'e program. It's conceivable that one reason for returning lunar samples and exploring the moon's far side is to collect initial data needed for this sort of ambitious extraction project.
+Like this video? Subscribe to Vox on YouTube.

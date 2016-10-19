@@ -1,0 +1,73 @@
+How David McCandless makes beautiful visualizations that go viral over and over
+David McCandless makes data visualizations. Beautiful, informative, whimsical, extremely popular data visualizations.
+He's published hundreds of them in a pair of books — the 2009 book Information is Beautiful and the long-awaited sequel Knowledge is Beautiful, published last month — but also allows them to be disseminated across the web, where they spread like wildfire.
+(David McCandless)
+It's very likely that you've seen some of them previously. We've published a few here at Vox (his ranking of dog breeds, his diagram of the world's deadliest diseases, and his chart of common misconceptions), and each time we do, readers share them over and over.
+What's the secret behind them? An exhaustive, selective creative process that took McCandless and researcher Miriam Quick about two years to create the 250-page book.
+"There's quite a high attrition rate. I started with about 400 or so ideas that made it to different stages of production, and about 100 ended up in the book," McCandless says. "The concept has to be pretty strong to survive."
+Here's a look at his process.
+"The vast majority of the time — maybe 90 percent — I start with an idea or question, not a dataset," McCandless says. "Often, it's because I feel frustrated or bewildered by news reporting or world events. I often feel there's something lacking in the way things are contextualized or explained, so that's inspiration for me."
+That urge is pretty obvious with some visualizations, such as this chart that shows the amount of media attention given to various diseases and other threats (left), compared to the actual number of deaths they've caused (right):
+ 
+Slide the middle bar back and forth to compare the two graphs. (David McCandless)
+ 
+On the other hand, some of McCandless' visualizations are more lighthearted — such as this look at how many kills each action star has had over the course of his film career:
+ 
+
+
+
+
+
+
+The size of each action star's circle represents the number of kills he or she made in total, and the length of the line represents the number of kills per film. Click to enlarge. (David McCandless/Knowledge is Beautiful)
+"I actually got that idea for after seeing a small graphic in the Los Angeles Times that counted how many kills Sylvester Stallone had made in movies with and without his shirt on," McCandless says. "It got me thinking."
+His ranking of dog breeds, meanwhile, was just something he was idly curious about. "I'd never seen anything looking at that particular question," he says.
+ 
+ 
+
+
+
+
+
+
+A ranking of all dog breeds, in terms of both public popularity and McCandless' own data-based analysis. Click to enlarge. (David McCandless/Knowledge is Beautiful)
+The next step is searching for data that might bring clarity to a question, and explain something important about it to readers.
+"Sometimes that data is readily available online already," McCandless says. "Much more often, I find a dataset that I need to scrape or mine and clean up substantially to get something usable." In total, he says, time spent processing data takes up about 80 percent of his process.
+Sometimes the collection process is manual. This chart showing the number of lines of code in various programs (and a few living organisms) required manually gathering data from a huge variety of sources — NASA, press releases, Quora, and the open source network OpenHub. (This is a partial version of the chart — click to see the enormous whole thing.)
+ 
+
+
+
+
+
+
+(David McCandless/Knowledge is Beautiful)
+To build this interactive exploration of every commercial plane crash over the last 20 years, he built a script that pulled plane crash data from various websites, but then had to work heavily to clean it up and eliminate irrelevant information — such as the causes of non-commercial flight crashes, which he wasn't interested in.
+In some cases, McCandless goes searching for data with a particular variable in mind. For his chart of Facebook breakups over the course of the year, for instance, he searched the now-gone Facebook Lexicon (a database of the frequency certain words appear on Facebook over time) for words that reflected someone announcing a breakup.
+ 
+
+
+
+
+
+
+(David McCandless/Knowledge is Beautiful)
+In other cases, he studies the data after collecting a broader sample of variables, looking for a particular aspect of it that helps him understand something new — and might tell an interesting story to readers. "With plane crashes, I was curious — what's the main cause of them? Is it human error? Weather? Mechanical failure?" he says.
+Though he has to choose one or a couple of variables to include in his visualizations, he also posts the full data sets of many online, and encourages readers to go there to learn more.
+What you end up seeing — the design — takes up a relatively small percentage of the time McCandless spends on any given visualization.
+"Sometimes I start the design by hand, drawing my idea," he says. "Sometimes I use a suite of digital tools I've developed that allow me to pump data in and experiment with a number of different layouts."
+Usually, he tries our two or three different approaches, and one pops out to him as a winner. Then, he renders it, colors it, and decides on other aesthetic details.
+Text mostly comes at the end, but it's crucial. McCandless actually started out as a writer, and in some cases, he sees the final text as even more important than the design. In this collection of logical fallacies, for instance, accurately describing and exemplifying each fallacy was the key.
+"These ideas can be mentally hard to grasp," he says, "so I really wanted to bring each one together and define it succinctly, and also include an example that people can relate to."
+ 
+
+
+
+
+
+
+(David McCandless/Knowledge is Beautiful)
+
+
+
+

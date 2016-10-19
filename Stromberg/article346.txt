@@ -1,0 +1,35 @@
+NASA resurrected the Kepler space telescope. Now, it's found a new exoplanet
+Since it was launched in 2009, the Kepler space telescope has found nearly 1,000 planets in distant solar systems.
+However, in May 2013, the spacecraft was temporarily shut down due to a hardware malfunction. In May 2014, NASA scientists devised a solution and turned it back on — and yesterday, they announced the telescope has found yet another exoplanet.
+In the coming years, Kepler will continue its secondary K2 mission, searching for planets orbiting distant stars. Kepler's second life is a rather pleasant surprise: in a press release, NASA astrophysics director Paul Hertz said that after it was shut down, the very idea of turning Kepler back on "was not part of the conversation."
+ 
+
+
+
+
+
+
+An illustration of Kepler-186f, an exoplanet found by the telescope in April 2014. (NASA Ames/SETI Institute/JPL-CalTech)
+Exoplanets are planets that orbit stars other than the sun. For most of modern history, there was no evidence that planets even existed in other solar systems, but as our technology has improved, we've learned that they're quite plentiful. 
+The first one was discovered in 1988, and astronomers have now confirmed the existence of more than 1,800 in total, with discoveries happening faster and faster all the time. Most of these planets are too large and hot to harbor life as we know it, but scientists are hopeful that in the coming decades, with next-generation telescopes, we may be able to spot signs of alien life.
+
+This GIF shows the number of planets announced each year. Red bars are Kepler-discovered planets, and the orange bar is a single announcement of 715 planets discovered by Kepler in March 2014. (Imgur.com)
+NASA's Kepler space telescope is responsible for the bulk of these discoveries (other instruments include the ground-based SuperWASP telescopes and the Hubble Space Telescope). Kepler takes extremely high-resolution images of deep space, and astronomers analyze these images to spot distant planets.
+There are a few different methods used, but the most straightforward technique — responsible for the vast majority of Kepler discoveries — is called the transit method.
+Here's how the method works: Imagine staring at a star far away. If there is a planet orbiting that star, it might occasionally pass between us and the star, briefly blocking it from view. Scientists can't actually see the planets doing this blocking, but they can indirectly detect their presence.
+
+"We measure the brightness of a star, and when a planet passes in front of it, it blocks out some of the starlight for a period of a few hours," Thomas Barclay, an exoplanet researcher, told me in April. If scientists observe a star dimming by a consistent amount on a predictable schedule, they can infer the size of an exoplanet that's occasionally blocking some of the light.
+As of 2012, the Kepler mission was expected to last until 2016. However, that year, one of the craft's four reaction wheels — used to stabilize the spacecraft so it can stare long enough at a star to detect a transit — stopped working properly. This didn't shut down the mission, but a second failure, in May 2013, meant that scientists couldn't hold the telescope steady enough for the transit method to be effective, and Kepler had to shut down.
+In the months afterward, however, NASA scientists devised aan innovative plan to use the two remaining wheels and the pressure exerted by sunlight hitting Kepler on either side to hold it steady. As an analogy, they say that the sunlight is gently balancing the telescope, the way a "pencil can be balanced on your finger."
+ 
+
+
+
+
+
+
+(NASA)
+The second Kepler mission officially began collecting data in May 2014, but it took some images as part of a test run during February 2014, and that data was used by Andrew Vanderburg, an astronomy grad student at the Harvard-Smithsonian Center for Astrophysics, to find the new exoplanet.
+The new planet is named HIP 116454b, and Vanderburg has calculated that it has a diameter that's 2.5 times as large as Earth's. Its star is smaller and cooler than the Sun, but because HIP 116454b orbits it extremely closely, it's far too hot for life.
+Even before the second mission, Kepler greatly surpassed projections for the number of exoplanets it might find. Its second life is a major bonus — and one that will help us learn more about distant star systems over the next few years.
+Correction: This article previously said that the planet was found with a technique slightly different than the transit method. It was actually found via transit, and just confirmed with the other technique.

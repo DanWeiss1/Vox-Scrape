@@ -1,0 +1,16 @@
+Watch live as NASA crash-tests a plane
+Sometime Wednesday afternoon after 2 pm ET, NASA will drop a 1974 Cessna  aircraft from a height of 100 feet — and will do it live on camera:
+ 
+The test is intended to assess the durability of emergency locator transmitters, which are installed on all commercial and private planes to help with search and rescue.
+
+It'll be conducted at a NASA research center in Langley, Virginia, which has a large scaffold that researchers can use to haul the plane up and drop it. This is actually the last in a series of three similar tests. In July, NASA dropped a plane from 82 feet onto concrete. And later that month, it dropped another from 100 feet onto a layer of soil:
+(NASA)
+Because soil doesn't allow the plane's wheels to roll as easily, it actually makes for a more destructive landing — in this case, the plane flipped onto its back. Today's test will be similar to the last one, but the plane will be dropped tail first.
+(NASA)
+These tests are part of a long-running project to improve emergency locator transmitters, which are required by US law on all planes. When a plane crashes, a beacon inside the plane is supposed to automatically detect the impact, and an antenna on the plane's exterior sends a distress signal to a satellite. This signal then gets sent to ground rescue teams and helps them find the plane more quickly.
+But as the project's manager, Chad Stimson, explained after the July test, "Too often they fail to work as expected, in part because of inadequate performance specifications in several areas including vibration, fire survivability, automatic activation, crash safety, and system installation."
+The emergency locator transmitter (gray box) aboard a commercial airplane.
+(Kent Wien)
+This is an especially big problem for crashes of small, privately owned planes — which make up the vast majority of plane crashes in the US. In July, for instance, a 16-year-old pilot hiked for several days in rural Washington after her plane went down before being found, because search teams were unable to locate it.
+These NASA tests are intended to simulate the conditions of intense yet theoretically survivable crashes. During the experiment, they'll use sensors and cameras to gather data on the Cessna's precise impact and will look for signals transmitted by the plane's onboard emergency locators.
+All this data could help NASA design more durable transmitters — which someday could make it easier for rescue teams to find downed planes.

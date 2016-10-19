@@ -1,0 +1,42 @@
+We don’t say “plane accident.” We shouldn’t say “car accident” either.
+To most people, the terms "car crash" and "car accident" are largely interchangeable. But a growing number of traffic safety advocates have been pointing out that there's actually a big difference — and they want journalists, public officials, and everyday people to say crash, not accident.
+The two groups behind the recent campaign — Transportation Alternatives and Families for Safe Streets — argue that the term "accident" makes it seem like crashes are inevitable, rather than preventable. In a subtle way, it normalizes the crash and discourages us from looking more deeply into their causes — whether alcohol, reckless driving, or bad street design.
+In a sense, reflexively saying "accident" is implicitly throwing up our hands in despair, rather than trying to fix the underlying problem. As Alissa Walker puts it in a excellent Gizmodo post on the campaign, "accident is the transportation equivalent of ¯\_(ツ)_/¯ ."
+All this might seem pedantic, but there's a real point here. We live in an era when most Americans drive around in multi-ton machines at high speed, and these vehicles kill with surprising regularity. They cause 30,000 or so deaths per year, as many people as are killed by guns. If we want to cut down on that number, it's worth examining the language we use to describe these events.
+Using the word "accident" to describe car crashes might seem natural. But early coverage of crashes in the 1910s and 1920s depicted the vehicles as dangerous killing machines — and their violent collisions were seldom called accidents.
+
+This view influenced legal proceedings, too. Before formal traffic laws existed, judges typically ruled that in any collision, the larger vehicle — that is, the car — was to blame. In most pedestrian deaths, drivers were charged with manslaughter regardless of the circumstances of the crash.
+Automakers tried to shape news coverage of crashes — by calling them accidents
+In response to the emerging public backlash against cars (which were, at the time, largely owned and driven by the wealthy), automakers and other industry groups pushed for a new set of laws that kept pedestrians off the streets, except at crosswalks.
+To get people to follow these laws, they tried to shape news coverage of crashes. The National Automobile Chamber of Commerce, an industry group, established a free wire service for newspapers: Reporters could send in the basic details of a traffic collision, and would get in return a complete article to print the next day. These articles, printed widely, shifted the blame for crashes to pedestrians — and almost always used the word "accident."
+The frequency of the terms "car accident" and "car crash" in English-language books over time.
+(Google Ngram V
+That term took off in future years and became the most common way to describe collisions. It's impossible to attribute this solely to the wire services' articles, but at that early juncture in automotive history, they certainly played a big role.
+"We would never call it a plane accident. Let's stop calling it a car accident." #crashnotaccident @NYC_SafeStreets #VisionZero @transalt
+
+
+
+As early as the 1960s, though, traffic safety professionals realized "accident" wasn't a particularly useful way to describe collisions. William Haddon, who in 1966 became the first director of what's now the National Highway Traffic Safety Administration, required anyone who used the word in meetings to put a dime in a jar.
+The same agency asked the public to stop using the term in 1994, and it no longer uses it in official capacities. In 2013, the New York and San Francisco police departments stopped using it in collision reports.
+Still, "accident" has stuck around, both in common usage and newspaper articles. The AP Style Guide offers no definitive guidance on the matter, and lots of reporters tend to use "accident" without thinking. I've occasionally done so myself, even though I'm aware of the difference.
+All this led Transportation Alternatives (a New York City biking, walking, and public transportation advocacy group) and Families for Safe Streets (a related group, formed by families of those killed or injured by reckless driving) to launch a public campaign last week, asking people to pledge to stop using the word. Supporters have been using the hashtag #crashnotaccident to call out journalism outlets for using the term in headlines. And earlier this week, the two groups hosted a vigil in Manhattan's Union Square to remember victims and draw attention to the importance of language in describing how they died.
+
+In 2006, the New York Times reported that the driver of an SUV "intentionally ran over five people" in a Long Island town before fleeing "the scene of the accident."
+As Transportation Alternatives' Aaron Naparstek noted, it's hard to imagine the same sentence being written about someone who shot five people. The fact that the Times used "accident" here shows how strong of a habit that word has become and how hard it is to eradicate it.
+The word "accident" presupposes that nothing could be done to prevent a crash
+Of course, most car crashes aren't intentional. But using the word "accident" presupposes that they're not — and, more importantly, implies that nothing could have been done to prevent them.
+"The word suggests an event that takes place without foresight or expectations," the public health researchers Hermann Loimer, Mag Dr iur, and Michael Guarnieri write in their history of the word accident. "Yet such events as a group are not random and do not occur by chance; they can be expected to happen."
+Moreover, we have hard data on what causes crashes and how to prevent them. Men get into fatal crashes twice as often as women, and the difference can be attributed almost entirely to drunk driving. Putting roads on "diets" — slowing down traffic by turning a second traffic lane into a turning, bike, or parking lane — can cut down on crashes by anywhere from 18 to 25 percent. Protected bike lanes make biking dramatically safer, with various studies concluding that they can cut down on cyclist injuries by anywhere from 25 to 90 percent.
+It might seem like a stretch to suppose that a single word can lead to any of these actions. But language can powerfully affect how we view the world — and what sorts of costs we're willing to bear — in ways that are hard to appreciate.
+One good example of this is a related, everyday word that defines the relationship between car and pedestrian without us quite realizing it: jaywalking.
+ 
+
+
+
+
+
+
+Government safety posters ridicule jaywalking in the 1920s and '30s. (National Safety Council/Library of Congress)
+As it turns out, this word stems from the same 1920s effort by auto groups to keep pedestrians off streets. At the time, the word "jay" meant something like "rube" or "hick" — a person from the sticks, who didn't know how to behave in a city. So these groups promoted use of the word "jay walker" as a way to shame people who didn't obey traffic laws.
+This single word was a key step in transforming the public street from a place for pedestrians to a place rightfully dominated by the car.
+"In the early days of the automobile, it was drivers' job to avoid you, not your job to avoid them," says Peter Norton, a University of Virginia historian, told me for my story on jaywalking. "But under the new model, streets became a place for cars — and as a pedestrian, it's your fault if you get hit."

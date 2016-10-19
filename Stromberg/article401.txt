@@ -1,0 +1,57 @@
+The science of extreme altruism: why people risk their lives to save strangers
+Since 1904, the Carnegie Hero Fund has awarded medals to over 9,500 people.
+Every single one of these people risked his or her life to "an extraordinary degree" in attempting to save the life of another person. In most cases, the people they've saved are total strangers.
+This is the same sort of impulse that drives health care workers to travel to West Africa to help deal with the ebola virus, putting them at risk of infection.
+From either selfish or evolutionary perspectives, this kind of thing makes absolutely no sense. So why do so many people do it?
+from a selfish or evolutionary perspective, this kind of thing makes no sense. Why do people do it?
+Psychologists and neuroscientists — who call this sort of selfless action "extreme altruism" — consider this question a real mystery. Recently, they've begun trying to answer it, and though what they've found is very preliminary, it's intriguing.
+Last month, a study by Georgetown's Abigail Marsh found differences in one part of the brain — the right amygdala — of people who donated kidneys to complete strangers. Tellingly, these differences were the exact opposite of variations that have previously been found in diagnosed psychopaths.
+Meanwhile, a new study published today in PLOS ONE by David Rand and Ziv Epstein of Yale, based on interviews with Carnegie Hero medal recipients, found that the decision to save someone else's life in an emergency is typically an intuitive, split-second process, rather than the result of careful deliberation. The life-savers repeatedly said they didn't even think — they just acted.
+ 
+
+
+
+
+
+
+The original 1904 Carnegie Fund medal. (Photo by J.E. Caldwell & Co./The New York Historical Society/Getty Images)
+The new study was based on 51 published interviews with Carnegie Hero medal winners who talked about the thought processes that led to their actions.
+Obviously, it's not feasible to get someone to actually decide to risk his or her life for someone else in a lab, so Rand and Epstein decided that these interviews were the next best thing. "Most work just uses hypothetical surveys about whether people think they would risk their lives in various settings," Rand says. "We think that studying actual extreme altruists can be much more illuminating."
+The researchers then recruited 312 volunteers to rate the interviews, judging whether the thought processes the heroes went through before acting were slow, careful, and deliberative, or fast, automatic, and intuitive. The volunteers also rated control statements from a previous study on types of decision-making.
+The ratings were pretty clear: the vast majority of life savers, it turns out, reported acting intuitively, making split-second decisions rather than weighing pros and cons. The researchers also used an algorithm to analyze the type of language used in the statements and came to the same conclusion.
+ 
+
+
+
+
+
+
+Most of the life-savers' statements were rated either 1 or 2 on a 1 to 7 point scale, from intuitive to reasoned thinking. (Rand and Epstein)
+For instance, Daryl Starnes, a Richmond man who climbed into a burning car to rescue a woman after a car accident in 2011, said, "I just did what I felt like I needed to do. You don't think." Christine Marty, a Pittsburgh college student who rescued a 69-year-old woman trapped in a flooding car, said, "I'm thankful I was able to act and not think about it." This kind of automatic, non-thinking response came up over and over again in interviews with the medal recipients. 
+'going with your gut can lead to moral behavior'
+For the researchers, what made it so interesting is that it fits with previous work on altruism in much lower-stakes scenarios, like experiments that involve sacrificing a few dollars to help someone else. "We've found that going with your gut can lead to moral behavior, and that second-guessing yourself leads to selfish behavior and self-preservation," Rand says. He and other researchers call this the Social Heuristics Hypothesis.
+Based off this small sample, at least, it seems the same principle may apply to truly selfless, life-saving acts acts. Risking your safety to help others most often involves fast, unthinking action.
+ 
+
+
+
+
+
+
+A kidney donor is wheeled in to an operating room. (Brendan Smialowski/AFP/GettyImages)
+One of the few other pieces of research conducted on people who actually risked themselves to help others (rather than answered questions about hypothetically doing so in lab experiments) was the study published in September by Georgetown's Abigail Marsh. She used fMRI scans to study the brains of 19 people who had donated kidneys to total strangers, and compared them to those of 19 random control participants who hadn't donated their kidneys.
+Obviously, these people saved others' lives under much different conditions than the Carnegie medal winners. By nature, they must have engaged in somewhat slower, more deliberative thinking, because they didn't act in the heat of the moment when seeing someone in danger. Instead, most of them — like Angela Stimpson, an Albany artist — signed up to donate simply after reading about the dire need for them.
+In certain areas, their brains looked the exact opposite of psychopaths'
+Marsh and colleagues put these people and the control group into an fMRI (which tracks blood flow to different areas of the brain, a proxy for cognitive activity) and had them look at photos of human faces showing a range of emotions, including happiness, fear, anger, sadness and surprise.
+For the most part, the two groups of participants didn't show notable differences in brain activity, or the size of various areas of the brain. But among the organ donors, the right amygdala (an area of the brain involved in many activities, including decision-making and emotions) was larger by 8.1 percent, on average. These people also showed significantly more activity in their right amygdalas when looking at the photos of people showing fear or distress.
+ 
+
+
+
+
+
+
+The kidney donors had larger right amygdalas, as shown in the graph at right. (Marsh et. al.)
+Marsh speculates that this reflects these people's greater ability to feel empathy for others. And what makes it truly interesting is previous work by her and other researchers that came to the exact opposite conclusion for psychopaths (people who show excessively antisocial and non-empathetic behavior). When they see people in distress, they show reduced activity in the same area.
+The researchers' conclusion from these findings is that being a psychopath isn't a specific, discrete trait (like, say, eye color). Instead, extreme altruism and extreme psychopathy lie along the same spectrum (like height).
+Some people are endowed with very little capacity for feeling empathy with others, perhaps reflected in the reduced size and activity of their amygdalas. Others, meanwhile, are capable of feeling empathy much more profoundly, and do things like save strangers from burning cars, and donate their kidneys to people they've never met.

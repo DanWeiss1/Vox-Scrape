@@ -1,0 +1,41 @@
+NASA is testing the biggest rocket ever. But there's no plan for how to use it.
+The biggest rocket in space history was just tested for the first time.
+At 11:30 ET today, engineers conducted a ground test of a booster that will eventually help launch the Space Launch System (SLS) — a gigantic new rocket NASA is developing that could one day, in theory, be used to send humans to Mars.
+The test itself was pretty straightforward: the booster was fired for a full two minutes on the ground, the same duration that it would fire during actual flights in order to help provide the thrust necessary to lift SLS into orbit. The test was a success, with the booster generating about 3.6 million pounds of thrust. Here's what it looked like:
+ 
+
+
+
+
+
+
+(NASA)
+Unfortunately, the ultimate purpose of the SLS is still very much unclear. NASA will conduct the first test flight of SLS in 2018, followed by another flight with it carrying the new space capsule Orion.
+But because of limited funding from Congress, there's no concrete plan for what will happen after that — and there's still not a firm plan in place to use the rocket to send people to Mars. In other words, it's entirely possible that NASA will have built the most sophisticated human space exploration system of all time, yet have no money or plan to send it anywhere.
+ 
+
+
+
+
+
+
+A rendering of the Orion capsule rendezvousing with a probe that's captured a small asteroid, as part of the Asteroid Redirect Mission. (NASA)
+In theory, NASA is in the early stages of a 20-year-long, congressionally mandated plan to put people on Mars.
+In the mid-2020s, NASA plans to use Orion and SLS to land astronauts on an asteroid that has been redirected by another probe to orbit the moon — part of the Asteroid Redirect Mission (ARM), often billed as a "stepping stone" to Mars. Then, as other technologies keep advancing, they should be ready for a Mars trip by 2033.
+there are rumors that the asteroid mission could be canceled
+But it's very uncertain whether ARM will actually happen. House Republicans have been extremely critical of the mission (in a 2013 interview, Texas representative John Culberson belittled it as "pushing a rock around space"), and in a 2014 report, the NASA Advisory Council (an independent group of experts) noted that ARM wouldn't actually provide the long-duration mission needed to help NASA learn how to keep astronauts alive in space for several years at a time.
+Meanwhile, NASA has released very few details about the mission and has repeatedly delayed decisions about the designs to be used, leading to whispers that ARM might be canceled.
+ 
+
+
+
+
+
+
+A rendering of SLS lifting off. (NASA/MSFC)
+ARM could be replaced by a mission to put astronauts in the moon's orbit, or perhaps even on its surface. But the bigger problem is that NASA simply isn't getting enough money from Congress to put together all the components necessary for a mission to Mars.
+"SLS and Orion, by themselves, cannot do very much," John Logsdon, former director of the Space Policy Institute, told me for an article last month. To put humans on Mars' surface, you'd also need a solar-electric propulsion system, an additional module to support astronauts during the six-month journey, and a lander to send down to  the Martian surface.
+nasa is being forced to develop its mars plan piecemeal
+But budget limitations are forcing NASA to develop the plan to go to Mars piecemeal — building a rocket system now and hoping it'll get the money to build a lander later. For an analogy, imagine building the foundation to a new house before knowing whether you'll get a mortgage to pay for the rest of it.
+There are some potential solutions, such as prematurely ending operation of the International Space Station to free up some cash, or collaborating with private space companies. But as it stands, it's hard to see how today's SLS ground test will ultimately lead to astronauts reaching Mars' surface.
+Note: this post was updated after the test.

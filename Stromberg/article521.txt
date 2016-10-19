@@ -1,0 +1,31 @@
+SpaceX's new Dragon capsule could be the future of space travel
+Thursday evening, SpaceX revealed an upgraded version of its Dragon spacecraft, capable of carrying up to seven people at a time.
+The company hopes to use the 15-foot-tall capsule to carry astronauts to the International Space Station beginning in 2017.
+The company hopes to carry astronauts to the space station beginning in 2017
+Its timing is impeccable. Currently, NASA relies entirely on Russia for transporting its astronauts to the station. But, last month, Russia threatened to revoke access due to tensions between the two countries. And a few days ago, NASA announced that its latest purchase of six round-trip tickets to the space station, good through 2017, will be its last. (The tickets cost $76.3 million each.)
+That brings us to SpaceX, the private company started by Elon Musk (founder of PayPal and Tesla Motors) in 2002. Since May 2012, the company has been using a previous version of the Dragon spacecraft to carry cargo to the space station — as part of NASA's long-term plan to have private US companies take over the basics of space transport.
+The latest Dragon V2 has a few upgrades on the old one: it lands with thrusters, instead of crashing into the ocean with parachutes, is more fully reusable, and, of course, can carry people. SpaceX will begin testing the craft over the next few years, with its first peopled flights coming in 2016.
+
+SpaceX
+In terms of hardware, the new Dragon's biggest upgrade is a set of 8 thrusters, which are powerful enough to slow down the capsule, allowing controlled landings on Earth.
+The Dragon will also carry parachutes in case of an equipment failure, but if the thrusters are successful, they'd be a huge step forward in space flight, eliminating the need for parachute-aided crash landings for a capsule for the first time.
+Many components of the current Dragon can be used for multiple flights, but the new landing method will, in theory, make the whole capsule rapidly reusable, going through ten flights before needing to be heavily serviced.
+18 thrusters are powerful enough to slow down the capsule and allow controlled landings on earth
+"You can just reload propellant and fly again," Elon Musk said during the announcement. Additionally, the new spacecraft's improved heat shield is designed to deteriorate less as it enters the atmosphere, allowing for a greater number of reuses.
+ SpaceX is trying to make every component of its space flight program as reusable as possible. It recently launched a version of the Falcon 9 rocket — which will put Dragon in space — with a first stage that can land on metallic legs, potentially allowing for easier retrieval and reuse.
+"This is extremely important for revolutionizing access to space," Musk said. "As long as we continue to throw away rockets and space craft, we will never have true access to space — it'll always be incredibly expensive."
+
+Djansezian/Getty Images
+The other chief upgrade of the Dragon is pretty obvious: it can carry people into space. But it goes further, outstripping Russia's Soyuz rockets (which can transport three astronauts at a time) with a capacity of seven.
+it outstrips russia's soyuz rockets, which can transport three astronauts
+SpaceX went with a minimalist aesthetic for the Dragon's interior, putting nearly all the controls on touch screen panels that fold down during flight. It's a far cry from the button-crammed cockpit of NASA's space shuttle.
+The craft also has a few other upgrades: it can dock autonomously with the International Space Station without needing to use the station's robotic arm, and the Dragon's trunk (which detaches before re-entry to the Earth's atmosphere) will be wrapped in solar panels, instead of having them on arms that extend outward.
+
+SpaceX
+All in all, the debut of this upgraded spacecraft is a very good sign for US space travel, and couldn't have come at a better time.
+For years, Congress has appropriated less money for NASA's Commercial Crew Program — created to fund the development of private space travel — than the $800 million requested annually.
+the debut of this ungraded spacecraft couldn't have come at a better time
+But the tensions with Russia seem to have added urgency to the goal. The transport won't necessarily come via the Dragon capsule — less ballyhooed options like Boeing's CST-100 crew capsule and Sierra Nevada's Dream Chaser space plane are also in the running to win NASA's contract — but the timely premiere of this craft can't hurt. An upcoming NASA funding round will likely cut down the competition to one option, and SpaceX is clearly planning to win.
+There are also intriguing signs that SpaceX envisions the Dragon being useful for future missions that go way beyond the space station. As Phil Plait points out, SpaceX's press materials say the Dragon's new thrusters will "enable the vehicle to land propulsively on Earth or another planet with pinpoint accuracy."
+Missions to Mars, of course, are still a long way off. But the 2017 target date for private US missions to the space station is quickly approaching. SpaceX's progress — with both its Dragon capsule and other launch technologies — are making it look more likely that they'll hit the deadline.
+Correction: this post previously misstated the number of thrusters on the capsule.

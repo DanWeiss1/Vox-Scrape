@@ -1,0 +1,56 @@
+An asteroid just missed Earth. We won't always be so lucky
+On Sunday, September 7 — at 2:15 pm Eastern time, to be exact — a small asteroid whizzed by the Earth.
+Don't worry: it missed us by about 25,000 miles, though a tiny chunk may have broken off and landed in Nicaragua.
+But in the long-term, worrying a little about asteroids isn't an unreasonable idea. Now, the odds of a massively destructive asteroid impact at any given time are tiny — but the potential costs would be enormous. Yet we still haven't invested in all the infrastructure needed to spot small asteroids with much warning (we spotted this one less than a week ago). And we've done nothing to develop the ability to divert a larger one if it threatened us.
+On Sunday, the asteroid was small and far enough away that you wouldn't have be able to see it without a telescope. But it'd be great if we can use this sort of near-miss to rouse us from our species-wide slumber, and make asteroid detection more of a priority.
+ 
+
+
+
+
+
+
+NASA's calculated path of 2014 RC. (NASA/JPL-Caltech)
+Astronomers at the Catalina Sky Survey — a telescope near Tucson, Arizona, used exclusively to spot potentially hazardous near-Earth objects — detected the asteroid on August 31.
+After its existence was confirmed by observations from other telescopes, NASA has designated it 2014 RC. It's a chunk of rock that's around 60 feet in diameter — similar in size to the one that blew up over Chelyabinsk, Russia last year.
+It's calculated that, at its closest approach, the main body of the asteroid came within 25,000 miles of Earth. (It's still uncertain whether the small crater found in Nicaragua did indeed come from a piece broken off of it.) This is far enough away that it didn't pose a significant danger, but still pretty close — about as close to us as many of our weather and communications satellites, and about ten times closer to us than the moon.
+When it passed by, the asteroid was somewhere over New Zealand. But because it's so small, you would've needed a telescope to see it. Its magnitude was about 11 — which, as Phil Plait points out, means it'll be about 1 percent as bright as the faintest star you can normally see.
+It's not that the risk of a catastrophic asteroid impact, in any given year, is particularly large. It's tiny: scientists estimate that the huge ones that would cause global damage come around once every million years.
+But it doesn't take a kilometer-sized one — like the asteroid that led to the extinction of many species, including most dinosaurs, 65 million years ago — to cause a lot of damage. In 1908, an asteroid that was somewhere between 60 and 190 meters in diameter landed in a remote corner of Siberia.
+When it hit the ground, this modest asteroid discharged an amount of energy one thousand times greater than the atomic bomb dropped on Hiroshima, scientists estimate. It knocked down some 80 million trees over a roughly 830 square mile area.
+ 
+
+
+
+
+
+
+An asteroid of this size likely comes around once every few thousand years. That might not sound very frequent to you.
+But the problem is that, given enough time, it will occur. And conceivably, we hope to stick around for a long time, as a species. But we haven't bothered to invest enough in efforts to detect asteroids to ensure this will happen.
+Last week, I interviewed Alexander Rose, the direction of the Long Now Foundation, an organization that thinks our species has failed to engage in truly long-term thinking. He felt an epitome of this was the way we largely disregard the threat of asteroids.
+"We know that, at some point, a catastrophic meteor or asteroid will impact this planet," he said. "For the first time in human history, we have the capability to detect and potentially divert it. Yet we aren't really putting any money into that."
+ 
+
+
+
+
+
+
+The trail of the meteorite that burned up over Chelyabinsk, Russia, in February 2013. (Oleg Kargopolov/AFP/Getty Images)
+The first step to protect ourselves from asteroids is seeing them. Currently, we have a few different telescopes here on Earth devoted to spotting near-Earth objects — most notably, the Catalina telescope, along with Pan-STARRS in Hawaii.
+Using these telescopes, NASA now estimates we've spotted more than 90 percent of the near-Earth asteroids capable of causing a global catastrophe. None of them, thankfully, are on track to hit us.
+But that leaves a problem: we've spotted much fewer of the mid-sized objects that wouldn't cause global-scale damage but would still cause a regional-level disaster, like the 1908 event. In total, we've spotted about 10 percent of the asteroids big enough to cause any sort of damage on Earth. In other words, one of these could emerge pretty much anytime.
+The way to identify a greater proportion of them is to use telescopes in space, because they don't have to deal with interference from the atmosphere and the sun's glare. NASA has proposed launching one of these, called NEOCam, and a private organization called the B612 Foundation is currently raising $450 million for a complementary mission, called Sentinel, that would survey a different area of the sky.
+ 
+
+
+
+
+
+
+A rendering of the proposed Sentinel telescope. (B612 Foundation)
+If both these missions happen, they'd be able to spot the vast majority of mid-sized asteroids that could pose a threat. But the NASA mission is still just a proposal — one that is reportedly short on money — and the B612 mission is also short of its fundraising goal.
+Further, if we did spot an asteroid heading our way, we don't have any proven means of stopping it. The simplest way would probably be sending a craft crashing into the asteroid, nudging it off its path enough so that it'd miss Earth. The UN has proposed designing and testing a network of small probes that would be capable of doing so, but it's still waiting on the necessary funding from various national space agencies, with an estimated price tag of about $2.5 billion.
+Funding all three of these projects — the two telescopes and the impact avoidance system — would cost a lot. Let's be generous and say they'd cost $5 billion in total. Now compare that to the cost of, say, the cost of the Sochi Olympics ($51 billion), or the cost of the F-35 fighter plane program ($400 billion). Screw it, compare it to the cost of a new football stadium for the Dallas Cowboys ($1.2 billion, with about a quarter paid by taxpayers).
+When it comes to asteroids, we're talking about natural disasters that are probably preventable. Figuring out how to do so would be a relatively cheap insurance plan that would benefit the entire species.
+Further reading: What are your odds of being hit by an asteroid?

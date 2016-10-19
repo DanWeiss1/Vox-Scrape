@@ -1,0 +1,18 @@
+Cyclists report a disproportionate number of errors to Google Maps
+
+Google relies on user-submitted complaints to continually improve its maps. If the turn-by-turn directions tell you to turn left at an intersection where lefts are forbidden, for instance, you can report the problem, and engineers at Google's Project Ground Truth will adjust their data accordingly.
+In this new video (above), the Wall Street Journal's Christopher Mims dug up an interesting fact about this system: cyclists contribute disproportionately more complaints than anyone else. Google hasn't released hard data, but told Mims that cyclists are "fanatical" contributors to the system.
+Mims suggests two main reasons why this might be. One is that cyclists use both roads and trails — so, in theory, they're able to notice a broader range of Google Maps errors. Additionally, he points out that a mapping error that puts a cyclist on an especially busy road endangers their safety in a way that it doesn't for a driver, making them much more likely to report the error.
+ 
+
+
+
+
+
+
+Google Maps' bicycling directions, in Manhattan. (Google)
+These explanations both make a lot of sense. But I think there are a few additional factors involved:
+1) Google's biking directions are great — but they're notoriously unreliable. They're much newer than the driving directions, and Google simply doesn't have as much data to go off when determining what's a realistic bike route and what isn't. Thus, more errors to point out.
+2) Cyclists don't just experience more danger than drivers when directions are wrong — they expend more effort. And an error that requires you to ride a lot farther (say, a map that makes it seem possible to ride from a bike path to a road, when in fact they don't connect) would make you much more likely to report an error than one that makes you drive an extra few minutes in a car.
+3) Someone on a bike has more opportunities to immediately report an error (before they forget) than someone in a car. After being thwarted by bad directions, for instance, a cyclist can report it while resting by the side of a bike trail or road. A driver, on the other hand, typically has to immediately merge back into traffic or decide where to turn next.
+Read more: How Google Builds Its Maps — and What It Means for the Future of Everything

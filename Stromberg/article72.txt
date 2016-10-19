@@ -1,0 +1,64 @@
+The New Horizons Pluto mission is a big deal. Here are 7 reasons why.
+NASA's New Horizons spacecraft just showed us an alien world for the first time.
+This photo was taken as the probe flew by Pluto Tuesday morning, revealing its landscape in remarkable detail:
+ 
+
+
+
+
+
+
+(NASA/JHUAPL/SwRI)
+
+New Horizons has been en route for nine years, traveling more than 3 billion miles. The flyby was over in a matter of minutes, as the probe frantically took hundreds of photos and collected data on Pluto's atmosphere, geology, and moons. All this data will be enormously valuable to scientists as they seek to understand our solar system and how it formed billions of years ago.
+But it'd be a mistake to think that this mission is only exciting for scientists. New Horizons embodies a fundamental characteristic of our species: our urge for exploration, our desire to see a new world simply because it's there. It represents the best of humanity, the heights of what we can accomplish through ingenuity, focus, and cooperation.
+More than anything, this mission is about broadening our horizons — taking in just a little bit more of the impossibly vast universe we live in.
+Pluto has long felt familiar. Many of us imagined the small, frigid rock, millions of miles from the sun and covered in ice.
+But what we pictured in our heads, by and large, were artist's illustrations. Until very recently, we didn't even know exactly what color it was — and the best photos we had of Pluto looked like this:
+(NASA/ESA/M. Buie)
+New Horizons has changed that in a very big way:
+ 
+
+
+
+
+
+
+Pluto, as seen by New Horizons the day before the flyby. (NASA-JHUAPL-SWRI)
+Over the next 16 months, New Horizons will gradually beam back hundreds more high-resolution photos that will reveal Pluto's surface in extreme detail. As Alan Stern, the mission's principal investigator, said back in April, "We’re going to turn points of light into a planet and a system of moons before your eyes."
+It's hard to appreciate just how difficult it is to send a spacecraft to Pluto. But think of it this way: because it's so incredibly far away, it took New Horizons nine years to cover the 3-billion-mile trip there — which means the craft is using decade-old technology, traveling a route that was calculated years ago.
+Despite this, NASA engineers managed to get the tiny probe — about the size and shape of a grand piano — to an incredibly precise spot in space, using Jupiter's gravity as a slingshot to accelerate it outward and a few thruster burns over the years to keep the probe on track.
+Along the way, they had to worry about potentially damaging debris nearby Pluto — as well as a scary software glitch this past weekend, which was, thankfully, resolved. Finally, New Horizons flew within 7,750 miles of Pluto, coming closer than its moons.
+Pluto's flyby trajectory.
+(JHU/APL)
+Because New Horizons is traveling at such a high speed (about 31,000 miles per hour) and can't slow down, the flyby was over in a matter of minutes — forcing it to collect all its data in a tiny window of time.
+And receiving all that data will be another huge challenge. Because New Horizons is so far away, it takes about 4.5 hours for any data it sends back to reach Earth. And the signal is so faint that NASA has to use 200-foot-wide radio dishes (one each in Australia, California, and Spain) to pick it up. This means an extremely low rate of data transmission: about 1 kilobit per second, more than 50 times slower than a 56k modem from the '90s. It takes more than 42 minutes for New Horizons to fully transmit an image that's 1024 pixels wide.
+Pluto and Charon, photographed by New Horizons on July 8 from 3.7 million miles away.
+(NASA-JHUAPL-SWRI)
+One of the reasons scientists want to learn more about Pluto is that it likely formed at the same time as the rest of our solar system, from the same materials. What's more, it likely formed much closer in to the sun — going through the same early stages of growth as Earth and the other rocky planets — before being flung outward billions of years ago.
+All the data collected on its geology, atmosphere, and moons will help scientists refine their ideas about this early era in our planet's history. "We know that the Earth went through the stage of growth that Pluto stopped at," Stern told me. "This will help us connect the dots."
+Earth, as seen by the Voyager spacecraft, from more than 4 billion miles away.
+(NASA/JPL)
+We spend our entire lives on the surface of Earth — so it's hard to really grasp how far away Pluto truly is from us.
+But as an analogy, think of Earth as a basketball. By comparison, Pluto would be a little larger than a golf ball. But if you wanted to keep the scale constant, you'd have to put that golf ball incredibly far away: 50 to 80 miles (depending on its location in orbit). This mission, like many activities in space, is a good reminder of how vast our corner of the universe is — and how absurdly tiny our entire earthly realm of experience is by comparison.
+And it's not just the size of space that boggles the mind. It's also the timescale on which everything occurs. Pluto takes 248 Earth years to orbit the sun. To put it another way, the entirety of US history has occurred during a single Plutonian orbit. The last time Pluto was in its current position — in 1768 — humans were totally unaware of its existence (it was discovered in 1930). We hadn't invented aviation, let alone spaceflight.
+(NASA/New Horizons)
+All of which is to say: It's pretty amazing that this time around, Pluto was visited by a tiny robot sent by a curious species of apes 3 billion miles away. A lot can change in a single orbit.
+An illustration of New Horizons, next to Pluto and its moons.
+(JHUAPL/SwRI)
+Since the dawn of the space age, we've been striving to explore our solar system, sending spacecraft to each of the planets in turn: Venus and Mars in the 1960s, Mercury, Jupiter, and Saturn in the '70s, and Uranus and Neptune in the '80s. These probes showed us entirely new worlds, revealing beautiful moons, rings, atmospheres, and landscapes.
+There's since been a generation-long gap. Many people (including me) aren't old enough to remember a moment of such pure exploration, of seeing a place that no one had seen before. But today, we're once again seeing a new world for the first time.
+But in a sense, this is a bittersweet achievement, because it'll also be the last time. Whether Pluto is officially deemed a planet or not, this mission completes humanity's initial tour of the traditional set of nine planets in our solar system. Savor this moment, because, as Dennis Overbye puts in an excellent New York Times column, "None of us alive today will see a new planet up close for the first time again."
+There's a mission to Europa planned, but it won't reach the moon for a decade or more.
+(NASA/JPL-Caltech/SETI Institute)
+The past few decades have been filled with all sorts of fascinating missions to the planets, moons, asteroids, and comets of our solar system — uncrewed probes sent every few years, run by trained scientists, and supported by government funding.
+But the sad truth is that this era is largely drawing to a close. As David W. Brown writes in an article on the dark future of American space exploration, "There is nothing budgeted in the pipeline to take its place. Yesterday invested in today. But we are not investing in tomorrow."
+This is the result of cutbacks to NASA's planetary exploration budget. The OSIRIS-REx probe will launch next year, to travel to an asteroid and bring back a sample, but it won't return until 2023. Meanwhile, a mission to Jupiter's moon Europa is in the works, but it likely won't be launched until 2025 at the earliest, and wouldn't reach Europa until the 2030s.
+In other words: Enjoy this mission. It's going to be a while before any NASA probe visits a new world.
+Our thin atmosphere.
+(NASA)
+Most people think of space as some distant, irrelevant place — a setting for sci-fi movies and astronauts, but one that has nothing to do with our actual lives. Seen in this light, visiting a new dwarf planet isn't particularly meaningful or exciting.
+But this isn't the right way to see space at all. Space is where we live.
+Earth is a planet in space, just as Jupiter and Mars are. There's no magical glass barrier 62 miles above our heads (the altitude commonly accepted as the boundary with space) separating us from the rest of the universe, any more than there's one at the top of Venus's atmosphere excluding that planet's surface from space, too.
+And we live much closer to what we commonly think of as "space" than you may realize. If Earth were the size of a basketball, our entire atmosphere — the layer of gas separating us from space — would be about the thickness of a pillowcase. In the grand scheme of things, we're already there.
+This is why asteroids can come down and hit us anytime and why space weather can disrupt our telecommunications equipment and power grid. It's why exploring our solar system matters, just as exploring Earth's surface does. And it's why all of us should be incredibly excited about seeing a new alien world — just as we'd be excited about visiting, say, an entirely new continent on Earth for the first time.

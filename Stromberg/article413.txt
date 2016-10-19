@@ -1,0 +1,46 @@
+Is Martian soil actually good for farming?
+If we ever wanted to permanently colonize Mars, one thing seems probable: we'd have to figure out how to grow some food there.
+This raises an interesting question: could we use Martian soil to do it?
+plants grew better in a simulated martian soil than in a nutrient-poor earth soil
+Previously, NASA researchers had speculated that we'd have to either grow food hydroponically on Mars, or ship soil there from Earth. But a new study published in the journal PLOS ONE suggests that using Martian soil might actually be a possibility. 
+In it, researchers found that plants actually grew better in a simulated Martian soil than in nutrient-poor soils found on Earth (and Martian soil seems to be more suitable than lunar soil). Still, there are lots of caveats to consider before assuming that farming on Martian soil is a real possibility.
+As part of the study, researchers from Wageningen University in the Netherlands grew a few different crops in sandy soils that simulated what you might find on Mars and the moon, and compared them to nutrient-poor soil they dug up from the banks of the River Rhine.
+The simulated Martian soil was initially developed by NASA in 1998, based off soil analyses conducted by the Viking lander and Pathfinder rover. To make it, researchers take volcanic ash mined in Hawaii, sterilize it, and filter it so that its particles match the tiny size of those on Mars. Based on what we know about Martian soil, it's thought to match it chemically as well.
+The simulant is still made today — for NASA engineers to use in designing components that'll someday be on Mars — and you can even buy it yourself from the third-party company that makes it, Orbitec. Two ounces are $7.50.
+ 
+
+
+
+
+
+
+The Martian soil simulant. (Z22)
+In previous experiments, other researchers were able to successfully grow bacteria that live without oxygen in this same simulant, if they supplied them with carbon dioxide, hydrogen, and a bit of water (all present on Mars).
+One element that's crucial for plant growth, though, is not known to be present in Martian soil: nitrogen. For this reason, the researchers planted a few nitrogen-fixing crops (which harbor bacteria on their roots that convert nitrogen in the air to the kind that's available to plants), in addition to crops like tomatoes, wheat, cress, and carrot plants and a number of plants that grow wildly in the Netherlands, like stonecrop.
+Apart from the Mars simulant, the researchers planted all these in a simulated lunar soil and the low-nutrient Earth soil as well. The temperature and light conditions matched what would be present in a greenhouse, which would be a necessary part of any Martian farm operation due to the frigid cold. They also watered the plants (on Mars, pure water might potentially be made by melting surface ice) consistently, and let them grow for 50 days.
+ 
+
+
+
+
+
+
+Assorted plants grown in the experiments. (Wamelink et. al. 2014)
+They found that, on the whole, the lunar soil simulant was nutrient-poor, and though most of the plants germinated, very few grew well or produced leaves. The majority were dead by the end of 50 days.
+When planted in the simulated Martian soil, however, a surprising number of the plants grew decently — despite the insufficient levels of nitrogen. The food crops grew best, with more than 79 percent of each still alive after the 50-day period. About half of the wheat and cress plants even flowered.
+ 
+
+
+
+
+
+
+Encouragingly, a few of the nitrogen-fixing plant species also did alright, with two of the four species having survival rates above 50 percent. This is important, because though the crops could live 50 days solely on the scant amounts of nitrogen available in the soil, it's very unlikely they'd be able to produce meaningful amounts of food that way. But if Martian colonizers also brought along some nitrogen-fixers, the two could potentially be combined to make a viable food system.
+Interestingly, all of the crops did better in the Martian soil simulant than the nutrient-poor Rhine soil used as a control.
+The results of this study are certainly exciting. But there are a huge number of questions that remain before Martian agriculture would possibly be a viable option.
+The first question to ask is how closely the soil simulant resembles the actual soil on Mars. The researchers note that it might contain contaminants, present when it was harvested in Hawaii, that let plants to grow more successfully in it. And recent experiments carried out by Curiosity have indicated that toxic chemicals called perchlorates — not present in the simulant — may be abundant in Martian soil.
+how closely does the soil simulant resemble the actual soil on mars?
+Additionally, even if this experiment showed that plants might be able to sprout and produce a few leaves in Martian soil, that's hugely different from producing enough food to substantially contribute to the diet of colonizers. Even if nitrogen-fixing plants were brought along to help with the growth, they'd rely on the activity of specific bacteria that may not do well in the Martian environment. And the effect of Mars' reduced gravity on plant growth is still unknown.
+On top of all this, there are a bunch of logistical questions that remain. Could we really build functional greenhouses on Mars? How would we keep them warm? Could we melt enough ice to produce enough liquid water?
+At this point, you get into bigger issues, like the fact that we don't yet have rockets big enough to send a crewed craft to Mars, or the technology necessary to land one on it. Meanwhile, the radiation exposure and reduced gravity might cause serious health problems for astronauts.
+Perhaps it's best to take a breath and recognize what's exciting about all this. Some scientists successfully grew plants in a simulated Mars soil. We currently have a robot exploring Mars' surface. We live in the future. That's cool. Let's appreciate it.

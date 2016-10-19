@@ -1,0 +1,68 @@
+Why in-flight wifi is so painfully slow — except on JetBlue and Southwest
+The concept of in-flight wifi is amazing. The idea that you can connect to the internet while flying through the air at hundreds of miles per hour is incredible.
+In practice, though, it's pretty disappointing: the wifi access currently offered aboard most planes is terribly slow and fairly expensive.
+you're splitting a tiny amount of bandwidth with dozens of people
+Gogo, the provider used by most US airlines, charges steep prices for a very slow service that you can't use to stream video. There's one basic reason it's so slow: when you use it, you're splitting a tiny amount of bandwidth, beamed up from towers on the ground, with dozens of other users on your plane.
+But the good news is that a few airlines — JetBlue and Southwest — offer faster satellite-based alternative services, and Gogo is currently implementing its own, to be rolled out across several airlines over the next couple of years. These services won't equal the speed of networks on the ground, but they just might be worth paying for.
+ 
+
+
+
+
+
+
+More than 1,500 planes run on Gogo's ATG (Air-to-Ground) system, which relies on a signal that's sent up from ground towers and received by an antenna on the bottom of the plane. (Gogo)
+The Gogo-based wifi offered by most US airlines (including American, Delta, United, US Airways, and others) runs on what's called an Air-to-Ground (ATG) system. More than 1,500 planes use it, and Paul Thompson at Jalopnik has a great rundown of it here.
+Gogo's ATG service sends up a signal from a network of 200 or so towers stationed in North America. As your plane passes over these towers, an antenna affixed to the bottom of it picks up a signal they send out, and other equipment converts it to a wifi network that covers the cabin.
+ 
+
+
+
+
+
+
+An ATG antenna. (Matthew Lammers)
+The problem is that the data signal's bandwidth — and thus the total amount of data that can be transmitted — is fixed, and quite small. The top speed is 3.1 megabits per second (Mbps), which by modern standards is extremely slow: it's about a tenth as fast as what you get with a phone on Verizon or AT&T's 4G networks. On about 500 planes, upgraded antennas allow Gogo to run a slightly faster service, called ATG4, but it still only has a top speed of 9.8 Mbps.
+What makes both these services even slower is that this tiny bandwidth is getting divided among dozens or more users. It's as if you're sharing a single cellphone with a hundred or so people.
+As Allison McCann at BuzzFeed has pointed out, the shared signal also gives Gogo incentive to charge more money: if everyone's on it, the network will become borderline unusable, so one solution is setting the price high enough so that only a minority of passengers will buy it. Though standard Gogo prices are $16 for a full day and $5 for an hour, the company has experimented with surge pricing, charging $10 per hour on Virgin flights from New York to San Francisco, which see a disproportionate number of passengers buy the service.
+ 
+
+
+
+
+
+
+(Allison Joyce/Getty Images)
+Right now, the easiest way to get a faster in-flight wifi connection is to fly Southwest or JetBlue, which use services other than Gogo.
+Southwest's wifi is provided by a company called Row 44. Instead of towers, the signal is sent up from a handful of base stations to a network of geostationary satellites (the same kind used for satellite TV services). These satellites send a signal over the Ku frequency band to a much larger, more complex antenna on top of the plane.
+these airlines use satellites instead of ground towers
+Row 44's service isn't nearly as fast as what you'd get on the ground, but it's better than Gogo's. Row 44 doesn't advertise specific numbers, but it's estimated to have download speeds between 1 and 5 Mbps per user. It's also cheaper: Southwest charges a flat fee of $8 per day.
+Some JetBlue flights, meanwhile, offer wifi provided by a company called ViaSat. It's also satellite-based, and works a lot like Southwest's — except the satellites broadcast on a newer, different frequency (called the Ka band), which can carry more data, making the network much faster as a whole.
+ 
+
+
+
+
+
+
+JetBlue's planes receive a signal sent out by satellites over the Ka frequency band. (Digi-Key)
+ViaSat advertises speeds as high as 12 Mbps per user, and passenger reviews have confirmed it's quite fast. JetBlue has signed up sponsors to keep costs down, and offers the service for free, although you have to pay $9 per hour if you want to stream video or download large files. United also offers ViaSat's service on a handful of flights.
+There is, however, a downside to satellite-based networks: latency. When you send a request to load a webpage, that signal has to travel 22,000 miles or so up to a satellite, and then the actual data has to travel the same distance down. That means there's a detectable delay (about 800 milliseconds or so to make the round trip), even though the page loads faster as whole.
+
+But the real reason most airlines haven't yet adopted these faster satellite-based systems is that it costs more to install the antennas and other infrastructure needed on planes — and because many are locked in long-term contracts with Gogo, which was one of the first companies to market a few years ago.
+ 
+
+
+
+
+
+
+Gogo's new GTO system will use both satellites and ground antennas. (Gogo)
+The good news here is that Gogo is currently rolling out a few different networks that should dramatically speed things up on other airlines.
+Gogo already operates a Ku band satellite-based system on a handful of international Delta flights, and plans to expand it over the coming year. It advertises maximum speeds of 30 Mbps per plane, which wouldn't match JetBlue's ViaSat service but would be a big step up from what's currently offered. Eventually, Gogo plans to install dual Ku band antennas on many planes, which will boost speeds further.
+Gogo's hybrid system will use both satellites and ground towers
+Even better, though, will be Gogo's Ground-to-Orbit (GTO) network, which the company says it plans to roll out over the next few years on US domestic flights. It'll be a hybrid system: the data downloaded by your computer will come from a satellite network, but the data uploaded will be sent down to the ground-based network.
+Reserving the plane's satellite antenna solely for downloads will boost speeds. And because requests your computer sends out won't have to go all the way up to space and back (they'll get sent directly down to towers on Earth), it'll cut down on latency.
+Gogo claims this GTO will allow for up to 60 or 70 Mbps of download bandwidth. That might be a bit of an exaggeration, but Engadget tested a mock-up version of GTO and experienced download speeds of 40 Mbps.
+
+Of course, this would get split among dozens of users throughout the aircraft, so it still won't feel nearly as fast as your wifi network at home. But it'd definitely be a big improvement on what's currently out there.

@@ -1,0 +1,58 @@
+How suburban sprawl hurts the poor
+This article is part of a series about the past, present, and future of commuting in America.
+Back in February, the Detroit Free Press detailed the plight of James Robertson, a 56-year-old Detroit man who worked at a suburban injection mold factory. He rode buses for 2.5 hours to and from work, but limited service left him no option but walking another 21 miles round-trip daily.
+Robertson's story went viral. In response, readers gave him $360,000 and a new Ford Taurus.
+Our cities provide no real option for the millions of people who can't afford to drive
+"To me, it is the ultimate irony that sympathetic people who read his story came up with the money to buy him a car," says Peter Norton, a University of Virginia transportation historian.
+The broader problem, Norton argues, wasn't just that Robertson lacked a car. It was also that our sprawling, car-centric cities and poor public transportation provide no real option for the millions of people who can't afford to drive.
+Plenty of wealthy people lament how our car-centric infrastructure and limited transit make driving a necessity — and they have good reason to do so. But if you can't afford a car, these problems take on an entirely different character: they steal your time and money, prevent you from taking some jobs, and make it harder to move up the economic ladder.
+ 
+
+
+
+
+
+
+The construction of I-81 in Syracuse, in the 1960s. (Onondaga Historical Association)
+One of the basic problems here is called spatial mismatch: the fact that millions of low-income urban households are located far from the suburban places where jobs are often available. Danielle Kurtzleben's Vox article on spatial mismatch is a great primer on the issue.
+Part of the root cause of this mismatch is historical. Starting in the 1950s, extensive highway systems were built through almost every major US city, linking them with budding suburbs. Along with other factors, this led many wealthy, white residents to flee cities, initially commuting in for work on the highways.
+
+Employers eventually followed them, bringing workplaces to the suburbs and leaving fewer jobs in the cities. Since at least the 1990s, the majority of suburbanites commute to the suburbs for work. "The dominant pattern today," says Alan Pisarski, a commuting researcher, "is suburb to suburb."
+(Commuting in America 2013)
+And a Brookings Institution report found that between 1998 and 2006, the share of jobs more than 10 miles out from city centers grew in every region of the US:
+(Brookings Institution)
+As a result of this job sprawl, another recent Brookings report found, the number of jobs available within a typical commute distance for the average US metro area resident fell by 7 percent between 2000 and 2012. But it declined more than twice as much — by 14.3 percent — for people living in high-poverty urban areas.
+For the disproportionately low-income people left behind in the cities, this poses a huge problem. "We've ended up with a lot of people in cities who look at job listings and see openings in places they can't easily get to," Norton says.
+ 
+
+
+
+
+
+
+(John Leyba/the Denver Post via Getty Images)
+This is an especially big problem because so many cities have poor public transportation systems, especially once you go beyond the city center. For the urban poor, this leaves two bad options for getting to work in the suburbs. "It means trying to come up with money for a car that's difficult to afford, or finding a way to take overworked, underfunded bus systems out to these locations," says Norton.
+Over the past few decades, more and more low-income households have gotten access to cars, partly because the lengthening lifetime of the average automobile has driven down the cost of owning one. But having to own a car still eats up a disproportionate amount of these households' income.
+A good reflection of this is how even though rent is highest in cities like New York, DC, and San Francisco, the typical household actually spends less on housing and transportation combined than households in many other cities. That's because New York, DC, and San Francisco, have extensive, heavily used transit systems that reduce transportation costs.
+You can see this in this chart from a recent New York Citizens Budget Commission report, aptly titled "The Rent’s Too Damn High! But the Metrocard Is a Pretty Good Deal":
+(Citizens Budget Commission)
+Meanwhile, in other cities, the low-income households that can't afford cars pay a different price: time. The average American commute by bus is 45 minutes each way, compared with 24 minutes for commuters who drive alone.
+Unreliable bus service compounds the problem, especially for people working multiple part-time jobs, or odd hours.
+"Predictability is crucial for poor people," says Robert Hotchkiss, a low-income San Diego transit user who emailed me after I wrote about wealth and bike share use. "I would often walk rather than wait on a bus that might or might not come."
+ 
+
+
+
+
+
+
+(Pat Greenhouse/the Boston Globe via Getty Images)
+In some cases, sprawl and limited transit don't just mean long commutes — they mean commutes that never happen, because the urban poor just can't reliably get to far-flung jobs.
+A Brookings Institution report found that the average resident of a US metro area can reach just 30 percent of the jobs in that area via a 90-minute or less transit ride. Robertson's 21-mile walk through suburban Detroit is heroic, but most people simply can't do that on a regular basis.
+We don't have good data on exactly how many people are unable to take jobs for this reason. But there's some evidence that in the long term, this hurdle — as well as the time and monetary cost of bad transit — are hurting low-income families' chances of getting ahead.
+A recent study led by Harvard's Raj Chetty tracked 5 million children starting in the 1980s, considering how all sorts of factors relating to their neighborhoods (such as crime rates, schools, and levels of inequality) correlated with their odds of ascending to a higher income bracket than their parents.  Among all these factors, "a neighborhood's average commuting time was the strongest single correlation we found," says Jamie Fogel, who worked on the study.
+He and colleagues are not claiming that longer commutes cause a lack of economic mobility — it's a correlation, not necessarily a causation. And it might correlate for other sorts of reasons, such as the fact that the urban poor rely more on buses and public transit, which take longer than cars.
+Transportation may be hurting some low-income families' chances of getting ahead
+But it's still interesting that it outweighed other factors, such as a neighborhood's level of poverty. And it's echoed by other research that has come to similar conclusions.
+A 2014 study by Smart Growth America, for instance, found that children growing up in especially sprawling metro areas — like Atlanta and Nashville — were significantly less likely to climb the economic ladder. For every 10-point increase in a city's "sprawl index" (lower scores mean more sprawl), a child was 4.1 percent more likely to climb from the bottom 20 percent of the income spectrum to the top 20 percent as an adult.
+"Atlanta is the poster child," Reid Ewing, a University of Utah researcher and co-author of the report, told Vox's Danielle Kurtzleben for her article on spatial mismatch. "It goes on forever, sprawls in all directions. It's an example of a place with sprawl and lack of upward mobility."
